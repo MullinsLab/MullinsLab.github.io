@@ -1,0 +1,766 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+
+<feed xmlns="http://www.w3.org/2005/Atom"
+    xmlns:fh="http://purl.org/syndication/history/1.0"
+    xmlns:at="http://purl.org/atompub/tombstones/1.0">
+
+    <title>Mullins Molecular Retrovirology Lab: Tissue Culture (BL2)</title>
+    <subtitle>A personal publishing system for the modern web</subtitle>
+    <link href="https://mullinslab.microbiol.washington.edu/protocols/tissue_culture_bl2/feed" rel="self" />
+    <link href="https://mullinslab.microbiol.washington.edu/protocols/tissue_culture_bl2/feed" rel="current" />
+    <link href="https://pubsubhubbub.superfeedr.com" rel="hub" />
+    
+    
+    <link href="https://mullinslab.microbiol.washington.edu/protocols/tissue_culture_bl2/" />
+    
+    <id>tag:mullinslab.microbiol.washington.edu,2019-03-04:protocols/tissue_culture_bl2</id>
+    <updated>2011-06-03T16:13:13+00:00</updated>
+
+    
+    <entry>
+        <title>CD8 Depletion by Panning</title>
+        <link href="https://mullinslab.microbiol.washington.edu/protocols/tissue_culture_bl2/2372-CD8-Depletion-by-Panning" rel="alternate" type="text/html" />
+        <published>2009-04-03T15:43:39-07:00</published>
+        <updated>2011-06-03T16:12:13+00:00</updated>
+        <id>urn:uuid:c49f90a1-3544-5141-9f70-c1e9d56d08d3</id>
+        <author><name>Shreyas Verma</name></author>
+        <content type="html">
+<![CDATA[
+<p><span class="underline"><strong>Reagents</strong>:</span></p>
+<ul>
+<li><p>AIS MicroCellector anti-CD8 T-25 flasks (AIS, 650139E)</p></li>
+<li><p>Dulbecco&rsquo;s Phosphate Buffered Saline/Calcium Magnesium Free
+(D-PBS/CMF)</p></li>
+<li><p>Ethylenediaminetetraacetic Acid (EDTA)</p></li>
+<li><p>Human Gamma Globulins, Cohn fraction II, III (Sigma G4386)</p></li>
+<li><p>cIMDM (10% FBS, Pen/Strep)</p></li>
+</ul>
+<p><span class="underline"><strong>Solutions</strong>:</span></p>
+<ul>
+<li><p>D-PBSE/CMF: D-PBS/CMF containing 1mM EDTA</p></li>
+<li><p>D-PBSE/CMF/0.5% Ig: dilute human gamma globulins to 0.5% in
+D-PBS/CMF, heat at 56Â°C for 30 minutes. Cool to 2-10Â°C, add EDTA
+to 1mM final concentration, filter sterilize over 0.2 Âµm filter.</p></li>
+</ul>
+<p><span class="underline"><strong>Protocol</strong>:</span></p>
+<ol>
+<li><p> Add 10 ml D-PBSE/CMF to AIS MicroCELLector T-25. Swirl.</p></li>
+<li><p> Incubate for 1 hour at room temperature.</p></li>
+<li><p> Shake vigorously for 30 seconds and aspirate D-PBSE/CMF.</p></li>
+<li><p> Add 10 ml D-PBSE/CMF and shake flask again. Remove D-PBSE/CMF.
+Repeat 2 additional times.</p></li>
+<li><p> Resuspend PBMC in 4 ml P-DBSE/CMF/0.5% Ig per 20 x 10<sup>6</sup>
+cells.</p></li>
+<li><p> Incubate for at least 15 minutes at room temperature.</p></li>
+<li><p> Just before adding the PBMC to flask completely aspirate remaining
+D-PBSE/CMF from flask.</p></li>
+<li><p> Slowly add 20 x 10<sup>6</sup> PBMC in 4 ml per flask.</p></li>
+<li><p> Incubate for 1 hour at room temperature (binding of CD8<sup>+</sup>
+cells).</p></li>
+<li><p>Gently rock flask from side to side.</p></li>
+<li><p>Collect non-adherent CD8<sup>-</sup> cells. Gently wash flask with 4
+ml of D-PBSE/CMF. Repeat 3-5 times. Combine all CD8<sup>-</sup>
+cells.</p></li>
+<li><p>Spin at 1500 rpm for 10 minutes, resuspend pellet in cIMDM, count
+and cryopreserve.</p></li>
+<li><p>Add 5-10 ml cIMDM to the flask.</p></li>
+<li><p>Incubate for 48-72 hours at 37 Â°C in 5% CO2.</p></li>
+<li><p>Collect CD8<sup>+</sup> cells. Wash flask with 5-10 ml cIMDM.
+Combine all CD8<sup>+</sup> cells.</p></li>
+<li><p>Spin at 1500 rpm for 10 minutes, resuspend pellet in cIMDM, count
+and cryopreserve</p></li>
+</ol>
+<p>For specifics on appropriate handling and waste procedures please see
+the <a href="http://mullinslab.microbiol.washington.edu/sops/ChemSOP.htm">online chemical
+SOPs</a> or
+our waste and spill notebook located in room 352.</p>
+
+]]>
+        </content>
+    </entry>
+    
+    <entry>
+        <title>PBMC Isolation by Ficoll Gradient</title>
+        <link href="https://mullinslab.microbiol.washington.edu/protocols/tissue_culture_bl2/763-PBMC-Isolation-by-Ficoll-Gradient" rel="alternate" type="text/html" />
+        <published>2009-04-03T15:41:59-07:00</published>
+        <updated>2011-06-03T16:12:21+00:00</updated>
+        <id>urn:uuid:d9b30726-a26c-5c42-8ad9-517a68fdbe62</id>
+        <author><name>Shreyas Verma</name></author>
+        <content type="html">
+<![CDATA[
+<p><span class="underline"><strong>Reagents</strong>:</span></p>
+<ul>
+<li><p>Ficoll-Paque Plus, 6x 500 ml, Amersham #17144003,
+$295<a href="http://mullinslab.microbiol.washington.edu/protocols/bl2/ficollgradient.htm#notes1">*</a></p></li>
+<li><p>Dulbecco&rsquo;s Phosphate Buffered Saline (DPBS), 500ml, BioWhittaker
+#17-512F, $5.87</p></li>
+<li><p>ACK lysing buffer, 100 ml, BioWhittaker #10-548E, $10.80</p></li>
+<li><p>Sterile plastic transfer pipette, 500/case, VWR #14670-114, $43</p></li>
+<li><p>50 ml conical tubes, 300/case, ISC #C-3317-6, $98</p></li>
+<li><p><em>Optional:</em> Tri Sodium Citrate Dihydrate (TNC), 38
+g/l<a href="http://mullinslab.microbiol.washington.edu/protocols/bl2/ficollgradient.htm#notes2">*</a></p></li>
+</ul>
+<p>To order buffycoats from American Red Cross, Pacific Northwest Regional
+Blood Services in Portland: call Hospital Services at 503-284-7008
+(option 1). Need Mullins Lab PO number, FedEx account number, budget
+number and UWATTS code.</p><p><span class="underline"><strong>Protocol</strong>:</span></p>
+<ol>
+<li><p> Transfer blood from bag to sterile 250 ml bottle.</p></li>
+<li><p> Dilute with DPBS to 150 ml total volume.</p></li>
+<li><p> Fill six 50 ml tubes with 12.5 ml Ficoll-Paque Plus each.</p></li>
+<li><p> Gently pipette 25 ml of the diluted cell suspension on top of each
+12.5 ml of Ficoll-Paque Plus.</p></li>
+<li><p> Spin 20 minutes at 2000 rpm. <strong>No brake!</strong></p></li>
+<li><p> Transfer the white blood cell ring fraction to a new 50 ml tube
+using a sterile Pasteur pipette. Combine 2 rings into one 50 ml
+tube.</p></li>
+<li><p> Adjust the volume to 50 ml per tube using PBS.</p></li>
+<li><p> Spin 10 minutes at 1700 rpm.</p></li>
+<li><p> Discard the supernatant.</p></li>
+<li><p>Resuspend each pellet in 2 ml ACK lysing buffer to lyse remaining
+erythrocytes.</p></li>
+<li><p>Incubate for no more than 2 minutes at room temperature.</p></li>
+<li><p>Adjust the volume to 50 ml using PBS.</p></li>
+<li><p>Spin 10 minutes at 1200 rpm.</p></li>
+<li><p>Resuspend the pellet in 1x PBS. At this point, cells are in two or
+three tubes; combine cell pellets in 10 ml PBS, rinse tubes with
+another 10 ml and add to the rest.</p></li>
+<li><p>Count the cells.</p></li>
+</ol>
+<p><strong>Notes:</strong></p><p><a href="https://mullinslab.microbiol.washington.edu/protocols/tissue_culture_bl2/feed"></a></p><p>Ficoll-Paque Plus and PBS should be at room temperature. 10% TNC (v/v)
+in PBS can be used if erythrocytes are a problem (e.g., with macaque
+blood). This protocol can also be used to get rid of dead cells: use 2.5
+ml Ficoll in 15 ml conical tube, layer 10 ml cell suspension on top,
+follow protocol from step 5.</p><p><a href="https://mullinslab.microbiol.washington.edu/protocols/tissue_culture_bl2/feed"></a></p><p>TNC is added to increase red blood cell aggregation and decrease
+monocyte adherence to the tubes. However, the US buffycoats reacted
+differently and the TNC was not sufficient to remove the red cells, so
+we included a step with LCK lysing buffer to remove them. Since monocyte
+yield was not a problem we decided to discontinue the use of TNC for the
+US buffycoats.</p>
+
+]]>
+        </content>
+    </entry>
+    
+    <entry>
+        <title>Mycoplasma Plus PCR</title>
+        <link href="https://mullinslab.microbiol.washington.edu/protocols/tissue_culture_bl2/212-Mycoplasma-Plus-PCR" rel="alternate" type="text/html" />
+        <published>2009-04-03T15:19:00-07:00</published>
+        <updated>2011-06-03T16:12:31+00:00</updated>
+        <id>urn:uuid:fd878ed9-63bc-578d-8e04-3b0b320f4f70</id>
+        <author><name>Shreyas Verma</name></author>
+        <content type="html">
+<![CDATA[
+<p><strong><span class="underline">Reagents</span></strong></p><p>Provided by Mycoplasma Plus PCR Primer Set (Stratagene, #302008, $299):</p>
+<ul>
+<li>Rehydration buffer, store at RT</li>
+<li>PCR primers, rehydrate with 200 Âµl rehydration buffer, store at
+-20Â°C</li>
+<li>Internal control, rehydrate with 100 Âµl rehydration buffer, store
+at -20Â°C</li>
+<li>Positive control, rehydrate with 100 Âµl rehydration buffer, store
+at -20Â°C</li>
+<li>StrataClean Resin, store at 4Â°C</li>
+</ul>
+<p>To be supplied by user:</p>
+<ul>
+<li>0.6 ml tubes or 1.5 ml screw cap tubes</li>
+<li>PCR reagents (i.e. dNTP, Biolase Taq, MgCL<sub>2</sub>,10x reaction
+buffer)</li>
+<li>UV-irradiated ddH<sub>2</sub>O</li>
+<li>2% agarose gel (3 g agarose, 3ml 50x TAE, 147 ml H<sub>2</sub>O, 75
+Âµl (0.5 Âµg/Âµl) Ethidium Bromide)</li>
+<li>loading buffer</li>
+</ul>
+<p>**<span class="underline">Protocol</span><br>
+**</p>
+<hr>
+<p><strong>A) Template Preparation</strong></p>
+<ol>
+<li> Centrifuge all supernatant samples to pellet any cell debris as this
+can inhibit the PCR.</li>
+<li> Transfer 100 Âµl cell supernatant to a 0.6 ml tube (screw cap tubes
+for viral supernatants). Close tube tightly to prevent opening
+during heating step.</li>
+<li> Boil (or heat to 95Â°C) supernatant for 5 minutes. Spin tube briefly
+(2-5 seconds) in a microcentrifuge.</li>
+<li> Resuspend the StrataClean Resin by vortexing for 30 seconds until no
+pellet remains. Add 10 Âµl of resin to the extract. Mix the resin
+and the extract by gently flicking the tube. Briefly centrifuge for
+5-10 seconds to pellet the resin.</li>
+<li> Remove the supernatant to a fresh tube and dilute (optional) 1:10
+with UV-irradiated water Per PCR, 5 Âµl of diluted template is
+required. Avoid aspirating the resin into the aliquot. Store the
+template at 4Â°C until use.</li>
+</ol>
+<p><strong>B) Mycoplasma PCR</strong></p><p>The amount for one reaction for Mycoplasma PCR is 50 Âµl. Prepare a
+premix of reagents for multiple reactions. The amount for the premix
+reagents is 45 Âµl per reaction. The amount of each reagent for premix
+is as follows:</p><p>Water 32.1 Âµl</p><p>10x RB 5.0 Âµl</p><p>MgCl<sub>2</sub> (25 mM) 3.0 Âµl</p><p>DNTP (20 mM) 0.5 Âµl</p><p>Primers (25 ÂµM) 2.0 Âµl</p><p>Internal control 2.0 Âµl</p><p><span class="underline">Biolase (5 U/Âµl) 0.4 Âµl</span></p><p>45 Âµl/reaction</p>
+<ol>
+<li> Calculate volume of premix needed for all samples, one positive
+control, one negative control (water) and one extra reaction.</li>
+<li> Thaw PCR reagents from freezer (except Biolase Taq). Make premix in
+one tube.</li>
+<li> Add Biolase Taq into premix tube, mix and aliquote into PCR tubes.</li>
+<li> Add 5 Âµl test sample, positive control or negative control into the
+tubes.</li>
+<li> <em>If not using thermal cycler with heated lid,</em> add 2 drops of
+mineral oil.</li>
+<li> Keep tubes on ice until ready for cycling.</li>
+<li> Start PCR cycling. The following PCR program yields optimal
+amplification of the 874bp product:</li>
+</ol>
+
+<table>
+<colgroup>
+<col style="width: 25%" />
+<col style="width: 25%" />
+<col style="width: 25%" />
+<col style="width: 25%" />
+</colgroup>
+<tbody>
+<tr class="odd">
+<td style="text-align: center;"><h3 id="segment">Segment</h3></td>
+<td style="text-align: center;"><h3 id="cycles">Cycles</h3></td>
+<td style="text-align: center;"><h3 id="temperature">Temperature</h3></td>
+<td style="text-align: center;"><h3 id="duration">Duration</h3></td>
+</tr>
+<tr class="even">
+<td style="text-align: center;">1</td>
+<td style="text-align: center;">1</td>
+<td style="text-align: center;">94Â°C</td>
+<td style="text-align: center;">2 minutes</td>
+</tr>
+<tr class="odd">
+<td style="text-align: center;"><br />
+</td>
+<td style="text-align: center;"><br />
+</td>
+<td style="text-align: center;">50Â°C</td>
+<td style="text-align: center;">2 minutes</td>
+</tr>
+<tr class="even">
+<td style="text-align: center;"><br />
+</td>
+<td style="text-align: center;"><br />
+</td>
+<td style="text-align: center;">72Â°C</td>
+<td style="text-align: center;">2 minutes</td>
+</tr>
+<tr class="odd">
+<td style="text-align: center;">2</td>
+<td style="text-align: center;">40</td>
+<td style="text-align: center;">94Â°C</td>
+<td style="text-align: center;">1 minute</td>
+</tr>
+<tr class="even">
+<td style="text-align: center;"><br />
+</td>
+<td style="text-align: center;"><br />
+</td>
+<td style="text-align: center;">50Â°C</td>
+<td style="text-align: center;">1 minutes</td>
+</tr>
+<tr class="odd">
+<td style="text-align: center;"><br />
+</td>
+<td style="text-align: center;"><br />
+</td>
+<td style="text-align: center;">72Â°C</td>
+<td style="text-align: center;">2 minutes</td>
+</tr>
+</tbody>
+</table>
+
+<ol>
+<li><p> Store samples at 4Â°C until ready to run agarose gel.</p></li>
+<li><p> Make 150 ml of 2% agarose gel.</p></li>
+<li><p>Prepare samples for loading: 2 Âµl 5x loading buffer, 3 Âµl
+H<sub>2</sub>O, 5 Âµl PCR products (or 2 Âµl 1kb, Ï†x174 or
+<em>Hin</em>dIII marker).</p></li>
+<li><p>Load the samples and run the gel for 1 - 1.5 hours at 100 volts.</p></li>
+<li><p>Visualize banding pattern: positive control = 874bp, internal
+control = 1000bp.</p><p>For specifics on appropriate handling and waste procedures please
+see the <a href="http://mullinslab.microbiol.washington.edu/sops/ChemSOP.htm">online chemical
+SOPs</a>
+or our waste and spill notebook located in room 352.</p></li>
+</ol>
+
+
+]]>
+        </content>
+    </entry>
+    
+    <entry>
+        <title>Passaging Mammalian Cell Lines</title>
+        <link href="https://mullinslab.microbiol.washington.edu/protocols/tissue_culture_bl2/593-Passaging-Mammalian-Cell-Lines" rel="alternate" type="text/html" />
+        <published>2009-04-03T15:14:27-07:00</published>
+        <updated>2011-06-03T16:12:39+00:00</updated>
+        <id>urn:uuid:cb217c70-d2c5-5e25-91ea-00f2aa665305</id>
+        <author><name>Shreyas Verma</name></author>
+        <content type="html">
+<![CDATA[
+<p><strong><span class="underline">Reagents:</span></strong></p>
+<ul>
+<li><p>Appropriate culture media (i.e. cRPMI for T cell lines, cDMEM for
+attaching cells) warmed in 37Â° C waterbath.</p></li>
+<li><p>cRPMI = RPMI + 10% FBS+ L-Glut + P/S.</p></li>
+<li><p>cDMEM = DMEM + 10%FBS+ L-Glut + P/S + HEPES</p></li>
+<li><p>Sterile PBS warmed in 37Â° C waterbath.</p></li>
+<li><p>Antibiotics/proteins/growth factors as needed</p></li>
+</ul>
+<p><strong><span class="underline">Protocol:</span></strong></p><p><strong>Check all cell lines under the microscope.</strong></p>
+<h3>For Attaching Cells</h3>
+
+<ol>
+<li><p> Draw off all supernatant with a pipette. Take care not to disturb
+the cell layer.</p></li>
+<li><p> Wash once, gently, with PBS to remove any debris.</p></li>
+<li><p> Add just enough trypsin to cover the cell layer (~2.5mL in T75,
+~0.5mL in T25).</p></li>
+<li><p> Incubate for 2 minutes MAX at RT. Shake and tap occasionally to
+verify that the cells are releasing.</p></li>
+<li><p> Add 10mL of cDMEM and mix the cells thoroughly by pipetting up and
+down until there are few clumps.</p></li>
+<li><p> Draw all of the cell suspension into the pipette, and then leave 1mL
+in the flask.</p></li>
+<li><p> Discard the rest or save for an experiment.</p></li>
+<li><p> Add 25mL of fresh media.</p></li>
+<li><p> Write new passage number on flask. Take care not to leave the flask
+upright, as the cells will begin to reattach with the new media.</p></li>
+</ol>
+
+<h3>For Suspension Cells</h3>
+
+<ol>
+<li><p> With a pipette, mix the cells thoroughly by pipetting up and down,
+making sure to rinse the side of the flask.</p></li>
+<li><p> Draw all of the cell suspension into the pipette, and then leave 1mL
+in the flask. Discard the rest or save for an experiment.</p></li>
+<li><p> Add 10mL of fresh media.</p></li>
+<li><p> Write new passage number on flask.</p></li>
+</ol>
+<p><strong><span class="underline">Appropriate culture media</span></strong></p><p>GHOST cells</p>
+<ul>
+<li><p>DMEM + 10% FBS + L-Glut + P/S + HEPES</p></li>
+<li><p>500 mg/ml G418</p></li>
+<li><p>100 mg/ml Hygromycin B (reduce to 50mg/ml if cells appear too
+sensitive)</p></li>
+<li><p>Coreceptor expressing cells only (i.e. not parental): 1mg/ml
+Puromycin</p></li>
+</ul>
+<p>U87 cells</p>
+<ul>
+<li><p>DMEM + 10% FBS + L-Glut + P/S + HEPES</p></li>
+<li><p>300 mg/ml G418</p></li>
+<li><p>Coreceptor expressing cells only (i.e. not parental): 1mg/ml
+Puromycin</p></li>
+</ul>
+<p>HELA cells</p>
+<ul>
+<li><p>DMEM + 10% FBS + L-Glut + P/S + HEPES</p></li>
+<li><p>Coreceptor expressing cells only (i.e. not parental): 0.4mg/ml
+Puromycin</p></li>
+</ul>
+<p>For specifics on appropriate handling and waste procedures please see
+the <a href="http://mullinslab.microbiol.washington.edu/sops/ChemSOP.htm">online chemical
+SOPs</a> or
+our waste and spill notebook located in room 352.</p>
+
+]]>
+        </content>
+    </entry>
+    
+    <entry>
+        <title>Protocol for Freezing Mammalian Cells</title>
+        <link href="https://mullinslab.microbiol.washington.edu/protocols/tissue_culture_bl2/1943-Protocol-for-Freezing-Mammalian-Cells" rel="alternate" type="text/html" />
+        <published>2009-04-03T15:13:24-07:00</published>
+        <updated>2011-06-03T16:12:46+00:00</updated>
+        <id>urn:uuid:70ffb701-2faa-5093-a845-11ca59b6a60b</id>
+        <author><name>Shreyas Verma</name></author>
+        <content type="html">
+<![CDATA[
+<h1>Reagents:</h1>
+
+<ul>
+<li><p>Appropriate cold culture media (i.e. cRPMI for T cell lines, cIMDM
+for PBMC, cDMEM for attaching cells).</p></li>
+<li><p>Sterile DMSO</p></li>
+<li><p>Cells to be frozen.</p></li>
+<li><p>Freezing vial (1.8 ml, Costar 2028)</p></li>
+<li><p>Mr. Frosty controlled freezing container.</p></li>
+</ul>
+
+<h1>Protocol:</h1>
+
+<ol>
+<li><p> Make up 20% DMSO/media mixture. Keep cold.</p></li>
+<li><p> Spin down cells at appropriate speed (T cell lines 5 minutes at
+1200rpm, PBMC 7 minutes at 1700rpm etc.).</p></li>
+<li><p> Resuspend cell pellet in cold culture media, using half the volume
+needed. Keep on ice.</p></li>
+<li><p> Prepare freezing vials with name, date and cell number.</p></li>
+<li><p> Drop-by-drop add cold 20%DMSO/media to full volume.</p></li>
+<li><p> Aliquot into freezing vials and cap.</p></li>
+<li><p> Transfer vials into Mr. Frosty.</p></li>
+<li><p> Take Mr. Frosty to -70Â° C freezer.</p></li>
+<li><p> After overnight freeze, transfer vials to liquid N<sup>2</sup> tank
+for long term storage.</p></li>
+<li><p>Make appropriate changes to liquid N<sup>2</sup> storage log.</p></li>
+</ol>
+<p>For specifics on appropriate handling and waste procedures please see
+the <a href="http://mullinslab.microbiol.washington.edu/sops/ChemSOP.htm">online chemical
+SOPs</a> or
+our waste and spill notebook located in room 352.</p>
+
+]]>
+        </content>
+    </entry>
+    
+    <entry>
+        <title>Protocol for Thawing Mammalian Cells</title>
+        <link href="https://mullinslab.microbiol.washington.edu/protocols/tissue_culture_bl2/1005-Protocol-for-Thawing-Mammalian-Cells" rel="alternate" type="text/html" />
+        <published>2009-04-03T15:11:40-07:00</published>
+        <updated>2011-06-03T16:12:53+00:00</updated>
+        <id>urn:uuid:154d0051-fc54-5457-b6f4-7c8097b23c9c</id>
+        <author><name>Shreyas Verma</name></author>
+        <content type="html">
+<![CDATA[
+<h1>Reagents</h1>
+
+<ul>
+<li><p>Appropriate cold culture media (i.e. cRPMI for T cell lines, cIMDM
+for PBMC, cDMEM for attaching cells).</p></li>
+<li><p>50 ml conical tubes (thaw max 3 vials /tube).</p></li>
+<li><p>Sterile plastic and glass Pasteur pipettes.</p></li>
+<li><p>10 and 25 ml pipettes.</p></li>
+<li><p>Vial(s) with cells to be thawed.</p></li>
+</ul>
+
+<h1>Protocol</h1>
+
+<ol>
+<li><p> Perform procedure swiftly, minimizing the time cells are in warm 10%
+DMSO media.</p></li>
+<li><p> Thaw cells by putting vial in 37Â° waterbath, until just a small
+ice-clump remains.</p></li>
+<li><p> Using sterile Pasteur pipette, transfer the cells from vial into
+labeled 50 ml conical.</p></li>
+<li><p> Slowly add the cold media and shake tube gently while adding in the
+media. Dilute 10% DMSO media at least 1 in 20.</p></li>
+<li><p> Centrifuge cells at appropriate speed (T cell lines 5 minutes at
+1200rpm, PBMC 7 minutes at 1700rpm etc.).</p></li>
+<li><p> Aspirate media carefully, using sterile glass Pasteur pipette.</p></li>
+<li><p> Resuspend cell pellet in 5 ml of appropriate media.</p></li>
+<li><p> Use sample for counting.</p></li>
+<li><p> Make appropriate changes to liquid N<sup>2</sup> storage log.</p></li>
+</ol>
+
+
+]]>
+        </content>
+    </entry>
+    
+    <entry>
+        <title>Effectene Transfection</title>
+        <link href="https://mullinslab.microbiol.washington.edu/protocols/tissue_culture_bl2/1821-Effectene-Transfection" rel="alternate" type="text/html" />
+        <published>2009-04-03T15:09:45-07:00</published>
+        <updated>2011-06-03T16:13:02+00:00</updated>
+        <id>urn:uuid:11ecdf47-1f27-5e15-8997-a961e67ef721</id>
+        <author><name>Shreyas Verma</name></author>
+        <content type="html">
+<![CDATA[
+<p><strong>Reagents/Supplies:</strong></p>
+<ul>
+<li><p>EndoFree Plasmid Maxi Kit, 10 preps, Qiagen #12362, $218</p></li>
+<li><p>Effectene Transfection Kit, Qiagen #301425, $205 (contains 1 ml
+Effectene Transfection Reagent, 0.8 ml Enhancer, 2x 15 ml Buffer EC,
+sufficient for 8 transfections in 100 mm dishes, store at 2-8Â°C)</p></li>
+<li><p>100 mm dishes, 200/case, VWR #25382-166, $99.81</p></li>
+<li><p>1.5 ml Eppendorf tubes, 1000/pack, Sarstedt #72690, $16.50</p></li>
+<li><p>15 ml conical tubes, 500/case, ISC #C-3317-1, $70.00</p></li>
+<li><p>Appropriate growth medium (e.g., cRPMI for T cell lines)</p></li>
+</ul>
+<p><strong>Protocol:</strong></p>
+<ol>
+<li><p> Prepare plasmids for transfection using Endofree Plasmid Kit to
+avoid toxicity problems.</p></li>
+<li><p> Day <em>before</em> transfection: split cells, need 0.5-2.0 x
+10<sup>7</sup> cells per 100 mm dish.</p></li>
+<li><p> Day <em>of</em> transfection: harvest cells by centrifugation, remove the
+medium, and wash cells once with PBS in a 15 ml tube.</p></li>
+<li><p> Seed 0.5-2.0 x 10<sup>7</sup> cells per 100 mm dish in 7 ml growth
+medium containing serum and antibiotics.</p></li>
+<li><p> Dilute 4 Âµg DNA (dissolved in TE buffer) with the DNA-condensation
+bufferEC to a total volume of 600 Âµl.</p></li>
+<li><p> Add 32 Âµl Enhancer and vortex for 1 second.</p></li>
+<li><p> Incubate 2-5 minutes at RT, centrifuge briefly to remove drops from
+top of tube.</p></li>
+<li><p> Add 120 Âµl Effectene Transfection Reagent. Mix by pipetting up and
+down 5 times or vortexing for 10 seconds.</p></li>
+<li><p> Incubate 5-10 minutes at RT to allow transfection-complex formation.</p></li>
+<li><p>Add transfection complexes to tube containing 3 ml growth medium.
+Mix by pipetting up and down twice then immediately add mixture
+drop-wise onto the cells in the 100 mm dish.</p></li>
+<li><p>Gently swirl the dish to ensure uniform distribution of transfection
+complexes.</p></li>
+<li><p>Incubate cells with transfection complexes under normal growth
+conditions for an appropriate time for expression of the transfected
+gene.</p></li>
+<li><p>Assay cells to confirm gene expression (e.g. X-gal staining, FACS).</p></li>
+</ol>
+
+
+]]>
+        </content>
+    </entry>
+    
+    <entry>
+        <title>TC Reagents</title>
+        <link href="https://mullinslab.microbiol.washington.edu/protocols/tissue_culture_bl2/1867-TC-Reagents" rel="alternate" type="text/html" />
+        <published>2009-04-03T15:08:20-07:00</published>
+        <updated>2011-06-03T16:13:13+00:00</updated>
+        <id>urn:uuid:927d94de-d5df-5fcd-983a-8af8f92969cd</id>
+        <author><name>Shreyas Verma</name></author>
+        <content type="html">
+<![CDATA[
+<table>
+<thead>
+<tr>
+<th></th>
+<th></th>
+</tr>
+</thead>
+
+<tbody>
+<tr>
+<td><strong>129 mM TNC</strong></td>
+<td>Dissolve 19 g Tri Sodium Citrate Dihydrate (FW 294.1) in 500 ml ddH<sub>2</sub>O. Adjust pH to 7.0 with 4 N HCl. Autoclave or sterile filter. Label with contents, initials and date and store at RT. Use 40 ml in 400 ml 1x PBS <em>(Final 12.9 mM).</em></td>
+</tr>
+<tr>
+<td><strong>2% TX100</strong></td>
+<td>To 500 ml 1x PBS add 10 ml TX100 and 1 ml 0.1% Crystal Violet. Label with contents, initials and date and store at RT. Use 1:1 with infected samples <em>(Final 1% TX100)</em></td>
+</tr>
+<tr>
+<td><strong>0.1% Crystal Violet</strong></td>
+<td>Dissolve 0.2 g crystal violet in 100 ml methanol, 20 ml glacial acetic acid and 80 ml ddH<sub>2</sub>O. Stir for 2 hours and filter. Store at RT.</td>
+</tr>
+<tr>
+<td><strong>dFBS</strong></td>
+<td>Stock is stored at -20Â°C in TC freezer <strong>J</strong> (500 ml bottles). Thaw FBS overnight in refrigerator. Heat inactivate in 56Â°C water bath for 1 hour. Make 50 ml aliquots into sterile Falcon tubes. Label with contents, initials and date and store at -20Â°C in TC freezer <strong>K</strong>. Use 50 ml in 500 ml media <em>(Final 10% dFBS).</em></td>
+</tr>
+<tr>
+<td><strong>1x PBS</strong></td>
+<td>10x stock is stored at 4Â°C in cold room (500 ml bottles). Pour 400 ml of 10x PBS into very clean container rinsed with deionized water. Add deionized water to 4 L. Aliquot 400 ml into each of 10 sterile bottles. Label and put autoclave tape on cap (be sure to loosen caps). Autoclave in long liquid cycle.</td>
+</tr>
+<tr>
+<td><strong>Pen/Strep</strong></td>
+<td>10,000 IU - 10,000 Âµg/ml stock is stored at -20Â°C in TC freezer <strong>J</strong> (100 ml bottles). Do not dilute, just aliquot 5 ml into each of 20 sterile vials. Label with contents, initials and date and store at -20Â°C in TC freezer <strong>K</strong>. Use 5 ml in 500 ml media <em>(Final 100 IU - 100 Âµg/ml).</em></td>
+</tr>
+<tr>
+<td><strong>200 mM L-Glutamine</strong></td>
+<td>200 mM stock is stored at -20Â°C in TC freezer <strong>J</strong> (100 ml bottles). Heat at 37Â°C to completely dissolve. Do not dilute, aliquot 5 ml into each of 20 sterile vials. Label with contents, initials and date and store at -20Â°C in TC freezer <strong>K</strong>. Use 5 ml in 500 ml media <em>(Final 2 mM)</em> .</td>
+</tr>
+<tr>
+<td><strong>1 M HEPES</strong></td>
+<td>1 M stock is stored at 4Â°C in TC refrigerator (100 ml bottles). Do not dilute. Use 5 ml in 500 ml media <em>(Final 10 mM).</em></td>
+</tr>
+<tr>
+<td><strong>10 U/Âµl rIL-2</strong></td>
+<td>1000 U/ml stock is stored at -20Â°C in TC freezer <strong>K</strong> (10 ml bottles). Do not dilute, aliquot 500 Âµl into each of 20 sterile cryovials. Label with contents, initials and date and store at -20Â°C in TC freezer <strong>K</strong>. Use 20 Âµl in 10 ml media <em>(Final 20 U/ml).</em></td>
+</tr>
+<tr>
+<td><strong>0.2 mg/ml PHA</strong></td>
+<td>Only use Murex PHA (Abbott). 2 mg stock is stored at 4Â°C in TC refrigerator. Add 10 ml of sterile IMDM and mix well. Aliquot 1 ml into each of 10 sterile cryovials. Label with contents, initials and date and store at -20Â°C in TC freezer <strong>K</strong>. Use 2.5 ml in 500 ml media <em>(Final 1 Âµg/ml).</em></td>
+</tr>
+<tr>
+<td><strong>500 Âµg/ml Polybrene</strong></td>
+<td>Stock is stored at 4Â°C in TC refrigerator. Dissolve 50 mg polybrene in 100 ml 1x PBS. Aliquot 5 ml into each of 20 sterile vials. Label with contents, initials and date and store at -20Â°C in TC freezer <strong>K</strong>. Use 5 ml in 500 ml media <em>(Final 5 Âµg/ml)</em></td>
+</tr>
+<tr>
+<td><strong>0.2 mg/ml Puromycin</strong></td>
+<td>Stock is stored at -20Â°C in TC freezer <strong>K</strong>. Dissolve 2 mg puromycin in 10 ml 1x PBS. Filter sterilize. Aliquot 500 Âµl into each of 20 labeled sterile tubes. Store at -20Â°C in TC freezer <strong>K</strong>. Use 10 Âµl in 10 ml media <em>(Final 200 ng/ml).</em></td>
+</tr>
+<tr>
+<td><strong>50 mg/ml G418 Sulfate</strong></td>
+<td>Geneticin (G418 Sulfate) stock stored at -20Â°C in TC freezer <strong>K</strong> (solution) or at RT in TC room (powder). Need 21 ml of 50 mg/ml solution. Aliquot 3 ml in each of 7 sterile vials. Label with contents, initials and date and store at -20Â°C in TC freezer. Use 3 ml in 500 ml media <em>(Final 300 Âµg/ml).</em></td>
+</tr>
+<tr>
+<td><strong>NMS</strong></td>
+<td>Stock is stored at -20Â°C in TC freezer <strong>K</strong> (10 ml bottles). Do not dilute, aliquot 500 Âµl into each of 20 sterile cryovials. Label with contents, initials and date and store at -20Â°C in TC freezer <strong>K</strong>.</td>
+</tr>
+<tr>
+<td><strong>10 mg/ml Ciprofloxacin</strong></td>
+<td>Stock is stored in TC refrigerator (solution) or at RT on TC counter top (powder). Dissolve 100 mg powder in 10 ml ddH<sub>2</sub>O, sterile filter, and store solution at 4Â°C. Use 500 Âµl in 500 ml media <em>(Final 10 Âµg/ml).</em></td>
+</tr>
+</tbody>
+</table>
+<p>For specifics on appropriate handling and waste procedures please see
+the <a href="http://mullinslab.microbiol.washington.edu/sops/ChemSOP.htm">online chemical
+SOPs</a> or
+our waste and spill notebook located in room 352.</p><p><a href="http://mullinslab.microbiol.washington.edu/index.html"><br>
+</a></p>
+
+]]>
+        </content>
+    </entry>
+    
+    <entry>
+        <title>TC Supplies for Mullins TC Lab (Rosen 344)</title>
+        <link href="https://mullinslab.microbiol.washington.edu/protocols/tissue_culture_bl2/2271-TC-Supplies-for-Mullins-TC-Lab-Rosen-344" rel="alternate" type="text/html" />
+        <published>2009-04-03T15:02:03-07:00</published>
+        <updated>2009-04-03T15:04:34+00:00</updated>
+        <id>urn:uuid:4d74c426-8367-5f5e-aa1f-75b30797d5c6</id>
+        <author><name>Shreyas Verma</name></author>
+        <content type="html">
+<![CDATA[
+<p>This is a list of TC reagents and supplies that are available to you. If
+we are getting low, please write it down on the white board so that more
+can be made available. Remember that we have other things to do besides
+keep reagents ready for you to use. Therefore it is in your own best
+interest to inform us BEFORE we are completely out.</p>
+<table>
+<thead>
+<tr>
+<th></th>
+<th></th>
+</tr>
+</thead>
+
+<tbody>
+<tr>
+<td>Heat-inactivated FBS</td>
+<td>344 Freezer K</td>
+</tr>
+<tr>
+<td>Pen/Strep</td>
+<td>344 Freezer K</td>
+</tr>
+<tr>
+<td>Geneticin (G-418)</td>
+<td>344 Freezer K</td>
+</tr>
+<tr>
+<td>L-glutamine</td>
+<td>344 Freezer K</td>
+</tr>
+<tr>
+<td>Trypsin</td>
+<td>344 Freezer K</td>
+</tr>
+<tr>
+<td>rIL-2</td>
+<td>344 Freezer K</td>
+</tr>
+<tr>
+<td>PHA</td>
+<td>344 Freezer K</td>
+</tr>
+<tr>
+<td>Polybrene</td>
+<td>344 Freezer K</td>
+</tr>
+<tr>
+<td>ddH<sub>2</sub>0</td>
+<td>344 Counter top</td>
+</tr>
+<tr>
+<td>DMSO</td>
+<td>344 Counter top</td>
+</tr>
+<tr>
+<td>ACK Lysing Buffer</td>
+<td>344 Counter top</td>
+</tr>
+<tr>
+<td>Ficoll-Paque</td>
+<td>338 Cold room</td>
+</tr>
+<tr>
+<td>1X and 10X PBS</td>
+<td>338 Cold room</td>
+</tr>
+<tr>
+<td>RPMI</td>
+<td>338 Cold room</td>
+</tr>
+<tr>
+<td>IMDM</td>
+<td>338 Cold room</td>
+</tr>
+<tr>
+<td>DMEM</td>
+<td>338 Cold room</td>
+</tr>
+<tr>
+<td>MEM</td>
+<td>338 Cold room</td>
+</tr>
+<tr>
+<td>Pipettes (2, 5, 10, 25 ml)</td>
+<td>344 Drawers</td>
+</tr>
+<tr>
+<td>Plastic sterile pasteurs</td>
+<td>344 Drawers</td>
+</tr>
+<tr>
+<td>Glass sterile pasteurs</td>
+<td>344 Drawers</td>
+</tr>
+<tr>
+<td>Freezing vials</td>
+<td>344 Drawers</td>
+</tr>
+<tr>
+<td>Gloves</td>
+<td>344 Drawers</td>
+</tr>
+<tr>
+<td>TC flasks (T25, T75, T175)</td>
+<td>344 Cabinets</td>
+</tr>
+<tr>
+<td>Multi-well plates (6-96 wells)</td>
+<td>344 Cabinets</td>
+</tr>
+<tr>
+<td>Tips (20, 200, 1000 ml)</td>
+<td>344 Cabinets</td>
+</tr>
+<tr>
+<td>Conicals (15, 50 ml)</td>
+<td>344 Cabinets</td>
+</tr>
+</tbody>
+</table>
+<p>For specifics on appropriate handling and waste procedures please see
+the <a href="http://mullinslab.microbiol.washington.edu/sops/ChemSOP.htm">online chemical
+SOPs</a> or
+our waste and spill notebook located in room 352.</p>
+
+]]>
+        </content>
+    </entry>
+    
+    <entry>
+        <title>Ten Golden Rules of Tissue Culture</title>
+        <link href="https://mullinslab.microbiol.washington.edu/protocols/tissue_culture_bl2/883-Ten-Golden-Rules-of-Tissue-Culture" rel="alternate" type="text/html" />
+        <published>2009-04-03T14:35:48-07:00</published>
+        <updated>2009-04-03T14:35:48-07:00</updated>
+        <id>urn:uuid:bea532bf-737e-5a3b-a618-eabb93dcc22d</id>
+        <author><name>Brandon Maust</name></author>
+        <content type="html">
+<![CDATA[
+<p><strong>1.Â Â Â No gloves in regular trash.</strong></p><p><strong>2.Â Â Â Seal off vacuum when done.</strong></p><p><strong>3.Â Â Â Empty vacuum trap flask when full.</strong></p><p><strong>4.Â Â Â Fill bleach bottle when empty</strong></p><p><strong>5.Â Â Â Clean hemocytometer after use.</strong></p><p><strong>6.Â Â Â No liquid in biohazard bag.</strong></p><p><strong>7.Â Â Â Put glass pipettes fully in sharps container.</strong></p><p><strong>8.Â Â Â Fold new pipette boxes when full.</strong></p><p><strong>9.Â Â Â Discard full pipette boxes.</strong></p><p><strong>10.Â Â Â Keep opened tip boxes sterile</strong></p>
+
+]]>
+        </content>
+    </entry>
+    
+
+    
+</feed>

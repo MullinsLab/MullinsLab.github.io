@@ -1,0 +1,174 @@
+<!DOCTYPE html>
+<html>
+
+<!-- Mirrored from mullinslab.microbiol.washington.edu/protocols/tissue_culture_bl3/429-Determining-Coreceptor-Usage-of-HIV-1-on-U87-Glioma-Cells by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 21 Jul 2025 18:09:35 GMT -->
+<!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=utf-8" /><!-- /Added by HTTrack -->
+<head>
+    
+<title>Determining Coreceptor Usage of HIV-1 on U87 Glioma Cells | Mullins Molecular Retrovirology Lab</title>
+
+    
+    <link rel="stylesheet" href="style.css" />
+    
+    <link rel="alternate" type="application/atom+xml" title="Atom feed" href="feed" />
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <script src='https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js?config=TeX-MML-AM_CHTML' async></script>
+
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-136625084-1"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+
+      gtag('config', 'UA-136625084-1');
+    </script>
+</head>
+<body id="entry">
+
+<div id="container">
+
+<header>
+
+<h1>Mullins Molecular Retrovirology Lab</h1>
+
+<div class="description">
+<ul>
+<li>Department of Microbiology</li>
+<li>School of Medicine</li>
+<li>University of Washington</li>
+</ul>
+
+</div>
+
+
+</header>
+
+<section id="nav">
+    <nav>
+        
+        <ul>
+            <li class=""><a href="../../index.html">Home</a></li>
+            <li class=""><a href="../../research/index.html">Research</a></li>
+            <li class=""><a href="../../publications/index.html">Publications</a></li>
+            <li class="here"><a href="../index.html">Protocols</a></li>
+            <li class=""><a href="../../people/index.html">People</a></li>
+            <li class=""><a href="../../contact/index.html">Contact</a></li>
+            <li class=""><a href="../../help/index.html">Help</a></li>
+        </ul>
+    </nav>
+</section>
+
+<section id="links">
+    <nav id="quicklinks">
+        <h2>Software &amp; Tools</h2>
+
+        <ul>
+            <li><a href="http://indra.mullins.microbiol.washington.edu/">Bioinformatics Tools</a></li>
+            <li><a href="https://github.com/mullinslab">GitHub</a></li>
+            <li><a href="../../hiris/index.html">HIRIS</a></li>
+            <li><a href="../../HMA/index.html">HMA Subtyping Kit</a></li>
+            <li><a href="../../isdb/index.html">ISDB</a></li>
+            <li><a href="../../tcozy/index.html">TCozy</a></li>
+            <li><a href="https://viroverse.washington.edu/">Viroverse</a></li>
+        </ul>
+    </nav>
+
+    <nav id="lablinks">
+        <h2>Lab Links</h2>
+
+        <ul>
+            <li><a href="https://hercules.mullins.microbiol.washington.edu/pub/doc/">Computing Docs</a></li>
+            <li><a href="../../hiris/private/index.html">HIRIS (Private)</a></li>
+            <li><a href="https://tcozy.mullins.microbiol.washington.edu/ice-floe/">ICE Floe</a></li>
+            <li><a href="https://hercules.mullins.microbiol.washington.edu/git/">Internal Git</a></li>
+            <li><a href="../../twiki/index.html">Internal wiki</a></li>
+            <li><a href="https://viroverse.washington.edu/viroblast/">Local ViroBLAST</a></li>
+            <li><a href="https://redash.mullins.microbiol.washington.edu/">Redash</a></li>
+            <li><a href="https://mullinslab.slack.com/">Slack</a></li>
+            <li><a href="../../support/index.html">Ticketing system</a></li>
+        </ul>
+    </nav>
+
+</section>
+
+<div id="cfar"><a href="http://cfar.washington.edu/">
+    <img src="../../static/_img/2c/47ca/CFAR-logo-rev-10-22-18_4aa6fe47bc_500x157.jpg" width="500" height="157" srcset="/static/_img/2c/47ca/CFAR-logo-rev-10-22-18_4aa6fe47bc_500x157.jpg 1x, /static/_img/2c/47ca/CFAR-logo-rev-10-22-18_4aa6fe47bc_1000x314.jpg 2x" alt="University of Washington/Fred Hutch Center for AIDS Research">
+</a></div>
+
+<section id="content">
+    
+<article>
+<h1>Determining Coreceptor Usage of HIV-1 on U87 Glioma Cells</h1>
+
+<div id="intro">
+<p><span class="underline"><strong>Reagents:</strong></span></p>
+<ul>
+<li><p>U87 T4 co-receptor cell lines (mycoplasma free):</p></li>
+<li><p>CD4 only</p></li>
+<li><p>CD4 plus CCR1</p></li>
+<li><p>CD4 plus CCR2b</p></li>
+<li><p>CD4 plus CCR3</p></li>
+<li><p>CD4 plus CCR5</p></li>
+<li><p>CD4 plus CXCR4</p></li>
+<li><p>cDMEM (DMEM, 10% FBS, 100 U/ml penicillin, 100 Âµg/ml streptomycin,
+L-Glutamine, 10mM HEPES)</p></li>
+<li><p>Sterile TC 1x PBS.</p></li>
+<li><p>1x Trypsin.</p></li>
+<li><p>Geneticin (G418), 300 Âµg/ml final concentration.</p></li>
+<li><p>Puromycin, 1 Âµg/ml final concentration.</p></li>
+<li><p>96-well microtiterplate with lid (flat bottom), Nuclon, Nunc.</p></li>
+<li><p>24-well plate with lid (flat bottom), Costar?</p></li>
+</ul>
+<p><span class="underline"><strong>Passaging:</strong></span></p>
+<ol>
+<li><p> U87 cell stocks are cultured in T25 flasks in 7ml cDMEM with G418
+for all cell lines and puromycin for all except parental U87 T4.</p></li>
+<li><p> For passaging, wash monolayer with 5ml warm PBS.</p></li>
+<li><p> Add 0.5ml 1X Trypsin.</p></li>
+<li><p> Incubate 2 minutes at room temperature.</p></li>
+<li><p> Confirm that all cells detach.</p></li>
+<li><p> Add 2ml cDMEM and pipette up and down to completely resuspend all
+cells.</p></li>
+<li><p> Use 250 Âµl cell suspension to continue culture. Add 7ml cDMEM and
+antibiotics.</p></li>
+<li><p> Pellet cells not used for passaging and resuspend at appropriate
+concentration for further use (i.e. 1 x 10<sup>5</sup>/ml for
+co-receptor assay).</p></li>
+</ol>
+<p><span class="underline"><strong>Co-receptor assay:</strong></span></p>
+<ol>
+<li><p> Per virus per cell line: plate out 1 x 10<sup>4</sup> cells (100
+Âµl) in cDMEM with antibiotics in 96-well plate.</p></li>
+<li><p>Inoculate with at least 100 TCID<sub>50</sub> (in no more than 100
+Âµl).</p></li>
+<li><p>After 24 hours wash with warm PBS.</p></li>
+<li><p>Add 200 Âµl fresh cDMEM with antibiotics.</p></li>
+<li><p>After 3 and 7 days, take p24 sample. Store at -20Â°C.</p></li>
+<li><p>After 7 days, score cytopathic effect.</p></li>
+<li><p>Wash monolayer with warm PBS.</p></li>
+<li><p>Add 50 Âµl 1x Trypsin.</p></li>
+<li><p>Incubate 2 minutes at room temperature.</p></li>
+<li><p>Transfer each well to a new well in a 24-well plate.</p></li>
+<li><p>Add 2 ml cDMEM with antibiotics</p></li>
+<li><p>After 10, 14, 17 and 21 days, take p24 samples. Store at -20Â°C.</p></li>
+<li><p>After 14 and 21 days, score cytopathic effect.</p></li>
+<li><p>Assay p24 production and discard cultures.</p><p>For specifics on appropriate handling and waste procedures please
+see the <a href="../../sops/ChemSOP.html">online chemical
+SOPs</a>
+or our waste and spill notebook located in room 352.</p></li>
+</ol>
+
+</div>
+
+
+
+<div class="clear"></div>
+</article>
+
+</section>
+
+</div>
+</body>
+<!-- Mirrored from mullinslab.microbiol.washington.edu/protocols/tissue_culture_bl3/429-Determining-Coreceptor-Usage-of-HIV-1-on-U87-Glioma-Cells by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 21 Jul 2025 18:09:35 GMT -->
+</html>

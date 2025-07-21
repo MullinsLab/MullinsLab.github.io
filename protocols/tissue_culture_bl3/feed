@@ -1,0 +1,1286 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+
+<feed xmlns="http://www.w3.org/2005/Atom"
+    xmlns:fh="http://purl.org/syndication/history/1.0"
+    xmlns:at="http://purl.org/atompub/tombstones/1.0">
+
+    <title>Mullins Molecular Retrovirology Lab: Tissue Culture (BL3)</title>
+    <subtitle>A personal publishing system for the modern web</subtitle>
+    <link href="https://mullinslab.microbiol.washington.edu/protocols/tissue_culture_bl3/feed" rel="self" />
+    <link href="https://mullinslab.microbiol.washington.edu/protocols/tissue_culture_bl3/feed" rel="current" />
+    <link href="https://pubsubhubbub.superfeedr.com" rel="hub" />
+    
+    
+    <link href="https://mullinslab.microbiol.washington.edu/protocols/tissue_culture_bl3/" />
+    
+    <id>tag:mullinslab.microbiol.washington.edu,2019-03-04:protocols/tissue_culture_bl3</id>
+    <updated>2015-05-05T14:22:47+00:00</updated>
+
+    
+    <entry>
+        <title>Pairwise growth competition assay</title>
+        <link href="https://mullinslab.microbiol.washington.edu/protocols/tissue_culture_bl3/1725-Pairwise-growth-competition-assay" rel="alternate" type="text/html" />
+        <published>2015-05-05T14:13:26-07:00</published>
+        <updated>2015-05-05T14:22:47+00:00</updated>
+        <id>urn:uuid:ed10a9a2-4181-58c9-b03e-9c3848083db1</id>
+        <author><name>Mullins Admin</name></author>
+        <content type="html">
+<![CDATA[
+<p><a href="https://www.jove.com/video/52610/pairwise-growth-competition-assay-for-determining-replication-fitness" title="Pairwise Growth Competition Assay for Determining the Replication Fitness of Human Immunodeficiency Viruses">Pairwise Growth Competition Assay for Determining the Replication
+Fitness of Human Immunodeficiency
+Viruses</a></p><p><strong>PROTOCOL:</strong></p><p><strong>*For figures and references, please check the paper
+(</strong><a href="http://www.jove.com/video/52610"><strong>http://www.jove.com/video/52610</strong></a><strong>)
+or the video</strong></p><p>This protocol is <a href="https://mullinslab.microbiol.washington.edu/protocols/Mullins-Manocheewa-Pairwise-growth-competition-assay.docx">also available as a Word
+document</a>.</p><p>**<br>
+**</p><p><strong>1)</strong> <strong>Construction of chimeric HIV-1 NL4-3 molecular clones</strong>  </p>
+<hr>
+<p><strong>1.1)</strong> <strong>Amplify insert DNA fragment</strong></p><p>1.1.1) Design chimeric primers. The 5&#39; halves of both forward and
+reverse primers contain an HIV-1 vector sequence, at which the fragment
+will be inserted. The 3&#39; half of the primers must contain the end of the
+insert sequence (<strong>Figure 2</strong>). Make sure that the chimeric primer
+sequence retains the original open reading frames.</p><p>1.1.1.1) Use primers at least 20 bases in length, with a melting
+temperature greater than or equal to 60 Â°C, ~50% GC content, and a low
+tendency to form primer dimers, heterodimers and/or hairpin structures.
+These properties can be assessed using the OligoAnalyzer web tool
+(https://www.idtdna.com/analyzer/Applications/OligoAnalyzer/)</p><p>1.1.2) Use PCR<sup>27</sup> and the chimeric primers to amplify insert
+DNA (<strong>Figure 2</strong>). For each PCR reaction, use 1X high fidelity buffer,
+0.2 mM dNTPs, 1 U high fidelity DNA polymerase, 0.5 ÂµM of forward
+chimeric primer, 0.5 ÂµM of reverse chimeric primer, and 1 pg - 10 ng of
+DNA sample carrying insert region. Add dH<sub>2</sub>O to a final volume
+of 50 Âµl.</p><p>1.1.3) Set thermal cycling steps as follows: Perform an initial DNA
+denaturation step at 98 Â°C for 10 sec. Amplify with 30 cycles of DNA
+denaturation at 98 Â°C for 10 sec and DNA annealing at 3 Â°C above the
+lowest melting temperature of the two primers for 20 sec. Perform a
+final extension at 72 Â°C for 10 min. Store PCR products at 4 Â°C.</p><p>1.1.4) Take 5 Âµl of the PCR products from the previous step and run
+agarose gel electrophoresis<sup>28</sup>.</p><p>1.1.4.1) Use a 0.7% agarose gel, 1X TAE buffer (40 mM Tris-acetate, 1 mM
+EDTA), 0.5 Î¼g/ml ethidium bromide (EtBr) final concentration and 1 kb
+ladder as the DNA size marker. Set power source voltage to 5 V/cm
+distance between electrodes. Stop the electrophoresis when the loading
+dye migrates through about 2/3 of the gel length. Visualize the gel
+using a gel documentation system<sup>28</sup>.</p><p>Note: EtBr is a suspected carcinogen and must be properly disposed of,
+per institution regulations. Gloves should always be worn when handling
+gels containing EtBr. Change to new gloves after finish handling EtBr
+containing material and before handling other materials or equipment to
+prevent cross contamination.</p><p>1.1.5) If only one DNA band with size corresponding to the desired PCR
+product is detected, purify the rest of the PCR product using a
+commercial kit such as QIAquick PCR Purification Kit according to the
+manufacturer&rsquo;s protocols.</p><p>1.1.5.1) If other, non-specific bands are also present, use the rest of
+the PCR product to run preparative gel electrophoresis. Use the same
+parameters and conditions specified in step 1.1.4. Ensure that the gel
+well is large enough to load ~45 Âµl of PCR products. Cut out the band
+of interest and extract the DNA from the gel using QIAquick gel
+extraction kit according to the manufacturer&rsquo;s protocols.  </p><p><strong>1.2)</strong> <strong>Introduce the insert fragment into full-length infectious
+HIV-1 subtype B vector (pNL4-3)</strong></p><p>1.2.1) Use purified PCR products from step 1.1.5 as PCR primers. Use
+pNL4-3VifA<sup>20</sup> as template DNA in one PCR reaction and use
+pNL4-3VifB<sup>20</sup> as template in the other reaction (<strong>Figure
+2</strong>). For each PCR reaction, use 1X high fidelity buffer, 0.2 mM dNTPs,
+2 U high fidelity DNA polymerase, 500 ng of primer DNA and 50 ng of
+template DNA in a final volume of 50 Âµl. Set the thermal cycling
+parameters to: 98 Â°C for 30 sec, 35 cycles at 98 Â°C for 10 sec, 48 Â°C
+for 1 min and 72 Â°C for 10 min, followed by 72 Â°C for 10 min.  </p><p>1.2.2) Add 10 U of <em>Dpn</em>I to 50 Âµl of the PCR reaction and incubate at
+37 <sup>o</sup>C for 1 hr to digest the template DNA. Ensure that the
+plasmid DNA is isolated from a methylation competent bacterial strain,
+e.g., TOP10 chemically competent <em>Escherichia coli</em>.*  </p><p>*</p><p>1.2.3) Use <em>Dpn</em>I digested product to transform competent bacterial
+cells. Use heat-shock transformation with TOP10 chemically competent <em>E.
+coli</em>, according to the manufacturer&rsquo;s protocol. To select for bacterial
+cells containing the recombinant plasmid, use Luria Broth (LB) culture
+plates containing 100 mg/L carbenicillin.  </p><p>1.2.3.1) Pick ~10 well-separated colonies and grow each separately in 3
+ml LB liquid medium containing 100 mg/L carbenicillin and incubate at 30
+Â°C in a shaker overnight.*  </p><p>*</p><p>1.2.3.2) Use QIAprep Spin Miniprep kit to isolate plasmid DNA from the
+bacterial liquid culture, according to the manufacturer&rsquo;s protocol.</p><p>1.2.4) Use double restriction digestion<sup>29</sup> to determine
+whether the plasmid DNA contains the proper ** insert. Ensure that one
+of the restriction sites exists only within the insert region and the
+other restriction site exists only once in the HIV-1 vector, outside of
+the insert region.</p><p>1.2.4.1) Digest at least 300 ng of plasmid DNA in a 10 Âµl final
+reaction volume. Select restriction buffers, incubation temperature and
+incubation time according to the manufacturer&rsquo;s protocol of the selected
+restriction enzymes. Take 9 Âµl of the digested DNA and run gel
+electrophoresis as described in step 1.1.4. Select recombinant plasmids
+that have DNA bands of the predicted sizes.  </p><p>1.2.5) Confirm sequence integrity of the recombinant plasmids by Sanger
+sequencing. While rare, unwanted mutation(s) can be introduced during
+the PCR reactions.</p><p>1.2.5.1) Sequence both strands of the plasmid DNA. Follow instructions
+in step 1.1.1.1 to design sequencing primers. In addition, ensure that
+the forward and reverse sequencing primers anneal at least 50 bp
+upstream and downstream of the insert region in the recombinant plasmid,
+respectively.</p><p>1.2.5.2) Submit plasmid DNA and sequencing primers to a commercial DNA
+sequencing service provider. Prepare DNA sample and primers as specified
+by the service provider.</p><p>1.2.6) Make an endotoxin-free stock of the mutated plasmid DNA using an
+Endotoxin free plasmid DNA kit according to manufacturer&rsquo;s protocol.
+Prepare at least 1 Âµg of endotoxin-free plasmid DNA for transfection in
+the following step.</p><p><strong>1.3)</strong> <strong>Introduce small-scale mutations via site-directed
+mutagenesis</strong></p>
+<hr>
+<p>1.3.1) Design mutagenic primers with overlapping forward and reverse
+primers containing the desired mutation(s). Position the base(s) to be
+substituted, inserted, or deleted in the middle of the primers, flanked
+by 10-15 homologous bases. Follow instructions in step 1.1.1.1.</p><p>1.3.2) Use PCR to synthesize mutant plasmids. For each PCR reaction, use
+1X high fidelity buffer, 10 mM dNTPs, 2 U of high fidelity DNA
+polymerase, 0.5 ÂµM of forward mutagenic primer, 0.5 ÂµM of reverse
+mutagenic primer and 50 ng of chimeric pNL4-3VifB, from step 1.2.6, in a
+final volume of 50 Âµl. Set the thermal cycling parameters to: 98 Â°C
+for 30 sec, 25 cycles at 98 Â°C for 10 sec, 48 Â°C for 1 min and 72 Â°C
+for 10 min, followed by 72 Â°C for 10 min.</p><p>1.3.3) Repeat step 1.2.2 to 1.2.6.</p><p><strong>2)</strong> <strong>Generation of viral stock using transfection</strong></p><p>2.1) Calculate the amount of viral stock desired and plasmid DNA
+required. With a viral titer of 10<sup>4</sup> IU/ml or higher, 1.8 ml
+of viral stock is sufficient for two sets of growth competition assays,
+including monoinfections, each done in triplicate. For a transfection
+done in a 6-well plate, about 1.8 ml supernatant is harvested per well.
+One Âµg of plasmid DNA is needed for each transfection done in a 6-well
+plate.  </p><p>2.2) For each well of a 6-well plate, prepare 100 Âµl of transfection
+mixture, e.g., consisting of 1 Âµl X-tremeGENE 9 transfection reagent
+(or comparable product), 1 Âµg of plasmid DNA and serum-free DMEM.</p><p>2.2.1) Determine the volume of plasmid DNA needed, using 1 Âµg plasmid
+DNA per well. Ensure that the final concentration of the plasmid DNA is
+at least 50 ng/Âµl.  </p><p>2.2.2) Determine how much serum-free medium (DMEM) is needed per well
+using the formula: Total volume of DMEM in Âµl = 100 ÂµL - DNA volume in
+Âµl.  </p><p>2.3) Add 10<sup>6</sup> HEK 293T-17 (ATCC) cells/well in 2 ml of
+propagation medium (DMEM + 10% fetal bovine serum (FBS)) into a 6-well
+plate. Incubate for 1 hr at 37 <sup>o</sup>C in a 5% CO<sub>2</sub>
+atmosphere. Seed as many wells as needed (determined in step 2.1).  </p><p>2.4) To prepare the transfection mixture, aliquot the appropriate volume
+of serum-free DMEM, as calculated above, into a 1.8 ml polypropylene
+microcentrifuge tube, and then add the transfection reagent.  </p><p>2.4.1) Pipette reagent directly into the media solution, do not add it
+to the plastic surface of the microcentrifuge tube. Add plasmid DNA
+last. Pipet up and down gently to mix the solution. Incubate for 15 min
+at room temperature (15 <sup>o</sup>C to 25 <sup>o</sup>C) to allow the
+formation of transfection complexes.  </p><p>2.4.2) Add the mixture in a drop-wise manner to cells seeded in the
+6-well plate. Gently shake or swirl the wells to ensure even
+distribution of transfection complexes.  </p><p>2.4.3) Seal plates with plastic wrap.  </p><p>2.5) Incubate cultures at 37 <sup>o</sup>C in a 5% CO<sub>2</sub>
+atmosphere for 48
+hr.<span id="Wash_optional"></span><span id="Harvest_day_2"></span>  </p><p>2.6) Use a pipette to carefully collect and transfer supernatant to a 15
+ml tube through a 0.22 Âµm filter top<em>.</em>  </p><p>2.7) Use pipette to transfer 250 Âµl or more of the filtered supernatant
+to 1.8 ml microfuge tubes with rubber gaskets in the lids.  </p><p>2.8) Store filtered supernatants at -80 <sup>o</sup>C until use.**</p>
+<hr>
+<p><strong>3)</strong> <strong>Determine infectious titer of viral stocks on peripheral blood
+mononuclear cells (PBMCs)</strong></p>
+<hr>
+<p>3.1) Stimulate PBMCs with phytohemagglutinin (PHA). Per one viral stock,
+seed 2 x 10<sup>6</sup> PBMCs in complete Iscove&rsquo;s Modified Dulbecco&rsquo;s
+Medium (cIMDM; IMDM supplemented with 20 U/ml of human interleukin 2
+(hIL-2), 10% fetal bovine serum and 1% penicillin/streptomycin)
+supplemented with PHA (1.5 Âµg/ml). Seed PBMCs at 2 x 10<sup>6</sup>
+cells/ml. Incubate PBMCs at 37 <sup>o</sup>C in a 5% CO<sub>2</sub> ****
+atmosphere **** for 72 hr.</p><p>3.2) Harvest PHA stimulated PBMCs. Transfer non-adherent PHA-PBMCs to a
+50 ml conical tube. Spin tube at 228 x g for 10 min. Carefully remove
+supernatant without disrupting the cell pellet. Re-suspend the cell
+pellet to a final concentration of 2 x 10<sup>5</sup> PBMCs/ml in cIMDM.</p><p>3.3) Seed 2x10<sup>4</sup> PHA stimulated PBMCs/well in 100 Âµl/well
+cIMDM in a round bottom 96-well plate.  </p><p>3.4) Make a 1:10 dilution of the viral stock. Then, from the first
+diluted stock, make twelve 3-fold serial dilutions in a 96-well master
+plate. This dilution scheme is recommended for detecting viral titers in
+the range of 10<sup>4</sup> to 10<sup>6</sup> infectious unit (IU) per
+ml. For example, add 20 Âµl of virus stock to 180 Âµl media in the 1.5
+ml tube. Mix the dilution by pipetting carefully. Then transfer 90 Âµl
+of the diluted stock into 180 Âµl media of the first well and mix well
+by pipetting. Continue dilution series by transferring 90 Âµl from the
+current well to 180 Âµl media in the next well eleven more times.
+Increase or decrease the initial dilution if titers higher than
+10<sup>6</sup> IU/ml or lower than 10<sup>4</sup> IU/ml are expected,
+respectively.  </p><p>3.5) Add 40 Âµl of the serially diluted viral stock from the master
+dilution plate to the seeded PBMCs plate (from step 3.3) in
+quadruplicate. Incubate plates at 37 <sup>o</sup>C in a 5%
+CO<sub>2</sub> **** atmosphere **** for 16-24
+hr.<span id="d1_wash_optional"></span>  </p><p>3.6) Carefully remove 100 Âµl supernatant from each well, and replace
+with 160 Âµl fresh cIMDM to a total volume of 200 Âµl/well. Incubate
+plates at 37 <sup>o</sup>C with 5% CO<sub>2</sub> **** atmosphere (day
+1).  </p><p>3.7) On days 4, 7, 10 and 13
+<span id="d2_4_7_10_treatment"></span>transfer 100 Âµl supernatant from
+each well to 100 Âµl disruption buffer (2 % TritonX-100 in PBS), and
+replace with 100 Âµl fresh cIMDM. Store the supernatants at -20
+<sup>o</sup>C.</p><p>3.7.1) Keep sampling and adding fresh cIMDM every three days until the
+titer stabilizes.</p><p>3.8) Determine the 50% tissue culture infectious dose
+(TCID<sub>50</sub>) of the viral stock by p24 ELISA using the day 7 and
+13 samples as described in step 4.</p><p>3.8.1) If the TCID<sub>50</sub> obtained from day 13 is clearly higher
+than the titer from day 7, the virus stock may need a longer time to
+expand. Repeat the p24 ELISA using later samples until the infectious
+titers from two sampling time points become stable (or decrease). Stocks
+should be selected from samples with the highest titers.  </p><p>4) **ELISA (Enzyme-linked Immunoabsorbant assay) detection of HIV-1 p24
+for determining viral infectious titer  </p><p>**Note: The following protocol was developed using p24 antigen capture
+plates prepared in our laboratory<sup>30</sup>. Commercial HIV-1 p24
+ELISA plate/kits can also be used, following the manufacturer&rsquo;s
+protocol.  </p><p>4.1) Prior to working with samples, prepare working stocks of primary
+antibody (rabbit anti-HIV-1 SF2 p24 antiserum).</p><p>4.1.1) Thaw p24 antiserum at room temperature (RT).</p><p>4.1.2) Mix 2.5 ml glycerol with 2 ml 10% FBS in phosphate buffer saline
+(PBS).</p><p>4.1.3) Add 0.5 ml antiserum and mix.</p><p>4.1.4) Store 1 ml aliquots at -20 <sup>o</sup>C.</p><p>4.2) Thaw samples from step 3.7 in 37 <sup>o</sup>C incubator.</p><p>4.3) Wash the p24 capture plate 5 times with wash buffer (1x PBS with
+0.05% Tween-20).  </p><p>4.4) Add 50 Âµl/well of sample diluent (1% bovine serum albumin (BSA),
+0.2% Tween-20 in RPMI-1640), then add 50 Âµl of sample to appropriate
+wells. Include at least three wells with sample diluent only as mock /
+negative controls. Incubate for 2 hr at 37 <sup>o</sup>C or overnight at
+4 <sup>o</sup>C.</p><p><span id="Add_primary_Ab"></span>4.5) Prepare the primary antibody
+solution fresh before use. Make a 1:2,000 fold dilution of the primary
+antibody working stocks using the primary antibody diluent (12% FBS in
+RPMI-1640). Ensure to prepare enough for the use of 100 Âµl solution per
+each sample/control well in a 96-well plate.</p><p>4.5.1) For example, to make enough solution for one 96-well plate, add 5
+Âµl of the primary antibody working stocks to the primary antibody
+diluent for a final volume of 10 ml.</p><p>4.6) Wash capture plate 5 times with wash buffer.  </p><p>4.7) Add 100 Âµl of the primary antibody solution to each well. Incubate
+for 1 h at 37 <sup>o</sup>C in a 5% CO<sub>2</sub> atmosphere.  </p><p><span id="Add_secondary_Ab"></span>4.8) Prepare the secondary antibody
+solution fresh before use. Make a 1:14,400 fold dilution of the
+secondary antibody (1 mg/ml Goat anti-rabbit HRP) using the secondary
+antibody diluent (7 % FBS, 0.01 % Tween-20 in RPMI-1640). To reduce
+pipetting errors, perform a two-step serial dilution. Ensure to prepare
+enough for the use of 100 Âµl solution per each sample/control well in a
+96-well plate.</p><p>4.8.1) For example, to make enough solution for one 96-well plate, first
+add 1 Âµl of the secondary antibody to 99 Âµl of the secondary antibody
+diluent. Then add 70 Âµl of first dilution to the secondary antibody
+diluent for a final volume of 10 ml.  </p><p>4.9) Wash capture plate 5 times with wash buffer.  </p><p>4.10) Add 100 Âµl of the secondary antibody solution to each well.
+Incubate for 1 hr at 37 <sup>o</sup>C in a 5% CO<sub>2</sub>
+atmosphere.  </p><p>4.11) Wash plate 5 times with wash buffer.  </p><p>4.12) Add<span id="Add_substrate"></span> 100 Âµl of room temperature
+TMB substrate. Incubate 30 min at room temperature in a closed container
+to protect from light.  </p><p><span id="Add_stop"></span>4.13) Add 100 Âµl of room temperature stop
+solution (1 N H<sub>2</sub>SO<sub>4</sub>).  </p><p>4.14) Read absorbance at 450-650 nm in each well using a microplate
+reader. Use the absorbance value to score each well as infected or
+uninfected. A well is considered to contain infectious virus if the
+absorbance value is at least three times higher than the value read from
+mock / negative control wells. Calculate TCID<sub>50</sub> of the viral
+stock using the Reed-Meunch method<sup>31</sup>.  </p><p>5) **Establish viral growth kinetics  </p><p>**</p><p><span id="d14_treatment"></span><span id="Suppliments"></span><strong>5.1)</strong>
+<strong>Monoinfection</strong></p><p>5.1.1) Seed 3x10<sup>5</sup> PHA-stimulated PBMC/well in 48-well plates
+in a total volume of 500 Âµl/well. Keep the culture plates at 37
+<sup>o</sup>C in a 5% CO<sub>2</sub> atmosphere until inoculation.  </p><p>5.1.2) For each virus, prepare an inoculum containing 6,000 IU in 2 ml
+of cIMDM.  </p><p>5.1.3) Inoculate wells in triplicate by adding 500 Âµl of the inoculum
+(1,500 IU) to the seeded cells. The final volume of the infected cell
+culture is 1 ml/well and the MOI is 0.005.  </p><p>5.1.4) Aliquot 200 Âµl of the remaining inoculum to each of two 96-well
+plates for RNA isolation, one of which is saved as a backup.  </p><p>5.1.5) Incubate cultures at 37 <sup>o</sup>C in a 5% CO<sub>2</sub>
+atmosphere for 16-24 h.  </p><p>5.1.6) Wash cultures 16-24 h after inoculation.</p><p>5.1.6.1) Remove and discard 750 Âµl of culture supernatant.  </p><p>5.1.6.2) Add 750 Âµl of fresh cIMDM. Wrap plates in plastic wrap and
+spin for 10 minutes at 300 x g. Remove and discard 750 Âµl
+supernatant.  </p><p>5.1.6.3) Add 750 Âµl of fresh cIMDM. Incubate at 37 <sup>o</sup>C with a
+5% CO<sub>2</sub> atmosphere (day 1)**.  </p><p>**</p><p><span id="Daily_Treatment"></span>5.1.7) Sample cultures daily from day
+2 to day 7.  </p><p>5.1.7.1) Transfer 500 Âµl of culture supernatant to a 1.8 ml centrifuge
+tube. Spin for 1 min at 3000 x g.  </p><p>5.1.7.2) Transfer 200 Âµl of the cell-free supernatant to the two
+96-well sample plates for RNA isolation, again saving one plate as
+backup. Store supernatants at -80 <sup>o</sup>C until RNA isolation.  </p><p>5.1.7.3) Add 500 Âµl fresh cIMDM to each culture. Incubate at 37
+<sup>o</sup>C in a 5% CO<sub>2</sub> atmosphere.  </p><p>5.1.7.4) Discard cultures into Wescodyne at the end of the experiment.  </p><p>5.1.7.5) Isolate RNA from 200 Âµl of supernatant (use commercial kits
+such as QIAamp Viral RNA Mini Kit) following the manufacturer&rsquo;s standard
+protocol. For a large number of samples, use the Qiagen QIAxtractor.  </p><p>5.1.7.6) Store RNA samples at -80 <sup>o</sup>C until cDNA synthesis.  </p><p><strong>5.2)</strong> <strong>cDNA synthesis (Reverse transcription)</strong></p><p>5.2.1) For each RNA sample, add 1.2 nmol of dNTP and 1.2 pmol of cDNA
+synthesis primer, (5&#39;-GTTGATCCTTTAGGTATCTTTCCACAGC-3&#39;, HXB2 nucleotide
+7968 to 7995) to 10 Âµl of viral RNA. Add water to a final volume of 14
+Âµl. Flick the tube to mix and spin briefly to collect liquid at the
+bottom of the tube.  </p><p>5.2.2) Incubate mixture for 5 min at 65 <sup>o</sup>C, then hold at 4
+<sup>o</sup>C until the master mix is prepared.  </p><p>5.2.3) Prepare master mix using 5x first-strand buffer (250 mM Tris-HCl,
+pH 8.3, 375 mM KCl, 15 mM MgCl<sub>2</sub>), 5 mM DTT, 120 U of
+SuperScriptIII and 240 U of Rnase inhibitor. Add water to final volume
+of 10 Âµl.  </p><p>5.2.4) Add 10 Âµl of master mix to RNA mixture, flick to mix and spin to
+collect.  </p><p>5.2.5) Incubate mixture for 90 min at 50 <sup>o</sup>C to allow
+synthesis of cDNA. Incubate for 15 minutes at 70 <sup>o</sup>C to
+inactivate reverse transcriptase. Hold at 4 <sup>o</sup>C as needed.  </p><p>5.2.6) Add 2 U of Rnase H, flick to mix, and then spin to collect.  </p><p>5.2.7) Incubate 20 min at 37 <sup>o</sup>C. Store cDNA at -20
+<sup>o</sup>C.  </p><p><strong>5.3)</strong> **cDNA quantitation using qPCR system  </p><p>**</p><p>5.3.1) Prepare a standard dilution series. Do 10-fold serial dilution,
+from 3 x 10<sup>6</sup> copies/Âµl down to 30 copies/Âµl, of pNL4-3VifA.
+Use distilled water for dilutions. Prepare the standard dilution series
+fresh before use or prepare small batches and keep at -20 <sup>o</sup>C.
+Do not freeze-thaw the standards more than three times.</p><p>5.3.2) Set up a 96-well qPCR reaction plate. Ensure that each plate
+contains at least one well of negative controls, a triplicate of the
+standard dilution series, and at least a duplicate of each cDNA sample.</p><p>5.3.3) For each qPCR reaction, use 12.5 Âµl of qPCR master mix, 0.2 ÂµM
+probe, 0.8 ÂµM each of the forward and reverse primers and 1 Âµl of cDNA
+or the standard dilution series or water/buffer (for the negative
+control well). Add water to a final volume of 25 Âµl. The qPCR probe is
+light sensitive. Keep it in closed container.</p><p>5.3.3.1) To detect cDNA derived from pNL4-3VifA based molecular clone,
+use the VifA primer-probe: VifAB forward primer
+(GGTCTGCATACAGGAGAAAGAGACT), VifA reverse primer
+(5&#39;-AGGGTCTACTTGTGTGCTATATCTCTTTT-3&#39;) and VifAB probe
+(6FAM-5&#39;-CTCCATTCTATGGAGACTC-3&#39;-MGBNFQ). For cDNA derived from
+pNL4-3VifB based clone, use the VifB primer-probe: VifAB forward primer,
+VifAB probe and VifB reverse primer (5&#39;-CACCTGCGTGCTATACCTTTTCT-3&#39;).  </p><p>5.3.4) Set PCR cycling parameters to 50 <sup>o</sup>C for 2 min, 95
+<sup>o</sup>C for 10 min, and 40 cycles of 95 <sup>o</sup>C for 15 sec
+and 60 <sup>o</sup>C for 1 min. Consult the manufacturer&rsquo;s support
+document for operation of the qPCR machine.</p><p>5.3.5) Calculate a standard curve using data from the triplicate
+standard dilution series. Compare amplification data of the cDNA sample
+to the standard curve to determine the copy number. Consult the
+manufacturer&rsquo;s support document for data processing.  </p><p><strong>5.4)</strong> **Determine viral exponential growth phase  </p><p>**</p><p>5.4.1) Plot viral growth kinetics with the sampling day along the X-axis
+and the cDNA copy number along the Y-axis and identify the viral
+exponential growth phase, i.e., when viral cDNA copy numbers increase in
+an exponential progression.</p><p>5.4.2) Use the GRC web tool
+(<a href="http://indra.mullins.microbiol.washington.edu/grc/">http://indra.mullins.microbiol.washington.edu/grc/</a>) to calculate
+viral growth rate (<em>g</em>). In this application, the GRC tool accepts cDNA
+copy numbers from at least two time points as input, and outputs the
+viral growth rate (<em>g</em>). Use only time point data within the exponential
+growth phase (see step 5.4.1 above) to obtain accurate growth rates. For
+a detailed description of the mathematical model used in the GRC web
+tool, see<sup>20</sup>.  </p><p><strong>6)</strong> **Growth Competition Assay  </p><p>**</p><p>6.1) Seed 3 x 10<sup>5</sup> PHA-stimulated PBMCs (or 1 x 10<sup>5</sup>
+CEMx174 cells<em>)</em> in 500 Âµl total volume per well in a 48 well
+flat-bottomed plate.*  </p><p>*</p><p>6.2) Keep plate in 37 <sup>o</sup>C in a 5% CO<sub>2</sub> atmosphere
+until inoculation.  </p><p>6.3) For each virus, prepare 3 ml of inoculum containing 6,000 IU.  </p><p>6.4) Transfer 1.5 ml of each viral inoculum to a sterile tube to create
+the dual infection inoculum. Add 500 Âµl of the dual inoculum (1,500 IU)
+to 3 x 10<sup>5</sup> cells in a 48-well plate. The final culture volume
+is 1 ml/well. Aliquot 200 Âµl of the inoculum to two 96-well plates for
+RNA isolation; save one plate as a back up.  </p><p>6.5) Incubate inoculated cells at 37 <sup>o</sup>C with a 5%
+CO<sub>2</sub> atmosphere for 16-24 hr.</p><p>6.6) Wash cultures 16-24 h after inoculation.</p><p>6.6.1) Remove and discard 750 Âµl of culture supernatant.  </p><p>6.6.2) Add 750 Âµl of fresh cIMDM. Wrap plates in plastic wrap and spin
+for 10 minutes at 300 x g. Remove and discard 750 Âµl supernatant.</p><p>6.6.3) Add 750 Âµl of fresh cIMDM. Incubate at 37 <sup>o</sup>C with a
+5% CO<sub>2</sub> atmosphere (day 1)<strong>.</strong></p><p>6.7) Select sampling times to include at least 3 time points within the
+exponential growth phase observed in step 5.4.1.  </p><p>6.7.1) For each sampling, follow step 5.1.7.  </p><p>6.8) Perform cDNA synthesis as described in section 5.2.  </p><p>6.9) Determine the viral variant ratio using qPCR.</p><p>6.9.1) Prepare a standard serial dilution series in triplicate, diluting
+10-fold in each step from 3 x 10<sup>6</sup> copies/Âµl to 30 copies/Âµl
+of pNL4-3VifA.</p><p>6.9.2) Set up a 96-well qPCR reaction plate. Ensure that each plate
+contains at least one negative control, the standard dilution series in
+triplicate, and duplicates of each cDNA sample.</p><p>6.9.3) For each qPCR reaction, use 12.5 Âµl of qPCR Master Mix, 0.2 ÂµM
+probe, 0.8 ÂµM each of the forward and reverse primers and 1 Âµl of cDNA
+or the standard dilution series or water/buffer (for the negative
+control wells). Add water to a final volume of 25 Âµl. The qPCR probe is
+light sensitive, keep it in closed container.</p><p>6.9.3.1) Use the VifA primer-probe to detect signals in the negative
+controls and the standard dilution series and with one duplicate of the
+cDNA sample. Use the VifB primer-probe with the other duplicate of the
+cDNA sample.  </p><p>6.9.4) Set PCR cycling parameters to 50 <sup>o</sup>C for 2 min, then 95
+<sup>o</sup>C for 10 min, and then 40 cycles of 95 <sup>o</sup>C for 15
+sec and 60 <sup>o</sup>C for 1 min. Consult the manufacturer&rsquo;s support
+document for operation of the qPCR machine.</p><p>6.9.5) Calculate the standard curve using amplification data from the
+standard dilution series. Compare amplification data of the cDNA samples
+to the standard curve to determine copy number. Consult the
+manufacturer&rsquo;s support document for data processing.</p><p>6.9.6) Use the GRC web tool
+(<a href="http://indra.mullins.microbiol.washington.edu/grc/">http://indra.mullins.microbiol.washington.edu/grc/</a>) to calculate
+relative viral fitness (<em>d</em>). The GRC tool accepts cDNA copy numbers or
+chromatogram peak heights from at least two time points as the input,
+and outputs the net growth rate difference (<em>d</em>) between the two
+viruses. While the tool can calculate the net growth rate from two time
+point data, it is strongly recommended to input data from three or more
+time points. Use only data obtained from time points within the
+exponential growth phase (see step 5.4) to obtain accurate growth rates.
+For a detailed description of the mathematical model used in the GRC web
+tool, see<sup>20</sup>.</p><p>6.10) Determine viral ratios using chromatogram peak-heights</p><p>6.10.1) PCR amplify HIV-1 <em>vif</em> fragments containing the VifAB sequence
+tag using VifFwd (5â€²-GAAAGAGACTGGCATTTGGGTCAGGG-3â€²; HXB2 positions
+5266-5291) and VifRev primers (5â€²-GTCTTCTGGGGCTTGTTCCATCTGTCC-3â€²;
+HXB2 positions 5579-5553).</p><p>6.10.1.1) For each PCR reaction, use 1 Âµl of cDNA, 1X NH<sub>4</sub>
+buffer, 1.5 mM MgCl<sub>2</sub>, 0.2 mM dNTP, 2.5 U of Taq Polymerase,
+and 0.45 ÂµM of each primer. Add water to a final volume of 50 Âµl.  </p><p>6.10.1.2) Set PCR cycling parameters to 3 cycles at 94 <sup>o</sup>C for
+1 min, 55 <sup>o</sup>C for 1 min, and 70 <sup>o</sup>C for 1 min,
+followed by 34 cycles at 94 <sup>o</sup>C for 15 sec, 58 <sup>o</sup>C
+for 30 sec, and 70 <sup>o</sup>C for 1 min, and then hold at 4
+<sup>o</sup>C.  </p><p>6.10.2) Purify PCR products using the QIAquick PCR purification kit
+according to the manufacturer&rsquo;s protocol.</p><p>6.10.3) Submit purified PCR products to a DNA sequencing service
+provider for Sanger sequencing.</p><p>6.10.4) Check the average read quality score, which should be provided
+by the sequencing service. If the average base call accuracy is less
+than 85%, redo step 6.10.1 to 6.10.3</p><p>6.10.5) Use the ChromatQuant web tool
+(<a href="http://indra.mullins.microbiol.washington.edu/cgi-bin/chromatquant.cgi">http://indra.mullins.microbiol.washington.edu/cgi-bin/chromatquant.cgi</a>)
+to calculate viral ratio at each time point. The tool requires the
+sequence trace file (*.ab1) and the sequence 5&#39; to the nucleotide site
+of interest. The tool measures the peak intensity at the specified site.
+The ratio of the peak intensity corresponds to the ration of the two
+viruses <strong>(Figure 4B).</strong></p><p>6.10.6) Use the GRC web tool
+(<a href="http://indra.mullins.microbiol.washington.edu/grc/">http://indra.mullins.microbiol.washington.edu/grc/</a>) and the recorded
+peak intensities as the input to calculate viral relative fitness (<em>d</em>).
+See step 6.10.6.<sup>20</sup></p>
+
+]]>
+        </content>
+    </entry>
+    
+    <entry>
+        <title>Determining Coreceptor Usage of HIV-1 on U87 Glioma Cells</title>
+        <link href="https://mullinslab.microbiol.washington.edu/protocols/tissue_culture_bl3/429-Determining-Coreceptor-Usage-of-HIV-1-on-U87-Glioma-Cells" rel="alternate" type="text/html" />
+        <published>2010-03-30T14:49:58-07:00</published>
+        <updated>2011-06-03T16:09:18+00:00</updated>
+        <id>urn:uuid:58e8e370-2e62-57d8-8863-906ebaff36d4</id>
+        <author><name>Camille</name></author>
+        <content type="html">
+<![CDATA[
+<p><span class="underline"><strong>Reagents:</strong></span></p>
+<ul>
+<li><p>U87 T4 co-receptor cell lines (mycoplasma free):</p></li>
+<li><p>CD4 only</p></li>
+<li><p>CD4 plus CCR1</p></li>
+<li><p>CD4 plus CCR2b</p></li>
+<li><p>CD4 plus CCR3</p></li>
+<li><p>CD4 plus CCR5</p></li>
+<li><p>CD4 plus CXCR4</p></li>
+<li><p>cDMEM (DMEM, 10% FBS, 100 U/ml penicillin, 100 Âµg/ml streptomycin,
+L-Glutamine, 10mM HEPES)</p></li>
+<li><p>Sterile TC 1x PBS.</p></li>
+<li><p>1x Trypsin.</p></li>
+<li><p>Geneticin (G418), 300 Âµg/ml final concentration.</p></li>
+<li><p>Puromycin, 1 Âµg/ml final concentration.</p></li>
+<li><p>96-well microtiterplate with lid (flat bottom), Nuclon, Nunc.</p></li>
+<li><p>24-well plate with lid (flat bottom), Costar?</p></li>
+</ul>
+<p><span class="underline"><strong>Passaging:</strong></span></p>
+<ol>
+<li><p> U87 cell stocks are cultured in T25 flasks in 7ml cDMEM with G418
+for all cell lines and puromycin for all except parental U87 T4.</p></li>
+<li><p> For passaging, wash monolayer with 5ml warm PBS.</p></li>
+<li><p> Add 0.5ml 1X Trypsin.</p></li>
+<li><p> Incubate 2 minutes at room temperature.</p></li>
+<li><p> Confirm that all cells detach.</p></li>
+<li><p> Add 2ml cDMEM and pipette up and down to completely resuspend all
+cells.</p></li>
+<li><p> Use 250 Âµl cell suspension to continue culture. Add 7ml cDMEM and
+antibiotics.</p></li>
+<li><p> Pellet cells not used for passaging and resuspend at appropriate
+concentration for further use (i.e. 1 x 10<sup>5</sup>/ml for
+co-receptor assay).</p></li>
+</ol>
+<p><span class="underline"><strong>Co-receptor assay:</strong></span></p>
+<ol>
+<li><p> Per virus per cell line: plate out 1 x 10<sup>4</sup> cells (100
+Âµl) in cDMEM with antibiotics in 96-well plate.</p></li>
+<li><p>Inoculate with at least 100 TCID<sub>50</sub> (in no more than 100
+Âµl).</p></li>
+<li><p>After 24 hours wash with warm PBS.</p></li>
+<li><p>Add 200 Âµl fresh cDMEM with antibiotics.</p></li>
+<li><p>After 3 and 7 days, take p24 sample. Store at -20Â°C.</p></li>
+<li><p>After 7 days, score cytopathic effect.</p></li>
+<li><p>Wash monolayer with warm PBS.</p></li>
+<li><p>Add 50 Âµl 1x Trypsin.</p></li>
+<li><p>Incubate 2 minutes at room temperature.</p></li>
+<li><p>Transfer each well to a new well in a 24-well plate.</p></li>
+<li><p>Add 2 ml cDMEM with antibiotics</p></li>
+<li><p>After 10, 14, 17 and 21 days, take p24 samples. Store at -20Â°C.</p></li>
+<li><p>After 14 and 21 days, score cytopathic effect.</p></li>
+<li><p>Assay p24 production and discard cultures.</p><p>For specifics on appropriate handling and waste procedures please
+see the <a href="http://mullinslab.microbiol.washington.edu/sops/ChemSOP.htm">online chemical
+SOPs</a>
+or our waste and spill notebook located in room 352.</p></li>
+</ol>
+
+
+]]>
+        </content>
+    </entry>
+    
+    <entry>
+        <title>Biological Cloning of HIV-1</title>
+        <link href="https://mullinslab.microbiol.washington.edu/protocols/tissue_culture_bl3/882-Biological-Cloning-of-HIV-1" rel="alternate" type="text/html" />
+        <published>2010-03-30T14:48:21-07:00</published>
+        <updated>2012-03-09T10:05:39+00:00</updated>
+        <id>urn:uuid:173ae0ee-583a-574d-a625-f98258f9201b</id>
+        <author><name>Camille</name></author>
+        <content type="html">
+<![CDATA[
+<p><strong><span class="underline">Materials:</span></strong></p>
+<h3>Equipment</h3>
+
+<ul>
+<li><p>Single channel pipette: 0.5-10 Âµl, 10-100 Âµl, 200-1000 Âµl,
+Eppendorf</p></li>
+<li><p>Multichannel pipette: 5-50 Âµl, 50-300 Âµl, Finnpipette, Labsystems</p></li>
+<li><p>Burker Bright-line Count-chamber, Labor Optik</p></li>
+<li><p>Adjustable waterbath (37Â°C)</p></li>
+<li><p>Rotixa/RP centrifuge, Hettich</p></li>
+<li><p>37Â°C/5% CO<sub>2</sub> incubator, Brouwer Scientific</p></li>
+<li><p>Biosafety cabinet, Clean Air</p></li>
+<li><p>Sterile tray</p></li>
+</ul>
+
+<h3>Disposables</h3>
+
+<ul>
+<li><p>Disposable pipette: 1, 2, 5, 10, 25, 50 ml, Falcon</p></li>
+<li><p>Pipette tips: 1-200 Âµl, Costar</p></li>
+<li><p>Propylene conical tubes: 15 ml, 50 ml, Falcon/Nunclon</p></li>
+<li><p>Sterile solution basins, individually wrapped, Labcor</p></li>
+<li><p>Microtiter plate: 96-well flat bottom with lid, Nunclon, Nunc</p></li>
+<li><p>Tissue culture flask: 25 cm<sup>2</sup>, 75 cm<sup>2</sup>, 175
+cm<sup>2</sup>, Nunc</p></li>
+</ul>
+
+<h3>Reagents</h3>
+
+<ul>
+<li><p>Complete IMDM = IMDM + 10% FBS + Pen/Strep + 5 Âµg/ml Polybrene</p></li>
+<li><p>PHA, use in complete IMDM at 1 Âµg/ml, Murex (HA16/17)</p></li>
+<li><p>rIL-2, use in complete IMDM at 20 U/ml, Boehringer Mannheim</p></li>
+</ul>
+<p><strong><span class="underline">Protocol:</span></strong></p>
+<h3>Prepare PHA-stimulated target cells</h3>
+
+<ol>
+<li><p> Isolate PBMC by separation over Ficoll gradient</p></li>
+<li><p> Resuspend cells in complete IMDM with PHA, 3 to 5 x
+10<sup>6</sup>/ml</p></li>
+<li><p> Incubate 2 to 3 days at 37 Â°C/5% CO<sub>2</sub></p></li>
+<li><p> Spin 10 minutes at 1500 rpm</p></li>
+<li><p> Resuspend cell pellet in complete IMDM with rIL-2</p></li>
+<li><p> 10 x 10<sup>6</sup> cells in 10 ml are needed per 96-well plate (100
+Âµl/well)</p></li>
+</ol>
+
+<h3>Prepare patient PBMC</h3>
+
+<ol>
+<li><p> Thaw and count cells (resuspended in complete IMDM with rIL-2)</p></li>
+<li><p> Make four 2-fold dilutions of 2.5 ml using up the total amount of
+cells (e.g. 100,000/ml, 200,000/ml, 400,000/ml and 800,000/ml,
+resulting in final concentrations of 10,000, 20,000, 40,000, and
+80,000 cells/well)</p></li>
+</ol>
+
+<h3>Start co-cultivation in 96-well plates</h3>
+
+<ol>
+<li><p> Plate out 100 Âµl of PHA-stimulated target cells per well</p></li>
+<li><p>Add 100 Âµl of patient cells per well (24 wells per dilution)</p></li>
+<li><p>Wrap plastic foil around the plates</p></li>
+<li><p>Incubate at 37Â°C/5% CO<sub>2</sub></p></li>
+</ol>
+
+<h3>Continuation of culture</h3>
+
+<ol>
+<li><p>Prepare PHA-stimulated target cells 2-3 days prior as described
+above</p></li>
+<li><p>Every seven days:</p><p>1.</p>
+<ol>
+<li> Resuspend the rest of the culture, transfer 65 Âµl to a fresh
+plate containing 135 Âµl complete IMDM with rIL-2 with 100,000
+target cells per well</li>
+<li> Add 25,000 MT2 cells per well to the original plate</li>
+<li> Score syncytia in this plate after 3 days</li>
+</ol></li>
+</ol>
+
+<h3>Expand biological virus clones</h3>
+
+<ol>
+<li><p>When fewer than 33% of wells seeded with a certain concentration are
+positive, the viruses in one well are thought to originate from one
+infected cell.</p></li>
+<li><p>Wells that show evidence of HIV-1 replication in that concentration
+(in p24-ELISA and/or MT-2 culture) can be transferred to a tissue
+culture flask (25 cm<sup>2</sup>) containing 5 x 10<sup>6</sup>
+PHA-stimulated target cells in 5 ml complete IMDM with rIL-2</p></li>
+<li><p>After 7 to 14 days virus containing cell-free culture supernatants
+can be collected and stored at -70Â°C for viral stocks, cells viably
+frozen and 10<sup>6</sup> cells stored in lysis buffer for isolation
+of proviral DNA</p>
+<h3>Calculations</h3>
+
+<ol>
+<li><p>The proportion of infected cells is determined according to the
+formula for Poisson distribution: F=-ln(F<sub>0</sub>), in which
+F<sub>0</sub> is the fraction of negative cultures.</p></li>
+<li><p>Since CD4<sup>+</sup> T cells have been shown to be the most
+important target for HIV-1 in the peripheral blood, virus load
+is expressed as tissue culture infective doses per
+10<sup>6</sup> CD4<sup>+</sup> T cells.</p><p><strong>Schematic overview of biological cloning
+experiments</strong></p><p><strong><a href="https://mullinslab.microbiol.washington.edu/protocols/tissue_culture_bl3/882-Biological-Cloning-of-HIV-1"><img src="https://mullinslab.microbiol.washington.edu/static/_img/f0/358a/cloning_59ec741897_320x206.gif" width="320" height="206" srcset="https://mullinslab.microbiol.washington.edu/static/_img/f0/358a/cloning_59ec741897_320x206.gif 1x, https://mullinslab.microbiol.washington.edu/static/_img/f0/358a/cloning_59ec741897_640x412.gif 2x" alt="cloning.gif"></a></strong></p></li>
+</ol></li>
+</ol>
+
+
+]]>
+        </content>
+    </entry>
+    
+    <entry>
+        <title>Sputum Protocol</title>
+        <link href="https://mullinslab.microbiol.washington.edu/protocols/tissue_culture_bl3/1378-Sputum-Protocol" rel="alternate" type="text/html" />
+        <published>2010-03-30T13:57:49-07:00</published>
+        <updated>2011-06-03T16:09:51+00:00</updated>
+        <id>urn:uuid:e3c9eba7-8bac-50a2-83b8-d8bc10ec76c3</id>
+        <author><name>Camille</name></author>
+        <content type="html">
+<![CDATA[
+<p>1 March 2002</p><p><strong><span class="underline">Reagents:</span></strong></p>
+<ul>
+<li><p>DPBS: Dulbecco&rsquo;s Phosphate Buffered Saline, calcium/magnesium free
+(BioWhittaker #17-515F)</p></li>
+<li><p>DTT: Sputolysin (Calbiochem #560000, 20x 10ml). Dilute the contents
+of 1 vial to 100ml with sterile distilled water. Swirl gently to
+dissolve any crystals; filter if necessary. Diluted solutions,
+stored under N<sub>2</sub>, are stable for 48 hours at 2-8Â°C. After
+opening, vials with undiluted concentrate can be stored under
+N<sub>2</sub>at 2-8Â°C.</p></li>
+</ul>
+<p><strong><span class="underline">Protocol:</span></strong></p><p>Process sputum within 2 hours of collection.</p><p>Keep sputum on ice until ready to process.</p><p>Select opaque/dense sputum portions that are different from saliva and
+free of squamous cell contamination for processing.</p><p>Weigh remaining sputum sample.</p><p>Add freshly prepared DTT equal to 2x weight of sputum portion.</p><p>Incubate 15 minutes at 37Â°C with frequent shaking.</p><p>Vortex every 5 minutes for 15 seconds.</p><p>Dilute with equal volume of DPBS.</p><p>Filter through 48 Âµm pore nylon gauze mesh filter.</p><p>Take sample for hemocytometer: obtain total cell count and viability.</p><p>Spin cells at 2000 rpm for 10 minutes (4Â°C).</p><p>Collect supernatant and store at -80Â°C.</p><p>Resuspend cell pellet in DPBS at 10<sup>6</sup>cells/ml.</p><p>Make cytospins with 60,000 to 120,000 cells per slide.</p><p>Fix and stain (May-Grunwald Giemsa, Wright, and/or Romanowski stains).</p><p>Use remaining cells for culture assays.</p><p><strong><span class="underline">References:</span></strong></p>
+<ol>
+<li><p> Pin et al. (1992)<em>Am Rev Respir Dis</em><strong>145</strong>:1265-1269.</p></li>
+<li><p> Pin et al. (1992)<em>Thorax</em><strong>47</strong>:25-29.</p></li>
+<li><p> Pizzichini et al. (1996)<em>Am J Respir Crit Care Med</em><strong>154</strong>:308-317.</p></li>
+<li><p> Pizzichini et al. (1997)<em>Am J Respir Crit Care
+Med</em><strong>155</strong>:1501-1508.</p></li>
+<li><p> Lensmar et al. (1998)<em>Eur Respir J</em><strong>12</strong>:595-600.</p></li>
+<li><p> Ward et al. (1999)<em>Clin Exp Allergy</em><strong>29</strong>:248-252.</p></li>
+<li><p> Rutgers et al. (2000)<em>Eur Respir J</em><strong>15</strong>:109-115.</p></li>
+<li><p> Purovicki et al. (2000)<em>Eur Respir J</em><strong>16</strong>:242-246.</p></li>
+<li><p> Alexis et al. (2000)<em>Clin Immunol</em><strong>97</strong>:21-32.</p></li>
+<li><p>Zeibecoglou et al. (2000)<em>J Allergy Clin Immunol</em><strong>106</strong>:697-704.</p></li>
+</ol>
+
+
+]]>
+        </content>
+    </entry>
+    
+    <entry>
+        <title>Processing Peripheral Blood from HIV-1 Infected Individuals</title>
+        <link href="https://mullinslab.microbiol.washington.edu/protocols/tissue_culture_bl3/1429-Processing-Peripheral-Blood-from-HIV-1-Infected-Individuals" rel="alternate" type="text/html" />
+        <published>2010-03-17T10:52:32-07:00</published>
+        <updated>2011-06-03T16:09:55+00:00</updated>
+        <id>urn:uuid:5ed38297-e78f-56b5-98ff-b57fa4c739d8</id>
+        <author><name>Camille</name></author>
+        <content type="html">
+<![CDATA[
+<p><span class="underline"><strong>Reagents</strong>:</span></p>
+<ul>
+<li><p>Ficoll-Paque Plus, Pharmacia (cat.no. 17-1440-02).</p></li>
+<li><p>Phosphate buffered Saline (PBS), BioWhittaker (cat.no. 17-515F).</p></li>
+<li><p>Tri Natrium Citrate Dihydrate (TNC), 38g/l.</p></li>
+<li><p>ACK lysing buffer, BioWhittaker (cat.no. 10-548E).</p></li>
+<li><p>peripheral blood sample (e.g. 50mls of heparinized blood)</p></li>
+</ul>
+<p><span class="underline"><strong>Protocol</strong>:</span></p>
+<ol>
+<li><p> Transfer blood to 50 ml tube.</p></li>
+<li><p> Spin at 2000 rpm for 10 minutes.</p></li>
+<li><p> Collect plasma and spin at 3000 rpm for 10 minutes.</p></li>
+<li><p> Collect plasma and store at -80 Â°C.</p></li>
+<li><p> Dilute remaining cell suspension with PBS/10%TNC to 50 ml.</p></li>
+<li><p> Fill two 50 ml tubes with 12.5 ml Ficoll-Paque Plus each.</p></li>
+<li><p> Gently pipette 25 ml of the diluted cell suspension on top of each
+12.5 ml of Ficoll-Paque Plus.</p></li>
+<li><p> Spin 20 minutes at 2000 rpm at room temperature. No brake!</p></li>
+<li><p> Transfer the white blood cell ring fraction to a new 50 ml tube
+using sterile Pasteur&rsquo;s pipette.</p></li>
+<li><p>Adjust the volume to 50 ml using PBS/10%TNC.</p></li>
+<li><p>Spin 10 minutes at 1700 rpm.</p></li>
+<li><p>Discard the supernatant.</p></li>
+<li><p>Resuspend each pellet in 2 ml ACK lysing buffer to lyse remaining
+erythrocytes.</p></li>
+<li><p>Incubate for no more than 2 minutes at room temperature.</p></li>
+<li><p>Adjust the volume to 50 ml using PBS/10%TNC.</p></li>
+<li><p>Spin 10 minutes at 1200 rpm.</p></li>
+<li><p>Resuspend the pellet and count the cells.</p></li>
+</ol>
+<p>Notes: Processing the blood this way will remove thrombocytes from the
+plasma without activating them, so that plasma can be used for testing
+of chemokine levels. Before starting Ficoll-Paque Plus and PBS with
+10%TNC (v/v) should be at room temparature.</p><p>For specifics on appropriate handling and waste procedures please see
+the<a href="http://mullinslab.microbiol.washington.edu/sops/ChemSOP.htm">online chemical
+SOPs</a>or our
+waste and spill notebook located in room 352.</p>
+
+]]>
+        </content>
+    </entry>
+    
+    <entry>
+        <title>BL3 Standard Operating Procedures</title>
+        <link href="https://mullinslab.microbiol.washington.edu/protocols/tissue_culture_bl3/1388-BL3-Standard-Operating-Procedures" rel="alternate" type="text/html" />
+        <published>2010-03-17T10:47:57-07:00</published>
+        <updated>2011-06-03T16:09:59+00:00</updated>
+        <id>urn:uuid:c64cc80e-e574-5ea2-a442-ae961df88c5b</id>
+        <author><name>Camille</name></author>
+        <content type="html">
+<![CDATA[
+<h1>I. Authorization to Use the Mullins&#39; lab BL-3 Facility (B44C)</h1>
+<p><em>This document must be read and an agreement/authorization sheet signed
+and registered with Dr. Mullins.</em></p>
+<ol>
+<li><p> Entry to the BL-3 Facility is restricted to individuals who have
+obtained prior approval. Authorization to use this facility is
+contingent on the user&rsquo;s satisfactory completion of training,
+understanding of the safety procedures described below, and on his
+or her ability to follow these guidelines while using the facility.
+Individuals with little or no prior experience working in a BL-3
+facility must have an experienced individual working with them until
+they become proficient in the safety techniques required.</p></li>
+<li><p> Authorization to use the BL-3 facility requires review and
+understanding of the following information:</p></li>
+<li><ol>
+<li> Practices outlined in the UW Biohazard Safety Manual, section IV
+on Biohazard Control Procedures, section VI on Occupational
+Health Program and section IX on Blood borne Pathogens.</li>
+</ol>
+
+<ol>
+<li><p> The pamphlet from the CDC-NIH Biosafety in Microbiological and
+Biomedical Laboratories, pages 25-30, BL-3 Standard
+Microbiological Practices, Special Practices and Safety
+Equipment; and pages 116-121, Viral Agents: Retroviruses,
+Including HIV and SIV. The information in this booklet contains
+recent information on laboratory-acquired infection with HIV as
+well as guidelines for the use of biological safety cabinets,
+cleaning and decontaminating spills, and management of
+exposures.</p></li>
+<li><p> The specific rules and procedures outlined in this document for
+work in the Rosen B44C BL-3 facility.</p></li>
+</ol></li>
+<li><p> Authorization to use the BL-3 facility requires successful
+completion of the following:</p></li>
+<li><ol>
+<li> Completion of the<a href="http://mullinslab.microbiol.washington.edu/protocols/bl3/BL3form_rev20060323.pdf">Mullins B44C BL-3 Facility Usage Authorization
+Form</a>.
+Make yourself a copy and turn in completed form to
+Mullins/Mittler BL3 Lab supervisor (who will make a copy for BL3
+Entry Notebook and give copies to appropriate supervisors).</li>
+</ol>
+
+<ol>
+<li><p> Completion of the EHS course Bloodborne Pathogen Exposure
+Control, required for laboratory employees working with human
+blood and blood byproducts. Covers risk assessment, personal
+protection, safe procedures, emergency response, and disposal of
+biohazardous waste. Annual refresher training required. Register
+online
+at<a href="http://www.ehs.washington.edu/forms/classes/bpecrform.htm">http://www.ehs.washington.edu/forms/pso/bpecrform.php</a>or
+call (206) 543-7201.</p></li>
+<li><p> Completion of the EHS course, Biological Safety Practices (U
+Conjoint 420), scheduled upon request, autumn only. If a user
+already has extensive experience working in a BL-3 facility,
+this course does not have to be taken prior to beginning their
+work, but should be taken at the earliest possible convenience.</p></li>
+<li><p> All users must have experience with tissue culture or working
+with other human pathogens prior to working with HIV and SIV. A
+laboratory orientation should be arranged with Dr. Mullins or
+the BL-3 lab supervisor. At this time, proficiency in biosafety
+techniques (use of the biosafety cabinets, microscopes,
+centrifuge safety cups, and proper handling of media and waste
+material, etc.) must be demonstrated.</p></li>
+<li><p> Appointment with Occupational Health to cover the following:</p></li>
+<li><ol>
+<li> Hepatitis B immunization for work with blood or blood
+products.</li>
+</ol>
+
+<ol>
+<li> Counseling on working with HIV and SIV. This includes
+receiving a drug prescription for post exposure prophylaxis
+(PEP).</li>
+<li> Drawing of serum sample prior to initiating work in the BL-3
+facility. This sample will be stored in the event that HIV
+seroconversion occurs in order to document the time of
+seroconversion. They will not be tested without the consent
+of the individual and then only after a documented exposure
+occurs. Every 6 months samples can be drawn for HIV testing
+(optional).</li>
+</ol></li>
+</ol></li>
+</ol>
+
+<h1>II. Entrance into the Facility</h1>
+
+<ol>
+<li> Food or drink is not permitted anywhere within the BL-3 laboratory
+or anteroom.</li>
+<li> Sandals and shorts are not allowed in the BL-3 facility.</li>
+<li> Whenever possible, laboratory personnel should avoid handling
+virus-containing material when he or she has cuts or skin abrasions
+including, for example, eczema on the hands, wrists or face. If work
+is necessary, and no replacement for that individual can be found to
+perform the work, cuts and/or abrasions on the hands and/or wrists
+should be thoroughly bandaged prior to donning gloves and entrance
+to the facility. A full-face shield, in addition to the facemask,
+should be worn to protect cuts and abrasions on the face.
+Immuno-compromised individuals should not use the facility.</li>
+<li> The following dress requirements are to be followed by all
+individuals who use the facility regardless of the reason for entry:
+within the anteroom and prior to entry to the facility each user
+should put on one pair of nitrile gloves to cover at least two
+inches of sleeve (the integrity of the gloves can be checked for
+tears and punctures by flipping the gloves closed and observing that
+the air trapped inside is not leaking). The user should then don
+shoe covers, goggles (or glasses) and a face mask and enter the
+facility. The gown should be put on immediately upon entrance to the
+facility, followed by a second pair of latex long gloves. The inner
+pair of gloves should never be removed or replaced while in the
+facility unless a tear is suspected. Clean gowns will be provided in
+the anteroom. Contaminated gowns should be changed immediately. It
+should be emphasized that the reason for protective clothing is to
+protect the worker from inadvertent spills of infected media. The
+purpose of the shoe covers, for example, is to protect shoes from
+inadvertent spills, however, THE FLOORS (AND ALL SURFACES) SHOULD BE
+KEPT CLEAN OF SPILLS AND TRASH AT ALL TIMES. PROTECTIVE CLOTHING IS
+NOT MEANT TO NOR WILL IT EVER REPLACE APPROPRIATE AND PRUDENT WORK
+PRACTICES. Please note that the housekeeping staff are instructed
+not to enter this room, you are responsible for keeping it clean.</li>
+<li> The air pressure in the BL-3 facility should be between -0.05 and
+-0.10. When the air pressure alarm sounds for a prolonged period of
+time after entry into the facility and closing the door, all work in
+the area should cease until the pressure has returned to normal.</li>
+<li> Do not bring personal items into the lab.</li>
+<li> Do not apply cosmetics while in the lab.</li>
+<li> Workmen are only allowed to enter the facility if work is not
+ongoing and with the approval of Dr. Mullins or the lab supervisor.
+Workmen should be accompanied by someone authorized to enter the
+BL-3 facility who will show them the appropriate dress requirements.
+They should wear gowns and gloves but are not required to wear shoe
+covers, goggles or facemask, as they will not handle infectious
+materials.</li>
+</ol>
+
+<h1>III. Laboratory Procedures</h1>
+
+<ol>
+<li><p> <strong>General Considerations:</strong></p></li>
+<li><ol>
+<li> Failure to comply with the practices described below will result
+in suspension of access privileges.</li>
+</ol>
+
+<ol>
+<li> Double gloves are required to provide protection against
+exposure to virus through gloves potentially weakened by
+alcohol, skin oils, other chemicals and overuse. EHS recommends
+changing your outer gloves every 30 minutes. At any time the
+outer gloves have been contaminated with culture supernatant,
+serum or infectious fluid, they should be removed and discarded
+into the autoclave bag inside the hood. A clean pair of outer
+gloves should be donned before continuing work. Gloved hands
+that have been working in the hood, should be sprayed with
+ethanol or changed prior to touching anything outside of the
+hood. It is recommended that you wash your hands free of oils
+and remove rings with sharp edges prior to putting on gloves. To
+take gloves off, take hold of the glove at the wrist and peel
+off inside out.</li>
+<li><p> Chemical disinfectants for bloodborne pathogens:<br>
+Care should be taken to minimize splashing when applying
+chemical disinfectants such as bleach, Wescodyne, or ethanol.  </p><p><a href="http://mullinslab.microbiol.washington.edu/protocols/bl3/bl3rulesuw.htm#A">Appendix
+A</a>describes
+in detail our procedures for clean up of biohazard spills.  </p>
+<ul>
+<li><span class="underline"><strong>Chlorine Bleach</strong>(hypochlorite
+solution ~6-8% hypochlorite)</span>: Use 2% (1:50 dilution
+in water) for surfaces. Use 10% (1:10 dilution) for disposal
+of liquids containing potentially hazardous pathogens or for
+soaking heavily soiled tubes, vials etc. Use care - bleach
+will corrode stainless steel. We use bleach routinely to mop
+floors (1:50 dilution), for hood aspiration flasks (such
+that full trap is a final of at least 1:10 bleach), and to
+contain spills outside hood. Contact time should be at least
+10 minutes.<br></li>
+<li><span class="underline"><strong>Wescodyne</strong>(Iodophor compound -
+0.175% Iodine)</span>: Use 1% (1:100 dilution in water) for
+surfaces. Use 2.5% (1:40 dilution) for disposal of liquids
+containing potentially hazardous pathogens or for soaking
+heavily soiled tubes, vials etc. All spills inside hood
+should be disinfected immediately with 2.5% Wescodyne
+followed by with 70% ethanol (Wescodyne is corrosive to
+stainless steel though much less so than bleach; it should
+not be used on aluminum or copper). We routinely use 2.5%
+Wescodyne solution in disinfectant buckets, pipet jars, and
+for spills and splashes inside or outside the hood. Contact
+time should be at least 10 minutes. Dilute solutions for
+soaking materials should be changed daily.<br></li>
+<li><span class="underline"><strong>70% Ethanol</strong></span>: Used to
+disinfected work surfaces, gloves, plastic surfaces, paper
+notes, instrument surfaces, and all surfaces where bleach or
+Wescodyne are inappropriate due to their corrosive and
+staining characteristics. DO NOT SPRAY ethanol directly into
+hood or into a spill; use a soaked paper towel.</li>
+</ul></li>
+<li><p> Aerosols:</p>
+<ol>
+<li> Procedures with a high potential for creating aerosols, such
+as vigorous shaking and vortexing should be performed in the
+back third of the biological safety cabinet.</li>
+<li> Avoid pouring or decanting virus suspensions.</li>
+<li> Avoid vigorous pipetting and mixing. Do not forcibly expel
+the last drop of suspension from a pipette. Discharge
+pipetted material near the surface of fluid or down the wall
+of a tube.</li>
+<li> When opening culture tubes, bottles and flasks, manipulate
+them slowly.</li>
+<li> When resuspending liquid cultures, use a gentle swirling
+action to create a homogeneous suspension. Once cultures are
+resuspended, wait a few minutes before opening the
+container.</li>
+<li> Do not spray or pour disinfectants directly onto liquid
+spills. Place absorbent paper towels over spill, then pour
+10% bleach or 2.5% Wescodyne around and onto towels.</li>
+</ol></li>
+<li><p> GLASSWARE: Whenever possible, plasticware should be used. Avoid
+use of glassware.</p></li>
+<li><p> SHARPS: Hypodermic needles, razor blades, glass Pasteur pipettes
+and other sharps which can easily penetrate the skin are
+forbidden in the BL-3 facility unless their use is absolutely
+necessary and specific permission for their use is obtained from
+Dr. Mullins.</p></li>
+<li><p> MOUTH PIPETTING: Mouth pipetting is not permitted. Use of a
+mechanical pipetting device is required.</p></li>
+<li><p> VACUUM: Vacuum lines must be protected with high efficiency
+particulate air (HEPA) filters and liquid disinfectant traps
+(containing 10% -100% bleach).</p></li>
+<li><p> Avoid touching your face or any other exposed skin while in the
+BL-3 facility.</p></li>
+<li><p>Before using the phone, change outer gloves to clean pair. Swab
+phone with 70% ethanol after use.</p></li>
+<li><p>To avoid contamination of an entire notebook, write notes and
+data in pencil or ethanol resistant pen on single sheets of
+paper or paper towels. These can then be saturated with ethanol
+before removing from the BL-3 lab. Protocols brought into the
+BL-3 lab should be enclosed in a vinyl page protector so that
+they can be cleaned with ethanol.</p></li>
+</ol></li>
+<li><p> <strong>Work in Biosafety Cabinets</strong></p>
+<ol>
+<li> The biosafety cabinet (class II, type A) is not designed for the
+use of volatile toxic chemicals and volatile radionuclides and
+therefore they cannot be used in this facility.</li>
+<li> The height of the user&rsquo;s chair should be adjusted to allow
+comfortable working and prevent a direct line of exposure to the
+user&rsquo;s face during normal operation of the hood.</li>
+<li> DO NOT TURN THE HOOD BLOWER OFF AT ANY TIME.</li>
+<li> MANIPULATIONS OF POTENTIALLY INFECTIOUS MATERIAL shall be
+conducted in the laminar-flow biosafety cabinets as follows:
+
+<ul>
+<li>Each user must clean the hood surfaces with 70% ethanol
+before initiation of work and after completion of work.</li>
+<li>Upon completion of work and your exit from BL3, the hood
+should be clean and free of all material except the
+followingPERMANENT HOOD RESIDENTS: tip boxes, pipettors,
+marker, aspiration flask, bleach bottle.<strong>BEFORE LEAVING THE
+BL3 CLEAN OUT YOUR WESCODYNE WASTE AND LEAVE EMPTY BUCKET BY
+SINK FOR NEXT USER.</strong>If you have extenuating circumstances
+for leaving other items in the hood LEAVE A NOTE WITH YOUR
+NAME, TIMEDATE, AND WHEN YOU EXPECT TO RETURN TO CLEAN UP!</li>
+<li>Place bucket (no more than Â¾ full) of fresh 2.5% Wescodyne
+solution in hood.</li>
+<li>Check aspiration flask. Aspirated liquid waste is collected
+and disinfected in a 2 L aspiration flask charged with 200
+mL undiluted bleach. After aspiration of infectious
+materials, chase with bleach then 70% ethanol. Empty into
+sink when ~Â¾ full; recharge with 200 mL undiluted bleach.</li>
+<li>Manipulations should be performed as far back from the front
+air grill as practical. Avoid placing anything on the front
+or rear grills of the cabinet since these will disrupt the
+airflow pattern and defeat the purpose of the cabinet.</li>
+<li>Biological wastes must be exposed to 10% bleach or 2.5%
+Wescodyne for at least minutes before sink disposal. NOTE:
+Plastic tips and tubes/vials should be completely submerged
+and pipettes should be filled to just below the plug. Upon
+your final exit from the hood, decontaminated plastic
+pipettes should be transferred to pipette jar. The Wescodyne
+waste bucket should sprayed with ethanol, the contents
+strained over the sink, and plastics discarded in small
+biohazard bag.</li>
+<li>Radioactive liquid waste will be disinfected with 10% bleach
+in a separate bleach trap and then transferred to the main
+lab and treated as general radioactive waste.</li>
+</ul></li>
+<li> TRANSPORT OF POTENTIALLY BIOHAZARDOUS MATERIALS (tubes for
+centrifugation, culture dishes to be placed in incubators or
+observed under microscope, etc&hellip;) should not leave the hood
+without being properly sealed. Microscope slides containing
+infectious materials should be transported and observed within
+plastic petri dishes and examined while remaining within this
+container if possible.</li>
+<li> AVOID AEROSOLIZATION: Care should be taken to minimize the
+splatter and/or aerosolization of infectious material inside the
+hood (e.g. pipette tips should be ejected only when the tip is
+present wholly within the confines of a plastic vessel
+containing appropriate disinfectant).</li>
+</ol></li>
+<li><p> <strong>Centrifugation</strong></p></li>
+<li><ol>
+<li> <span class="underline">Bench Top Centrifuge</span>: Avoid tube
+collapse by matching the rated speed of the tube with the
+requirements of your experiment. Make sure to use the
+appropriate set of matched buckets for the type of tube being
+used.
+
+<ul>
+<li>All centrifugation conducted outside of the biosafety
+cabinets must be performed using sealed rotors or secondary
+buckets to contain potential aerosols, leaks, and tube
+breakage.</li>
+<li>After centrifugation, the sealed rotor or buckets should be
+opened only inside a biosafety cabinet. These containers are
+disinfected in the hood by wiping out carefully with 70%
+ethanol. They cannot be autoclaved.</li>
+</ul></li>
+</ol>
+
+<ol>
+<li> <span class="underline">Microcentrifuge</span>: When
+centrifuging infectious substances, the microcentrifuge should
+be transferred into the hood for use and surface decontaminated
+prior to removal.</li>
+</ol></li>
+<li><p> <strong>Using the Microscope</strong></p></li>
+<li><ol>
+<li> Tighten caps on flasks of infectious culture before transporting
+to the microscope. Infectious cultures in plates or other
+containers without snugly fitting lids should be carried to the
+microscope in a tray.</li>
+</ol>
+
+<ol>
+<li> When using the hemacytometer to count cells, enclose the
+hemacytometer in a clean/disinfected petri dish with lid for
+transport to the microscope and observation.</li>
+<li> Change or spray gloves with ethanol before touching the
+microscope.</li>
+<li> Disinfect the viewing platform of the microscope after each use.</li>
+<li> If you must remove your safety glasses to look through the
+scope, don&rsquo;t forget to replace them.</li>
+</ol></li>
+<li><p> <strong>Waste Management</strong></p></li>
+<li><ol>
+<li> SHARPS:
+
+<ul>
+<li>Pipette tips and plastic pipettes are treated as
+quasi-sharps because they can puncture autoclave bags.
+Therefore, after decontamination and straining/draining,
+they must be double-bagged before autoclaving.</li>
+<li>Metal sharps that will easily penetrate the skin are not
+allowed in the BL-3 facility without special permission.
+Upon completion of the work after at least a 30-minute
+exposure to bleach, the decontaminated sharps are
+transferred to a red sharps container to await autoclaving.</li>
+</ul></li>
+</ol>
+
+<ol>
+<li> SOLID WASTE other than sharps generated inside the hood (vials,
+tubes, culture flasks, etc.) should be decontaminated, drained
+then placed directly into the large biohazard bag to await
+autoclaving. Solid wastes generated outside the hood (paper
+towels, outer gloves, shoe covers, etc.) are placed directly
+into the large biohazard bag to await autoclaving.</li>
+<li> LIQUID WASTE collected in a bleach trap or a 2.5% Wescodyne
+solution within the biosafety cabinet must be exposed to
+disinfectant 10 minutes before sink disposal.</li>
+</ol></li>
+<li><p><strong>Waste Sterilization</strong></p></li>
+<li><ol>
+<li> All solid waste and glassware should be autoclaved for at least
+60 minutes at 132Â°C. Liquid waste must be autoclaved for at
+least 60 minutes per gallon at 121Â°C. Laundry should be
+autoclaved for 30 minutes at 121Â°C.</li>
+</ol>
+
+<ol>
+<li> All material to be autoclaved should have appropriate autoclave
+tape attached to confirm that the correct temperature was
+attained.</li>
+<li> A chemical indicator (i.e. steristrip) is placed in the center
+of EACH LOAD to confirm proper decontamination conditions.
+Biological testing systems are required at monthly intervals.
+Records of the temperature, time, results of chemical indicators
+and biological testing systems must be maintained for each load
+of waste autoclaved for one year.</li>
+</ol></li>
+<li><p><strong>Identification and Storage of Materials</strong></p></li>
+<li><ol>
+<li> All equipment and materials in the BL-3 facility should be
+treated as if they are contaminated.</li>
+</ol>
+
+<ol>
+<li> Storage vessels containing biohazardous materials including
+cultures in incubators and refrigerators and freezers should be
+labeled to identify their contents, owners, and date.</li>
+<li> All equipment such as refrigerators, freezers, incubators, cell
+counters, centrifuges, etc. used for or containing biohazardous
+materials must be labeled clearly with the appropriate
+biohazards symbol.</li>
+</ol></li>
+<li><p><strong>Laboratory Transport</strong></p></li>
+<li><ol>
+<li> Live infectious materials, which are removed from the facility
+for storage in liquid nitrogen or -70Â°C freezers should be
+stored in nonbreakable, cryovials with rubber gasket seals. The
+vials are surface decontaminated with 70% ethanol after sealing
+and then transported to the freezers in nonbreakable,
+impermeable closed containers with biohazard symbols. These
+containers are assembled and then surface decontaminated prior
+to exit from the facility.</li>
+</ol></li>
+</ol>
+
+<h1>IV. Exiting the Facility</h1>
+
+<ol>
+<li><p> <strong>Prior to exiting the facility,</strong>each user should check to ensure
+that he or she has:</p></li>
+<li><ol>
+<li> Appropriately cleaned and disinfected all work areas</li>
+</ol>
+
+<ol>
+<li><p> Organized tools/supplies into correct storage location</p></li>
+<li><p> Disposed of generated waste in the proper manner</p></li>
+<li><ol>
+<li> If the solid waste bag is Â¾ full, it must be secured with a
+single wrap with rubber band and placed in autoclave tray by
+door. If enough autoclave trays are filled, run autoclave.</li>
+</ol>
+
+<ol>
+<li> If the sharps container is full, it is to be surface
+decontaminated, transferred to the anteroom, tagged with
+autoclave tape and autoclaved.</li>
+<li> When pipette jar outside hood is Â¾ full, the pipettes are
+to be removed from the tank and allowed to drain in the
+sink. The pipettes are double-bagged before autoclaving.</li>
+</ol></li>
+<li><p> Adjusted the water level in the water bath and confirmed that
+the temperature is set for 37Â°C</p></li>
+<li><p> Turned off the aspirator and mechanical pipettor</p></li>
+<li><p> Turned off the microscope and centrifuges</p></li>
+<li><p> Wiped down all used switches, handles, and control panels with
+70% ethanol</p></li>
+</ol></li>
+<li><p> Before exiting the work area, users should remove their protective
+gear in the following order:</p></li>
+<li><ol>
+<li> 1. Shoe covers (spray shoe soles with ethanol)</li>
+</ol>
+
+<ol>
+<li> 2. Outer gloves (spray inner gloves with ethanol)</li>
+<li> 3. Mask</li>
+</ol></li>
+</ol>
+<p>EXIT THE WORK AREA</p>
+<ol>
+<li> In the anteroom remove:
+
+<ol>
+<li> goggles</li>
+<li> gown</li>
+<li> inner gloves</li>
+</ol></li>
+<li> Shoe covers, gloves and masks are disposable and should be placed in
+the solid waste bins. should be placed in the appropriate bin
+(yellow bags) in the anteroom to await autoclaving.</li>
+<li> Hands should be washed in the anteroom prior to leaving the
+facility.</li>
+</ol>
+
+<h1>V. Emergency Procedures</h1>
+
+<ol>
+<li><p> Laboratory Accidents</p></li>
+<li><ol>
+<li> <span class="underline">Personal Injury or Exposure</span>: All
+equipment in the BL-3 facility should be treated as if it were
+contaminated. Any cuts or abrasions obtained while in the
+facility should be immediately scrubbed for 10 minutes with 1%
+Wescodyne, soap and water. For mucous membrane exposure,
+thoroughly flush the surface for several minutes. There is an
+eye wash fountain located in the BL-3 facility. The user should
+then exit the facility using appropriate exiting procedures and
+seek immediate medical attention with the Occupational Health
+nurse practitioner, room NN256A; phone number (206) 548-4848. If
+the accident occurs after hours, go directly to the UW Medical
+Center emergency room. The occupational nurse/emergency room
+will evaluate the wound, draw a blood sample and give any
+necessary treatment; including HAART. The incident should be
+reported to Dr. Mullins or the lab supervisor and an Accident
+Report Form filed with EHS within 24 hours of the exposure.</li>
+</ol>
+
+<ol>
+<li> <span class="underline">Centrifuge Malfunctions</span>:
+Centrifuge malfunctions should be handled in such a way as to
+avoid personal injury or exposure. If an imbalance occurs or a
+bucket is thrown from the rotor, the unit should immediately be
+turned off. Even in non-emergency situations, centrifugation is
+a procedure that is potentially hazardous when working with
+biohazardous material. Aerosols can be detected during the
+filling of centrifuge tubes, removal of caps or removal of
+contents. Breakage of tubes during centrifugation produces the
+greatest amount of aerosol. Safety sealed centrifuge cups will
+not allow the escape of contents or an aerosol in the event of
+an accident, provided that they are sealed properly and only
+opened in a biological safety cabinet.</li>
+<li> <span class="underline">Fire Alarm</span>: If working with live
+materials, the cultures should be returned to the incubator and
+the facility should be exited using the appropriate exiting
+procedures.</li>
+<li> <span class="underline">Earthquake</span>: Flying glass from the
+hood and sliding or falling heavy equipment are the primary
+dangers during an earthquake. Move immediately away from the
+front of the hood, freezer and stacked incubator. Stand flush
+against the wall. Watch for falling equipment and supplies. Some
+users may be able to duck under the knee space on the hood,
+which will lend some protection from overhead. After the
+earthquake, survey the area for biological or chemical spills;
+clean the spills only if the area is safe. If the area is not
+safe and the spill occurred in the hood, remove the lid of the
+dilute Wescodyne solution and overturn it in the hood. Leave as
+quickly as possible following the appropriate exit procedures.
+If there is time, leave a note on the door stating that a
+biological spill has occurred.</li>
+</ol></li>
+</ol>
+<p><span id="A"></span></p><p><strong>APPENDIX A - CLEAN-UP OF BIOHAZARDOUS SPILLS</strong></p>
+<ol>
+<li><p> <strong>Biohazardous Spills in the Biological Safety Cabinet</strong><br>
+Chemical decontamination procedures should be initiated at once
+while the cabinet continues to operate to prevent escape of
+contaminants from the cabinet.</p></li>
+<li><ol>
+<li> It is best to soak the spill into paper towels and pour 2.5%
+Wescodyne such that it seeps into the paper towels rather than
+pouring directly onto the spill and generating aerosols. Allow
+the detergent to act for 10 minutes then transfer soaked paper
+towels to an autoclave bag within the hood. Wipe walls, work
+surfaces, and equipment with detergent. The operator should be
+in protective gear during this procedure.</li>
+</ol>
+
+<ol>
+<li> If the spill has spread to the catch basin underneath the front
+grill, wipe the grill with 2.5% Wescodyne, remove the grill and
+place it in the hood, soak up liquid in the catch basin with
+paper towels, and disinfect with Wescodyne as in &ldquo;A&rdquo; above.
+After paper towels have been removed, replace grill.</li>
+<li> Seal and decontaminate the outside of the autoclave bag used to
+collect the soaked paper towels, remove from the hood and
+autoclave.</li>
+</ol></li>
+<li><p> <strong>Biohazard Spill Outside of a Biological Safety Cabinet</strong></p></li>
+<li><ol>
+<li> Holding your breath leave the room immediately and close the
+door.</li>
+</ol>
+
+<ol>
+<li> Warn others not to enter the contaminated area. Post a sign on
+the door if you leave the immediate vicinity.</li>
+<li> In the anteroom, remove and properly dispose of contaminated
+garments and protective gear. Thoroughly wash hands and face.</li>
+<li> Wait 30 minutes to allow dissipation of aerosols created by the
+spill.</li>
+<li> Put on clean protective gear before reentering the room. If the
+spill was of high titer virus, the use of a respirator and tight
+fitting goggles should be considered.</li>
+<li> Use paper towels to soak up the liquid. Then pour detergent
+around the spill such that it flows into the towels. To minimize
+aerosolization, avoid pouring directly into the spill.</li>
+<li> Let stand 20 minutes to allow adequate disinfectant contact
+time.</li>
+<li> Using a dustpan and sponge or small broom transfer all
+contaminated materials into an autoclave bag with as little hand
+contact as possible. If there is broken glass involved, transfer
+to a deep autoclave pan instead. DO NOT ATTEMPT TO PICK UP ANY
+BROKEN GLASS BY HAND!</li>
+<li> Prepare a container of dilute detergent and sponge off the
+floor, removing as much liquid as possible.</li>
+<li>Autoclave waste along with the dustpan and sponge. If the broom
+cannot be autoclaved, let it soak in 5% Wescodyne for 30 minutes
+or more and then rinse.</li>
+<li>Report the spill to Dr. Mullins or the BL-3 lab supervisor.</li>
+</ol></li>
+<li><p> <strong>Radioactive Biohazard Spill Outside a Biological Safety Cabinet</strong></p></li>
+<li><ol>
+<li> Follow A-D from above. Before clean-up procedures begin, contact
+a radiation safety officer (543-6328). The spill should be
+surveyed for external radiation hazard prior to determining the
+course of action.</li>
+</ol></li>
+</ol>
+
+<h4><strong>Mullins&#39; B44C BL-3 Facility</strong></h4>
+<p>I, (print name)
+_______________________________________,
+have read, understand and will comply with the safety practices outlined
+in the University of Washington Biosafety Manual, the CDCâ€¢NIH
+guidelines for Biosafety Level 3 practices and the Mullins&#39; lab rules
+and regulations regarding the Rosen B44C BL-3 facility.</p><p>Lab of Trainee
+(PI):__________________________________</p><p>Trainee Lab
+Trainer:__________________________________(assigned
+by PI)</p><p>Trainee
+Name:__________________________________</p><p>Signature:__________________________________</p><p>Mullins Lab
+Trainer:_________________________________________</p><p>Date Trained:____________________</p><p>Additional Comments:  </p><p>The person named above has successfully completed training supervised by
+Dr. Mullins or the BL-3 lab supervisor and is now authorized to use the
+Rosen B44C BL-3 facility.</p><p>__________________________________
+(James I. Mullins)</p><p>__________________________________
+(Date)</p><p>For specifics on appropriate handling and waste procedures please see
+the<a href="http://mullinslab.microbiol.washington.edu/sops/ChemSOP.htm">online chemical
+SOPs</a>or our
+waste and spill notebook located in room 352.</p>
+
+]]>
+        </content>
+    </entry>
+    
+
+    
+</feed>
