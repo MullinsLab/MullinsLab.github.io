@@ -1,0 +1,243 @@
+<!DOCTYPE html>
+<html>
+
+<!-- Mirrored from mullinslab.microbiol.washington.edu/publications/613-Consistent-viral-evolutionary-changes-associated-with-the-progression-of-human-immunodeficiency-virus-type-1-infection by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 21 Jul 2025 18:08:34 GMT -->
+<!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=utf-8" /><!-- /Added by HTTrack -->
+<head>
+    
+<title>Consistent viral evolutionary changes associated with the progression of human immunodeficiency virus type 1 infection. | Mullins Molecular Retrovirology Lab</title>
+
+    
+    <link rel="stylesheet" href="style.css" />
+    
+    <link rel="alternate" type="application/atom+xml" title="Atom feed" href="feed" />
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <script src='https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js?config=TeX-MML-AM_CHTML' async></script>
+
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-136625084-1"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+
+      gtag('config', 'UA-136625084-1');
+    </script>
+</head>
+<body id="entry">
+
+<div id="container">
+
+<header>
+
+<h1>Mullins Molecular Retrovirology Lab</h1>
+
+<div class="description">
+<ul>
+<li>Department of Microbiology</li>
+<li>School of Medicine</li>
+<li>University of Washington</li>
+</ul>
+
+</div>
+
+
+</header>
+
+<section id="nav">
+    <nav>
+        
+        <ul>
+            <li class=""><a href="../index.html">Home</a></li>
+            <li class=""><a href="../research/index.html">Research</a></li>
+            <li class="here"><a href="index.html">Publications</a><ul><li><a href="supplemental.html">Supplemental Data</a></li></ul></li>
+            <li class=""><a href="../protocols/index.html">Protocols</a></li>
+            <li class=""><a href="../people/index.html">People</a></li>
+            <li class=""><a href="../contact/index.html">Contact</a></li>
+            <li class=""><a href="../help/index.html">Help</a></li>
+        </ul>
+    </nav>
+</section>
+
+<section id="links">
+    <nav id="quicklinks">
+        <h2>Software &amp; Tools</h2>
+
+        <ul>
+            <li><a href="http://indra.mullins.microbiol.washington.edu/">Bioinformatics Tools</a></li>
+            <li><a href="https://github.com/mullinslab">GitHub</a></li>
+            <li><a href="../hiris/index.html">HIRIS</a></li>
+            <li><a href="../HMA/index.html">HMA Subtyping Kit</a></li>
+            <li><a href="../isdb/index.html">ISDB</a></li>
+            <li><a href="../tcozy/index.html">TCozy</a></li>
+            <li><a href="https://viroverse.washington.edu/">Viroverse</a></li>
+        </ul>
+    </nav>
+
+    <nav id="lablinks">
+        <h2>Lab Links</h2>
+
+        <ul>
+            <li><a href="https://hercules.mullins.microbiol.washington.edu/pub/doc/">Computing Docs</a></li>
+            <li><a href="../hiris/private/index.html">HIRIS (Private)</a></li>
+            <li><a href="https://tcozy.mullins.microbiol.washington.edu/ice-floe/">ICE Floe</a></li>
+            <li><a href="https://hercules.mullins.microbiol.washington.edu/git/">Internal Git</a></li>
+            <li><a href="../twiki/index.html">Internal wiki</a></li>
+            <li><a href="https://viroverse.washington.edu/viroblast/">Local ViroBLAST</a></li>
+            <li><a href="https://redash.mullins.microbiol.washington.edu/">Redash</a></li>
+            <li><a href="https://mullinslab.slack.com/">Slack</a></li>
+            <li><a href="../support/index.html">Ticketing system</a></li>
+        </ul>
+    </nav>
+
+</section>
+
+<div id="cfar"><a href="http://cfar.washington.edu/">
+    <img src="../static/_img/2c/47ca/CFAR-logo-rev-10-22-18_4aa6fe47bc_500x157.jpg" width="500" height="157" srcset="/static/_img/2c/47ca/CFAR-logo-rev-10-22-18_4aa6fe47bc_500x157.jpg 1x, /static/_img/2c/47ca/CFAR-logo-rev-10-22-18_4aa6fe47bc_1000x314.jpg 2x" alt="University of Washington/Fred Hutch Center for AIDS Research">
+</a></div>
+
+<section id="content">
+    
+<!-- source file: content/publications/shankarappa_1999/shankarappa_1999-113.md -->
+<article>
+
+<div id="intro">
+    <h1>Citation Information</h1>
+<p>Shankarappa R, Margolick JB, Gange SJ, Rodrigo AG, Upchurch D, Farzadegan H, Gupta P, Rinaldo CR, Learn GH, He X, Huang XL, Mullins JI (1999). <span class="title">Consistent viral evolutionary changes associated with the progression of human immunodeficiency virus type 1 infection.</span> <cite class="journalName">Journal of virology</cite>, <span class="journalIssue">73(12)</span>, 10489-502. (<a href="http://ncbi.nlm.nih.gov/pubmed/10559367">pubmed</a>)</p>
+</div>
+
+
+<div id="more">
+    <h1>Abstract</h1>
+<p>To understand the high variability of the asymptomatic interval between primary human immunodeficiency virus type 1 (HIV-1) infection and the development of AIDS, we studied the evolution of the C2-V5 region of the HIV-1 env gene and of T-cell subsets in nine men with a moderate or slow rate of disease progression. They were monitored from the time of seroconversion for a period of 6 to 12 years until the development of advanced disease in seven men. Based on the analysis of viral divergence from the founder strain, viral population diversity within sequential time points, and the outgrowth of viruses capable of utilizing the CXCR4 receptor (X4 viruses), the existence of three distinct phases within the asymptomatic interval is suggested: an early phase of variable duration during which linear increases ( approximately 1% per year) in both divergence and diversity were observed; an intermediate phase lasting an average of 1.8 years, characterized by a continued increase in divergence but with stabilization or decline in diversity; and a late phase characterized by a slowdown or stabilization of divergence and continued stability or decline in diversity. X4 variants emerged around the time of the early- to intermediate-phase transition and then achieved peak representation and began a decline around the transition between the intermediate and late phases. The late-phase transition was also associated with failure of T-cell homeostasis (defined by a downward inflection in CD3(+) T cells) and decline of CD4(+) T cells to &lt;/=200 cells/microliter. The strength of these temporal associations between viral divergence and diversity, viral coreceptor specificity, and T-cell homeostasis and subset composition supports the concept that the phases described represent a consistent pattern of viral evolution during the course of HIV-1 infection in moderate progressors. Recognition of this pattern may help explain previous conflicting data on the relationship between viral evolution and disease progression and may provide a useful framework for evaluating immune damage and recovery in untreated and treated HIV-1 infections.</p>
+<!-- suppData -->
+
+<h1>Supplemental Data</h1>
+
+<h2>Correction</h2>
+<p>The equation in the sentence:</p>
+<blockquote>
+<p>Under a neutral model of evolution, \(s_{a_0}\) is one
+randomly selected sequence, and
+\( E[d(s_{a_0}, s_1)] = E(d(s_{0_x}, s_{0_y})] \) where the right-hand term&hellip;</p></blockquote>
+<p>(p. 10490, right column, second paragraph)</p><p>should be:</p>
+<blockquote>
+<p>\( E[d(s_{a_0}, s_0)] = E[d(s_{0_x}, s_{0_y})] \)</p></blockquote>
+<p>We are grateful to Anders Kvist of Lund University for bringing this
+error to our attention.</p>
+<h2>Sequences</h2>
+<p>Genbank Accession numbers AF137629-AF138163, AF138166-AF138263, and
+AF138305-AF138703 correspond to sequences for this study. Each sequence
+record contains the subject ID, whether the sequence was sampled from
+peripheral blood mononuclear cells (PBMC) or from plasma, and time
+following seroconversion. This is illustrated below for two
+    sequences:</p>
+<div class="highlight"><pre>LOCUS       AF137716                 597 bp    RNA     linear   VRL 08-FEB-2000
+DEFINITION  HIV-1 p1p080-326 from USA envelope glycoprotein (env) gene, partial
+            cds.
+
+LOCUS       AF137715                 597 bp    DNA     linear   VRL 08-FEB-2000
+DEFINITION  HIV-1 p1c077-317 from USA envelope glycoprotein (env) gene, partial
+            cds.</pre></div>
+<p>Both of these are from subject #1 (p1). AF137716, clone number 326, was
+sampled from plasma (p for plasma) collected 80 months post
+seroconversion. Similarly, the AF137715, clone number 317, was from PBMC
+(c for cellular) sampled 77 months post seroconversion.</p><p>Nucleotide alignments from this study are available in
+<a href="Shankrappa080131.html">fasta</a> or <a href="Shankrappa080131-2.html">nexus</a>
+format.</p>
+<h2>Appendix Materials</h2>
+<p><a href="../static/_img/cb/fe89/Fig1-GlobalTree_22677b205a.gif" data-lightbox="gallery" title><img src="../static/_img/cb/fe89/Fig1-GlobalTree_22677b205a_166x200.gif" width="166" height="200" srcset="/static/_img/cb/fe89/Fig1-GlobalTree_22677b205a_166x200.gif 1x, /static/_img/cb/fe89/Fig1-GlobalTree_22677b205a_332x400.gif 2x" alt="Fig1-GlobalTree.gif"></a></p><p><strong>Appendix Figure 1</strong>(<a href="../static/_img/cb/fe89/Fig1-GlobalTree_22677b205a.gif">gif</a>
+<a href="../_file/b776c/Fig1-GlobalTree.pdf">pdf</a>) Phylogenetic characterization of 1300
+sequences sampled from the 9 participants described in this study and
+six selected sequences from GenBank. A neighbor-joining tree was
+constructed using maximum-likelihood distances in Phylip v3.5
+<a href="#ref1">(1)</a> after regions that could not be unambiguously aligned were
+removed. Sequences sampled from each study participant formed
+monophyletic clusters separate from the other participants as well as
+from the six unrelated sequences included in this illustration. No viral
+sequence from this study was found to be closely related to prototypic
+HIV-1 sequences or to other known strains present or sequences
+determined in the laboratory. These observations are consistent with an
+absence of sample contamination or mix-up
+<a href="#ref3">(3)</a>.</p><p><a href="../static/_img/d9/aefc/Fig2pg1_03ecf1b8d3.gif" data-lightbox="gallery" title><img src="../static/_img/d9/aefc/Fig2pg1_03ecf1b8d3_141x200.gif" width="141" height="200" srcset="/static/_img/d9/aefc/Fig2pg1_03ecf1b8d3_141x200.gif 1x, /static/_img/d9/aefc/Fig2pg1_03ecf1b8d3_283x400.gif 2x" alt="Fig2pg1.gif"></a><a href="../static/_img/4c/46cc/Fig2pg2_8e38b44050.gif" data-lightbox="gallery" title><img src="../static/_img/4c/46cc/Fig2pg2_8e38b44050_146x200.gif" width="146" height="200" srcset="/static/_img/4c/46cc/Fig2pg2_8e38b44050_146x200.gif 1x, /static/_img/4c/46cc/Fig2pg2_8e38b44050_291x400.gif 2x" alt="Fig2pg2.gif"></a><a href="../static/_img/83/db52/Fig2pg3_90ad648ff7.gif" data-lightbox="gallery" title><img src="../static/_img/83/db52/Fig2pg3_90ad648ff7_145x200.gif" width="145" height="200" srcset="/static/_img/83/db52/Fig2pg3_90ad648ff7_145x200.gif 1x, /static/_img/83/db52/Fig2pg3_90ad648ff7_289x400.gif 2x" alt="Fig2pg3.gif"></a><a href="../static/_img/08/1867/Fig2pg4_606b1d8f3e.gif" data-lightbox="gallery" title><img src="../static/_img/08/1867/Fig2pg4_606b1d8f3e_147x200.gif" width="147" height="200" srcset="/static/_img/08/1867/Fig2pg4_606b1d8f3e_147x200.gif 1x, /static/_img/08/1867/Fig2pg4_606b1d8f3e_295x400.gif 2x" alt="Fig2pg4.gif"></a><a href="../static/_img/31/1714/Fig2pg5_78a2f41801.gif" data-lightbox="gallery" title><img src="../static/_img/31/1714/Fig2pg5_78a2f41801_147x200.gif" width="147" height="200" srcset="/static/_img/31/1714/Fig2pg5_78a2f41801_147x200.gif 1x, /static/_img/31/1714/Fig2pg5_78a2f41801_294x400.gif 2x" alt="Fig2pg5.gif"></a><a href="../static/_img/7c/3b00/Fig2pg6_a2016454b9.gif" data-lightbox="gallery" title><img src="../static/_img/7c/3b00/Fig2pg6_a2016454b9_145x200.gif" width="145" height="200" srcset="/static/_img/7c/3b00/Fig2pg6_a2016454b9_145x200.gif 1x, /static/_img/7c/3b00/Fig2pg6_a2016454b9_290x400.gif 2x" alt="Fig2pg6.gif"></a><a href="../static/_img/69/3b35/Fig2pg7_8711ec9004.gif" data-lightbox="gallery" title><img src="../static/_img/69/3b35/Fig2pg7_8711ec9004_200x101.gif" width="200" height="101" srcset="/static/_img/69/3b35/Fig2pg7_8711ec9004_200x101.gif 1x, /static/_img/69/3b35/Fig2pg7_8711ec9004_400x202.gif 2x" alt="Fig2pg7.gif"></a></p><p><strong>Appendix Figure 2</strong> (<a href="../_file/e6c2a/Fig2.pdf">pdf</a>, single-page gif:
+<a href="../static/_img/d9/aefc/Fig2pg1_03ecf1b8d3.gif">1</a> <a href="../static/_img/4c/46cc/Fig2pg2_8e38b44050.gif">2</a> <a href="../static/_img/83/db52/Fig2pg3_90ad648ff7.gif">3</a> <a href="../static/_img/08/1867/Fig2pg4_606b1d8f3e.gif">4</a>
+<a href="../static/_img/31/1714/Fig2pg5_78a2f41801.gif">5</a> <a href="../static/_img/7c/3b00/Fig2pg6_a2016454b9.gif">6</a> <a href="../static/_img/69/3b35/Fig2pg7_8711ec9004.gif">7</a>) Pairwise comparisons
+of virus population divergence from the founder population (panels on
+the left side of the figure) and diversity within each sample (panels on
+the right) in each of the nine participants. Pairwise distances were
+estimated using the Kimura 2-parameter model of viral evolution
+<a href="#ref2">(2)</a>. These distances were plotted on the y-axis at the
+corresponding times following seroconversion. The lines within each
+panel connect the mean values for each time point.  Comparisons of
+sequences from PBMC are shown with a red open circle for each data
+point, those from plasma are shown with a blue vertical line for each
+data point. The first 5 panels show the estimates of viral
+diversification for participants in which sequences were sampled from
+both PBMC and plasma. Subsequent panels show these estimates sequences
+sampled from PBMC DNA or from plasma RNA (but not both at any time
+point).</p><p><a href="../static/_img/3c/f73b/Fig3pg1_1912689884.gif" data-lightbox="gallery" title><img src="../static/_img/3c/f73b/Fig3pg1_1912689884_148x200.gif" width="148" height="200" srcset="/static/_img/3c/f73b/Fig3pg1_1912689884_148x200.gif 1x, /static/_img/3c/f73b/Fig3pg1_1912689884_297x400.gif 2x" alt="Fig3sm.gif"></a><a href="../static/_img/3f/1553/Fig3pg2_7e3ada747d.gif" data-lightbox="gallery" title><img src="../static/_img/3f/1553/Fig3pg2_7e3ada747d_145x200.gif" width="145" height="200" srcset="/static/_img/3f/1553/Fig3pg2_7e3ada747d_145x200.gif 1x, /static/_img/3f/1553/Fig3pg2_7e3ada747d_290x400.gif 2x" alt="Fig3sm.gif"></a><a href="../static/_img/4d/b550/Fig3pg3_4b93d6febb.gif" data-lightbox="gallery" title><img src="../static/_img/4d/b550/Fig3pg3_4b93d6febb_143x200.gif" width="143" height="200" srcset="/static/_img/4d/b550/Fig3pg3_4b93d6febb_143x200.gif 1x, /static/_img/4d/b550/Fig3pg3_4b93d6febb_286x400.gif 2x" alt="Fig3sm.gif"></a></p><p><strong>Appendix Figure 3</strong> (<a href="../_file/f53fb/Fig3.pdf">pdf</a>, single-page gif:
+<a href="../static/_img/3c/f73b/Fig3pg1_1912689884.gif">1</a> <a href="../static/_img/3f/1553/Fig3pg2_7e3ada747d.gif">2</a> <a href="../static/_img/4d/b550/Fig3pg3_4b93d6febb.gif">3</a>) Phylogenetic
+analysis of HIV-1 <em>env</em> C2-V5 sequences from each of the nine
+participants. Sequences were aligned and visually adjusted using GDE
+<a href="#ref4">(4)</a>. The phylograms were estimated by the method of
+neighbor-joining from a matrix of pairwise maximum likelihood sequence
+distances (transition/transversion ratio = 1.4) using programs from
+version 3.5 of the PHYLIP package <a href="#ref1">(1)</a>. Trees were rooted to one
+of the sequences sampled at the first time point using <a href="http://taxonomy.zoology.gla.ac.uk/rod/treeview.html">Treeview (from
+R. Page)</a>. The
+legend for each phylogram shows the time of sampling in months following
+seroconversion and is depicted in an arbitrary color gradient. DNA
+sequences from PBMC are depicted as squares and plasma RNA sequences as
+triangles. Sequence changes expected to confer an X4 phenotype (SI
+phenotype on MT-2 cells and CXCR4 co-receptor specificity) based on
+basic amino acid substitution at any of the three positions (#306, 319,
+320 of gp120) are indicated by a red
+asterisk.</p><p><a href="../static/_img/b7/fce1/Fig4_7f4010f223.gif" data-lightbox="gallery" title><img src="../static/_img/b7/fce1/Fig4_7f4010f223_177x200.gif" width="177" height="200" srcset="/static/_img/b7/fce1/Fig4_7f4010f223_177x200.gif 1x, /static/_img/b7/fce1/Fig4_7f4010f223_353x400.gif 2x" alt="Fig4sm.gif"></a></p><p><strong>Appendix Figure 4</strong> (<a href="../_file/a837f/Fig4.pdf">pdf</a>, <a href="../static/_img/b7/fce1/Fig4_7f4010f223.gif">gif</a>) Comparison of
+DNA distance estimations in nine participants using Kimura 2-parameter
+(K2P) model of evolution with a transition to transversion ratio of 2
+<a href="#ref2">(2)</a> vs. a General Time Reversible (GTR) model with a
+site-to-site variation in substitution rates (discrete approximation of
+a Î³ distribution with a shape parameter,Î±=0.5) <a href="#ref5">(5)</a>. DNA
+distance estimates are shown for sequences from PBMC only in all
+participants except for Participant1, where plasma data is shown for the
+time points when PBMC samples were not available, and Participant 11 for
+whom insufficient amounts of viral DNA was found in PBMC. K2P distances
+are plotted as blue circles and GTR DNA distances are plotted as red
+triangles. Intra-time point DNA diversity is depicted by open symbols
+and the DNA distance as compared to founder sequences is shown by filled
+symbols. These comparisons show similar trends using either K2P or the
+GTR distances, and as expected, at high levels of DNA differences, GTR
+model yields a comparatively higher DNA distances.</p><p><strong>Appendix References</strong></p>
+<ol>
+<li> <span id="ref1"></span><a href="http://evolution.genetics.washington.edu/phylip.html">Felsenstein, J. 1993. PHYLIP (Phylogeny
+Inference Package) version 3.5c, Seattle,
+WA</a>.</li>
+<li> <span id="ref2"></span><a href="http://www.ncbi.nlm.nih.gov/htbin-post/Entrez/query?uid=7463489&amp;form=6&amp;db=m&amp;Dopt=b">Kimura, M. 1980. A simple method for
+estimating evolutionary rates of base substitutions through
+comparative studies of nucleotide sequences. J. Mol. Evol.
+16:111-120</a>.</li>
+<li> <span id="ref3"></span><a href="http://www.ncbi.nlm.nih.gov/htbin-post/Entrez/query?uid=8764096&amp;form=6&amp;db=m&amp;Dopt=b">Learn, G. H., B. T. M. Korber, B. Foley, B.
+H. Hahn, S. M. Wolinsky, and J. I. Mullins. 1996. Maintaining the
+integrity of HIV sequence databases. J. Virol.
+70:5720-5730</a>.</li>
+<li> <span id="ref4"></span><a href="http://www.ncbi.nlm.nih.gov/htbin-post/Entrez/query?uid=7704666&amp;form=6&amp;db=m&amp;Dopt=b">Smith, S. W., R. Overbeek, C. R. Woese, W.
+Gilbert, and P. M. Gillevet. 1994. The Genetic Data Environment: An
+expandable GUI for multiple sequence analysis. CABIOS.
+10:671-675</a>.</li>
+<li> <span id="ref5"></span><a href="http://www.sinauer.com/Titles/frswofford.htm">Swofford, D. L. 1999. PAUP 4.0: Phylogenetic
+Analysis Using Parsimony (And Other Methods), version 4.0. Sinauer
+Associates, Inc</a>.</li>
+</ol>
+
+</div>
+
+
+<div class="clear"></div>
+</article>
+
+</section>
+
+</div>
+</body>
+<!-- Mirrored from mullinslab.microbiol.washington.edu/publications/613-Consistent-viral-evolutionary-changes-associated-with-the-progression-of-human-immunodeficiency-virus-type-1-infection by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 21 Jul 2025 18:09:04 GMT -->
+</html>

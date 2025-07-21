@@ -1,0 +1,135 @@
+<!DOCTYPE html>
+<html>
+
+<!-- Mirrored from mullinslab.microbiol.washington.edu/publications/603-Genetic-diversity-of-feline-immunodeficiency-virus-dual-infection-recombination-and-distinct-evolutionary-rates-among-envelope-sequence-clades by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 21 Jul 2025 18:09:10 GMT -->
+<!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=utf-8" /><!-- /Added by HTTrack -->
+<head>
+    
+<title>Genetic diversity of feline immunodeficiency virus: dual infection, recombination, and distinct evolutionary rates among envelope sequence clades. | Mullins Molecular Retrovirology Lab</title>
+
+    
+    <link rel="stylesheet" href="style.css" />
+    
+    <link rel="alternate" type="application/atom+xml" title="Atom feed" href="feed" />
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <script src='https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js?config=TeX-MML-AM_CHTML' async></script>
+
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-136625084-1"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+
+      gtag('config', 'UA-136625084-1');
+    </script>
+</head>
+<body id="entry">
+
+<div id="container">
+
+<header>
+
+<h1>Mullins Molecular Retrovirology Lab</h1>
+
+<div class="description">
+<ul>
+<li>Department of Microbiology</li>
+<li>School of Medicine</li>
+<li>University of Washington</li>
+</ul>
+
+</div>
+
+
+</header>
+
+<section id="nav">
+    <nav>
+        
+        <ul>
+            <li class=""><a href="../index.html">Home</a></li>
+            <li class=""><a href="../research/index.html">Research</a></li>
+            <li class="here"><a href="index.html">Publications</a><ul><li><a href="supplemental.html">Supplemental Data</a></li></ul></li>
+            <li class=""><a href="../protocols/index.html">Protocols</a></li>
+            <li class=""><a href="../people/index.html">People</a></li>
+            <li class=""><a href="../contact/index.html">Contact</a></li>
+            <li class=""><a href="../help/index.html">Help</a></li>
+        </ul>
+    </nav>
+</section>
+
+<section id="links">
+    <nav id="quicklinks">
+        <h2>Software &amp; Tools</h2>
+
+        <ul>
+            <li><a href="http://indra.mullins.microbiol.washington.edu/">Bioinformatics Tools</a></li>
+            <li><a href="https://github.com/mullinslab">GitHub</a></li>
+            <li><a href="../hiris/index.html">HIRIS</a></li>
+            <li><a href="../HMA/index.html">HMA Subtyping Kit</a></li>
+            <li><a href="../isdb/index.html">ISDB</a></li>
+            <li><a href="../tcozy/index.html">TCozy</a></li>
+            <li><a href="https://viroverse.washington.edu/">Viroverse</a></li>
+        </ul>
+    </nav>
+
+    <nav id="lablinks">
+        <h2>Lab Links</h2>
+
+        <ul>
+            <li><a href="https://hercules.mullins.microbiol.washington.edu/pub/doc/">Computing Docs</a></li>
+            <li><a href="../hiris/private/index.html">HIRIS (Private)</a></li>
+            <li><a href="https://tcozy.mullins.microbiol.washington.edu/ice-floe/">ICE Floe</a></li>
+            <li><a href="https://hercules.mullins.microbiol.washington.edu/git/">Internal Git</a></li>
+            <li><a href="../twiki/index.html">Internal wiki</a></li>
+            <li><a href="https://viroverse.washington.edu/viroblast/">Local ViroBLAST</a></li>
+            <li><a href="https://redash.mullins.microbiol.washington.edu/">Redash</a></li>
+            <li><a href="https://mullinslab.slack.com/">Slack</a></li>
+            <li><a href="../support/index.html">Ticketing system</a></li>
+        </ul>
+    </nav>
+
+</section>
+
+<div id="cfar"><a href="http://cfar.washington.edu/">
+    <img src="../static/_img/2c/47ca/CFAR-logo-rev-10-22-18_4aa6fe47bc_500x157.jpg" width="500" height="157" srcset="/static/_img/2c/47ca/CFAR-logo-rev-10-22-18_4aa6fe47bc_500x157.jpg 1x, /static/_img/2c/47ca/CFAR-logo-rev-10-22-18_4aa6fe47bc_1000x314.jpg 2x" alt="University of Washington/Fred Hutch Center for AIDS Research">
+</a></div>
+
+<section id="content">
+    
+<!-- source file: content/publications/bachmann_1997/bachmann_1997-91.md -->
+<article>
+
+<div id="intro">
+    <h1>Citation Information</h1>
+<p>Bachmann MH, Mathiason-Dubard C, Learn GH, Rodrigo AG, Sodora DL, Mazzetti P, Hoover EA, Mullins JI (1997). <span class="title">Genetic diversity of feline immunodeficiency virus: dual infection, recombination, and distinct evolutionary rates among envelope sequence clades.</span> <cite class="journalName">Journal of virology</cite>, <span class="journalIssue">71(6)</span>, 4241-53. (<a href="http://ncbi.nlm.nih.gov/pubmed/9151811">pubmed</a>)</p>
+</div>
+
+
+<div id="more">
+    <h1>Abstract</h1>
+<p>For the rapid genetic analysis of feline immunodeficiency virus (FIV), we developed a heteroduplex mobility assay (HMA) that utilizes a PCR-amplified fragment of the FIV envelope gene spanning the third and fourth variable regions of the envelope surface protein coding sequence. Viral sequences were successfully amplified from blood specimens from 98 naturally infected cats from Australia, Canada, Germany, Italy, South Africa, and the United States. Eighty were clearly assignable to the A or B envelope sequence subtypes. Three belonged to subtype C, one was dually infected with viruses harboring the A and B env subtypes, and several were categorized as outliers to any of the established subtypes or as probable intersubtype recombinants. Some geographic clustering was evident, with subtypes A and B found in greater frequency in the western and eastern regions of the United States, respectively. Subtypes A, B, and C were found on more than one continent, and countries with more than two samples analyzed contained at least two subtypes. The broadest representation of subtypes was found in Munich, Germany, where three subtypes and one virus that was not classifiable by HMA were found. Thirteen samples were selected for DNA sequence determination over the same region of env used for HMA. Analysis of all available FIV env sequences from this and previous studies revealed the existence of recombinant viruses generated from subtype A/B, B/D, and A/C envelope gene sequences. Subtype A env sequences were less diverse than subtype B sequences, although both groups had well-supported clusters. Furthermore, the mutational pattern giving rise to diversification in the two subtypes differed, with the subtype A viruses showing half as many synonymous site mutations compared to subtype B yet showing similar levels of nonsynonymous site changes. These results are consistent with the hypothesis that FIV-B is an older virus group and is possibly more host adapted than FIV-A.</p>
+<!-- suppData -->
+
+<h1>Supplemental Data</h1>
+<p>Links to sequence alignments from this paper in various formats are
+included below. These alignments are of thirteen novel sequences from
+the paper (GenBank Accession numbers
+<a href="http://www.ncbi.nlm.nih.gov/nuccore/U57011">U57011</a>-<a href="http://www.ncbi.nlm.nih.gov/nuccore/U57023">U57023</a>)
+and thirty-eight sequences published elsewhere.</p><p>Nucleotide Alignment (<a href="../_file/2dfc8/Bachmann.fsa">FASTA</a>)</p><p>Amino Acid Alignment (<a href="../_file/2cefe/Bach-aa.fsa">FASTA</a>)</p><p>If you have any comments or questions for the author of this paper,
+Michael Bachmann may be reached via email at bachmann@cmgm.stanford.edu
+James I. Mullins and Edward A. Hoover may be reached at
+jmullins@u.washington.edu and ehoover@lamar.colostate.edu</p>
+</div>
+
+
+<div class="clear"></div>
+</article>
+
+</section>
+
+</div>
+</body>
+<!-- Mirrored from mullinslab.microbiol.washington.edu/publications/603-Genetic-diversity-of-feline-immunodeficiency-virus-dual-infection-recombination-and-distinct-evolutionary-rates-among-envelope-sequence-clades by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 21 Jul 2025 18:09:12 GMT -->
+</html>

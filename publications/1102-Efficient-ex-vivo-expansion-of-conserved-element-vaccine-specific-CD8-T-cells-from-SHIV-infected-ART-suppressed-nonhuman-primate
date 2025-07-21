@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html>
+
+<!-- Mirrored from mullinslab.microbiol.washington.edu/publications/1102-Efficient-ex-vivo-expansion-of-conserved-element-vaccine-specific-CD8-T-cells-from-SHIV-infected-ART-suppressed-nonhuman-primates by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 21 Jul 2025 18:05:25 GMT -->
+<!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=utf-8" /><!-- /Added by HTTrack -->
+<head>
+    
+<title>Efficient <em>ex vivo</em> expansion of conserved element vaccine-specific CD8+ T-cells from SHIV-infected, ART-suppressed nonhuman primates. | Mullins Molecular Retrovirology Lab</title>
+
+    
+    <link rel="stylesheet" href="style.css" />
+    
+    <link rel="alternate" type="application/atom+xml" title="Atom feed" href="feed" />
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <script src='https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js?config=TeX-MML-AM_CHTML' async></script>
+
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-136625084-1"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+
+      gtag('config', 'UA-136625084-1');
+    </script>
+</head>
+<body id="entry">
+
+<div id="container">
+
+<header>
+
+<h1>Mullins Molecular Retrovirology Lab</h1>
+
+<div class="description">
+<ul>
+<li>Department of Microbiology</li>
+<li>School of Medicine</li>
+<li>University of Washington</li>
+</ul>
+
+</div>
+
+
+</header>
+
+<section id="nav">
+    <nav>
+        
+        <ul>
+            <li class=""><a href="../index.html">Home</a></li>
+            <li class=""><a href="../research/index.html">Research</a></li>
+            <li class="here"><a href="index.html">Publications</a><ul><li><a href="supplemental.html">Supplemental Data</a></li></ul></li>
+            <li class=""><a href="../protocols/index.html">Protocols</a></li>
+            <li class=""><a href="../people/index.html">People</a></li>
+            <li class=""><a href="../contact/index.html">Contact</a></li>
+            <li class=""><a href="../help/index.html">Help</a></li>
+        </ul>
+    </nav>
+</section>
+
+<section id="links">
+    <nav id="quicklinks">
+        <h2>Software &amp; Tools</h2>
+
+        <ul>
+            <li><a href="http://indra.mullins.microbiol.washington.edu/">Bioinformatics Tools</a></li>
+            <li><a href="https://github.com/mullinslab">GitHub</a></li>
+            <li><a href="../hiris/index.html">HIRIS</a></li>
+            <li><a href="../HMA/index.html">HMA Subtyping Kit</a></li>
+            <li><a href="../isdb/index.html">ISDB</a></li>
+            <li><a href="../tcozy/index.html">TCozy</a></li>
+            <li><a href="https://viroverse.washington.edu/">Viroverse</a></li>
+        </ul>
+    </nav>
+
+    <nav id="lablinks">
+        <h2>Lab Links</h2>
+
+        <ul>
+            <li><a href="https://hercules.mullins.microbiol.washington.edu/pub/doc/">Computing Docs</a></li>
+            <li><a href="../hiris/private/index.html">HIRIS (Private)</a></li>
+            <li><a href="https://tcozy.mullins.microbiol.washington.edu/ice-floe/">ICE Floe</a></li>
+            <li><a href="https://hercules.mullins.microbiol.washington.edu/git/">Internal Git</a></li>
+            <li><a href="../twiki/index.html">Internal wiki</a></li>
+            <li><a href="https://viroverse.washington.edu/viroblast/">Local ViroBLAST</a></li>
+            <li><a href="https://redash.mullins.microbiol.washington.edu/">Redash</a></li>
+            <li><a href="https://mullinslab.slack.com/">Slack</a></li>
+            <li><a href="../support/index.html">Ticketing system</a></li>
+        </ul>
+    </nav>
+
+</section>
+
+<div id="cfar"><a href="http://cfar.washington.edu/">
+    <img src="../static/_img/2c/47ca/CFAR-logo-rev-10-22-18_4aa6fe47bc_500x157.jpg" width="500" height="157" srcset="/static/_img/2c/47ca/CFAR-logo-rev-10-22-18_4aa6fe47bc_500x157.jpg 1x, /static/_img/2c/47ca/CFAR-logo-rev-10-22-18_4aa6fe47bc_1000x314.jpg 2x" alt="University of Washington/Fred Hutch Center for AIDS Research">
+</a></div>
+
+<section id="content">
+    
+<!-- source file: content/publications/Dross_2023_ExVivoExpansionOfConserved.md -->
+<article>
+
+<div id="intro">
+    <h1>Citation Information</h1>
+<p>Dross S, Venkataraman R, Patel S, Huang ML, Bollard CM, Rosati M, Pavlakis GN, Felber BK, Bar KJ, Shaw GM, Jerome KR, Mullins JI, Kiem HP, Fuller DH, Peterson CW (2023)<span class="title">Efficient <em>ex vivo</em> expansion of conserved element vaccine-specific CD8+ T-cells from SHIV-infected, ART-suppressed nonhuman primates.</span><cite class="journalName">Front. Immunol.</cite> 2023 May 3:14:1188028(<a href="http://ncbi.nlm.nih.gov/pubmed/37207227">pubmed</a>) (<a href="https://doi.org/10.3389/fimmu.2023.1188018">doi</a>)</p>
+</div>
+
+
+<div id="more">
+    <h1>Abstract</h1>
+<p>HIV-specific T cells are necessary for control of HIV-1 replication but are largely insufficient for viral clearance. This is due in part to these cells&#39; recognition of immunodominant but variable regions of the virus, which facilitates viral escape via mutations that do not incur viral fitness costs. HIV-specific T cells targeting conserved viral elements are associated with viral control but are relatively infrequent in people living with HIV (PLWH). The goal of this study was to increase the number of these cells via an ex vivo cell manufacturing approach derived from our clinically-validated HIV-specific expanded T-cell (HXTC) process. Using a nonhuman primate (NHP) model of HIV infection, we sought to determine i) the feasibility of manufacturing ex vivo-expanded virus-specific T cells targeting viral conserved elements (CE, CE-XTCs), ii) the in vivo safety of these products, and iii) the impact of simian/human immunodeficiency virus (SHIV) challenge on their expansion, activity, and function. NHP CE-XTCs expanded up to 10-fold following co-culture with the combination of primary dendritic cells (DCs), PHA blasts pulsed with CE peptides, irradiated GM-K562 feeder cells, and autologous T cells from CE-vaccinated NHP. The resulting CE-XTC products contained high frequencies of CE-specific, polyfunctional T cells. However, consistent with prior studies with human HXTC and these cells&#39; predominant CD8+ effector phenotype, we did not observe significant differences in CE-XTC persistence or SHIV acquisition in two CE-XTC-infused NHP compared to two control NHP. These data support the safety and feasibility of our approach and underscore the need for continued development of CE-XTC and similar cell-based strategies to redirect and increase the potency of cellular virus-specific adaptive immune responses.</p>
+</div>
+
+
+<div class="clear"></div>
+</article>
+
+</section>
+
+</div>
+</body>
+<!-- Mirrored from mullinslab.microbiol.washington.edu/publications/1102-Efficient-ex-vivo-expansion-of-conserved-element-vaccine-specific-CD8-T-cells-from-SHIV-infected-ART-suppressed-nonhuman-primates by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 21 Jul 2025 18:05:25 GMT -->
+</html>

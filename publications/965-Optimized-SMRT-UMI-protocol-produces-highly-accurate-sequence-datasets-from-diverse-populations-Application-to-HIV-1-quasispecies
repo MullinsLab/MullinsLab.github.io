@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html>
+
+<!-- Mirrored from mullinslab.microbiol.washington.edu/publications/965-Optimized-SMRT-UMI-protocol-produces-highly-accurate-sequence-datasets-from-diverse-populations-Application-to-HIV-1-quasispecies by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 21 Jul 2025 18:05:25 GMT -->
+<!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=utf-8" /><!-- /Added by HTTrack -->
+<head>
+    
+<title>Optimized SMRT-UMI protocol produces highly accurate sequence datasets from diverse populations- Application to HIV-1 quasispecies | Mullins Molecular Retrovirology Lab</title>
+
+    
+    <link rel="stylesheet" href="style.css" />
+    
+    <link rel="alternate" type="application/atom+xml" title="Atom feed" href="feed" />
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <script src='https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js?config=TeX-MML-AM_CHTML' async></script>
+
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-136625084-1"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+
+      gtag('config', 'UA-136625084-1');
+    </script>
+</head>
+<body id="entry">
+
+<div id="container">
+
+<header>
+
+<h1>Mullins Molecular Retrovirology Lab</h1>
+
+<div class="description">
+<ul>
+<li>Department of Microbiology</li>
+<li>School of Medicine</li>
+<li>University of Washington</li>
+</ul>
+
+</div>
+
+
+</header>
+
+<section id="nav">
+    <nav>
+        
+        <ul>
+            <li class=""><a href="../index.html">Home</a></li>
+            <li class=""><a href="../research/index.html">Research</a></li>
+            <li class="here"><a href="index.html">Publications</a><ul><li><a href="supplemental.html">Supplemental Data</a></li></ul></li>
+            <li class=""><a href="../protocols/index.html">Protocols</a></li>
+            <li class=""><a href="../people/index.html">People</a></li>
+            <li class=""><a href="../contact/index.html">Contact</a></li>
+            <li class=""><a href="../help/index.html">Help</a></li>
+        </ul>
+    </nav>
+</section>
+
+<section id="links">
+    <nav id="quicklinks">
+        <h2>Software &amp; Tools</h2>
+
+        <ul>
+            <li><a href="http://indra.mullins.microbiol.washington.edu/">Bioinformatics Tools</a></li>
+            <li><a href="https://github.com/mullinslab">GitHub</a></li>
+            <li><a href="../hiris/index.html">HIRIS</a></li>
+            <li><a href="../HMA/index.html">HMA Subtyping Kit</a></li>
+            <li><a href="../isdb/index.html">ISDB</a></li>
+            <li><a href="../tcozy/index.html">TCozy</a></li>
+            <li><a href="https://viroverse.washington.edu/">Viroverse</a></li>
+        </ul>
+    </nav>
+
+    <nav id="lablinks">
+        <h2>Lab Links</h2>
+
+        <ul>
+            <li><a href="https://hercules.mullins.microbiol.washington.edu/pub/doc/">Computing Docs</a></li>
+            <li><a href="../hiris/private/index.html">HIRIS (Private)</a></li>
+            <li><a href="https://tcozy.mullins.microbiol.washington.edu/ice-floe/">ICE Floe</a></li>
+            <li><a href="https://hercules.mullins.microbiol.washington.edu/git/">Internal Git</a></li>
+            <li><a href="../twiki/index.html">Internal wiki</a></li>
+            <li><a href="https://viroverse.washington.edu/viroblast/">Local ViroBLAST</a></li>
+            <li><a href="https://redash.mullins.microbiol.washington.edu/">Redash</a></li>
+            <li><a href="https://mullinslab.slack.com/">Slack</a></li>
+            <li><a href="../support/index.html">Ticketing system</a></li>
+        </ul>
+    </nav>
+
+</section>
+
+<div id="cfar"><a href="http://cfar.washington.edu/">
+    <img src="../static/_img/2c/47ca/CFAR-logo-rev-10-22-18_4aa6fe47bc_500x157.jpg" width="500" height="157" srcset="/static/_img/2c/47ca/CFAR-logo-rev-10-22-18_4aa6fe47bc_500x157.jpg 1x, /static/_img/2c/47ca/CFAR-logo-rev-10-22-18_4aa6fe47bc_1000x314.jpg 2x" alt="University of Washington/Fred Hutch Center for AIDS Research">
+</a></div>
+
+<section id="content">
+    
+<!-- source file: content/publications/westfall_2024_SMRT_UMTProtocol.md -->
+<article>
+
+<div id="intro">
+    <h1>Citation Information</h1>
+<p>Dylan H Westfall, Wenjie Deng, Alec Pankow, Hugh Murrell, Lennie Chen, Hong Zhao, Carolyn Williamson, Morgane Rolland, Ben Murrell, James I Mullins(2024).<span class="title">Optimized SMRT-UMI protocol produces highly accurate sequence datasets from diverse populations-Application to HIV-1 quasispecies</span> <cite class="journalName">Virus Evol.</cite> 2024 Mar 2;10(1)(<a href="http://ncbi.nlm.nih.gov/pubmed/38765465">pubmed</a>) (<a href="https://doi.org/10.1093/ve/veae019">doi</a>)</p>
+</div>
+
+
+<div id="more">
+    <h1>Abstract</h1>
+<p>Pathogen diversity resulting in quasispecies can enable persistence and adaptation to host defenses and therapies. However, accurate quasispecies characterization can be impeded by errors introduced during sample handling and sequencing, which can require extensive optimizations to overcome. We present complete laboratory and bioinformatics workflows to overcome many of these hurdles. The Pacific Biosciences single molecule real-time platform was used to sequence polymerase-chain reaction (PCR) amplicons derived from cDNA templates tagged with unique molecular identifiers (SMRT-UMI). Optimized laboratory protocols were developed through extensive testing of different sample preparation conditions to minimize between-template recombination during PCR. The use of UMI allowed accurate template quantitation as well as removal of point mutations introduced during PCR and sequencing to produce a highly accurate consensus sequence from each template. Production of highly accurate sequences from the large datasets produced from SMRT-UMI sequencing is facilitated by a novel bioinformatic pipeline, Probabilistic Offspring Resolver for Primer IDs (PORPIDpipeline). PORPIDpipeline automatically filters and parses circular consensus reads by sample, identifies and discards reads with UMIs likely created from PCR and sequencing errors, generates consensus sequences, checks for contamination within the dataset, and removes any sequence with evidence of PCR recombination, heteroduplex formation, or early cycle PCR errors. The optimized SMRT-UMI sequencing and PORPIDpipeline methods presented here represent a highly adaptable and established starting point for accurate sequencing of diverse pathogens. These methods are illustrated through characterization of human immunodeficiency virus quasispecies in a virus transmitter-recipient pair of individuals.</p>
+</div>
+
+
+<div class="clear"></div>
+</article>
+
+</section>
+
+</div>
+</body>
+<!-- Mirrored from mullinslab.microbiol.washington.edu/publications/965-Optimized-SMRT-UMI-protocol-produces-highly-accurate-sequence-datasets-from-diverse-populations-Application-to-HIV-1-quasispecies by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 21 Jul 2025 18:05:25 GMT -->
+</html>
