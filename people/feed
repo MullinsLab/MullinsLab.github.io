@@ -1,0 +1,485 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+
+<feed xmlns="http://www.w3.org/2005/Atom"
+    xmlns:fh="http://purl.org/syndication/history/1.0"
+    xmlns:at="http://purl.org/atompub/tombstones/1.0">
+
+    <title>Mullins Molecular Retrovirology Lab: People</title>
+    <subtitle>A personal publishing system for the modern web</subtitle>
+    <link href="https://mullinslab.microbiol.washington.edu/people/feed" rel="self" />
+    <link href="https://mullinslab.microbiol.washington.edu/people/feed" rel="current" />
+    <link href="https://pubsubhubbub.superfeedr.com" rel="hub" />
+    
+    <link href="https://mullinslab.microbiol.washington.edu/people/former/feed?date=2014-08" rel="prev-archive" />
+    
+    
+    <link href="https://mullinslab.microbiol.washington.edu/people/" />
+    
+    <id>tag:mullinslab.microbiol.washington.edu,2019-03-04:people</id>
+    <updated>2019-05-03T13:49:11-07:00</updated>
+
+    
+    <entry>
+        <title>Chaozhong Song</title>
+        <link href="https://mullinslab.microbiol.washington.edu/people/former/745-Chaozhong-Song" rel="alternate" type="text/html" />
+        <published>2019-05-03T13:49:11-07:00</published>
+        <updated>2019-05-03T13:49:11-07:00</updated>
+        <id>urn:uuid:7876cc52-d452-5ecc-99b2-6ae11fe86d38</id>
+        <author><name>Mullins Lab</name></author>
+        <content type="html">
+<![CDATA[
+<p><a href="https://mullinslab.microbiol.washington.edu/people/former/745-Chaozhong-Song"><img src="https://mullinslab.microbiol.washington.edu/static/_img/42/99dc/missing_8ba0f74b70.png" width="114" height="136" alt="missing.png"></a></p><p>Research Scientist</p><p><code>czsong@u</code></p>
+
+]]>
+        </content>
+    </entry>
+    
+    <entry>
+        <title>Marley Bishop</title>
+        <link href="https://mullinslab.microbiol.washington.edu/people/former/1153-Marley-Bishop" rel="alternate" type="text/html" />
+        <published>2019-04-09T11:53:16-07:00</published>
+        <updated>2019-04-09T11:53:16-07:00</updated>
+        <id>urn:uuid:3332be52-8e2e-5972-85e2-6abbf82208d3</id>
+        <author><name>Mullins Lab</name></author>
+        <content type="html">
+<![CDATA[
+<p><a href="https://mullinslab.microbiol.washington.edu/people/former/1153-Marley-Bishop"><img src="https://mullinslab.microbiol.washington.edu/static/_img/42/99dc/missing_8ba0f74b70.png" width="114" height="136" alt="missing.png"></a></p><p>Undergraduate Student</p><p><code>mdb99@u</code></p>
+
+]]>
+        </content>
+    </entry>
+    
+    <entry>
+        <title>Naomi McFarland</title>
+        <link href="https://mullinslab.microbiol.washington.edu/people/former/353-Naomi-McFarland" rel="alternate" type="text/html" />
+        <published>2019-03-28T15:06:26-07:00</published>
+        <updated>2019-03-28T15:06:26-07:00</updated>
+        <id>urn:uuid:89890213-fb07-5258-9b17-caf37bd95b52</id>
+        <author><name>Mullins Lab</name></author>
+        <content type="html">
+<![CDATA[
+<p><a href="https://mullinslab.microbiol.washington.edu/people/former/353-Naomi-McFarland"><img src="https://mullinslab.microbiol.washington.edu/static/_img/8c/124b/naomimc_22ba8f1602_212x320.jpg" width="212" height="320" srcset="https://mullinslab.microbiol.washington.edu/static/_img/8c/124b/naomimc_22ba8f1602_212x320.jpg 1x, https://mullinslab.microbiol.washington.edu/static/_img/8c/124b/naomimc_22ba8f1602_424x640.jpg 2x" alt="naomimc.jpg" title="Naomi McFarland"></a></p><p>Laboratory Technician</p><p><code>naomimc@u</code></p>
+
+]]>
+        </content>
+    </entry>
+    
+    <entry>
+        <title>Tony Krumm</title>
+        <link href="https://mullinslab.microbiol.washington.edu/people/former/916-Tony-Krumm" rel="alternate" type="text/html" />
+        <published>2019-03-28T15:05:04-07:00</published>
+        <updated>2019-03-28T15:05:04-07:00</updated>
+        <id>urn:uuid:24850498-8c5a-517c-bd9b-e3e49555db6c</id>
+        <author><name>Mullins Lab</name></author>
+        <content type="html">
+<![CDATA[
+<p><a href="https://mullinslab.microbiol.washington.edu/people/former/916-Tony-Krumm"><img src="https://mullinslab.microbiol.washington.edu/static/_img/42/99dc/missing_8ba0f74b70.png" width="114" height="136" alt="missing.png"></a></p><p>Associate Professor, Emeritus</p><p><code>akrumm@u</code></p><p><a href="https://radiationoncology.uw.edu/faculty/anton-tony-krumm/">UW Medicine faculty profile</a></p>
+
+]]>
+        </content>
+    </entry>
+    
+    <entry>
+        <title>Ken Polzin</title>
+        <link href="https://mullinslab.microbiol.washington.edu/people/former/1453-Ken-Polzin" rel="alternate" type="text/html" />
+        <published>2019-02-26T12:14:56-08:00</published>
+        <updated>2019-02-26T12:14:56-08:00</updated>
+        <id>urn:uuid:c293ae6c-100f-570c-9aae-b658296265f2</id>
+        <author><name>Mullins Lab</name></author>
+        <content type="html">
+<![CDATA[
+<p><span class="error">Image not found: <code>kpolzin.jpg</code></span></p><p>Software Engineer</p><p><code>kpolzin@u</code></p>
+
+]]>
+        </content>
+    </entry>
+    
+    <entry>
+        <title>J. Aviya Shagam</title>
+        <link href="https://mullinslab.microbiol.washington.edu/people/former/2292-J-Aviya-Shagam" rel="alternate" type="text/html" />
+        <published>2019-02-21T15:31:46-08:00</published>
+        <updated>2019-02-21T15:31:46-08:00</updated>
+        <id>urn:uuid:7e6623e4-a691-5f63-a241-8f3189533c9f</id>
+        <author><name>Mullins Lab</name></author>
+        <content type="html">
+<![CDATA[
+<p><a href="https://mullinslab.microbiol.washington.edu/people/former/2292-J-Aviya-Shagam"><img src="https://mullinslab.microbiol.washington.edu/static/_img/42/b36e/jshagam_f28c3a760b_320x320.jpg" width="320" height="320" srcset="https://mullinslab.microbiol.washington.edu/static/_img/42/b36e/jshagam_f28c3a760b_320x320.jpg 1x, https://mullinslab.microbiol.washington.edu/static/_img/42/b36e/jshagam_f28c3a760b_640x640.jpg 2x" alt="jshagam.jpg" title="Jayden Shagam"></a></p><p>Scientific Programmer</p><p><code>jshagam@u</code></p>
+
+]]>
+        </content>
+    </entry>
+    
+    <entry>
+        <title>Kristen Miller</title>
+        <link href="https://mullinslab.microbiol.washington.edu/people/former/2551-Kristen-Miller" rel="alternate" type="text/html" />
+        <published>2019-02-21T15:30:52-08:00</published>
+        <updated>2019-02-21T15:30:52-08:00</updated>
+        <id>urn:uuid:89e7165f-1431-5c1f-a0c4-d6d07ff6ec1c</id>
+        <author><name>Mullins Lab</name></author>
+        <content type="html">
+<![CDATA[
+<p><a href="https://mullinslab.microbiol.washington.edu/people/former/2551-Kristen-Miller"><img src="https://mullinslab.microbiol.washington.edu/static/_img/a7/8463/kmleigh_a6911bf812_320x240.jpg" width="320" height="240" srcset="https://mullinslab.microbiol.washington.edu/static/_img/a7/8463/kmleigh_a6911bf812_320x240.jpg 1x, https://mullinslab.microbiol.washington.edu/static/_img/a7/8463/kmleigh_a6911bf812_640x480.jpg 2x" alt="kmleigh.jpg" title="Kristen Miller"></a></p><p>Research Scientist</p><p><code>kmleigh@u</code></p>
+
+]]>
+        </content>
+    </entry>
+    
+    <entry>
+        <title>Hong Zhao</title>
+        <link href="https://mullinslab.microbiol.washington.edu/people/former/894-Hong-Zhao" rel="alternate" type="text/html" />
+        <published>2019-02-21T15:29:09-08:00</published>
+        <updated>2019-02-21T15:29:09-08:00</updated>
+        <id>urn:uuid:438ab459-c105-507e-8bd8-e074e4546408</id>
+        <author><name>Mullins Lab</name></author>
+        <content type="html">
+<![CDATA[
+<p><a href="https://mullinslab.microbiol.washington.edu/people/former/894-Hong-Zhao"><img src="https://mullinslab.microbiol.washington.edu/static/_img/1e/de3c/hzhao2_6c50c25430.jpg" width="114" height="136" alt="hzhao2.jpg" title="Hong Zhao"></a></p><p>Research Scientist</p><p><code>hzhao@u</code></p>
+
+]]>
+        </content>
+    </entry>
+    
+    <entry>
+        <title>Kim Wong</title>
+        <link href="https://mullinslab.microbiol.washington.edu/people/former/53-Kim-Wong" rel="alternate" type="text/html" />
+        <published>2019-02-21T15:28:15-08:00</published>
+        <updated>2019-02-21T15:28:15-08:00</updated>
+        <id>urn:uuid:ce734246-2d9f-5a39-8bb2-753d604cbebd</id>
+        <author><name>Mullins Lab</name></author>
+        <content type="html">
+<![CDATA[
+<p><a href="https://mullinslab.microbiol.washington.edu/people/former/53-Kim-Wong"><img src="https://mullinslab.microbiol.washington.edu/static/_img/6b/faea/kwong_b82f5381c6.jpg" width="114" height="113" alt="kwong.jpg" title="Kim Wong"></a></p><p>Research Scientist</p><p><code>kwong@u</code></p>
+
+]]>
+        </content>
+    </entry>
+    
+    <entry>
+        <title>Dylan Westfall</title>
+        <link href="https://mullinslab.microbiol.washington.edu/people/former/430-Dylan-Westfall" rel="alternate" type="text/html" />
+        <published>2019-02-21T15:27:18-08:00</published>
+        <updated>2019-02-21T15:27:18-08:00</updated>
+        <id>urn:uuid:cbdd195e-be5b-55a3-836e-e3788fb803e7</id>
+        <author><name>Mullins Lab</name></author>
+        <content type="html">
+<![CDATA[
+<p><a href="https://mullinslab.microbiol.washington.edu/people/former/430-Dylan-Westfall"><img src="https://mullinslab.microbiol.washington.edu/static/_img/88/71bc/DylanWestfall_9cec28b4e2.jpg" width="114" height="142" alt="DylanWestfall.jpg" title="Dylan Westfall"></a></p><p>Research Scientist</p><p><code>dylwest@u</code></p>
+
+]]>
+        </content>
+    </entry>
+    
+    <entry>
+        <title>Evan Silberman</title>
+        <link href="https://mullinslab.microbiol.washington.edu/people/former/1423-Evan-Silberman" rel="alternate" type="text/html" />
+        <published>2019-02-21T15:26:34-08:00</published>
+        <updated>2019-02-21T15:26:34-08:00</updated>
+        <id>urn:uuid:5d3f4ac0-2c48-5e8d-a60f-89b8e0c898d8</id>
+        <author><name>Mullins Lab</name></author>
+        <content type="html">
+<![CDATA[
+<p><a href="https://mullinslab.microbiol.washington.edu/people/former/1423-Evan-Silberman"><img src="https://mullinslab.microbiol.washington.edu/static/_img/c8/cdbd/EvanSilberman_a05cdabdfb_240x320.jpg" width="240" height="320" srcset="https://mullinslab.microbiol.washington.edu/static/_img/c8/cdbd/EvanSilberman_a05cdabdfb_240x320.jpg 1x, https://mullinslab.microbiol.washington.edu/static/_img/c8/cdbd/EvanSilberman_a05cdabdfb_480x640.jpg 2x" alt="EvanSilberman.jpg" title="Evan Silberman"></a></p><p>Scientific Programmer</p><p><code>silby@u</code></p>
+
+<p>Evan Silberman is a scientific programmer in the Mullins Lab. A computing
+generalist, Evan has experience in web development, database management, data
+science, system administration, and user interface design. In the Mullins Lab,
+Evan develops and maintains software systems critical to gathering and
+maintaining data from large-scale HIV genome sequencing projects. Prior to
+joining UW, Evan worked at Amazon in support engineering and software
+development roles.</p>
+
+]]>
+        </content>
+    </entry>
+    
+    <entry>
+        <title>Courtney Scallan</title>
+        <link href="https://mullinslab.microbiol.washington.edu/people/former/688-Courtney-Scallan" rel="alternate" type="text/html" />
+        <published>2019-02-21T15:24:40-08:00</published>
+        <updated>2019-02-21T15:24:40-08:00</updated>
+        <id>urn:uuid:51c941aa-6260-547d-909d-9e340ffc30a7</id>
+        <author><name>Mullins Lab</name></author>
+        <content type="html">
+<![CDATA[
+<p><a href="https://mullinslab.microbiol.washington.edu/people/former/688-Courtney-Scallan"><img src="https://mullinslab.microbiol.washington.edu/static/_img/20/73d8/CourtneyScallan_f7c6447bb4.jpg" width="114" height="145" alt="CourtneyScallan.jpg" title="Courtney Scallan"></a></p><p>Research Scientist</p><p><code>scallan@u</code></p>
+
+]]>
+        </content>
+    </entry>
+    
+    <entry>
+        <title>Alec Pankow</title>
+        <link href="https://mullinslab.microbiol.washington.edu/people/former/967-Alec-Pankow" rel="alternate" type="text/html" />
+        <published>2019-02-21T15:24:00-08:00</published>
+        <updated>2019-02-21T15:24:00-08:00</updated>
+        <id>urn:uuid:7d4e4030-a7c5-58a4-887d-74720a3e9a33</id>
+        <author><name>Mullins Lab</name></author>
+        <content type="html">
+<![CDATA[
+<p><a href="https://mullinslab.microbiol.washington.edu/people/former/967-Alec-Pankow"><img src="https://mullinslab.microbiol.washington.edu/static/_img/cf/8c6a/AlecPankow_796fcd6a91_320x320.jpg" width="320" height="320" srcset="https://mullinslab.microbiol.washington.edu/static/_img/cf/8c6a/AlecPankow_796fcd6a91_320x320.jpg 1x, https://mullinslab.microbiol.washington.edu/static/_img/cf/8c6a/AlecPankow_796fcd6a91_640x640.jpg 2x" alt="AlecPankow.jpg" title="Alec Pankow"></a></p><p>Laboratory Technician</p><p><code>appankow@u</code></p>
+
+]]>
+        </content>
+    </entry>
+    
+    <entry>
+        <title>Wenjie Deng</title>
+        <link href="https://mullinslab.microbiol.washington.edu/people/researchpersonnel/1402-Wenjie-Deng" rel="alternate" type="text/html" />
+        <published>2019-02-21T15:22:26-08:00</published>
+        <updated>2019-02-21T15:22:26-08:00</updated>
+        <id>urn:uuid:4f7ab804-14c7-5745-baab-13b18a3fe35d</id>
+        <author><name>Mullins Lab</name></author>
+        <content type="html">
+<![CDATA[
+<p><a href="https://mullinslab.microbiol.washington.edu/people/researchpersonnel/1402-Wenjie-Deng"><img src="https://mullinslab.microbiol.washington.edu/static/_img/1c/5185/dengw_48542b706d.jpg" width="114" height="99" alt="dengw.jpg" title="Wenjie Deng"></a></p><p>Research Consultant</p><p><code>dengw@u</code></p>
+
+]]>
+        </content>
+    </entry>
+    
+    <entry>
+        <title>Adam Martin</title>
+        <link href="https://mullinslab.microbiol.washington.edu/people/former/1892-Adam-Martin" rel="alternate" type="text/html" />
+        <published>2019-02-21T14:28:41-08:00</published>
+        <updated>2019-02-21T14:28:41-08:00</updated>
+        <id>urn:uuid:3fed7d07-8571-5a9b-b058-0f194f0f4cfe</id>
+        <author><name>Mullins Lab</name></author>
+        <content type="html">
+<![CDATA[
+<p><a href="https://mullinslab.microbiol.washington.edu/people/former/1892-Adam-Martin"><img src="https://mullinslab.microbiol.washington.edu/static/_img/fd/4cdc/AdamMartin_b4c391ce4b_279x320.jpg" width="279" height="320" srcset="https://mullinslab.microbiol.washington.edu/static/_img/fd/4cdc/AdamMartin_b4c391ce4b_279x320.jpg 1x, https://mullinslab.microbiol.washington.edu/static/_img/fd/4cdc/AdamMartin_b4c391ce4b.jpg 2x" alt="AdamMartin.jpg" title="Adam Martin"></a></p><p>Undergraduate Student</p><p><code>adamm17@u</code></p>
+
+]]>
+        </content>
+    </entry>
+    
+    <entry>
+        <title>Michaela Anderson</title>
+        <link href="https://mullinslab.microbiol.washington.edu/people/former/2274-Michaela-Anderson" rel="alternate" type="text/html" />
+        <published>2019-02-21T13:43:09-08:00</published>
+        <updated>2019-02-21T13:43:09-08:00</updated>
+        <id>urn:uuid:a96e6061-f722-5e27-80e1-cbbe8e041d6f</id>
+        <author><name>Mullins Lab</name></author>
+        <content type="html">
+<![CDATA[
+<p><a href="https://mullinslab.microbiol.washington.edu/people/former/2274-Michaela-Anderson"><img src="https://mullinslab.microbiol.washington.edu/static/_img/42/99dc/missing_8ba0f74b70.png" width="114" height="136" alt="missing.png"></a></p><p>Research Scientist</p><p><code>mander08@u</code></p>
+
+]]>
+        </content>
+    </entry>
+    
+    <entry>
+        <title>Clement Santiago</title>
+        <link href="https://mullinslab.microbiol.washington.edu/people/former/490-Clement-Santiago" rel="alternate" type="text/html" />
+        <published>2017-09-11T14:47:38-07:00</published>
+        <updated>2017-11-20T09:46:11+00:00</updated>
+        <id>urn:uuid:16ef33b8-e503-5a36-a3fe-b76bab86ba6a</id>
+        <author><name>Mullins Lab</name></author>
+        <content type="html">
+<![CDATA[
+<p><a href="https://mullinslab.microbiol.washington.edu/people/former/490-Clement-Santiago"><img src="https://mullinslab.microbiol.washington.edu/static/_img/1a/ff7d/ClementSantiago_5cdb5be7aa.jpg" width="114" height="146" alt="ClementSantiago.jpg" title="Clement Santiago"></a></p><p>Graduate Student</p><p><code>jcasjan@u</code></p>
+
+]]>
+        </content>
+    </entry>
+    
+    <entry>
+        <title>Maddie Jones</title>
+        <link href="https://mullinslab.microbiol.washington.edu/people/former/1510-Maddie-Jones" rel="alternate" type="text/html" />
+        <published>2017-06-23T11:43:52-07:00</published>
+        <updated>2018-07-06T09:46:15+00:00</updated>
+        <id>urn:uuid:3a082424-870f-55d5-9f9e-35cec86dabcf</id>
+        <author><name>Dylan Westfall</name></author>
+        <content type="html">
+<![CDATA[
+<p><a href="https://mullinslab.microbiol.washington.edu/people/former/1510-Maddie-Jones"><img src="https://mullinslab.microbiol.washington.edu/static/_img/09/dad7/MaddieJones_58e381b67b.jpg" width="114" height="146" alt="MaddieJones.jpg"></a></p><p>Undergraduate Student</p><p>jonesm95@u</p>
+
+]]>
+        </content>
+    </entry>
+    
+    <entry>
+        <title>Roland Upenieks</title>
+        <link href="https://mullinslab.microbiol.washington.edu/people/former/1387-Roland-Upenieks" rel="alternate" type="text/html" />
+        <published>2017-04-19T14:49:52-07:00</published>
+        <updated>2018-07-06T09:46:41+00:00</updated>
+        <id>urn:uuid:d61f2c50-dc2c-5019-802f-0656e27f005b</id>
+        <author><name>Dylan Westfall</name></author>
+        <content type="html">
+<![CDATA[
+<p><a href="https://mullinslab.microbiol.washington.edu/people/former/1387-Roland-Upenieks"><img src="https://mullinslab.microbiol.washington.edu/static/_img/b2/69ff/RolandUpenieks_cb0962421c.jpg" width="114" height="143" alt="RolandUpenieks.jpg"></a></p><p>Undergraduate Student</p><p>rmupe@u</p>
+
+]]>
+        </content>
+    </entry>
+    
+    <entry>
+        <title>Michael Collins</title>
+        <link href="https://mullinslab.microbiol.washington.edu/people/former/1306-Michael-Collins" rel="alternate" type="text/html" />
+        <published>2017-02-14T13:56:56-08:00</published>
+        <updated>2017-02-14T14:01:41+00:00</updated>
+        <id>urn:uuid:e65d5c5a-b3af-5303-8901-b0f0a7008034</id>
+        <author><name>Mullins Lab</name></author>
+        <content type="html">
+<![CDATA[
+<p><a href="https://mullinslab.microbiol.washington.edu/people/former/1306-Michael-Collins"><img src="https://mullinslab.microbiol.washington.edu/static/_img/75/db64/MichaelCollins_44f0ecaa72.jpg" width="114" height="126" alt="MichaelCollins.jpg" title="Michael Collins"></a></p><p>Undergraduate Student</p><p><code>collins4@u</code></p>
+
+]]>
+        </content>
+    </entry>
+    
+    <entry>
+        <title>Daljit Singh</title>
+        <link href="https://mullinslab.microbiol.washington.edu/people/former/720-Daljit-Singh" rel="alternate" type="text/html" />
+        <published>2016-12-16T11:10:30-08:00</published>
+        <updated>2018-01-22T09:58:04+00:00</updated>
+        <id>urn:uuid:d6112aeb-5ffd-57cb-9bae-c7591fbd1b57</id>
+        <author><name>Dylan Westfall</name></author>
+        <content type="html">
+<![CDATA[
+<p>Laboratory Technician</p><p>singhd4@u</p>
+
+]]>
+        </content>
+    </entry>
+    
+    <entry>
+        <title>Florence Seng</title>
+        <link href="https://mullinslab.microbiol.washington.edu/people/former/911-Florence-Seng" rel="alternate" type="text/html" />
+        <published>2016-05-19T13:09:39-07:00</published>
+        <updated>2017-03-31T12:08:37+00:00</updated>
+        <id>urn:uuid:c0cbc9aa-2231-5989-95e6-5d6ee2be0589</id>
+        <author><name>Dylan Westfall</name></author>
+        <content type="html">
+<![CDATA[
+<p><a href="https://mullinslab.microbiol.washington.edu/people/former/911-Florence-Seng"><img src="https://mullinslab.microbiol.washington.edu/static/_img/d7/08b6/FlorenceSeng_986dfb247e.jpg" width="114" height="150" alt="FlorenceSeng.jpg"></a></p><p>Undergraduate Student</p><p><code>flo08@u</code></p>
+
+]]>
+        </content>
+    </entry>
+    
+    <entry>
+        <title>Archana Einstein</title>
+        <link href="https://mullinslab.microbiol.washington.edu/people/former/233-Archana-Einstein" rel="alternate" type="text/html" />
+        <published>2015-06-02T10:42:51-07:00</published>
+        <updated>2016-03-29T17:37:15+00:00</updated>
+        <id>urn:uuid:b7151392-636c-51ec-90b9-9ee55b3a9c97</id>
+        <author><name>Dylan Westfall</name></author>
+        <content type="html">
+<![CDATA[
+<p><a href="https://mullinslab.microbiol.washington.edu/people/former/233-Archana-Einstein"><img src="https://mullinslab.microbiol.washington.edu/static/_img/c1/adad/ArchanaEinstein_ddbdce868d.jpg" width="114" height="149" alt="ArchanaEinstein.jpg"></a></p><p>Undergraduate Student</p><p>einsta@u</p>
+
+]]>
+        </content>
+    </entry>
+    
+    <entry>
+        <title>Clarisse Lau</title>
+        <link href="https://mullinslab.microbiol.washington.edu/people/former/1250-Clarisse-Lau" rel="alternate" type="text/html" />
+        <published>2015-06-02T10:41:36-07:00</published>
+        <updated>2017-06-02T17:23:57+00:00</updated>
+        <id>urn:uuid:93706137-9c1d-5b47-8208-8b06ef54d501</id>
+        <author><name>Dylan Westfall</name></author>
+        <content type="html">
+<![CDATA[
+<p><a href="https://mullinslab.microbiol.washington.edu/people/former/1250-Clarisse-Lau"><img src="https://mullinslab.microbiol.washington.edu/static/_img/08/6875/ClarisseLau_64dfc74205.jpg" width="114" height="127" alt="ClarisseLau.jpg"></a></p><p>Undergraduate Student</p><p>clau19@u</p>
+
+]]>
+        </content>
+    </entry>
+    
+    <entry>
+        <title>Anne-Marie Rousseau</title>
+        <link href="https://mullinslab.microbiol.washington.edu/people/former/1273-Anne-Marie-Rousseau" rel="alternate" type="text/html" />
+        <published>2015-04-07T15:08:23-07:00</published>
+        <updated>2015-11-30T11:51:47+00:00</updated>
+        <id>urn:uuid:237633fe-4dad-5d1b-9770-726a94654e50</id>
+        <author><name>Dylan Westfall</name></author>
+        <content type="html">
+<![CDATA[
+<p><a href="https://mullinslab.microbiol.washington.edu/people/former/1273-Anne-Marie-Rousseau"><img src="https://mullinslab.microbiol.washington.edu/static/_img/78/d061/AnneMarieRousseau_bc8ed7e8aa.jpg" width="114" height="122" alt="AnneMarieRousseau.jpg"></a></p><p>Research Scientist</p><p>acrouss@u</p>
+
+]]>
+        </content>
+    </entry>
+    
+    <entry>
+        <title>Noelle Dahl</title>
+        <link href="https://mullinslab.microbiol.washington.edu/people/former/618-Noelle-Dahl" rel="alternate" type="text/html" />
+        <published>2015-03-20T13:52:52-07:00</published>
+        <updated>2015-11-30T11:49:58+00:00</updated>
+        <id>urn:uuid:3b7bd9a5-cc9a-584c-bb0a-fb43b1b5160f</id>
+        <author><name>Dylan Westfall</name></author>
+        <content type="html">
+<![CDATA[
+<p><a href="https://mullinslab.microbiol.washington.edu/people/former/618-Noelle-Dahl"><img src="https://mullinslab.microbiol.washington.edu/static/_img/f8/afbc/noelledahl_3fe9065260.jpeg" width="114" height="156" alt="noelledahl.jpeg"></a></p><p>Research Scientist Extraordinaire</p><p>npdahl@u</p>
+
+]]>
+        </content>
+    </entry>
+    
+    <entry>
+        <title>Tsigereda Biru Leulebirhan</title>
+        <link href="https://mullinslab.microbiol.washington.edu/people/former/1744-Tsigereda-Biru-Leulebirhan" rel="alternate" type="text/html" />
+        <published>2015-01-12T14:32:12-08:00</published>
+        <updated>2015-11-02T11:51:21+00:00</updated>
+        <id>urn:uuid:2bea781c-c890-5285-9397-31c242ffe377</id>
+        <author><name>Dylan Westfall</name></author>
+        <content type="html">
+<![CDATA[
+<p><a href="https://mullinslab.microbiol.washington.edu/people/former/1744-Tsigereda-Biru-Leulebirhan"><img src="https://mullinslab.microbiol.washington.edu/static/_img/4e/c633/TsigeridaBiru_1968879060.jpg" width="114" height="151" alt="TsigeridaBiru.jpg"></a></p><p>Postdoctoral Fellow</p><p>tsigel@u</p>
+
+]]>
+        </content>
+    </entry>
+    
+    <entry>
+        <title>C Alexander Hill</title>
+        <link href="https://mullinslab.microbiol.washington.edu/people/former/278-C-Alexander-Hill" rel="alternate" type="text/html" />
+        <published>2015-01-12T14:05:47-08:00</published>
+        <updated>2016-01-05T14:39:06+00:00</updated>
+        <id>urn:uuid:ca3b5649-7d10-5c78-b3af-6240bfc1490a</id>
+        <author><name>Dylan Westfall</name></author>
+        <content type="html">
+<![CDATA[
+<p><a href="https://mullinslab.microbiol.washington.edu/people/former/278-C-Alexander-Hill"><img src="https://mullinslab.microbiol.washington.edu/static/_img/5f/d5a7/C-AlexanderHill_86520b070b.jpg" width="114" height="162" alt="C.AlexanderHill.jpg"></a></p><p>Research Scientist</p><p>clayh@u</p>
+
+]]>
+        </content>
+    </entry>
+    
+    <entry>
+        <title>Summer Iqbal</title>
+        <link href="https://mullinslab.microbiol.washington.edu/people/former/1123-Summer-Iqbal" rel="alternate" type="text/html" />
+        <published>2014-12-29T14:42:52-08:00</published>
+        <updated>2015-10-15T12:42:02+00:00</updated>
+        <id>urn:uuid:4f433a7f-cf93-5665-93e1-58658d27b502</id>
+        <author><name>Dylan Westfall</name></author>
+        <content type="html">
+<![CDATA[
+<p><a href="https://mullinslab.microbiol.washington.edu/people/former/1123-Summer-Iqbal"><img src="https://mullinslab.microbiol.washington.edu/static/_img/7c/c558/Summer-Iqbal_ab23555c69.jpg" width="114" height="150" alt="Summer
+Iqbal.jpg"></a></p><p>Postdoctoral Fellow</p><p>ssiddiqi@u</p>
+
+]]>
+        </content>
+    </entry>
+    
+    <entry>
+        <title>Tamara Babenko</title>
+        <link href="https://mullinslab.microbiol.washington.edu/people/former/103-Tamara-Babenko" rel="alternate" type="text/html" />
+        <published>2014-12-17T12:55:42-08:00</published>
+        <updated>2017-03-03T08:58:15+00:00</updated>
+        <id>urn:uuid:e9d62dd2-82af-5a58-b221-387db8a655ae</id>
+        <author><name>Dylan Westfall</name></author>
+        <content type="html">
+<![CDATA[
+<p><a href="https://mullinslab.microbiol.washington.edu/people/former/103-Tamara-Babenko"><img src="https://mullinslab.microbiol.washington.edu/static/_img/53/f72c/TamaraBabenko_08dda863f4.jpg" width="114" height="143" alt="TamaraBabenko.jpg"></a></p><p>Research Scientist</p><p>tamara8@u</p>
+
+]]>
+        </content>
+    </entry>
+    
+
+    
+</feed>

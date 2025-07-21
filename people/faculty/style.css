@@ -1,0 +1,73 @@
+@import url('../../style.css');
+
+.group {
+    clear: right;
+}
+
+.group ul {
+    column-count: auto;
+    column-width: 17em;
+    list-style-type: none;
+    margin: 0;
+    padding: 12px;
+}
+
+.person {
+    position: relative;
+    padding: 1ex 12px;
+    clear: right;
+    border-top: solid #ccc 1px;
+}
+
+h1 +.person {
+    border-top: none;
+}
+
+.person img {
+    float: right;
+    top: 0;
+    right: 0;
+    float: right;
+    margin: -2em 0 1ex 1ex;
+}
+
+#intro img {
+    float: right;
+    margin: 0 0 1ex 1em;
+}
+
+#content .person h2 {
+    margin: 0;
+    padding: 0;
+    color: black;
+    background: transparent;
+}
+
+#entry #content img {
+    max-width: 50%;
+    height: auto;
+}
+
+.tags {
+    font-size: 90%;
+    font-style: italic;
+}
+
+.tags ul {
+    display: inline;
+    list-style-type: none;
+    margin: 0; padding: 0;
+}
+
+.tags li {
+    display: inline;
+    margin: 0; padding: 0;
+}
+
+.tags li:after {
+    content: ", ";
+}
+
+.tags li:last-child:after {
+    content: "";
+}

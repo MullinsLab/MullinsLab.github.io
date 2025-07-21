@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+
+<feed xmlns="http://www.w3.org/2005/Atom"
+    xmlns:fh="http://purl.org/syndication/history/1.0"
+    xmlns:at="http://purl.org/atompub/tombstones/1.0">
+
+    <title>Mullins Molecular Retrovirology Lab: Contact</title>
+    <subtitle>A personal publishing system for the modern web</subtitle>
+    <link href="https://mullinslab.microbiol.washington.edu/contact/feed" rel="self" />
+    <link href="https://mullinslab.microbiol.washington.edu/contact/feed" rel="current" />
+    <link href="https://pubsubhubbub.superfeedr.com" rel="hub" />
+    
+    
+    <link href="https://mullinslab.microbiol.washington.edu/contact/" />
+    
+    <id>tag:mullinslab.microbiol.washington.edu,2019-03-04:contact</id>
+    <updated>2019-02-28T10:50:22-08:00</updated>
+
+    
+    <entry>
+        <title>Directions to the Lab</title>
+        <link href="https://mullinslab.microbiol.washington.edu/contact/865-Directions-to-the-Lab" rel="alternate" type="text/html" />
+        <published>2019-02-28T10:50:22-08:00</published>
+        <updated>2019-02-28T10:50:22-08:00</updated>
+        <id>urn:uuid:9008cb71-42ce-5a89-8e11-18b1aa3c114b</id>
+        <author><name>Mullins Lab</name></author>
+        <content type="html">
+<![CDATA[
+<iframe class="map" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d9823.98195928201!2d-122.35017934370067!3d47.62354121020008!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x5490153872fe591f%3A0x6ccb3367124022!2s750+Republican+St%2C+Seattle%2C+WA+98109!5e0!3m2!1sen!2sus!4v1533247624529" frameborder="0" style="border:0" allowfullscreen></iframe>
+<p>The Mullins Lab is on the 4th floor of Building F of UW Medicine&rsquo;s South Lake Union research campus.</p>
+<h2>Mass Transit</h2>
+<p>The campus may be reached via:</p>
+<ul>
+<li>Bus using Metro Transit (many routes will bring you to South Lake Union, including 8, 40, 62, 70, and E)</li>
+<li>South Lake Union Streetcar from dowtown Seattle (Olive and Westlake) or the nearby Fred Hutchinson Cancer Research Center</li>
+<li>South Lake Union Shuttle from the UW Health Sciences Center</li>
+</ul>
+
+<h2>Driving Directions</h2>
+
+<ol>
+<li>From Interstate 5 (from North, South, or express lanes), take the Mercer Street exit</li>
+<li>Turn left onto Fairview Avenue N at the light at the end of ramp</li>
+<li>Turn right onto Republican St. after one block (next light)</li>
+<li>Go four blocks west; our building is part of the facility on the north side of the street past 8th Ave N</li>
+</ol>
+
+<h2>Building Access</h2>
+<p>Visitors to the lab should check in at reception in Building E, also 750 Republican St. The main entrance to Building E is along 8th Ave N, between Republican St and Mercer St.</p>
+
+]]>
+        </content>
+    </entry>
+    
+    <entry>
+        <title>Contact Information</title>
+        <link href="https://mullinslab.microbiol.washington.edu/contact/631-Contact-Information" rel="alternate" type="text/html" />
+        <published>2019-02-28T10:43:03-08:00</published>
+        <updated>2019-02-28T10:43:03-08:00</updated>
+        <id>urn:uuid:5565f558-7070-516a-a682-fec69aea3749</id>
+        <author><name>Mullins Lab</name></author>
+        <content type="html">
+<![CDATA[
+<h2>Mailing Address</h2>
+<p><strong>Department of Microbiology</strong><br />
+Box 358070<br />
+University of Washington<br />
+Seattle, WA 98195-8070</p>
+<h2>Shipping Address</h2>
+<p>Department of Microbiology<br />
+University of Washington<br />
+750 Republican Street<br />
+Seattle, Washington 98109<br />
+USA</p>
+<h2>Job inquiries</h2>
+<p>Inquiries about opportunities in the lab can be sent to: <code>jmullins@u</code></p>
+
+]]>
+        </content>
+    </entry>
+    
+
+    
+</feed>

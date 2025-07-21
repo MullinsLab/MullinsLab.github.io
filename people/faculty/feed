@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+
+<feed xmlns="http://www.w3.org/2005/Atom"
+    xmlns:fh="http://purl.org/syndication/history/1.0"
+    xmlns:at="http://purl.org/atompub/tombstones/1.0">
+
+    <title>Mullins Molecular Retrovirology Lab: Faculty</title>
+    <subtitle>A personal publishing system for the modern web</subtitle>
+    <link href="https://mullinslab.microbiol.washington.edu/people/faculty/feed" rel="self" />
+    <link href="https://mullinslab.microbiol.washington.edu/people/faculty/feed" rel="current" />
+    <link href="https://pubsubhubbub.superfeedr.com" rel="hub" />
+    
+    
+    <link href="https://mullinslab.microbiol.washington.edu/people/faculty/" />
+    
+    <id>tag:mullinslab.microbiol.washington.edu,2019-03-04:people/faculty</id>
+    <updated>2019-02-21T21:55:51+00:00</updated>
+
+    
+    <entry>
+        <title>James Mullins</title>
+        <link href="https://mullinslab.microbiol.washington.edu/people/faculty/1460-James-Mullins" rel="alternate" type="text/html" />
+        <published>2008-10-04T20:17:39-07:00</published>
+        <updated>2019-02-21T21:55:51+00:00</updated>
+        <id>urn:uuid:5414e42b-c4fd-59f9-8f07-6c1538cdda91</id>
+        <author><name>Mullins Lab</name></author>
+        <content type="html">
+<![CDATA[
+<p><a href="https://mullinslab.microbiol.washington.edu/people/faculty/1460-James-Mullins"><img src="https://mullinslab.microbiol.washington.edu/static/_img/33/b4bf/jmullins-2015_61a20d42ea.jpg" width="120" height="168" alt="jmullins-2015.jpg" title="James Mullins"></a></p><p>Professor, Microbiology</p><p><code>jmullins@u</code><br />
+206-897-6163</p><p><a href="https://microbiology.washington.edu/users/james-i-mullins">Microbiology Faculty Profile</a><br />
+<a href="http://ciiid.washington.edu/people/james-i-mullins-phd">CIIID Profile</a></p>
+
+<p>Dr. Mullins obtained his Ph.D. in cell biology and biochemistry from the University of Minnesota. He did postdoctoral work at the California Institute of Technology before joining the faculty at the Harvard University School of Public Health in 1982. In 1989 he moved to Stanford University as Professor and was Chairman of the Department of Microbiology and Immunology from 1991 until his move in 1994 to the University of Washington where he is on the faculty of the Departments of Microbiology, Medicine and Laboratory Medicine. He was Chair of the Department of Microbiology from 1997 to 2002. He has served on the editorial boards of the Journal of Virology, AIDS and AIDS Research and Human Retroviruses.</p><p>Research in Dr. Mullins&#39; laboratory assists the fight against AIDS by seeking insight into virus transmission and the development of the disease in order to refine therapies and create effective vaccines. We coordinate our use of the techniques of molecular, computational and in vitro virus biology, with clinical, immunological and epidemiological analyses conducted by collaborating laboratories, in order to continually focus on events critical to establishing HIV-infection and protective immunity, the HIV-human host relationship and disease progression.The main projects in the lab include evaluation of breakthrough viruses in clinical vaccine trials, the early events in the transmission of virus to new hosts, virologic changes associated with disease progression and superinfection, and the development of an HIV vaccine that targets highly conserved elements of the viral proteome, the presumed Achilles heel of the virus.</p>
+
+]]>
+        </content>
+    </entry>
+    
+
+    
+</feed>
