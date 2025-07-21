@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+
+<feed xmlns="http://www.w3.org/2005/Atom"
+    xmlns:fh="http://purl.org/syndication/history/1.0"
+    xmlns:at="http://purl.org/atompub/tombstones/1.0">
+
+    <title>Mullins Molecular Retrovirology Lab: Other</title>
+    <subtitle>A personal publishing system for the modern web</subtitle>
+    <link href="https://mullinslab.microbiol.washington.edu/protocols/other/feed" rel="self" />
+    <link href="https://mullinslab.microbiol.washington.edu/protocols/other/feed" rel="current" />
+    <link href="https://pubsubhubbub.superfeedr.com" rel="hub" />
+    
+    
+    <link href="https://mullinslab.microbiol.washington.edu/protocols/other/" />
+    
+    <id>tag:mullinslab.microbiol.washington.edu,2019-03-04:protocols/other</id>
+    <updated>2011-06-03T15:44:56+00:00</updated>
+
+    
+    <entry>
+        <title>14C Acetic Acid Labeling</title>
+        <link href="https://mullinslab.microbiol.washington.edu/protocols/other/2112-14C-Acetic-Acid-Labeling" rel="alternate" type="text/html" />
+        <published>2010-04-01T16:41:56-07:00</published>
+        <updated>2011-06-03T15:41:48+00:00</updated>
+        <id>urn:uuid:aa8e9d32-a6b6-5933-b977-b84a30d7af4f</id>
+        <author><name>Camille</name></author>
+        <content type="html">
+<![CDATA[
+<p>9 May 2003</p><p><strong>Reagents:</strong></p>
+<ul>
+<li><p><sup>14</sup>C Acetic acid sodium salt, Amersham CFA.13, 0.2
+ÂµCi/Âµl</p></li>
+<li><p>1x PBS</p></li>
+<li><p>H<sub>2</sub>O</p></li>
+<li><p>Chloroform, Methanol, Hexane, Isopropanol, 4 L, Stores</p></li>
+<li><p>Long glass tubes and glass pipettes</p></li>
+<li><p>Micropipette, VWR 53432-783</p></li>
+<li><p>TLC Silica gel 60 (20 x 20 cm), VWR EM-11845-7, 25/$231.53</p></li>
+<li><p>Carrier lipid stocks; UC (unstearified cholesterol) 1 mg/ml, CE
+(cholesterol ester) 0.5 mg/ml, TG (triglyceride) 1 mg/ml.</p></li>
+<li><p>Neutrolipid solvent (N.L.); 108 ml hexethane, 1.2 ml HAc (glacial),
+30 ml Diethyl Ether (anhydrous); available at Stores</p></li>
+<li><p>Iodine Crystals</p></li>
+<li><p>Scintillation Fluid (Ecolume) and vials (Wheaton #986644)</p></li>
+</ul>
+<p><strong>Protocol:</strong></p>
+<ol>
+<li><p> Set up cultures at 5 x 10<sup>5</sup> cells/ml in 2 ml with
+<sup>14</sup>C acetate (10 Âµl at 0.2 ÂµCi/Âµl &ndash; final 1 ÂµCi/Âµl).</p></li>
+<li><p> Grow 1 to 2 hours.</p></li>
+<li><p> Wash with 1x PBS (important to remove FBS).</p></li>
+<li><p> Store cell pellet at -20Â°C until ready for further processing.</p></li>
+<li><p> Add 1 ml Hexane:Isopropanol 3:1 v/v (to extract lipids from pellet).</p></li>
+<li><p> Vortex.</p></li>
+<li><p> Incubate 30 minutes at RT.</p></li>
+<li><p> Transfer supernatant to new glass tube careful not to touch the
+pellet.</p></li>
+<li><p> Wash pellet with 1 ml Hexane:Isopropanol. Transfer supernatant to
+same glass tube.</p></li>
+<li><p>Evaporate to dryness under air stream in 40Â°C heat block.</p></li>
+<li><p>Add 4 ml Folch (chloroform:methanol 2:1 v/v).</p></li>
+<li><p>Add 1 ml H<sub>2</sub>O.</p></li>
+<li><p>Add 20 Âµg complete carrier lipid to each sample.</p></li>
+<li><p>Vortex.</p></li>
+<li><p>Incubate 20-30 minutes at RT.</p></li>
+<li><p>Vortex.</p></li>
+<li><p>Spin for 10 minutes at 2000 rpm.</p></li>
+<li><p>Aspirate top aqueous phase, keep organic phase.</p></li>
+<li><p>Add 1 ml H<sub>2</sub>O.</p></li>
+<li><p>Vortex.</p></li>
+<li><p>Spin for 10 minutes at 2000 rpm.</p></li>
+<li><p>Aspirate top aqueous phase, keep organic phase.</p></li>
+<li><p>Evaporate to dryness under air stream in 40Â°C heat block.</p></li>
+<li><p>Rinse sides with chloroform.</p></li>
+<li><p>Evaporate to dryness under air stream in 40Â°C heat block.</p></li>
+<li><p>Resuspend in 110 Âµl chloroform.</p></li>
+<li><p>Spot at ~1.5 cm from bottom of gel (above tank solvent).</p>
+<ol>
+<li> Spot carrier alone for a reference band.</li>
+</ol></li>
+</ol>
+
+<!-- end list -->
+
+<ol>
+<li><p>Place gel in tank with solvent and run.</p>
+<ol>
+<li><p> Run until gel is completely saturated ~20 min.</p></li>
+<li><p> Dry gel on 40Â°C heat block.</p></li>
+</ol></li>
+</ol>
+
+<!-- end list -->
+
+<ol>
+<li><p>Place gel in tank of fresh iodine crystals until all bands are
+clearly visible.</p></li>
+<li><p>Mark bands of interest with pencil.</p></li>
+<li><p>Dry gel until iodine stained bands are clearly not visible.</p></li>
+<li><p>Cut marked bands into scintillation vials and add 4.5 ml
+scintillation fluid.</p></li>
+</ol>
+<p>Reference: Oram Lab, Medicine, Metabolism Endocrinology, University of
+Washington</p>
+
+]]>
+        </content>
+    </entry>
+    
+    <entry>
+        <title>14C Mevalonic Acid Labeling</title>
+        <link href="https://mullinslab.microbiol.washington.edu/protocols/other/434-14C-Mevalonic-Acid-Labeling" rel="alternate" type="text/html" />
+        <published>2010-04-01T16:41:11-07:00</published>
+        <updated>2011-06-03T15:44:56+00:00</updated>
+        <id>urn:uuid:b8f866c6-c41c-560e-907d-3a8d35ee159d</id>
+        <author><name>Camille</name></author>
+        <content type="html">
+<![CDATA[
+<p>8 March 2002</p><p><strong>Reagents:</strong></p>
+<ul>
+<li><p><sup>14</sup>C mevalonic acid DBED salt, NEC166, 0.1 ÂµCi/Âµl</p></li>
+<li><p>1x PBS</p></li>
+<li><p>H<sub>2</sub>O</p></li>
+<li><p>Glass tubes, 16 ml, VWR 60828-387, 72/$134.02</p></li>
+<li><p>Glass tubes, 50 ml, VWR 60828-423, 36/$112.25</p></li>
+<li><p>Chloroform, 4 L, Stores</p></li>
+<li><p>Methanol, 4 L, Stores</p></li>
+<li><p>N<sub>2</sub> gas stream</p></li>
+<li><p>Petroleum ether (35-60Â°C), 1 L, Stores 0014-285, $8.99</p></li>
+<li><p>Na<sub>2</sub>SO<sub>4</sub> (anhydrous), 3 kg, Stores 0004-410,
+$28.09</p></li>
+<li><p>Glass pasteur pipette</p></li>
+<li><p>Glass wool</p></li>
+<li><p>Toluene (purified), 4 L, Stores 0015-070, $17.45</p></li>
+<li><p>Ethyl ether (anhydrous), 1 L, Stores 0012-625, $17.14</p></li>
+<li><p>TLC silica gel 60 (20 x 20 cm), VWR EM-11845-7, 25/$231.53</p></li>
+<li><p>Iodine (crystal), VWR MK098402, 125 g/$98.40</p></li>
+</ul>
+<p><strong>Protocol:</strong></p>
+<ol>
+<li><p> Set up culture at 10<sup>6</sup> cells/ml in 100ml with
+<sup>14</sup>C mevalonate<br>
+(50 Âµl at 0.1 ÂµCi/Âµl &ndash; final 0.05 ÂµCi/ml).</p></li>
+<li><p> Grow 0 to 48 hours.</p></li>
+<li><p> Wash with 1x PBS (important to remove FBS).</p></li>
+<li><p> Resuspend in 1ml H<sub>2</sub>O. Use glass tubes from here on.</p></li>
+<li><p> Add to 10ml chloroform:methanol (2:1 v/v).</p></li>
+<li><p> Stir at RT for 3 hours.</p></li>
+<li><p> Evaporate under N<sub>2</sub> gas stream for ~1 hour until solution
+turns cloudy.</p></li>
+<li><p> Extract 2x with 10 ml petroleum ether at 40-60Â°C.</p></li>
+<li><p> Lower fraction ~500 Âµl, transfer upper fraction (x2) to 50 ml
+tube.</p></li>
+<li><p>Dry with anhydrous Na<sub>2</sub>SO<sub>4</sub>.</p></li>
+<li><p>Filter through pasteur pipette with glass wool.</p></li>
+<li><p>Evaporate to dryness under N<sub>2</sub>.</p></li>
+<li><p>Store at -20Â°C until use.</p></li>
+<li><p>Place 100 ml solvent in tank (toluene:diethylether 9:1 v/v).</p></li>
+<li><p>Resuspend samples in 100 Âµl petroleum ether (vaporizes rapidly).</p></li>
+<li><p>Spot at ~1.5 cm above bottom of gel.</p></li>
+<li><p>Place gel in tank and run about 1.5 hrs or until solvent front
+reaches about one inch from the top of the plate.</p></li>
+<li><p>Remove from tank and dry overnight to prevent <sup>14</sup>C
+contamination of phosphor-screen.</p></li>
+<li><p>Cover in plastic wrap and expose on a phosphor-screen to visualize
+<sup>14</sup>C-labeled compounds.</p></li>
+<li><p>To visualize markers, sprinkle crystals of iodine on the bottom of a
+sealable glass container.</p></li>
+<li><p>Place plates in container and seal lid.</p></li>
+<li><p>Wait 20-30 minutes for entire plate to be exposed.</p></li>
+<li><p>Circle visualized spots as staining will quickly fade.</p></li>
+<li><p>Calculate R<sub>f</sub> value by dividing the distance traveled of
+substance by the distance traveled of solvent front.</p></li>
+</ol>
+
+
+]]>
+        </content>
+    </entry>
+    
+
+    
+</feed>
