@@ -1,0 +1,555 @@
+#NEXUS
+begin taxa;
+	dimensions ntax=488;
+	taxlabels
+	C_ZM_96_96ZM751
+	PP14A_econ
+	PP14A_ecx_Modal
+	PP93A_econ
+	PP93A_ecx_Modal
+	B0633
+	A0464
+	B0868ECONB14
+	A0964eB14
+	PP1A_esm_Modal
+	PP1A_ecx_Modal
+	C_ZA_98_98ZADu104
+	B0890
+	B0285eRtst
+	C_ZA_02_RP6
+	PP98B_econ
+	PP98B_ecx_Modal
+	C_TZ_01_A246
+	C_BW_96_96BW0402
+	AF110964
+	PP7B_econ
+	PP7A_ecx_Modal
+	PP7A_econ
+	PP4A_esm_Modal
+	PP4A_ecx1
+	C_ZA_01_01ZATM45
+	C_YE_02_02YE511
+	C_IL_99_99ET7
+	C_IL_98_98IS002
+	C_ZA_03_03ZAPS026MB1
+	C_ET_97_PHD79H8
+	C_BW_00_00BW5031_1
+	B0722eB15
+	A0112eB15
+	PP65A_econ1
+	PP65A_econ2
+	PP65B_econ
+	C_ZA_01_01ZARP1
+	C_ZA_99_99ZASW12p
+	BKG06_1_econ
+	A0878econB17
+	C_ZA_03_03ZAPS030MB1
+	AY522730
+	PP3B_econ
+	PP3B_ecx_Modal
+	A0099_1_env
+	C_B0201_Envcon_bkg20
+	C_MW_93_93MW965
+	PP118B_econ
+	C_ZA_02_02ZARP5
+	PP10A_econ2
+	PP10A_ecx1_Modal
+	PP10A_ecx2_Modal
+	5B07_conenv
+	5A04_Modal
+	C_BW_96_96BW01B03
+	PP23A_esm1
+	C_ZA_03_03ZAPS043MB1
+	C_BW_00_00BW3891_6
+	C_ZA_98_98ZA445
+	C_ZA_04_04ZASK136B1
+	C_ZA_04_04ZASK052MB2
+	PP70A_econ
+	PP70A_esm_Modal
+	C_BW_00_00BW16162
+	C_BW_00_00BW18802
+	C_BW_00_00BW07621
+	AY162225
+	C_ZA_90_90ZA514
+	AF391249
+	C_ZM_02_02ZM114
+	PP96A_econ
+	PP96B_econ
+	C_BW_98_98BWMC134
+	C_BW_96_96BWMO1_5
+	C_BW_00_00BW17956
+	C_ZA_04_04ZAPS168B1
+	PP36A_esm_Modal
+	PP36A_econ
+	C_ZM_98_55F28a
+	AY423944
+	C_BW_96_96BW06K18
+	C_ZM_00_109F4
+	C_ZA_97_97ZA012
+	C_FI_92_FIN9277
+	AF219270
+	C_ZM_98_106F9
+	C_ZA_98_98ZA502
+	C_FI_91_FIN9149
+	A0585_econB20
+	A0242econB17
+	7A01_1seq_conenv
+	PP8A_econ
+	PP8B_ecx2_Modal
+	PP8B_ecx1_Modal
+	PP8B_econ
+	PP8A_ecx_Modal
+	PP24B_econ
+	C_ZA_04_04ZAPS190B1
+	8B04_Modal
+	PP11A_ecx_Modal
+	PP11B_ecx_Modal
+	PP50A_ecx_Modal
+	C_TZ_02_CO3305
+	PP15B_ecx_Modal
+	PP15A_ecx_Modal
+	C_IN_93_UIND5
+	BKG04_1_econ
+	C_ZM_03_ZM214M
+	C_FI_92_FIN9210
+	DQ367248
+	C_IN_99_01IN565_14
+	C_IN_99_HIV_25925_2
+	C_MM_99_mIDU101_3
+	C_IN_00_HIV_00836_2
+	DQ367260
+	EF368370
+	BC_CN_00_HH086_AP005207
+	C_IN_93_UIND8
+	EU178208
+	C_IN_01_NARI_IND_14
+	C_IN_94_94IN11246
+	C_IN_93_93IN904
+	C_IN_94_94IN_20635_4
+	C_IN_93_93IN905
+	AF067154
+	C_IN_00_NARI_IND_10
+	C_CN_98_YNRL9840
+	C_IN_93_UIND7
+	C_IR_02_IR_140_7
+	AY693968
+	C_IN_98_98IN022
+	C_IN_98_98IN012
+	C_IN_91_D868
+	C_IN_91_D1024
+	C_IN_93_UIND6
+	U29179
+	C_IN_00_NARI_IND_15
+	DQ398881
+	C_IN_91_D747X
+	EF117270
+	C_IN_95_95IN21068
+	EF117272
+	EF117269
+	DQ367250
+	DQ381973
+	C_A0804econB19
+	C_A0804econB19s2
+	PP56A_esm_Modal
+	PP56A_econ2
+	PP2B_econ1
+	PP56A_econ1
+	PP56A_ecx_Modal
+	AY522728
+	C_ZA_05_05ZASK247B1
+	B0658eB15
+	C_TZ_01_A207
+	PP106B_econ1
+	BKG08_cons_env_c
+	C_ZA_99_99ZACM9
+	C_BW_99_99BW393212
+	PP93B_ecx_Modal
+	PP93B_econ
+	C_ZA_90_Dlu
+	C_ZA_90_GOM
+	C_ZA_98_TV001B
+	B0865
+	A0885
+	EF042812
+	C_MW_93_93MW959
+	B0849_Envcon_Batch20_
+	C_BW_00_00BW38193
+	C_ZA_05_CAP228_2_00_18J
+	C_ZA_03_03ZAPS032MB1
+	BKG01_1_econ
+	PP6B_econ
+	7A08_1seq_conenv
+	AF443104
+	B0639eB15
+	A0146eB15
+	B0222
+	A0676
+	8B01_Modal
+	8B01variant2Modal
+	PP22A_ecx_V2_Modal
+	PP22A_ecx_V1_Modal
+	8B01variant1Modal
+	PP22B_esm_Modal
+	PP22B_ecx_Modal
+	PP22A_econ1
+	PP22A_econ2
+	C_ZA_05_05ZASK243B1
+	PP1B_ec_Modal
+	PP1B_econ
+	PP9A_ecx_Modal
+	PP9A_econ
+	C_ZA_99_98ZADu156
+	C_ZA_04_04ZAPS193B1
+	C_ZA_03_03ZAPS020MB1
+	C_ZA_02_02ZAPS014MB1
+	PP118A_econ
+	AY522733
+	C_ZA_98_Du21
+	C_ZA_04_04ZAPS170B1
+	B0108eB13
+	B0108_env
+	A0958eB13
+	A0958_ENV
+	C_ZA_03_03ZAPS021MB1
+	PP94B_ecx_Modal
+	PP94B_econ
+	DQ396367
+	C_ZA_99_98ZADu281
+	DQ164111
+	PP119A_econ
+	PP119B_econ
+	B0980_cons_env_c_Reversed
+	7C10_1seq_conenv
+	CAD_0549econB19s2
+	CAD_A0549econB19
+	C_ZA_99_99ZACOT1
+	AY585264
+	DQ275658
+	C_ZA_99_98ZADu301
+	B0999ECONB12
+	A0331eB12
+	C_ZA_00_1134MB
+	C_ZA_99_99ZACOT2
+	AY463219
+	C_B0414_cons_env_c_reversed
+	AY463223
+	PP3A_econ
+	PP3A_ecx_Modal
+	PP3A_esm_Modal
+	DQ411850
+	C_ZA_90_BooyD
+	C_ZA_05_CAP206_2_00_08J
+	C_ZA_05_05ZASK246B1
+	C_ZA_04_04ZAPS165MB1
+	C_ZA_04_04ZASK127B1
+	A0311_5_econB16s1_C
+	PP50B_econ
+	C_ZA_03_03ZAPS034MB1
+	C_ZA_03_03ZAPS027MB1
+	C_ZA_04_04ZASK083B2
+	C_ZA_03_03ZAPS042MB1
+	C_ZA_03_03ZAPS017MB1
+	C_ZA_00_00ZADu368_Aug_00
+	DQ093591
+	C_ZA_02_RP4
+	B0262_Envcon_Batch20__
+	PP54A_econ1
+	PP54A_econ2
+	PP54B_econ
+	C_ZA_98_Du23
+	C_ZA_04_04ZASK131B1
+	PP98A_econ
+	PP98A_ecx_Modal
+	U86778
+	gi119661388embAM0557981
+	B0054ECONB16_C
+	gi119661318embAM0557621
+	DQ499764
+	C_BW_00_00BW22767
+	C_MW_93_93MW960
+	C_ZA_96_96ZA603
+	C_ZA_00_1119MB
+	C_SO_89_SO145A
+	C_KE_00_KER2010
+	PP16B_econ
+	PP16A_ecx_V1_Modal
+	PP16A_ecx_V2_Modal
+	PP16A_econ
+	C_ZM_89_ZM18
+	C_ZA_97_97ZA347ts
+	C_MW_89_SM750
+	C_ZA_03_03ZAPS046MB1
+	PP94A_econ
+	PP94A_esm_Modal
+	C_ZA_03_03ZAPS049MB1
+	C_ZA_04_04ZAPS188B1
+	C_ZA_04_04ZAPS177MB1
+	C_ZA_04_04ZAPS189B1
+	C_ZA_01_01ZATM18b
+	C_ZA_02_02ZAPS015MB1
+	C_ZA_04_04ZASK128B1
+	C_IN_94_94IN476
+	C_BW_00_00BW3970_2
+	C_BW_98_98BWMO37D5
+	DQ499773
+	C_ZA_05_05ZASK245B1
+	C_ZA_04_04ZAPS160B1
+	C_ZA_96_96ZA602
+	C_ZA_05_05ZASK244B1
+	C_ZA_04_04ZASK132B1
+	C_ZA_03_03ZAPS044MB1
+	C_ZM_00_53M12
+	PP17B_ecx2_Modal
+	PP17B_ecx1_Modal
+	PP17A_esm_V1_Modal
+	PP17A_esm_V2_Modal
+	PP17A_ecx_V2_Modal
+	PP17A_ecx_Modal
+	PP17A_ecx_V1_Modal
+	PP70B_econ
+	PP20A_econ
+	PP20B_econ
+	C_ZA_92_92ZA517
+	AY878072
+	PP56B_econ
+	C_ZA_98_CTSC2
+	B0539_Envcon_Batch20_
+	PP58A_econ2
+	PP58A_ecx2
+	PP58A_ecx1_V2_Modal
+	PP58A_ecx1_V1_Modal
+	BKG05_1_econ
+	C_BW_00_00BW147127
+	C_TZ_01_A125
+	C_ZA_04_04ZAPS169MB1
+	PP14B_ecx_C_Modal
+	DQ369989
+	PP52A_econ
+	PP52B_econ
+	C_ZA_04_04ZASK135B1
+	AY901970
+	AY878065
+	C_ZA_98_98ZA528
+	PP92A_econ
+	PP92A_esm1
+	PP92B_econ
+	AF391238
+	C_ZM_02_02ZM112
+	C_BW_96_96BW0504
+	C_BW_00_00BW17732
+	C_BW_98_98BWMO1410
+	AY887859
+	C_US_98_98US_MSC3018
+	AM055765
+	EU622011
+	C_ZA_04_04ZAPS157MB1
+	AY684935
+	B0786
+	A0800_cons_env
+	A0949
+	C_B0350_cons_env_c_reversed
+	C_BW_99_99BW46424
+	AF361875
+	C_FI_91_FIN9158
+	PP71B_econ
+	PP71A_econ
+	C_BW_00_00BW20361
+	C_ZA_99_99ZASW20
+	DQ381974
+	DQ011167
+	5B03_conenv
+	5A01_Modal
+	PP12A_ecx_Modal
+	PP12B_ecx_Modal
+	C_ZA_00_00ZAPCP1
+	DQ499765
+	PP2A_econ2
+	A0252eRtst
+	B0822_Envcon_Batch20_A
+	C_ZA_05_CAP08_2_00_E4J
+	C_ZA_04_04ZAPS172MB1
+	PP106A_econ
+	PP106A_esm_Modal
+	C_BW_00_00BW192113
+	C_BW_98_98BWMC14A3
+	C_ZM_99_135MPL10a
+	A0913_env_messy_new
+	A0913_cons_env_batch9
+	C_SN_90_SE364A
+	C_8B03env1
+	DQ164129
+	C_ZA_03_03ZAPS048MB1
+	C_ZM_96_96ZM651
+	C_BW_00_00BW3886_8
+	C_TZ_02_CO6721
+	A0286eB13
+	8A08_Modal
+	8A06_Modal
+	PP6A_econ2
+	PP6A_econ1
+	PP24A_esm_Modal
+	PP24A_econ
+	PP24A_ecx_Modal
+	C_ZM_02_02ZM110
+	C_ZM_03_ZM249M
+	C_BW_99_99BWMC168
+	C_GE_03_03GEMZ033
+	PP23B_econ
+	PP23B_ecx_Modal
+	PP36B_econ4
+	PP36B_ecx_Modal
+	PP36B_econ3
+	PP36B_econ1
+	PP36B_econ2
+	DQ093596
+	BKG011_ENV12_ED31
+	PP25A_econ
+	PP25B_econ
+	7B01_1seq_conenv
+	7B02_1seq_conenv
+	A0337econB17
+	B0613eB10
+	A0520eB10
+	AF443096
+	B0339ECONB16_C
+	C_ZA_98_Du172
+	C_B0954_cons_env_c_reversed
+	AY887866
+	C_TZ_98_98TZ017
+	C_TZ_97_97TZ04
+	C_A0156econB19
+	C_A0156econB19s2
+	DQ027794
+	C_UG_90_UG268A2
+	C_IL_99_99ET1
+	C_DJ_91_DJ373A
+	C_DJ_91_DJ259A
+	C_IL_x_ILBC37
+	C_RU_x_YAN4A
+	C_ET_86_ETH2220
+	C_ET_02_02ET_288
+	C_BI_91_BU910717
+	C_ET_x_MCGP1_4
+	C_KE_95_MM13376_B2
+	PP48A_econ
+	PP48B_econ2
+	PP48B_econ1
+	U39239
+	C_BI_91_BU910213
+	C_BI_91_BU910112
+	C_KE_87_MCH2126G
+	C_BR_92_BR025
+	C_BR_04_04BR013
+	C_UY_01_TRA3011
+	C_BR_04_04BR073
+	DQ208443
+	B0903eB08
+	B0903
+	A0582
+	C_KE_95_MM14999_C51
+	C_KE_94_MM1324_C1
+	U39246
+	C_KE_94_MM9885_G1
+	C_KE_93_MM1480_D51
+	PP79A_econ
+	PP79A_ecx_Modal
+	BKG012_ENV2_ED31
+	PP117B_econ
+	A0524_1_econB20
+	C_ZA_05_CAP210_2_00_E8
+	C_BI_91_BU910815
+	A0392_1_econB18s1
+	B0279_cons_env_c
+	7A02_1seq_conenv
+	PP27A_econ2
+	PP27A_econ1
+	PP10B_econ3
+	PP10B_econ2
+	PP10B_ecx
+	PP10B_econ1
+	BKG010_ENV2_ED31
+	A0986eB10
+	PP27B_econ
+	PP27B_ecx_Modal
+	1_B0890_cons_env
+	B_K_A1_B0674_conenv
+	B_FR_83_HXB2_K03455
+	A_A0006econB19s2_inc
+	PP4B_ecx_Modal
+	A0029_ENV
+	PP13A_ecx2_Modal
+	PP13B_ecx_Modal
+	PP13A_ecx1_Modal
+	PP9B_ecx1_Modal
+	PP9B_econ1
+	B0697_env
+	PP117A_econ
+	B0799_env_new
+	A0763_cons_env
+	PP79B_ecx_Modal
+	PP79B_econ
+	PP38B_ecx_Modal
+	PP38A_ecx_Modal
+;
+end;
+
+begin trees;
+	tree tree_1 = [&R] (((((((((((((((C_ZM_96_96ZM751[&!rotate=false]:0.055649,(PP14A_econ[&!rotate=false]:0.022775,PP14A_ecx_Modal[&!rotate=false]:0.0)[&!rotate=false]:0.104873)[&!rotate=false]:0.025571,(((((PP93A_econ[&!rotate=false]:0.0,PP93A_ecx_Modal[&!rotate=false]:0.0)[&!rotate=false]:0.086283,((B0633[&!rotate=false]:0.034716,A0464[&!rotate=false]:0.007072)[&!rotate=false]:0.057182,(B0868ECONB14[&!rotate=false]:0.029867,A0964eB14[&!rotate=false]:0.003543)[&!rotate=false]:0.156837)[&!rotate=false]:0.015078)[&!rotate=false]:0.011309,((((PP1A_esm_Modal[&!rotate=false]:0.003901,PP1A_ecx_Modal[&!rotate=false]:0.003519)[&!rotate=false]:0.084211,C_ZA_98_98ZADu104[&!rotate=false]:0.116059)[&!rotate=false]:0.00874,(B0890[&!rotate=false]:0.010276,B0285eRtst[&!rotate=false]:0.016997)[&!rotate=false]:0.159858)[&!rotate=false]:0.035703,(C_ZA_02_RP6[&!rotate=false]:0.061873,(PP98B_econ[&!rotate=false]:0.0,PP98B_ecx_Modal[&!rotate=false]:0.0)[&!rotate=false]:0.17107)[&!rotate=false]:0.017783)[&!rotate=false]:0.023464)[&!rotate=false]:0.004813,(C_TZ_01_A246[&!rotate=false]:0.131488,(C_BW_96_96BW0402[&!rotate=false]:0.069737,AF110964[&!rotate=false]:0.055773)[&!rotate=false]:0.05208)[&!rotate=false]:0.002907)[&!rotate=false]:0.014928,(((((PP7B_econ[&!rotate=false]:0.003123,PP7A_ecx_Modal[&!rotate=false]:0.0)[&!rotate=false]:0.029845,PP7A_econ[&!rotate=false]:0.035106)[&!rotate=false]:0.10446,(PP4A_esm_Modal[&!rotate=false]:0.044773,PP4A_ecx1[&!rotate=false]:0.117484)[&!rotate=false]:0.032911)[&!rotate=false]:0.01698,(C_ZA_01_01ZATM45[&!rotate=false]:0.219145,((C_YE_02_02YE511[&!rotate=false]:0.079108,(C_IL_99_99ET7[&!rotate=false]:0.057135,C_IL_98_98IS002[&!rotate=false]:0.068654)[&!rotate=false]:0.012087)[&!rotate=false]:0.017969,(C_ZA_03_03ZAPS026MB1[&!rotate=false]:0.083643,C_ET_97_PHD79H8[&!rotate=false]:0.07968)[&!rotate=false]:0.007469)[&!rotate=false]:0.010438)[&!rotate=false]:0.009059)[&!rotate=false]:0.007245,(C_BW_00_00BW5031_1[&!rotate=false]:0.144282,((B0722eB15[&!rotate=false]:0.031472,A0112eB15[&!rotate=false]:0.004977)[&!rotate=false]:0.098998,((PP65A_econ1[&!rotate=false]:0.014808,PP65A_econ2[&!rotate=false]:1.64E-4)[&!rotate=false]:0.096064,PP65B_econ[&!rotate=false]:0.047694)[&!rotate=false]:0.066464)[&!rotate=false]:0.012413)[&!rotate=false]:0.010588)[&!rotate=false]:0.008986)[&!rotate=false]:0.004991)[&!rotate=false]:0.007522,(((C_ZA_01_01ZARP1[&!rotate=false]:0.139784,C_ZA_99_99ZASW12p[&!rotate=false]:0.095403)[&!rotate=false]:0.018011,(BKG06_1_econ[&!rotate=false]:0.122933,A0878econB17[&!rotate=false]:0.087425)[&!rotate=false]:0.035905)[&!rotate=false]:0.007629,(((C_ZA_03_03ZAPS030MB1[&!rotate=false]:0.133889,AY522730[&!rotate=false]:0.034154)[&!rotate=false]:0.030297,(PP3B_econ[&!rotate=false]:0.0,PP3B_ecx_Modal[&!rotate=false]:0.0)[&!rotate=false]:0.132837)[&!rotate=false]:0.019473,A0099_1_env[&!rotate=false]:0.116784)[&!rotate=false]:0.004951)[&!rotate=false]:0.018323)[&!rotate=false]:0.007516,(((C_B0201_Envcon_bkg20[&!rotate=false]:0.10467,C_MW_93_93MW965[&!rotate=false]:0.072345)[&!rotate=false]:0.010562,PP118B_econ[&!rotate=false]:0.093743)[&!rotate=false]:0.004837,(C_ZA_02_02ZARP5[&!rotate=false]:0.140075,(((PP10A_econ2[&!rotate=false]:0.020132,(PP10A_ecx1_Modal[&!rotate=false]:0.0,PP10A_ecx2_Modal[&!rotate=false]:0.0)[&!rotate=false]:0.024109)[&!rotate=false]:0.048758,(5B07_conenv[&!rotate=false]:0.016962,5A04_Modal[&!rotate=false]:0.046739)[&!rotate=false]:0.105629)[&!rotate=false]:0.002887,(C_BW_96_96BW01B03[&!rotate=false]:0.140855,PP23A_esm1[&!rotate=false]:0.091006)[&!rotate=false]:0.027005)[&!rotate=false]:0.014541)[&!rotate=false]:0.0)[&!rotate=false]:0.012811)[&!rotate=false]:0.004082,(((C_ZA_03_03ZAPS043MB1[&!rotate=false]:0.085748,C_BW_00_00BW3891_6[&!rotate=false]:0.101418)[&!rotate=false]:0.044854,((C_ZA_98_98ZA445[&!rotate=false]:0.084063,(C_ZA_04_04ZASK136B1[&!rotate=false]:0.098974,C_ZA_04_04ZASK052MB2[&!rotate=false]:0.039965)[&!rotate=false]:0.032256)[&!rotate=false]:0.02907,(PP70A_econ[&!rotate=false]:0.039477,PP70A_esm_Modal[&!rotate=false]:0.0)[&!rotate=false]:0.115776)[&!rotate=false]:0.014351)[&!rotate=false]:0.004046,(((((C_BW_00_00BW16162[&!rotate=false]:0.083612,(C_BW_00_00BW18802[&!rotate=false]:0.138784,C_BW_00_00BW07621[&!rotate=false]:0.08452)[&!rotate=false]:0.00954)[&!rotate=false]:0.040378,AY162225[&!rotate=false]:0.039341)[&!rotate=false]:0.029944,(C_ZA_90_90ZA514[&!rotate=false]:0.084094,AF391249[&!rotate=false]:0.048332)[&!rotate=false]:0.019941)[&!rotate=false]:0.007886,((C_ZM_02_02ZM114[&!rotate=false]:0.152,(PP96A_econ[&!rotate=false]:0.0,PP96B_econ[&!rotate=false]:0.032957)[&!rotate=false]:0.089047)[&!rotate=false]:0.007888,((C_BW_98_98BWMC134[&!rotate=false]:0.09702,C_BW_96_96BWMO1_5[&!rotate=false]:0.055452)[&!rotate=false]:0.028973,C_BW_00_00BW17956[&!rotate=false]:0.103064)[&!rotate=false]:0.005727)[&!rotate=false]:0.007809)[&!rotate=false]:0.013577,(C_ZA_04_04ZAPS168B1[&!rotate=false]:0.168457,(PP36A_esm_Modal[&!rotate=false]:0.0,PP36A_econ[&!rotate=false]:0.075565)[&!rotate=false]:0.044023)[&!rotate=false]:0.051279)[&!rotate=false]:0.010178)[&!rotate=false]:0.007765)[&!rotate=false]:0.0,(((C_ZM_98_55F28a[&!rotate=false]:0.038487,AY423944[&!rotate=false]:0.03534)[&!rotate=false]:0.056703,C_BW_96_96BW06K18[&!rotate=false]:0.079779)[&!rotate=false]:0.01726,((C_ZM_00_109F4[&!rotate=false]:0.168845,C_ZA_97_97ZA012[&!rotate=false]:0.081558)[&!rotate=false]:0.028852,(C_FI_92_FIN9277[&!rotate=false]:0.045424,AF219270[&!rotate=false]:0.073311)[&!rotate=false]:0.025096)[&!rotate=false]:0.0)[&!rotate=false]:0.009945)[&!rotate=false]:0.006086,(((((((C_ZM_98_106F9[&!rotate=false]:0.103531,(C_ZA_98_98ZA502[&!rotate=false]:0.049933,C_FI_91_FIN9149[&!rotate=false]:0.048137)[&!rotate=false]:0.014502)[&!rotate=false]:0.01101,((A0585_econB20[&!rotate=false]:0.137208,(A0242econB17[&!rotate=false]:0.017064,7A01_1seq_conenv[&!rotate=false]:0.019897)[&!rotate=false]:0.125536)[&!rotate=false]:0.017611,((PP8A_econ[&!rotate=false]:0.110811,((PP8B_ecx2_Modal[&!rotate=false]:0.0,(PP8B_ecx1_Modal[&!rotate=false]:0.0,PP8B_econ[&!rotate=false]:0.013126)[&!rotate=false]:0.0)[&!rotate=false]:0.08185,PP8A_ecx_Modal[&!rotate=false]:0.059375)[&!rotate=false]:0.004529)[&!rotate=false]:0.050443,PP24B_econ[&!rotate=false]:0.110199)[&!rotate=false]:0.002401)[&!rotate=false]:0.023717)[&!rotate=false]:0.0,((C_ZA_04_04ZAPS190B1[&!rotate=false]:0.134614,(((8B04_Modal[&!rotate=false]:0.0,PP11A_ecx_Modal[&!rotate=false]:0.0)[&!rotate=false]:0.009426,PP11B_ecx_Modal[&!rotate=false]:0.012891)[&!rotate=false]:0.083223,PP50A_ecx_Modal[&!rotate=false]:0.159533)[&!rotate=false]:0.042881)[&!rotate=false]:0.0,((C_TZ_02_CO3305[&!rotate=false]:0.083654,(PP15B_ecx_Modal[&!rotate=false]:0.010653,PP15A_ecx_Modal[&!rotate=false]:0.005407)[&!rotate=false]:0.098733)[&!rotate=false]:0.014559,C_IN_93_UIND5[&!rotate=false]:0.126828)[&!rotate=false]:0.003442)[&!rotate=false]:0.006364)[&!rotate=false]:0.003757,(((BKG04_1_econ[&!rotate=false]:0.121439,C_ZM_03_ZM214M[&!rotate=false]:0.121501)[&!rotate=false]:0.045987,C_FI_92_FIN9210[&!rotate=false]:0.05159)[&!rotate=false]:0.018905,(((((((((DQ367248[&!rotate=false]:0.054317,C_IN_99_01IN565_14[&!rotate=false]:0.074263)[&!rotate=false]:0.01132,((C_IN_99_HIV_25925_2[&!rotate=false]:0.056833,((C_MM_99_mIDU101_3[&!rotate=false]:0.082884,C_IN_00_HIV_00836_2[&!rotate=false]:0.089008)[&!rotate=false]:0.023978,(((DQ367260[&!rotate=false]:0.073323,((((EF368370[&!rotate=false]:0.036578,BC_CN_00_HH086_AP005207[&!rotate=false]:0.048776)[&!rotate=false]:0.014336,C_IN_93_UIND8[&!rotate=false]:0.019337)[&!rotate=false]:0.004853,((EU178208[&!rotate=false]:0.074376,C_IN_01_NARI_IND_14[&!rotate=false]:0.061713)[&!rotate=false]:0.004213,(C_IN_94_94IN11246[&!rotate=false]:0.04074,C_IN_93_93IN904[&!rotate=false]:0.043005)[&!rotate=false]:0.016443)[&!rotate=false]:0.009847)[&!rotate=false]:0.003059,C_IN_94_94IN_20635_4[&!rotate=false]:0.027459)[&!rotate=false]:0.003153)[&!rotate=false]:0.0,((C_IN_93_93IN905[&!rotate=false]:0.03988,AF067154[&!rotate=false]:0.04813)[&!rotate=false]:0.009392,C_IN_00_NARI_IND_10[&!rotate=false]:0.053505)[&!rotate=false]:0.005578)[&!rotate=false]:0.003593,(C_CN_98_YNRL9840[&!rotate=false]:0.03985,C_IN_93_UIND7[&!rotate=false]:0.02685)[&!rotate=false]:0.004767)[&!rotate=false]:0.003509)[&!rotate=false]:0.003124)[&!rotate=false]:0.003713,((C_IR_02_IR_140_7[&!rotate=false]:0.091369,AY693968[&!rotate=false]:0.032951)[&!rotate=false]:0.01542,(C_IN_98_98IN022[&!rotate=false]:0.080165,((C_IN_98_98IN012[&!rotate=false]:0.044648,(C_IN_91_D868[&!rotate=false]:0.065387,C_IN_91_D1024[&!rotate=false]:0.031533)[&!rotate=false]:0.009317)[&!rotate=false]:0.001974,C_IN_93_UIND6[&!rotate=false]:0.028689)[&!rotate=false]:0.007572)[&!rotate=false]:0.0)[&!rotate=false]:0.006128)[&!rotate=false]:0.005428)[&!rotate=false]:0.001298,(U29179[&!rotate=false]:0.038522,C_IN_00_NARI_IND_15[&!rotate=false]:0.034236)[&!rotate=false]:0.003625)[&!rotate=false]:0.003493,(DQ398881[&!rotate=false]:0.062452,C_IN_91_D747X[&!rotate=false]:0.048395)[&!rotate=false]:0.0)[&!rotate=false]:0.006582,(EF117270[&!rotate=false]:0.080793,C_IN_95_95IN21068[&!rotate=false]:0.020473)[&!rotate=false]:0.024575)[&!rotate=false]:0.018688,(EF117272[&!rotate=false]:0.06218,(EF117269[&!rotate=false]:0.062226,DQ367250[&!rotate=false]:0.035741)[&!rotate=false]:0.01774)[&!rotate=false]:0.014121)[&!rotate=false]:0.010002,DQ381973[&!rotate=false]:0.053981)[&!rotate=false]:0.00367,(((((C_A0804econB19[&!rotate=false]:0.0,C_A0804econB19s2[&!rotate=false]:0.0)[&!rotate=false]:0.152396,((((((((((PP56A_esm_Modal[&!rotate=false]:0.002683,PP56A_econ2[&!rotate=false]:0.027389)[&!rotate=false]:0.0,PP2B_econ1[&!rotate=false]:0.004256)[&!rotate=false]:0.007645,PP56A_econ1[&!rotate=false]:0.0)[&!rotate=false]:0.012452,PP56A_ecx_Modal[&!rotate=false]:0.011075)[&!rotate=false]:0.120829,AY522728[&!rotate=false]:0.076378)[&!rotate=false]:0.020492,C_ZA_05_05ZASK247B1[&!rotate=false]:0.10818)[&!rotate=false]:0.011642,B0658eB15[&!rotate=false]:0.126269)[&!rotate=false]:5.42E-4,(C_TZ_01_A207[&!rotate=false]:0.154116,PP106B_econ1[&!rotate=false]:0.090039)[&!rotate=false]:0.012792)[&!rotate=false]:0.021191,((((BKG08_cons_env_c[&!rotate=false]:0.081856,(C_ZA_99_99ZACM9[&!rotate=false]:0.105396,C_BW_99_99BW393212[&!rotate=false]:0.105129)[&!rotate=false]:0.017282)[&!rotate=false]:0.006134,(((PP93B_ecx_Modal[&!rotate=false]:0.003474,PP93B_econ[&!rotate=false]:0.0)[&!rotate=false]:0.119038,(C_ZA_90_Dlu[&!rotate=false]:0.062541,(C_ZA_90_GOM[&!rotate=false]:0.031469,(C_ZA_98_TV001B[&!rotate=false]:0.075461,(B0865[&!rotate=false]:0.003948,A0885[&!rotate=false]:0.005882)[&!rotate=false]:0.079977)[&!rotate=false]:0.025557)[&!rotate=false]:0.011113)[&!rotate=false]:0.005515)[&!rotate=false]:0.010066,(EF042812[&!rotate=false]:0.0677,C_MW_93_93MW959[&!rotate=false]:0.098939)[&!rotate=false]:0.0)[&!rotate=false]:0.011888)[&!rotate=false]:0.006899,(B0849_Envcon_Batch20_[&!rotate=false]:0.1381,(((C_BW_00_00BW38193[&!rotate=false]:0.146571,((C_ZA_05_CAP228_2_00_18J[&!rotate=false]:0.07913,C_ZA_03_03ZAPS032MB1[&!rotate=false]:0.139526)[&!rotate=false]:0.029045,(BKG01_1_econ[&!rotate=false]:0.136483,(PP6B_econ[&!rotate=false]:0.0971,7A08_1seq_conenv[&!rotate=false]:0.184259)[&!rotate=false]:0.017517)[&!rotate=false]:0.010477)[&!rotate=false]:0.005752)[&!rotate=false]:0.019705,(AF443104[&!rotate=false]:0.056951,((B0639eB15[&!rotate=false]:0.0,A0146eB15[&!rotate=false]:0.003261)[&!rotate=false]:0.078769,(B0222[&!rotate=false]:0.031494,A0676[&!rotate=false]:0.026921)[&!rotate=false]:0.10026)[&!rotate=false]:0.019407)[&!rotate=false]:0.018178)[&!rotate=false]:0.009735,((((((((8B01_Modal[&!rotate=false]:0.0,8B01variant2Modal[&!rotate=false]:0.0)[&!rotate=false]:0.0,PP22A_ecx_V2_Modal[&!rotate=false]:0.0)[&!rotate=false]:0.008374,PP22A_ecx_V1_Modal[&!rotate=false]:0.0)[&!rotate=false]:0.0,8B01variant1Modal[&!rotate=false]:0.0)[&!rotate=false]:0.068679,((PP22B_esm_Modal[&!rotate=false]:0.0,PP22B_ecx_Modal[&!rotate=false]:0.007809)[&!rotate=false]:0.056754,(PP22A_econ1[&!rotate=false]:0.013145,PP22A_econ2[&!rotate=false]:0.013)[&!rotate=false]:0.024708)[&!rotate=false]:0.015084)[&!rotate=false]:0.145167,C_ZA_05_05ZASK243B1[&!rotate=false]:0.081621)[&!rotate=false]:0.026173,((((((PP1B_ec_Modal[&!rotate=false]:0.035736,PP1B_econ[&!rotate=false]:0.0)[&!rotate=false]:0.200897,(PP9A_ecx_Modal[&!rotate=false]:0.017009,PP9A_econ[&!rotate=false]:0.115987)[&!rotate=false]:0.09202)[&!rotate=false]:0.017954,((C_ZA_99_98ZADu156[&!rotate=false]:0.093264,C_ZA_04_04ZAPS193B1[&!rotate=false]:0.090886)[&!rotate=false]:0.010007,(C_ZA_03_03ZAPS020MB1[&!rotate=false]:0.074644,C_ZA_02_02ZAPS014MB1[&!rotate=false]:0.10224)[&!rotate=false]:0.024366)[&!rotate=false]:0.008639)[&!rotate=false]:0.01368,(((PP118A_econ[&!rotate=false]:0.097722,AY522733[&!rotate=false]:0.054374)[&!rotate=false]:0.013921,(C_ZA_98_Du21[&!rotate=false]:0.100144,C_ZA_04_04ZAPS170B1[&!rotate=false]:0.080249)[&!rotate=false]:0.009957)[&!rotate=false]:0.005512,((((B0108eB13[&!rotate=false]:0.0,B0108_env[&!rotate=false]:0.0)[&!rotate=false]:0.012731,(A0958eB13[&!rotate=false]:0.0,A0958_ENV[&!rotate=false]:0.0)[&!rotate=false]:0.007027)[&!rotate=false]:0.104266,((C_ZA_03_03ZAPS021MB1[&!rotate=false]:0.084612,(PP94B_ecx_Modal[&!rotate=false]:0.0,PP94B_econ[&!rotate=false]:0.0)[&!rotate=false]:0.148741)[&!rotate=false]:0.027309,(DQ396367[&!rotate=false]:0.058008,C_ZA_99_98ZADu281[&!rotate=false]:0.066625)[&!rotate=false]:0.007855)[&!rotate=false]:0.005298)[&!rotate=false]:0.012329,DQ164111[&!rotate=false]:0.060974)[&!rotate=false]:0.017433)[&!rotate=false]:0.020843)[&!rotate=false]:0.010206,((PP119A_econ[&!rotate=false]:0.012346,PP119B_econ[&!rotate=false]:0.039796)[&!rotate=false]:0.097605,((B0980_cons_env_c_Reversed[&!rotate=false]:0.098499,(7C10_1seq_conenv[&!rotate=false]:0.0,(CAD_0549econB19s2[&!rotate=false]:0.0,CAD_A0549econB19[&!rotate=false]:0.0)[&!rotate=false]:0.01992)[&!rotate=false]:0.071121)[&!rotate=false]:0.062661,C_ZA_99_99ZACOT1[&!rotate=false]:0.142709)[&!rotate=false]:0.013247)[&!rotate=false]:0.013748)[&!rotate=false]:0.00346,((AY585264[&!rotate=false]:0.073547,(DQ275658[&!rotate=false]:0.069274,((((C_ZA_99_98ZADu301[&!rotate=false]:0.109358,((B0999ECONB12[&!rotate=false]:0.017231,A0331eB12[&!rotate=false]:0.021898)[&!rotate=false]:0.075999,C_ZA_00_1134MB[&!rotate=false]:0.071113)[&!rotate=false]:0.01008)[&!rotate=false]:0.01607,C_ZA_99_99ZACOT2[&!rotate=false]:0.06591)[&!rotate=false]:0.013121,((AY463219[&!rotate=false]:0.056128,((C_B0414_cons_env_c_reversed[&!rotate=false]:0.094165,AY463223[&!rotate=false]:0.105579)[&!rotate=false]:0.034903,(PP3A_econ[&!rotate=false]:0.032127,(PP3A_ecx_Modal[&!rotate=false]:0.0,PP3A_esm_Modal[&!rotate=false]:0.0)[&!rotate=false]:0.009471)[&!rotate=false]:0.078447)[&!rotate=false]:0.023311)[&!rotate=false]:0.004006,(((DQ411850[&!rotate=false]:0.062497,C_ZA_90_BooyD[&!rotate=false]:0.041831)[&!rotate=false]:0.009119,((C_ZA_05_CAP206_2_00_08J[&!rotate=false]:0.184959,C_ZA_05_05ZASK246B1[&!rotate=false]:0.101042)[&!rotate=false]:0.055236,C_ZA_04_04ZAPS165MB1[&!rotate=false]:0.10151)[&!rotate=false]:0.012482)[&!rotate=false]:0.01119,(((C_ZA_04_04ZASK127B1[&!rotate=false]:0.119492,A0311_5_econB16s1_C[&!rotate=false]:0.107894)[&!rotate=false]:0.021271,PP50B_econ[&!rotate=false]:0.110413)[&!rotate=false]:0.004765,((((C_ZA_03_03ZAPS034MB1[&!rotate=false]:0.119651,C_ZA_03_03ZAPS027MB1[&!rotate=false]:0.126315)[&!rotate=false]:0.012838,C_ZA_04_04ZASK083B2[&!rotate=false]:0.145516)[&!rotate=false]:0.00483,(C_ZA_03_03ZAPS042MB1[&!rotate=false]:0.115767,(C_ZA_03_03ZAPS017MB1[&!rotate=false]:0.136708,C_ZA_00_00ZADu368_Aug_00[&!rotate=false]:0.057477)[&!rotate=false]:0.022129)[&!rotate=false]:0.015668)[&!rotate=false]:0.0080,DQ093591[&!rotate=false]:0.088313)[&!rotate=false]:0.004715)[&!rotate=false]:0.006981)[&!rotate=false]:0.003844)[&!rotate=false]:0.012879)[&!rotate=false]:0.010072,((C_ZA_02_RP4[&!rotate=false]:0.187679,B0262_Envcon_Batch20__[&!rotate=false]:0.094822)[&!rotate=false]:0.034223,((PP54A_econ1[&!rotate=false]:0.007598,PP54A_econ2[&!rotate=false]:0.012938)[&!rotate=false]:0.025093,PP54B_econ[&!rotate=false]:0.051461)[&!rotate=false]:0.071152)[&!rotate=false]:0.009555)[&!rotate=false]:0.009321)[&!rotate=false]:0.012923)[&!rotate=false]:0.003469,C_ZA_98_Du23[&!rotate=false]:0.086735)[&!rotate=false]:0.0)[&!rotate=false]:0.008341)[&!rotate=false]:0.024986,(((C_ZA_04_04ZASK131B1[&!rotate=false]:0.168607,(PP98A_econ[&!rotate=false]:0.003176,PP98A_ecx_Modal[&!rotate=false]:0.0)[&!rotate=false]:0.12779)[&!rotate=false]:0.011203,(U86778[&!rotate=false]:0.039675,((gi119661388embAM0557981[&!rotate=false]:0.084586,B0054ECONB16_C[&!rotate=false]:0.087978)[&!rotate=false]:0.012597,gi119661318embAM0557621[&!rotate=false]:0.087296)[&!rotate=false]:0.020267)[&!rotate=false]:0.008636)[&!rotate=false]:0.010397,(((DQ499764[&!rotate=false]:0.088855,(C_BW_00_00BW22767[&!rotate=false]:0.123187,C_MW_93_93MW960[&!rotate=false]:0.073576)[&!rotate=false]:0.004786)[&!rotate=false]:0.004578,(C_ZA_96_96ZA603[&!rotate=false]:0.106102,C_ZA_00_1119MB[&!rotate=false]:0.078675)[&!rotate=false]:0.008166)[&!rotate=false]:3.07E-4,C_SO_89_SO145A[&!rotate=false]:0.074821)[&!rotate=false]:0.014007)[&!rotate=false]:0.012999)[&!rotate=false]:0.004566)[&!rotate=false]:2.33E-4)[&!rotate=false]:0.014624)[&!rotate=false]:0.005201,(C_KE_00_KER2010[&!rotate=false]:0.092179,((PP16B_econ[&!rotate=false]:0.047823,PP16A_ecx_V1_Modal[&!rotate=false]:0.028377)[&!rotate=false]:0.11223,(PP16A_ecx_V2_Modal[&!rotate=false]:0.015994,PP16A_econ[&!rotate=false]:0.0)[&!rotate=false]:0.093838)[&!rotate=false]:0.046404)[&!rotate=false]:0.02856)[&!rotate=false]:0.005948)[&!rotate=false]:0.003961,(C_ZM_89_ZM18[&!rotate=false]:0.051838,C_ZA_97_97ZA347ts[&!rotate=false]:0.139164)[&!rotate=false]:0.011239)[&!rotate=false]:0.0)[&!rotate=false]:0.016154,(((C_MW_89_SM750[&!rotate=false]:0.128189,((C_ZA_03_03ZAPS046MB1[&!rotate=false]:0.08556,(PP94A_econ[&!rotate=false]:0.019602,PP94A_esm_Modal[&!rotate=false]:0.003369)[&!rotate=false]:0.083633)[&!rotate=false]:0.029251,((((C_ZA_03_03ZAPS049MB1[&!rotate=false]:0.090039,((C_ZA_04_04ZAPS188B1[&!rotate=false]:0.120651,C_ZA_04_04ZAPS177MB1[&!rotate=false]:0.110058)[&!rotate=false]:0.014388,(((C_ZA_04_04ZAPS189B1[&!rotate=false]:0.118685,C_ZA_01_01ZATM18b[&!rotate=false]:0.116381)[&!rotate=false]:0.005587,C_ZA_02_02ZAPS015MB1[&!rotate=false]:0.144118)[&!rotate=false]:0.00375,C_ZA_04_04ZASK128B1[&!rotate=false]:0.102018)[&!rotate=false]:0.010907)[&!rotate=false]:0.004018)[&!rotate=false]:0.006898,((C_IN_94_94IN476[&!rotate=false]:0.124785,C_BW_00_00BW3970_2[&!rotate=false]:0.085291)[&!rotate=false]:0.03492,C_BW_98_98BWMO37D5[&!rotate=false]:0.207854)[&!rotate=false]:0.009546)[&!rotate=false]:0.01071,DQ499773[&!rotate=false]:0.067487)[&!rotate=false]:0.012728,((C_ZA_05_05ZASK245B1[&!rotate=false]:0.111584,C_ZA_04_04ZAPS160B1[&!rotate=false]:0.096684)[&!rotate=false]:0.012985,(C_ZA_96_96ZA602[&!rotate=false]:0.102264,C_ZA_05_05ZASK244B1[&!rotate=false]:0.06669)[&!rotate=false]:0.019662)[&!rotate=false]:0.010119)[&!rotate=false]:0.028398)[&!rotate=false]:0.008103)[&!rotate=false]:0.001337,(C_ZA_04_04ZASK132B1[&!rotate=false]:0.104228,C_ZA_03_03ZAPS044MB1[&!rotate=false]:0.092363)[&!rotate=false]:0.028486)[&!rotate=false]:0.00967,(((C_ZM_00_53M12[&!rotate=false]:0.131886,(((((PP17B_ecx2_Modal[&!rotate=false]:0.005235,PP17B_ecx1_Modal[&!rotate=false]:0.041065)[&!rotate=false]:0.016328,PP17A_esm_V1_Modal[&!rotate=false]:0.0)[&!rotate=false]:0.070989,(PP17A_esm_V2_Modal[&!rotate=false]:0.0,((PP17A_ecx_V2_Modal[&!rotate=false]:0.003881,PP17A_ecx_Modal[&!rotate=false]:0.0)[&!rotate=false]:0.030208,PP17A_ecx_V1_Modal[&!rotate=false]:0.015204)[&!rotate=false]:0.012565)[&!rotate=false]:0.048244)[&!rotate=false]:0.076029,PP70B_econ[&!rotate=false]:0.137712)[&!rotate=false]:0.004528,(PP20A_econ[&!rotate=false]:0.019306,PP20B_econ[&!rotate=false]:0.040989)[&!rotate=false]:0.083366)[&!rotate=false]:0.011324)[&!rotate=false]:0.018366,C_ZA_92_92ZA517[&!rotate=false]:0.127619)[&!rotate=false]:0.006124,(AY878072[&!rotate=false]:0.094766,PP56B_econ[&!rotate=false]:0.139835)[&!rotate=false]:0.059486)[&!rotate=false]:0.00108)[&!rotate=false]:0.006488)[&!rotate=false]:0.015083,((C_ZA_98_CTSC2[&!rotate=false]:0.08297,B0539_Envcon_Batch20_[&!rotate=false]:0.072904)[&!rotate=false]:0.021482,(((((PP58A_econ2[&!rotate=false]:0.002575,PP58A_ecx2[&!rotate=false]:0.003635)[&!rotate=false]:0.035495,PP58A_ecx1_V2_Modal[&!rotate=false]:0.019008)[&!rotate=false]:0.094591,PP58A_ecx1_V1_Modal[&!rotate=false]:0.068966)[&!rotate=false]:0.020036,(BKG05_1_econ[&!rotate=false]:0.143101,(C_BW_00_00BW147127[&!rotate=false]:0.144177,C_TZ_01_A125[&!rotate=false]:0.083746)[&!rotate=false]:0.022738)[&!rotate=false]:0.005224)[&!rotate=false]:0.020284,(C_ZA_04_04ZAPS169MB1[&!rotate=false]:0.085452,PP14B_ecx_C_Modal[&!rotate=false]:0.117589)[&!rotate=false]:0.023717)[&!rotate=false]:0.009059)[&!rotate=false]:0.009344)[&!rotate=false]:0.006157,(((DQ369989[&!rotate=false]:0.080947,(PP52A_econ[&!rotate=false]:0.026655,PP52B_econ[&!rotate=false]:0.051474)[&!rotate=false]:0.073331)[&!rotate=false]:0.020745,((C_ZA_04_04ZASK135B1[&!rotate=false]:0.103656,AY901970[&!rotate=false]:0.079454)[&!rotate=false]:0.014962,AY878065[&!rotate=false]:0.049733)[&!rotate=false]:0.009685)[&!rotate=false]:0.005469,(((C_ZA_98_98ZA528[&!rotate=false]:0.119226,((PP92A_econ[&!rotate=false]:0.035905,PP92A_esm1[&!rotate=false]:0.031385)[&!rotate=false]:0.04183,PP92B_econ[&!rotate=false]:0.108329)[&!rotate=false]:0.01325)[&!rotate=false]:0.017149,AF391238[&!rotate=false]:0.059489)[&!rotate=false]:0.011306,C_ZM_02_02ZM112[&!rotate=false]:0.127282)[&!rotate=false]:0.008286)[&!rotate=false]:0.025232)[&!rotate=false]:0.008255)[&!rotate=false]:0.0,(C_BW_96_96BW0504[&!rotate=false]:0.093965,C_BW_00_00BW17732[&!rotate=false]:0.09664)[&!rotate=false]:0.050493)[&!rotate=false]:0.004116)[&!rotate=false]:0.002814)[&!rotate=false]:0.0,((C_BW_98_98BWMO1410[&!rotate=false]:0.082827,AY887859[&!rotate=false]:0.090447)[&!rotate=false]:0.024373,(C_US_98_98US_MSC3018[&!rotate=false]:0.114499,AM055765[&!rotate=false]:0.05695)[&!rotate=false]:0.014664)[&!rotate=false]:0.007732)[&!rotate=false]:0.004012,((EU622011[&!rotate=false]:0.10093,C_ZA_04_04ZAPS157MB1[&!rotate=false]:0.153944)[&!rotate=false]:0.008367,(AY684935[&!rotate=false]:0.066898,((B0786[&!rotate=false]:0.003183,A0800_cons_env[&!rotate=false]:0.0)[&!rotate=false]:0.008958,A0949[&!rotate=false]:0.020666)[&!rotate=false]:0.124053)[&!rotate=false]:0.018807)[&!rotate=false]:0.010026)[&!rotate=false]:0.0,(((((C_B0350_cons_env_c_reversed[&!rotate=false]:0.101202,(C_BW_99_99BW46424[&!rotate=false]:0.10222,AF361875[&!rotate=false]:0.037273)[&!rotate=false]:0.01275)[&!rotate=false]:0.017322,C_FI_91_FIN9158[&!rotate=false]:0.073226)[&!rotate=false]:0.002549,((PP71B_econ[&!rotate=false]:0.029958,PP71A_econ[&!rotate=false]:0.028677)[&!rotate=false]:0.071171,C_BW_00_00BW20361[&!rotate=false]:0.06452)[&!rotate=false]:0.024601)[&!rotate=false]:0.00513,((((C_ZA_99_99ZASW20[&!rotate=false]:0.122439,(DQ381974[&!rotate=false]:0.072789,DQ011167[&!rotate=false]:0.070682)[&!rotate=false]:0.009587)[&!rotate=false]:0.010645,((((((5B03_conenv[&!rotate=false]:0.020502,5A01_Modal[&!rotate=false]:0.001901)[&!rotate=false]:0.091783,(PP12A_ecx_Modal[&!rotate=false]:0.050984,PP12B_ecx_Modal[&!rotate=false]:0.007331)[&!rotate=false]:0.151554)[&!rotate=false]:0.016875,(C_ZA_00_00ZAPCP1[&!rotate=false]:0.04558,DQ499765[&!rotate=false]:0.072815)[&!rotate=false]:0.007955)[&!rotate=false]:0.017747,((PP2A_econ2[&!rotate=false]:0.009702,A0252eRtst[&!rotate=false]:0.013419)[&!rotate=false]:0.055572,B0822_Envcon_Batch20_A[&!rotate=false]:0.119162)[&!rotate=false]:0.040313)[&!rotate=false]:0.017677,(C_ZA_05_CAP08_2_00_E4J[&!rotate=false]:0.107347,C_ZA_04_04ZAPS172MB1[&!rotate=false]:0.116234)[&!rotate=false]:0.0096)[&!rotate=false]:0.014886,(((PP106A_econ[&!rotate=false]:0.013548,PP106A_esm_Modal[&!rotate=false]:0.015255)[&!rotate=false]:0.099321,C_BW_00_00BW192113[&!rotate=false]:0.08857)[&!rotate=false]:0.030727,C_BW_98_98BWMC14A3[&!rotate=false]:0.081357)[&!rotate=false]:0.008353)[&!rotate=false]:0.004965)[&!rotate=false]:0.010257,C_ZM_99_135MPL10a[&!rotate=false]:0.101612)[&!rotate=false]:0.004746,((((A0913_env_messy_new[&!rotate=false]:0.003363,A0913_cons_env_batch9[&!rotate=false]:0.0)[&!rotate=false]:0.086081,(C_SN_90_SE364A[&!rotate=false]:0.095897,C_8B03env1[&!rotate=false]:0.064433)[&!rotate=false]:0.011737)[&!rotate=false]:0.00942,(DQ164129[&!rotate=false]:0.080517,C_ZA_03_03ZAPS048MB1[&!rotate=false]:0.103701)[&!rotate=false]:0.017168)[&!rotate=false]:0.014158,((C_ZM_96_96ZM651[&!rotate=false]:0.054905,C_BW_00_00BW3886_8[&!rotate=false]:0.08011)[&!rotate=false]:0.010743,(C_TZ_02_CO6721[&!rotate=false]:0.122435,A0286eB13[&!rotate=false]:0.124539)[&!rotate=false]:0.027213)[&!rotate=false]:0.00876)[&!rotate=false]:0.020141)[&!rotate=false]:0.007153)[&!rotate=false]:0.0,(8A08_Modal[&!rotate=false]:0.002867,8A06_Modal[&!rotate=false]:0.01309)[&!rotate=false]:0.15156)[&!rotate=false]:0.007766)[&!rotate=false]:0.012471)[&!rotate=false]:0.025011,((((PP6A_econ2[&!rotate=false]:0.031749,PP6A_econ1[&!rotate=false]:0.054605)[&!rotate=false]:0.087697,((PP24A_esm_Modal[&!rotate=false]:0.0,PP24A_econ[&!rotate=false]:0.009651)[&!rotate=false]:0.0,PP24A_ecx_Modal[&!rotate=false]:0.003676)[&!rotate=false]:0.101247)[&!rotate=false]:0.015794,C_ZM_02_02ZM110[&!rotate=false]:0.097063)[&!rotate=false]:0.014458,(C_ZM_03_ZM249M[&!rotate=false]:0.121358,C_BW_99_99BWMC168[&!rotate=false]:0.095725)[&!rotate=false]:0.021422)[&!rotate=false]:0.00179)[&!rotate=false]:0.002604,((((C_GE_03_03GEMZ033[&!rotate=false]:0.095881,(PP23B_econ[&!rotate=false]:0.0,PP23B_ecx_Modal[&!rotate=false]:0.0)[&!rotate=false]:0.132045)[&!rotate=false]:0.018199,(PP36B_econ4[&!rotate=false]:0.0,(PP36B_ecx_Modal[&!rotate=false]:0.0,((PP36B_econ3[&!rotate=false]:0.0,PP36B_econ1[&!rotate=false]:0.0)[&!rotate=false]:0.0,PP36B_econ2[&!rotate=false]:0.0)[&!rotate=false]:0.0)[&!rotate=false]:0.0)[&!rotate=false]:0.11341)[&!rotate=false]:0.018212,((DQ093596[&!rotate=false]:0.078704,((BKG011_ENV12_ED31[&!rotate=false]:0.133371,(PP25A_econ[&!rotate=false]:7.68E-4,PP25B_econ[&!rotate=false]:0.013098)[&!rotate=false]:0.129298)[&!rotate=false]:0.004234,(7B01_1seq_conenv[&!rotate=false]:0.012852,(7B02_1seq_conenv[&!rotate=false]:0.008084,A0337econB17[&!rotate=false]:0.0)[&!rotate=false]:0.001919)[&!rotate=false]:0.073715)[&!rotate=false]:0.013622)[&!rotate=false]:0.020425,(((B0613eB10[&!rotate=false]:0.042203,A0520eB10[&!rotate=false]:0.038419)[&!rotate=false]:0.090955,(AF443096[&!rotate=false]:0.101022,B0339ECONB16_C[&!rotate=false]:0.073211)[&!rotate=false]:0.007687)[&!rotate=false]:0.005502,C_ZA_98_Du172[&!rotate=false]:0.103081)[&!rotate=false]:0.012006)[&!rotate=false]:0.003888)[&!rotate=false]:0.007528,((C_B0954_cons_env_c_reversed[&!rotate=false]:0.121549,AY887866[&!rotate=false]:0.054041)[&!rotate=false]:0.015572,(C_TZ_98_98TZ017[&!rotate=false]:0.058358,C_TZ_97_97TZ04[&!rotate=false]:0.057216)[&!rotate=false]:0.0545)[&!rotate=false]:0.003651)[&!rotate=false]:0.011174)[&!rotate=false]:0.016097,(((((C_A0156econB19[&!rotate=false]:0.0,C_A0156econB19s2[&!rotate=false]:0.0)[&!rotate=false]:0.0964,DQ027794[&!rotate=false]:0.039445)[&!rotate=false]:0.034341,C_UG_90_UG268A2[&!rotate=false]:0.101143)[&!rotate=false]:0.016901,((((C_IL_99_99ET1[&!rotate=false]:0.127905,C_DJ_91_DJ373A[&!rotate=false]:0.090691)[&!rotate=false]:0.018542,(C_DJ_91_DJ259A[&!rotate=false]:0.099978,(C_IL_x_ILBC37[&!rotate=false]:0.073546,C_RU_x_YAN4A[&!rotate=false]:0.117181)[&!rotate=false]:0.015541)[&!rotate=false]:0.008006)[&!rotate=false]:0.011226,(C_ET_86_ETH2220[&!rotate=false]:0.051091,C_ET_02_02ET_288[&!rotate=false]:0.073077)[&!rotate=false]:0.022056)[&!rotate=false]:0.010368,((C_BI_91_BU910717[&!rotate=false]:0.066767,C_ET_x_MCGP1_4[&!rotate=false]:0.144286)[&!rotate=false]:0.016298,C_KE_95_MM13376_B2[&!rotate=false]:0.132027)[&!rotate=false]:0.020175)[&!rotate=false]:0.006684)[&!rotate=false]:0.018319,(((PP48A_econ[&!rotate=false]:0.012331,(PP48B_econ2[&!rotate=false]:0.004478,PP48B_econ1[&!rotate=false]:0.0)[&!rotate=false]:0.012394)[&!rotate=false]:0.136906,U39239[&!rotate=false]:0.060443)[&!rotate=false]:0.019287,((((C_BI_91_BU910213[&!rotate=false]:0.097361,C_BI_91_BU910112[&!rotate=false]:0.061764)[&!rotate=false]:0.019345,(((C_KE_87_MCH2126G[&!rotate=false]:0.077662,(C_BR_92_BR025[&!rotate=false]:0.044742,(C_BR_04_04BR013[&!rotate=false]:0.059307,(C_UY_01_TRA3011[&!rotate=false]:0.04711,C_BR_04_04BR073[&!rotate=false]:0.076315)[&!rotate=false]:0.021475)[&!rotate=false]:0.01001)[&!rotate=false]:0.031851)[&!rotate=false]:0.011777,((DQ208443[&!rotate=false]:0.080699,((B0903eB08[&!rotate=false]:0.0,B0903[&!rotate=false]:0.003212)[&!rotate=false]:0.013493,A0582[&!rotate=false]:0.033932)[&!rotate=false]:0.103048)[&!rotate=false]:0.019562,(C_KE_95_MM14999_C51[&!rotate=false]:0.074746,C_KE_94_MM1324_C1[&!rotate=false]:0.169208)[&!rotate=false]:0.007162)[&!rotate=false]:0.013159)[&!rotate=false]:0.01275,(U39246[&!rotate=false]:0.072372,C_KE_94_MM9885_G1[&!rotate=false]:0.094121)[&!rotate=false]:0.0)[&!rotate=false]:0.0)[&!rotate=false]:0.008791,((C_KE_93_MM1480_D51[&!rotate=false]:0.108688,(PP79A_econ[&!rotate=false]:0.008958,PP79A_ecx_Modal[&!rotate=false]:0.003781)[&!rotate=false]:0.202771)[&!rotate=false]:0.018374,(BKG012_ENV2_ED31[&!rotate=false]:0.091477,PP117B_econ[&!rotate=false]:0.175588)[&!rotate=false]:0.012024)[&!rotate=false]:0.024741)[&!rotate=false]:0.013645,(A0524_1_econB20[&!rotate=false]:0.166112,(C_ZA_05_CAP210_2_00_E8[&!rotate=false]:0.1201,C_BI_91_BU910815[&!rotate=false]:0.108439)[&!rotate=false]:0.026312)[&!rotate=false]:0.024664)[&!rotate=false]:0.010701)[&!rotate=false]:0.011742)[&!rotate=false]:0.01249)[&!rotate=false]:0.036363,(A0392_1_econB18s1[&!rotate=false]:0.002578,(B0279_cons_env_c[&!rotate=false]:0.0,7A02_1seq_conenv[&!rotate=false]:0.003959)[&!rotate=false]:0.014223)[&!rotate=false]:0.151217)[&!rotate=false]:0.025065,((PP27A_econ2[&!rotate=false]:0.011285,PP27A_econ1[&!rotate=false]:0.005543)[&!rotate=false]:0.169212,((PP10B_econ3[&!rotate=false]:0.0,PP10B_econ2[&!rotate=false]:0.0)[&!rotate=false]:0.0,(PP10B_ecx[&!rotate=false]:0.0,PP10B_econ1[&!rotate=false]:0.0)[&!rotate=false]:0.0)[&!rotate=false]:0.134087)[&!rotate=false]:0.073842)[&!rotate=false]:0.089656,((((BKG010_ENV2_ED31[&!color=#-16385502,!rotate=false]:0.192078,A0986eB10[&!color=#-16385502,!rotate=false]:0.255808)[&!color=#-16385502,!rotate=false]:0.055147,((PP27B_econ[&!color=#-16385502,!rotate=false]:0.013932,PP27B_ecx_Modal[&!color=#-16385502,!rotate=false]:0.017039)[&!color=#-16385502,!rotate=false]:0.127482,1_B0890_cons_env[&!color=#-16385502,!rotate=false]:0.161596)[&!color=#-16385502,!rotate=false]:0.039017)[&!color=#-16385502,!rotate=false]:0.05691,B_K_A1_B0674_conenv[&!rotate=false]:0.160475)[&!rotate=false]:0.031807,B_FR_83_HXB2_K03455[&!rotate=false]:0.228485)[&!rotate=false]:0.014391)[&!rotate=false]:0.020564,((((((A_A0006econB19s2_inc[&!color=#-16438532,!rotate=false]:0.137352,PP4B_ecx_Modal[&!color=#-16438532,!rotate=false]:0.124699)[&!color=#-16438532,!rotate=false]:0.006072,A0029_ENV[&!color=#-16438532,!rotate=false]:0.159503)[&!color=#-16438532,!rotate=false]:0.027852,((((PP13A_ecx2_Modal[&!color=#-16438532,!rotate=false]:0.0,PP13B_ecx_Modal[&!color=#-16438532,!rotate=false]:0.0)[&!color=#-16438532,!rotate=false]:0.041914,PP13A_ecx1_Modal[&!color=#-16438532,!rotate=false]:0.025937)[&!color=#-16438532,!rotate=false]:0.1629,(PP9B_ecx1_Modal[&!color=#-16438532,!rotate=false]:0.0,PP9B_econ1[&!color=#-16438532,!rotate=false]:0.003209)[&!color=#-16438532,!rotate=false]:0.223953)[&!color=#-16438532,!rotate=false]:0.052799,B0697_env[&!color=#-16438532,!rotate=false]:0.147781)[&!color=#-16438532,!rotate=false]:0.022337)[&!color=#-16438532,!rotate=false]:0.026836,PP117A_econ[&!color=#-16438532,!rotate=false]:0.186527)[&!color=#-16438532,!rotate=false]:0.013038,(B0799_env_new[&!color=#-16438532,!rotate=false]:0.00462,A0763_cons_env[&!color=#-16438532,!rotate=false]:0.032609)[&!color=#-16438532,!rotate=false]:0.109414)[&!color=#-16438532,!rotate=false]:0.049353,(PP79B_ecx_Modal[&!color=#-16438532,!rotate=false]:0.0,PP79B_econ[&!color=#-16438532,!rotate=false]:0.0)[&!color=#-16438532,!rotate=false]:0.194304)[&!color=#-16438532,!rotate=false]:0.040004)[&!rotate=false]:0.317096,PP38B_ecx_Modal[&!rotate=false]:0.005112,PP38A_ecx_Modal[&!rotate=false]:0.010543)[&!rotate=false];
+end;
+
+begin figtree;
+	set appearance.backgroundColour=#-1;
+	set appearance.branchColorAttribute="User Selection";
+	set appearance.branchLineWidth=1.0;
+	set appearance.foregroundColour=#-16777216;
+	set appearance.selectionColour=#-2144520576;
+	set branchLabels.displayAttribute="Branch times";
+	set branchLabels.fontSize=8.0;
+	set branchLabels.isShown=false;
+	set branchLabels.significantDigits=4;
+	set layout.expansion=1400;
+	set layout.layoutType="RECTILINEAR";
+	set layout.zoom=0;
+	set nodeBars.barWidth=4.0;
+	set nodeLabels.displayAttribute="Node ages";
+	set nodeLabels.fontSize=8.0;
+	set nodeLabels.isShown=false;
+	set nodeLabels.significantDigits=4;
+	set polarLayout.alignTipLabels=false;
+	set polarLayout.angularRange=0;
+	set polarLayout.rootAngle=0;
+	set polarLayout.rootLength=100;
+	set polarLayout.showRoot=true;
+	set radialLayout.spread=0.0;
+	set rectilinearLayout.alignTipLabels=false;
+	set rectilinearLayout.curvature=0;
+	set rectilinearLayout.rootLength=100;
+	set scale.offsetAge=0.0;
+	set scale.rootAge=1.0;
+	set scale.scaleFactor=1.0;
+	set scale.scaleRoot=false;
+	set scaleAxis.automaticScale=true;
+	set scaleAxis.fontSize=8.0;
+	set scaleAxis.isShown=false;
+	set scaleAxis.lineWidth=1.0;
+	set scaleAxis.majorTicks=1.0;
+	set scaleAxis.origin=0.0;
+	set scaleAxis.significantDigits=4;
+	set scaleBar.automaticScale=true;
+	set scaleBar.fontSize=10.0;
+	set scaleBar.isShown=true;
+	set scaleBar.lineWidth=1.0;
+	set scaleBar.scaleRange=0.0;
+	set scaleBar.significantDigits=4;
+	set tipLabels.displayAttribute="Names";
+	set tipLabels.fontSize=8.0;
+	set tipLabels.isShown=true;
+	set tipLabels.significantDigits=4;
+	set trees.order=true;
+	set trees.orderType="decreasing";
+	set trees.rooting=false;
+	set trees.rootingType="User Selection";
+	set trees.transform=false;
+	set trees.transformType="cladogram";
+end;
+
