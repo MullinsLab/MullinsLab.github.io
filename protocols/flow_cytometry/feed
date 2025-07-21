@@ -1,0 +1,564 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+
+<feed xmlns="http://www.w3.org/2005/Atom"
+    xmlns:fh="http://purl.org/syndication/history/1.0"
+    xmlns:at="http://purl.org/atompub/tombstones/1.0">
+
+    <title>Mullins Molecular Retrovirology Lab: Flow Cytometry</title>
+    <subtitle>A personal publishing system for the modern web</subtitle>
+    <link href="https://mullinslab.microbiol.washington.edu/protocols/flow_cytometry/feed" rel="self" />
+    <link href="https://mullinslab.microbiol.washington.edu/protocols/flow_cytometry/feed" rel="current" />
+    <link href="https://pubsubhubbub.superfeedr.com" rel="hub" />
+    
+    
+    <link href="https://mullinslab.microbiol.washington.edu/protocols/flow_cytometry/" />
+    
+    <id>tag:mullinslab.microbiol.washington.edu,2019-03-04:protocols/flow_cytometry</id>
+    <updated>2011-06-03T16:08:52+00:00</updated>
+
+    
+    <entry>
+        <title>Separation of T-Cell Subsets by FACStar</title>
+        <link href="https://mullinslab.microbiol.washington.edu/protocols/flow_cytometry/604-Separation-of-T-Cell-Subsets-by-FACStar" rel="alternate" type="text/html" />
+        <published>2010-03-30T16:01:43-07:00</published>
+        <updated>2011-06-03T16:07:31+00:00</updated>
+        <id>urn:uuid:c25675a3-4873-5b41-ba48-25bc8782fc1a</id>
+        <author><name>Camille</name></author>
+        <content type="html">
+<![CDATA[
+<h1>Materials:</h1>
+
+<ul>
+<li><p>Equipment</p>
+<ul>
+<li><p>10-100 ml Pipette, Eppendorf</p></li>
+<li><p>Rotixa/RP centrifuge, Hettich</p></li>
+<li><p>Biosafety cabinet, Clean Air</p></li>
+<li><p>FACStar, Becton Dickinson</p></li>
+</ul></li>
+<li><p>Disposables</p>
+<ul>
+<li><p>Pipettes: 2, 5, 10 ml, Falcon, BD</p></li>
+<li><p>Pipette tips: 1-200 ml, Costar</p></li>
+<li><p>Propylene conial tube: 15 ml, Falcon, BD</p></li>
+<li><p>Polypropylene round-bottom tube with cap: 6 ml (12x75mm), Falcon, BD</p></li>
+<li><p>Bio-freeze vial: 6 ml (12x75mm), Costar.</p></li>
+</ul></li>
+<li><p>Reagents</p>
+<ul>
+<li><p>Bovine serum albumine (BSA), Sigma</p></li>
+<li><p>Phosphate buffered Saline (PBS)</p></li>
+<li><p>Wash buffer (PB): PBS/1.0%BSA</p></li>
+<li><p>RPMI-1640 with Hepes, Gibco BRL</p></li>
+<li><p>Fetal bovine serum (FBS), Hyclone</p></li>
+</ul></li>
+<li><p>Antibodies</p>
+<ul>
+<li><p>Leu2a-PE (g1;CD8), Becton Dickinson.</p></li>
+<li><p>Leu3a-FITC (g1;CD4), Becton Dickinson.</p></li>
+</ul></li>
+</ul>
+
+<h1>Methods</h1>
+
+<ul>
+<li><p>Thaw PBMC gently in 10 ml RPMI with 20% FCS, spin down (4Â°C, 5&#39;,
+2000 rpm)</p></li>
+<li><p>Resuspend in 2 ml PB, take 40 ml in 20 ml Isoton for cell counting</p></li>
+<li><p>Add another 3 mL of PB and spin down (4°C, 5&#39;, 2000 rpm)</p></li>
+<li><p>In the mean time count the cells with the Coulter Counter</p></li>
+<li><p>Resuspend cells in PB at concentration to 10<sup>7</sup> cells/mL</p></li>
+<li><p>Add directly labelled mAb to final concentration of 1:50</p></li>
+<li><p>Incubate 30&#39; at 4Â°C in the dark.</p></li>
+<li><p>Wash twice with PB</p></li>
+<li><p>Resuspend cells in PB to 3*10<sup>6</sup>/mL in 6 mL tubes. (Max.
+4.5 mL)</p></li>
+<li><p>Deliver also tubes with 0.5 mL RPMI/20% FCS for harvesting sorted
+cells</p></li>
+<li><p>Sort on FACStar approximately 1-2*10<sup>6</sup> cells per T-cell
+subset</p></li>
+<li><p>Gate on lymphocyte population in dot plot</p></li>
+<li><p>Sort cells with high expression of CD4 or CD8 separately</p></li>
+<li><p>Analyze purity of T-cell subsets by analyzing 5,000 events</p></li>
+<li><p>Transfer sorted cell suspension to 15 mL conial tube</p></li>
+<li><p>Spin cells down (4Â°C, 5&#39;, 3000 rpm)</p></li>
+</ul>
+
+
+]]>
+        </content>
+    </entry>
+    
+    <entry>
+        <title>Measurement of Intracellular Calcium By Flow Cytometry</title>
+        <link href="https://mullinslab.microbiol.washington.edu/protocols/flow_cytometry/275-Measurement-of-Intracellular-Calcium-By-Flow-Cytometry" rel="alternate" type="text/html" />
+        <published>2010-03-30T16:01:04-07:00</published>
+        <updated>2011-06-03T16:07:38+00:00</updated>
+        <id>urn:uuid:fe827182-225b-57be-b2b3-3ba7d64cb6bd</id>
+        <author><name>Camille</name></author>
+        <content type="html">
+<![CDATA[
+<h2>Reagents</h2>
+
+<ul>
+<li><p>Appropriate culture media (i.e. cRPMI for T cell lines, cDMEM for
+attaching cells) warmed in 37Â°C waterbath.</p></li>
+<li><p>cRPMI = RPMI + 10% FBS+ L-Glut + P/S.</p></li>
+<li><p>cDMEM = DMEM + 10% FBS+ L-Glut + P/S + HEPES</p></li>
+<li><p>Indo-1 AM, 1 mg/ml in DMSO, store at -20Â°C, Calbiochem</p></li>
+<li><p>Ionomycin, 1 mg/ml in DMSO, store at -20Â°C, Calbiochem</p></li>
+<li><p>Dimethyl sulfoxide (DMSO; Sigma), 10% bleach or ethanol.</p></li>
+<li><p>Antibiotics/proteins/growth factors as needed. Monoclonal antibodies
+must be azide-free. Dialyze against PBS overnight.</p></li>
+<li><p>5 ml FACS tubes, Falcon</p></li>
+</ul>
+
+<h2>Protocol</h2>
+<p><em>Indo-1 Loading</em></p>
+<ol>
+<li><p> Count cells and adjust cell concentration to 1 x 10<sup>7</sup>/ml
+in culture medium.</p></li>
+<li><p> Add 7 Âµl* of stock Indo-1 per ml of cells and wrap the tube in
+foil.</p></li>
+<li><p> Incubate the cells with Indo-1 for 45 minutes in a 37Â°C water bath.
+Gently mix the loading cells every 10 to 15 minutes to ensure even
+loading.</p></li>
+<li><p> Wash the cells once with culture medium at 1200 rpm for 8 minutes.</p></li>
+<li><p> Gently resuspend Indo-loaded cells at 5 x 10<sup>6</sup>/ml in
+culture medium.</p></li>
+<li><p> Store the Indo-loaded cells wrapped in foil at room temperature
+until the cells can be run on the LSR. Let cells rest for ~15
+minutes before starting. Indo-loaded cells should <strong>never</strong> be
+placed on ice, because this will inhibit
+[Ca<sup>2+</sup>]<sub>i</sub> signaling.</p></li>
+</ol>
+
+<h3>Sample Running</h3>
+
+<ol>
+<li><p> Before starting Indo-1 experiment, turn on circulating waterbath, so
+it can reach 37Â°C by the start of your run.</p></li>
+<li><p> Turn LSR on 30 minutes before run. Plug in UV. Make sure the proper
+filters are in place for running Indo-1/AM: FL5 detector 400BP40,
+FL4 detector, 510BP20.</p></li>
+<li><p> LSR files for screens, settings and data are found in <strong>LSR CAF
+Stuff user files</strong>. Use screen <strong>ABW Calcium Flux</strong> and settings
+<strong>ABW Calcium</strong>. Save data in <strong>current week</strong> folder.</p></li>
+<li><p>Prewarm 0.8 ml culture medium in several 5 ml FACS tubes to 37Â°C.</p></li>
+<li><p>Add 0.2 ml Indo-loaded cells (1 x 10<sup>6</sup>)/tube and warm to
+37Â°C for 3 to 5 minutes before running on the LSR.</p></li>
+<li><p>Run cells (400 cells/second) and establish a baseline of
+[Ca<sup>2+</sup>]<sub>i</sub> for 40 to 60 seconds before adding
+stimulant.</p></li>
+<li><p>FL4-H: M1 gate should contain 80% of the Indo-loaded cells (between
+600-800 on X-axis). FL5-H/FL4-H ratio should be just below 200 on
+the Y-axis.</p></li>
+<li><p>Add 10-50 Âµl of stimulant and collect for another 5 minutes (this
+may vary depending on the kinetics of the response).</p></li>
+<li><p>Test ionomycin response first with 5 Âµl stock ionomycin. This is
+the maximum stimulation and tests proper loading of the cells (all
+cells should respond). If indo-loading is not good, the other
+samples should not be run.</p></li>
+<li><p>After running the ionomycin samples (or other strong stimulants) be
+sure to flush the lines 1 minute with DMSO or 10% bleach or ethanol,
+then 1 minute with culture medium to bind any residual ionomycin.</p></li>
+<li><p>Click on <strong>pause</strong> and <strong>save</strong>. Print graph.</p></li>
+<li><p>Analysis of data with FlowJo software.</p></li>
+</ol>
+
+<ul>
+<li><p>Indo-1 AM is a fluoescent dye which, as a free ester, absorbs at
+349nm. Chelated to calcium it emits at 405nm. It enters cells
+irreversibly due to cytosolic esterases.</p></li>
+<li><p>The optimum concentration of Indo-1 should be determined empirically,
+but must not exceed 5 mM. At higher concentrations the fraction of
+Indo-1 that binds Ca2+ will be decreased, resulting in a color change
+that is less apparent.</p></li>
+<li><p>The molecular weight of Indo-1 AM ester is 1009.9 g/M; a 1 mg/ml
+stock is almost exactly 1 mM.</p></li>
+</ul>
+
+
+]]>
+        </content>
+    </entry>
+    
+    <entry>
+        <title>Intracellular p24 Assay by Flow Cytometry (BD)</title>
+        <link href="https://mullinslab.microbiol.washington.edu/protocols/flow_cytometry/2739-Intracellular-p24-Assay-by-Flow-Cytometry-BD" rel="alternate" type="text/html" />
+        <published>2010-03-30T15:56:52-07:00</published>
+        <updated>2011-06-03T16:08:06+00:00</updated>
+        <id>urn:uuid:1cb3a3bc-ec26-5152-8ce5-b0e68c0cb42e</id>
+        <author><name>Camille</name></author>
+        <content type="html">
+<![CDATA[
+<h2>Reagents</h2>
+
+<ul>
+<li><p>Coulter anti-p24 antibody KC57-FITC (cat.no. 6604665)<sup>*</sup>.
+Store at 4Â°C.</p></li>
+<li><p>Pharmingen FITC-conjugated mouse IgG2a, kappa isotype control
+(cat.no. 20074A). Store at 4Â°C.</p></li>
+<li><p>Falcon 5 ml FACS-tubes (cat.no. 2054).</p></li>
+<li><p>BD FACS Lysing Solution (cat.no. 349202)</p></li>
+<li><p>BD FACS Permeabilizing Solution (cat.no. 340973)</p></li>
+<li><p>PBS/1% BSA: dissolve 4 mg Sigma BSA (cat.no. A-2153) in 400 ml PBS.
+Filter through 0.22 Âµm filter. Store at 4Â°C.</p></li>
+<li><p>2x Storage buffer (2% Formaldehyde, 0.05% Glutaraldehyde): add 5.71
+ml 35% Formaldehyde and 200 Âµl 25% Glutaraldehyde to 94 ml PBS.
+Store at 4Â°C.</p></li>
+</ul>
+
+<h2>Protocol</h2>
+
+<ol>
+<li><p> For each sample to be analyzed use up to 0.5 x 10<sup>6</sup> cells
+(see note).</p></li>
+<li><p> Pellet cells in 5 ml FACS-tube (1100 rpm for 5 minutes).</p></li>
+<li><p> Resuspend in 100 Âµl of 1x lysing solution.</p></li>
+<li><p> Incubate for 15 minutes at room temperature.</p></li>
+<li><p> Add 4 ml of PBS/1% BSA and spin (1100 rpm 5 min).</p></li>
+<li><p> Remove supernatant and resuspend cell pellet in 100 Âµl 1x
+permeabilizing solution.</p></li>
+<li><p> Incubate for 15 minutes at room temperature.</p></li>
+<li><p> Add 4 ml of PBS/1% BSA and spin (1100 rpm for 5 minutes).</p></li>
+<li><p> Remove supernatant and resuspend cell pellet in 100 Âµl and 1 Âµl of
+the appropriate antibody (anti-p24 or isotype control).</p></li>
+<li><p>Vortex at low speed for 1-2 seconds.</p></li>
+<li><p>Incubate for 30 minutes at room temperature (in the dark).</p></li>
+<li><p>Add 4 ml of PBS/1% BSA and spin (1100 rpm for 5 minutes).</p></li>
+<li><p>Remove supernatant and resuspend cells in sheath fluid for immediate
+analysis or resuspend cells in 0.5 ml of 1.0% Formaldehyde (1x
+Storage Buffer) and store them at 2-8Â°C in the dark. Analyze fixed
+cells within 24 hours.</p></li>
+</ol>
+<p>Note: for each cell sample that is being tested for p24-expression, be
+sure to also test control (i.e. test 0.5 x 10<sup>6</sup> cells with
+p24-specific antibody and 0.5 x 10<sup>6</sup> cells with the isotype
+control antibody) for aspecific sticking.</p><p><strong><sup>*</sup></strong>Also available: anti-p24 antibody KC57-RD1 (cat.no.
+6604668) for use on GFP-expressing cells. Isotype control: Pharmingen
+PE-conjugated mouse IgG2a, kappa isotype control (cat.no. 20075A).</p>
+
+]]>
+        </content>
+    </entry>
+    
+    <entry>
+        <title>Intracellular p24 Assay by Flow Cytometry (Caltag)</title>
+        <link href="https://mullinslab.microbiol.washington.edu/protocols/flow_cytometry/619-Intracellular-p24-Assay-by-Flow-Cytometry-Caltag" rel="alternate" type="text/html" />
+        <published>2010-03-30T15:56:01-07:00</published>
+        <updated>2011-06-03T16:08:21+00:00</updated>
+        <id>urn:uuid:c249a489-5acc-58a3-8e8b-c7344ea88794</id>
+        <author><name>Camille</name></author>
+        <content type="html">
+<![CDATA[
+<h2>Reagents</h2>
+
+<ul>
+<li><p>Coulter anti-p24 antibody KC57-FITC (cat.no. 6604665)<sup>*</sup>.
+Store at 4Â°C.</p></li>
+<li><p>Pharmingen FITC-conjugated mouse IgG2a, kappa isotype control
+(cat.no. 20074A). Store at 4Â°C.</p></li>
+<li><p>Caltag Laboratories Fix Perm permeabilization kit (cat.no. GAS-004).</p></li>
+<li><p>Falcon 5 ml FACS-tubes (cat.no. 2054).</p></li>
+<li><p>PBS/1%BSA: dissolve 4 mg Sigma BSA (cat.no. A-2153) in 400 ml PBS.
+Filter through 0.22Âµm filter. Store at 4Â°C.</p></li>
+<li><p>2X Storage buffer (2% Formaldehyde, 0.05% Glutaraldehyde): add 5.71
+ml 35% Formaldehyde and 200 Âµl 25% Glutaraldehyde to 94ml PBS.
+Store at 4Â°C.</p></li>
+</ul>
+
+<h2>Protocol</h2>
+
+<ol>
+<li><p> For each sample to be analyzed use up to 0.5 x 10<sup>6</sup> cells
+(see note).</p></li>
+<li><p> Pellet cells in 5 ml FACS-tube (1100 rpm for 5 minutes).</p></li>
+<li><p> Resuspend in 100 Âµl of reagent A (Fixation Medium).</p></li>
+<li><p> Incubate for 15 minutes at room temperature.</p></li>
+<li><p> Add 5 ml of PBS/1% BSA and spin (1100 rpm for 5 minutes).</p></li>
+<li><p> Remove supernatant and resuspend cell pellet in 100 Âµl of reagent B
+(Permeabilization Medium) and 1 Âµl of the appropriate antibody
+(anti-p24 or isotype control).</p></li>
+<li><p> Vortex at low speed for 1-2 seconds.</p></li>
+<li><p> Incubate for 15 minutes at room temperature (in the dark).</p></li>
+<li><p> Wash cells with PBS/1% BSA as described above.</p></li>
+<li><p>Remove supernatant and resuspend cells in sheath fluid for immediate
+analysis or resuspend cells in 0.5 ml of 1.0% Formaldehyde (1x
+Storage Buffer) and store them at 2-8Â°C in the dark. Analyze fixed
+cells within 24 hours.</p></li>
+</ol>
+<p>Note: for each cell sample that is being tested for p24-expression, be
+sure to also test control (i.e. test 0.5 x 10<sup>6</sup> cells with
+p24-specific antibody and 0.5 x 10<sup>6</sup> cells with the isotype
+control antibody) for aspecific sticking.</p><p><strong><sup>*</sup></strong>Also available: anti-p24 antibody KC57-RD1 (cat.no.
+6604668) for use on GFP-expressing cells. Isotype control: Pharmingen
+PE-conjugated mouse IgG2a, kappa isotype control (cat.no. 20075A).</p>
+
+]]>
+        </content>
+    </entry>
+    
+    <entry>
+        <title>Chemokine Receptor Expression Assay by Flow Cytometry</title>
+        <link href="https://mullinslab.microbiol.washington.edu/protocols/flow_cytometry/2683-Chemokine-Receptor-Expression-Assay-by-Flow-Cytometry" rel="alternate" type="text/html" />
+        <published>2010-03-30T15:54:49-07:00</published>
+        <updated>2011-06-03T16:08:31+00:00</updated>
+        <id>urn:uuid:4312d1dc-4c7e-5afd-af55-2d3212b077a1</id>
+        <author><name>Camille</name></author>
+        <content type="html">
+<![CDATA[
+<p><span class="underline"><strong>Reagents</strong></span></p>
+<ul>
+<li><p>Pharmingen anti-CCR5 antibody 2D7-FITC (cat.no.
+36464X)<sup>*</sup>. Store at 4Â°C. Use at 1:5 dilution.</p></li>
+<li><p>Pharmingen anti-CXCR4 antibody 12G5-PE (cat.no. 36195X). Store at
+4Â°C. Use at 1:100 dilution.</p></li>
+<li><p>Pharmingen FITC-conjugated mouse IgG2a, kappa isotype control
+(cat.no. 20074A). Store at 4Â°C. Use at 1:100 dilution.</p></li>
+<li><p>Pharmingen PE-conjugated mouse IgG2a, kappa isotype control (cat.no.
+20075A). Store at 4Â°C. Use at 1:100 dilution.</p></li>
+<li><p>Falcon 5ml FACS-tubes (cat.no. 2054).</p></li>
+<li><p>PBS/1% BSA: dissolve 4mg Sigma BSA (cat.no. A-2153) in 400ml PBS.
+Filter through 0.22 Âµm filter. Store at 4Â°C.</p></li>
+<li><p>2x Storage buffer (2% Formaldehyde, 0.05% Glutaraldehyde): add 5.71
+ml 35% Formaldehyde and 200 Âµl 25% Glutaraldehyde to 94ml PBS.
+Store at 4Â°C.</p></li>
+</ul>
+<p><span class="underline"><strong>Protocol</strong></span></p>
+<ol>
+<li><p> For each sample to be analyzed use up to 0.5 x 10<sup>6</sup> cells
+(see note).</p></li>
+<li><p> Pellet cells in 5 ml FACS-tube (1100 rpm 5 min).</p></li>
+<li><p> Resuspend in 100 Âµl of cold PBS/1%BSA with appropriate
+concentration of specific antibody or isotype control.</p></li>
+<li><p> Vortex at low speed for 1-2 seconds.</p></li>
+<li><p> Incubate for 30 minutes in the dark at 4Â°C.</p></li>
+<li><p> Add 5 ml of cold PBS/1% BSA and spin (1100 rpm 5 min).</p></li>
+<li><p> Remove supernatant and resuspend cells in sheath fluid for immediate
+analysis or resuspend cells in 0.5 ml of 1.0% Formaldehyde (1x
+Storage Buffer) and store them at 2-8Â°C in the dark. Analyze fixed
+cells within 24 hours.</p></li>
+</ol>
+<p><strong>Note:</strong> for each cell sample that is being tested for chemokine
+receptor-expression, be sure to also test control (i.e. test 0.5 x
+10<sup>6</sup> cells with chemokine receptor-specific antibody and 0.5 x
+10<sup>6</sup> cells with the isotype control antibody) for aspecific
+sticking.</p><p><strong><sup>*</sup></strong>Also available: anti-CCR5 antibody 2D7-PE (cat.no.
+36465X) for use on GFP-expressing cells. Isotype control: Pharmingen
+PE-conjugated mouse IgG2a, kappa isotype control (cat.no. 20075A).</p>
+
+]]>
+        </content>
+    </entry>
+    
+    <entry>
+        <title>FACSCalibur user log sheet</title>
+        <link href="https://mullinslab.microbiol.washington.edu/protocols/flow_cytometry/2561-FACSCalibur-user-log-sheet" rel="alternate" type="text/html" />
+        <published>2010-03-30T15:50:57-07:00</published>
+        <updated>2011-06-03T16:08:38+00:00</updated>
+        <id>urn:uuid:fc641667-0d23-5da8-9550-61c816ea8a62</id>
+        <author><name>Camille</name></author>
+        <content type="html">
+<![CDATA[
+<p>FACSCalibur Use Log</p><p>Date: __________________________</p><p>Name: __________________________</p><p>Phone: __________________________</p><p>Room: __________________________</p><p>Principle Investigator:
+__________________________</p><p>Budget Name: __________________________</p><p>Budget Number: __________________________</p><p>Samples: __________________________</p><p>Dyes: __________________________</p><p>Time In: __________________________</p><p>Time Out: __________________________</p>
+<h1>Signature: __________________________</h1>
+
+
+]]>
+        </content>
+    </entry>
+    
+    <entry>
+        <title>FACSCalibur Use</title>
+        <link href="https://mullinslab.microbiol.washington.edu/protocols/flow_cytometry/1929-FACSCalibur-Use" rel="alternate" type="text/html" />
+        <published>2010-03-30T15:46:42-07:00</published>
+        <updated>2011-06-03T16:08:45+00:00</updated>
+        <id>urn:uuid:aef8de22-1031-57d9-8854-c6f6471d557e</id>
+        <author><name>Camille</name></author>
+        <content type="html">
+<![CDATA[
+<h2>SIGNING UP</h2>
+<p>When logging your use of the FACSCalibur, include your Principle
+Investigator&rsquo;s name, your first name and last initial and your
+telephone number.</p>
+<h2>DAILY START UP</h2>
+
+<ol>
+<li> Turn on the cytometer.</li>
+<li> Turn on the computer.</li>
+<li> Fill the sheath tank and verify the following:
+
+<ul>
+<li>Tank is filled (~3L).</li>
+<li>Cap is tight.</li>
+<li>Tank is pressurized.</li>
+<li>Tubing is not kinked.</li>
+</ul></li>
+<li> Empty the waste tank and verify the following:
+
+<ul>
+<li>Tank contains 400 mL bleach.</li>
+<li>Tubing is not kinked.</li>
+</ul></li>
+<li> Purge bubbles from sheath filter.</li>
+<li> Allow the cytometer to warm up for 5 minutes.</li>
+</ol>
+
+<h2>DAILY CALIBRATION (FACSCOMP)</h2>
+
+<ol>
+<li> Label one 12 x 75 mm tube A and another B.</li>
+<li> Add 1 mL of sheath to tube A. Add 3 mL to tube B.</li>
+<li> Add one free-falling, complete drop of the appropriate CaliBRITE
+beads to each tube:
+
+<ul>
+<li>Unlabeled and APC beads to tube A.</li>
+<li>Unlabeled, FITC, PE, PerCP and APC beads to tube B.</li>
+</ul></li>
+<li> Empty the waste tank and verify the following:
+
+<ul>
+<li>Tank contains 400 mL bleach.</li>
+<li>Tubing is not kinked.</li>
+</ul></li>
+<li> Cap the tubes and mix by gentle inversion.</li>
+<li> Select FACSComp from the Apple Menu.</li>
+<li> Fill in the Operator field. Click <strong>Accept</strong>.</li>
+<li> The set up information window appears. Unless a new lot of
+CaliBRITE beads is used for the first time, this information does
+not need to be changed. Click <strong>Run</strong>.</li>
+<li> Make sure the sample flow rate is set to HI and the cytometer is
+set to RUN. Install tube A.</li>
+<li>Click <strong>Start</strong> to begin PMT adjustment and time-delay
+calibration.</li>
+<li>Remove tube A and install tube B.</li>
+<li>Click <strong>Start</strong> to begin compensation adjustment and sensitivity
+tests.</li>
+<li>Remove tube B, install distilled water tube and set cytometer to
+STANDBY.</li>
+<li>Click <strong>Quit</strong> to quit FACSComp. The report will be printed
+automatically. Please put it in the appropriate section of the
+blue FACSCalibur folder.</li>
+</ol>
+
+<h2>SAVING DATA</h2>
+
+<ol>
+<li> When designating your data file name, place your initials and the
+date (ABCyymmdd) in the custom prefix box. Assign a file count
+number and this will be appended to the date and will increment as
+you run each sample.</li>
+<li> The designation folder should be Flowdata. You may create a folder
+within Flowdata with your name.</li>
+<li> At the end of your run, transfer your data files to a Zip disk or
+your directory on Ireland.</li>
+</ol>
+
+<h2>DAILY SHUTDOWN</h2>
+
+<ol>
+<li> Install a 12x75mm tube containing 3 mL of 10% bleach on the sample
+injection port (SIP).</li>
+<li> Leave the support arm to the side for 1 minute.</li>
+<li> Place the support arm under the tube, make sure the cytometer is
+in RUN, and let it run at HI flow rate for 5 minutes.</li>
+<li> Repeat steps 1 through 3 using distilled water.</li>
+<li> Leave a tube containing 1 mL of distilled water on the SIP with
+the support arm under the tube.</li>
+<li> Set the cytometer to STANDBY mode.</li>
+<li> Shut down the computer.</li>
+<li> Turn off the cytometer.</li>
+</ol>
+
+<h2>PROBLEMS</h2>
+<p>Record any problems in the Problem Log or let AngÃ©lique (2-6077) or
+Sherry (2-6067) know directly.</p>
+
+]]>
+        </content>
+    </entry>
+    
+    <entry>
+        <title>Cell Quest User&amp;#39;s Guide</title>
+        <link href="https://mullinslab.microbiol.washington.edu/protocols/flow_cytometry/2214-Cell-Quest-Users-Guide" rel="alternate" type="text/html" />
+        <published>2010-03-30T15:44:32-07:00</published>
+        <updated>2011-06-03T16:08:52+00:00</updated>
+        <id>urn:uuid:51a644ff-c632-56a7-a972-cbe0301f192d</id>
+        <author><name>Camille</name></author>
+        <content type="html">
+<![CDATA[
+<h1>LOAD CELLQUEST</h1>
+<p>Flowdata user screens, settings, and data SCREEN_displays select a
+screen display.</p>
+<h1>CONNECT TO CYTOMETER</h1>
+<p>Acquire connect to cytometer. The Acquisition Control Dialog Box with
+acquisition control functions: Setup, Acquire, Restart, Save, Abort
+appears. The setup box should have an <strong>X</strong> mark until you are ready
+to start saving data. Move the window to the side.</p><p>The counter window is also under Acquire.</p>
+<h1>RETRIEVE INSTRUMENT SETTINGS</h1>
+<p>Cytometer Instrument Settings OPEN user screens, settings, and data
+settings double click on a file <strong>SET (wait for 5 seconds, while the
+world turns) DONE.</strong></p><p><strong>TO SAVE DATA FILES</strong></p>
+<h1>ASSIGN DATAFILE NAME AND COUNT</h1>
+<p>Acquire Parameter Description <strong>Folder (Flowdata/user screens,
+settings, and data/FlowDataFiles)</strong> File (custom prefix =
+initials+YYMMDD, and the file count = 1) Enter sample information in
+the comment box, if you will be using ReproMan or ReproMac for
+analysis. Enter sample information in the Sample ID box, if you will
+be using CellQuest for analysis. Information can be entered in both
+places.</p>
+<h1>ASSIGN STORAGE INFORMATION</h1>
+<p>Acquire Acquisition and Storage Acquisition Gate (Accept all), Collect
+criteria (Event count = # of cells to be counted, total or in a
+gate). Storage gate (All or gated) If a gate is selected, events
+outside the gate will <strong>NOT</strong> be saved for future analysis. Resolution
+(256 or 1024) Parameters saved (turn off the parameters not in use)
+OK.</p>
+<h1>TO CHECK SAMPLE SETTINGS</h1>
+<p>The Setup box should have an <strong>X</strong>, while you run your negative
+background etc. to adjust the high voltages and compensations.
+Adjustments can be made either on the cytometer or in CellQuest. To
+make the adjustments in CellQuest, select Cytometer Detectors/Amps.
+Select Threshold and Compensation, if these will be adjusted.</p>
+<h1>RUN SAMPLES</h1>
+<p>Turn the knob from Standby to Run. Swing the arm to the side. Remove
+sheath tube. Put on your sample tube. Swing the arm to the left. Pulse
+lights should appear if cells are flowing. Select Acquire in the
+acquisition control box. Make adjustments as necessary. When putting
+the next tube on, there is no need to switch to Standby. The sample
+probe is continually flushing while in the run mode. When satisfied
+with the settings, they must be saved, if you want to use them again.</p>
+<h2>TO SAVE NEW INSTRUMENT SETTINGS</h2>
+<p>Cytometer Instrument Settings SAVE Find settings folder within user
+screens, settings and data folder type in appropriate name SAVE DONE.</p>
+<h1>TO ACQUIRE DATA</h1>
+<p>Acquisition Control Box Pause Abort remove the <strong>X</strong> from the Setup
+box. When the correct sample is flowing, select Acquire. A tone will
+sound when collection is finished and the file count will increment.
+Change the comment or sample ID info and run the next sample.</p>
+<h1>TO QUIT CELLQUEST</h1>
+<p>File Quit SAVE if you wish to keep screen changes made during this
+run. The settings are <strong>NOT</strong> saved as part of the screen. They must
+be saved separately as explained above.</p>
+<h1>TRANSFER DATA FILES</h1>
+<p>Copy all your data to your directory on Ireland or on ZIP disks. Do
+<strong>NOT</strong> save your data on the FACS computer only. <strong>ALL</strong> files in the
+temporary directories will be erased weekly on Monday morning.</p><p><strong>PLEASE RECORD ANY CELLQUEST OR INSTRUMENT PROBLEMS ON THE CLIPBOARD
+LOCATED ON TOP OF THE FACSCALIBUR. THANK YOU!</strong></p>
+<h2>FURTHER READING</h2>
+<p>There is excellent FACS documentation at the website of the Cell
+Analysis Facility of the Department of Immunology:
+<a href="http://nucleus.immunol.washington.edu/Research_facilities/cell_analysis.html">http://nucleus.immunol.washington.edu/Research_facilities/cell_analysis.html</a></p>
+
+]]>
+        </content>
+    </entry>
+    
+
+    
+</feed>

@@ -1,0 +1,197 @@
+<!DOCTYPE html>
+<html>
+
+<!-- Mirrored from mullinslab.microbiol.washington.edu/protocols/flow_cytometry/275-Measurement-of-Intracellular-Calcium-By-Flow-Cytometry by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 21 Jul 2025 18:09:16 GMT -->
+<!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=utf-8" /><!-- /Added by HTTrack -->
+<head>
+    
+<title>Measurement of Intracellular Calcium By Flow Cytometry | Mullins Molecular Retrovirology Lab</title>
+
+    
+    <link rel="stylesheet" href="style.css" />
+    
+    <link rel="alternate" type="application/atom+xml" title="Atom feed" href="feed" />
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <script src='https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js?config=TeX-MML-AM_CHTML' async></script>
+
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-136625084-1"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+
+      gtag('config', 'UA-136625084-1');
+    </script>
+</head>
+<body id="entry">
+
+<div id="container">
+
+<header>
+
+<h1>Mullins Molecular Retrovirology Lab</h1>
+
+<div class="description">
+<ul>
+<li>Department of Microbiology</li>
+<li>School of Medicine</li>
+<li>University of Washington</li>
+</ul>
+
+</div>
+
+
+</header>
+
+<section id="nav">
+    <nav>
+        
+        <ul>
+            <li class=""><a href="../../index.html">Home</a></li>
+            <li class=""><a href="../../research/index.html">Research</a></li>
+            <li class=""><a href="../../publications/index.html">Publications</a></li>
+            <li class="here"><a href="../index.html">Protocols</a></li>
+            <li class=""><a href="../../people/index.html">People</a></li>
+            <li class=""><a href="../../contact/index.html">Contact</a></li>
+            <li class=""><a href="../../help/index.html">Help</a></li>
+        </ul>
+    </nav>
+</section>
+
+<section id="links">
+    <nav id="quicklinks">
+        <h2>Software &amp; Tools</h2>
+
+        <ul>
+            <li><a href="http://indra.mullins.microbiol.washington.edu/">Bioinformatics Tools</a></li>
+            <li><a href="https://github.com/mullinslab">GitHub</a></li>
+            <li><a href="../../hiris/index.html">HIRIS</a></li>
+            <li><a href="../../HMA/index.html">HMA Subtyping Kit</a></li>
+            <li><a href="../../isdb/index.html">ISDB</a></li>
+            <li><a href="../../tcozy/index.html">TCozy</a></li>
+            <li><a href="https://viroverse.washington.edu/">Viroverse</a></li>
+        </ul>
+    </nav>
+
+    <nav id="lablinks">
+        <h2>Lab Links</h2>
+
+        <ul>
+            <li><a href="https://hercules.mullins.microbiol.washington.edu/pub/doc/">Computing Docs</a></li>
+            <li><a href="../../hiris/private/index.html">HIRIS (Private)</a></li>
+            <li><a href="https://tcozy.mullins.microbiol.washington.edu/ice-floe/">ICE Floe</a></li>
+            <li><a href="https://hercules.mullins.microbiol.washington.edu/git/">Internal Git</a></li>
+            <li><a href="../../twiki/index.html">Internal wiki</a></li>
+            <li><a href="https://viroverse.washington.edu/viroblast/">Local ViroBLAST</a></li>
+            <li><a href="https://redash.mullins.microbiol.washington.edu/">Redash</a></li>
+            <li><a href="https://mullinslab.slack.com/">Slack</a></li>
+            <li><a href="../../support/index.html">Ticketing system</a></li>
+        </ul>
+    </nav>
+
+</section>
+
+<div id="cfar"><a href="http://cfar.washington.edu/">
+    <img src="../../static/_img/2c/47ca/CFAR-logo-rev-10-22-18_4aa6fe47bc_500x157.jpg" width="500" height="157" srcset="/static/_img/2c/47ca/CFAR-logo-rev-10-22-18_4aa6fe47bc_500x157.jpg 1x, /static/_img/2c/47ca/CFAR-logo-rev-10-22-18_4aa6fe47bc_1000x314.jpg 2x" alt="University of Washington/Fred Hutch Center for AIDS Research">
+</a></div>
+
+<section id="content">
+    
+<article>
+<h1>Measurement of Intracellular Calcium By Flow Cytometry</h1>
+
+<div id="intro">
+<h2>Reagents</h2>
+
+<ul>
+<li><p>Appropriate culture media (i.e. cRPMI for T cell lines, cDMEM for
+attaching cells) warmed in 37Â°C waterbath.</p></li>
+<li><p>cRPMI = RPMI + 10% FBS+ L-Glut + P/S.</p></li>
+<li><p>cDMEM = DMEM + 10% FBS+ L-Glut + P/S + HEPES</p></li>
+<li><p>Indo-1 AM, 1 mg/ml in DMSO, store at -20Â°C, Calbiochem</p></li>
+<li><p>Ionomycin, 1 mg/ml in DMSO, store at -20Â°C, Calbiochem</p></li>
+<li><p>Dimethyl sulfoxide (DMSO; Sigma), 10% bleach or ethanol.</p></li>
+<li><p>Antibiotics/proteins/growth factors as needed. Monoclonal antibodies
+must be azide-free. Dialyze against PBS overnight.</p></li>
+<li><p>5 ml FACS tubes, Falcon</p></li>
+</ul>
+
+<h2>Protocol</h2>
+<p><em>Indo-1 Loading</em></p>
+<ol>
+<li><p> Count cells and adjust cell concentration to 1 x 10<sup>7</sup>/ml
+in culture medium.</p></li>
+<li><p> Add 7 Âµl* of stock Indo-1 per ml of cells and wrap the tube in
+foil.</p></li>
+<li><p> Incubate the cells with Indo-1 for 45 minutes in a 37Â°C water bath.
+Gently mix the loading cells every 10 to 15 minutes to ensure even
+loading.</p></li>
+<li><p> Wash the cells once with culture medium at 1200 rpm for 8 minutes.</p></li>
+<li><p> Gently resuspend Indo-loaded cells at 5 x 10<sup>6</sup>/ml in
+culture medium.</p></li>
+<li><p> Store the Indo-loaded cells wrapped in foil at room temperature
+until the cells can be run on the LSR. Let cells rest for ~15
+minutes before starting. Indo-loaded cells should <strong>never</strong> be
+placed on ice, because this will inhibit
+[Ca<sup>2+</sup>]<sub>i</sub> signaling.</p></li>
+</ol>
+
+<h3>Sample Running</h3>
+
+<ol>
+<li><p> Before starting Indo-1 experiment, turn on circulating waterbath, so
+it can reach 37Â°C by the start of your run.</p></li>
+<li><p> Turn LSR on 30 minutes before run. Plug in UV. Make sure the proper
+filters are in place for running Indo-1/AM: FL5 detector 400BP40,
+FL4 detector, 510BP20.</p></li>
+<li><p> LSR files for screens, settings and data are found in <strong>LSR CAF
+Stuff user files</strong>. Use screen <strong>ABW Calcium Flux</strong> and settings
+<strong>ABW Calcium</strong>. Save data in <strong>current week</strong> folder.</p></li>
+<li><p>Prewarm 0.8 ml culture medium in several 5 ml FACS tubes to 37Â°C.</p></li>
+<li><p>Add 0.2 ml Indo-loaded cells (1 x 10<sup>6</sup>)/tube and warm to
+37Â°C for 3 to 5 minutes before running on the LSR.</p></li>
+<li><p>Run cells (400 cells/second) and establish a baseline of
+[Ca<sup>2+</sup>]<sub>i</sub> for 40 to 60 seconds before adding
+stimulant.</p></li>
+<li><p>FL4-H: M1 gate should contain 80% of the Indo-loaded cells (between
+600-800 on X-axis). FL5-H/FL4-H ratio should be just below 200 on
+the Y-axis.</p></li>
+<li><p>Add 10-50 Âµl of stimulant and collect for another 5 minutes (this
+may vary depending on the kinetics of the response).</p></li>
+<li><p>Test ionomycin response first with 5 Âµl stock ionomycin. This is
+the maximum stimulation and tests proper loading of the cells (all
+cells should respond). If indo-loading is not good, the other
+samples should not be run.</p></li>
+<li><p>After running the ionomycin samples (or other strong stimulants) be
+sure to flush the lines 1 minute with DMSO or 10% bleach or ethanol,
+then 1 minute with culture medium to bind any residual ionomycin.</p></li>
+<li><p>Click on <strong>pause</strong> and <strong>save</strong>. Print graph.</p></li>
+<li><p>Analysis of data with FlowJo software.</p></li>
+</ol>
+
+<ul>
+<li><p>Indo-1 AM is a fluoescent dye which, as a free ester, absorbs at
+349nm. Chelated to calcium it emits at 405nm. It enters cells
+irreversibly due to cytosolic esterases.</p></li>
+<li><p>The optimum concentration of Indo-1 should be determined empirically,
+but must not exceed 5 mM. At higher concentrations the fraction of
+Indo-1 that binds Ca2+ will be decreased, resulting in a color change
+that is less apparent.</p></li>
+<li><p>The molecular weight of Indo-1 AM ester is 1009.9 g/M; a 1 mg/ml
+stock is almost exactly 1 mM.</p></li>
+</ul>
+
+</div>
+
+
+
+<div class="clear"></div>
+</article>
+
+</section>
+
+</div>
+</body>
+<!-- Mirrored from mullinslab.microbiol.washington.edu/protocols/flow_cytometry/275-Measurement-of-Intracellular-Calcium-By-Flow-Cytometry by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 21 Jul 2025 18:09:16 GMT -->
+</html>

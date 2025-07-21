@@ -1,0 +1,179 @@
+<!DOCTYPE html>
+<html>
+
+<!-- Mirrored from mullinslab.microbiol.washington.edu/protocols/flow_cytometry/2214-Cell-Quest-Users-Guide by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 21 Jul 2025 18:09:14 GMT -->
+<!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=utf-8" /><!-- /Added by HTTrack -->
+<head>
+    
+<title>Cell Quest User&rsquo;s Guide | Mullins Molecular Retrovirology Lab</title>
+
+    
+    <link rel="stylesheet" href="style.css" />
+    
+    <link rel="alternate" type="application/atom+xml" title="Atom feed" href="feed" />
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <script src='https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js?config=TeX-MML-AM_CHTML' async></script>
+
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-136625084-1"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+
+      gtag('config', 'UA-136625084-1');
+    </script>
+</head>
+<body id="entry">
+
+<div id="container">
+
+<header>
+
+<h1>Mullins Molecular Retrovirology Lab</h1>
+
+<div class="description">
+<ul>
+<li>Department of Microbiology</li>
+<li>School of Medicine</li>
+<li>University of Washington</li>
+</ul>
+
+</div>
+
+
+</header>
+
+<section id="nav">
+    <nav>
+        
+        <ul>
+            <li class=""><a href="../../index.html">Home</a></li>
+            <li class=""><a href="../../research/index.html">Research</a></li>
+            <li class=""><a href="../../publications/index.html">Publications</a></li>
+            <li class="here"><a href="../index.html">Protocols</a></li>
+            <li class=""><a href="../../people/index.html">People</a></li>
+            <li class=""><a href="../../contact/index.html">Contact</a></li>
+            <li class=""><a href="../../help/index.html">Help</a></li>
+        </ul>
+    </nav>
+</section>
+
+<section id="links">
+    <nav id="quicklinks">
+        <h2>Software &amp; Tools</h2>
+
+        <ul>
+            <li><a href="http://indra.mullins.microbiol.washington.edu/">Bioinformatics Tools</a></li>
+            <li><a href="https://github.com/mullinslab">GitHub</a></li>
+            <li><a href="../../hiris/index.html">HIRIS</a></li>
+            <li><a href="../../HMA/index.html">HMA Subtyping Kit</a></li>
+            <li><a href="../../isdb/index.html">ISDB</a></li>
+            <li><a href="../../tcozy/index.html">TCozy</a></li>
+            <li><a href="https://viroverse.washington.edu/">Viroverse</a></li>
+        </ul>
+    </nav>
+
+    <nav id="lablinks">
+        <h2>Lab Links</h2>
+
+        <ul>
+            <li><a href="https://hercules.mullins.microbiol.washington.edu/pub/doc/">Computing Docs</a></li>
+            <li><a href="../../hiris/private/index.html">HIRIS (Private)</a></li>
+            <li><a href="https://tcozy.mullins.microbiol.washington.edu/ice-floe/">ICE Floe</a></li>
+            <li><a href="https://hercules.mullins.microbiol.washington.edu/git/">Internal Git</a></li>
+            <li><a href="../../twiki/index.html">Internal wiki</a></li>
+            <li><a href="https://viroverse.washington.edu/viroblast/">Local ViroBLAST</a></li>
+            <li><a href="https://redash.mullins.microbiol.washington.edu/">Redash</a></li>
+            <li><a href="https://mullinslab.slack.com/">Slack</a></li>
+            <li><a href="../../support/index.html">Ticketing system</a></li>
+        </ul>
+    </nav>
+
+</section>
+
+<div id="cfar"><a href="http://cfar.washington.edu/">
+    <img src="../../static/_img/2c/47ca/CFAR-logo-rev-10-22-18_4aa6fe47bc_500x157.jpg" width="500" height="157" srcset="/static/_img/2c/47ca/CFAR-logo-rev-10-22-18_4aa6fe47bc_500x157.jpg 1x, /static/_img/2c/47ca/CFAR-logo-rev-10-22-18_4aa6fe47bc_1000x314.jpg 2x" alt="University of Washington/Fred Hutch Center for AIDS Research">
+</a></div>
+
+<section id="content">
+    
+<article>
+<h1>Cell Quest User&rsquo;s Guide</h1>
+
+<div id="intro">
+<h1>LOAD CELLQUEST</h1>
+<p>Flowdata user screens, settings, and data SCREEN_displays select a
+screen display.</p>
+<h1>CONNECT TO CYTOMETER</h1>
+<p>Acquire connect to cytometer. The Acquisition Control Dialog Box with
+acquisition control functions: Setup, Acquire, Restart, Save, Abort
+appears. The setup box should have an <strong>X</strong> mark until you are ready
+to start saving data. Move the window to the side.</p><p>The counter window is also under Acquire.</p>
+<h1>RETRIEVE INSTRUMENT SETTINGS</h1>
+<p>Cytometer Instrument Settings OPEN user screens, settings, and data
+settings double click on a file <strong>SET (wait for 5 seconds, while the
+world turns) DONE.</strong></p><p><strong>TO SAVE DATA FILES</strong></p>
+<h1>ASSIGN DATAFILE NAME AND COUNT</h1>
+<p>Acquire Parameter Description <strong>Folder (Flowdata/user screens,
+settings, and data/FlowDataFiles)</strong> File (custom prefix =
+initials+YYMMDD, and the file count = 1) Enter sample information in
+the comment box, if you will be using ReproMan or ReproMac for
+analysis. Enter sample information in the Sample ID box, if you will
+be using CellQuest for analysis. Information can be entered in both
+places.</p>
+<h1>ASSIGN STORAGE INFORMATION</h1>
+<p>Acquire Acquisition and Storage Acquisition Gate (Accept all), Collect
+criteria (Event count = # of cells to be counted, total or in a
+gate). Storage gate (All or gated) If a gate is selected, events
+outside the gate will <strong>NOT</strong> be saved for future analysis. Resolution
+(256 or 1024) Parameters saved (turn off the parameters not in use)
+OK.</p>
+<h1>TO CHECK SAMPLE SETTINGS</h1>
+<p>The Setup box should have an <strong>X</strong>, while you run your negative
+background etc. to adjust the high voltages and compensations.
+Adjustments can be made either on the cytometer or in CellQuest. To
+make the adjustments in CellQuest, select Cytometer Detectors/Amps.
+Select Threshold and Compensation, if these will be adjusted.</p>
+<h1>RUN SAMPLES</h1>
+<p>Turn the knob from Standby to Run. Swing the arm to the side. Remove
+sheath tube. Put on your sample tube. Swing the arm to the left. Pulse
+lights should appear if cells are flowing. Select Acquire in the
+acquisition control box. Make adjustments as necessary. When putting
+the next tube on, there is no need to switch to Standby. The sample
+probe is continually flushing while in the run mode. When satisfied
+with the settings, they must be saved, if you want to use them again.</p>
+<h2>TO SAVE NEW INSTRUMENT SETTINGS</h2>
+<p>Cytometer Instrument Settings SAVE Find settings folder within user
+screens, settings and data folder type in appropriate name SAVE DONE.</p>
+<h1>TO ACQUIRE DATA</h1>
+<p>Acquisition Control Box Pause Abort remove the <strong>X</strong> from the Setup
+box. When the correct sample is flowing, select Acquire. A tone will
+sound when collection is finished and the file count will increment.
+Change the comment or sample ID info and run the next sample.</p>
+<h1>TO QUIT CELLQUEST</h1>
+<p>File Quit SAVE if you wish to keep screen changes made during this
+run. The settings are <strong>NOT</strong> saved as part of the screen. They must
+be saved separately as explained above.</p>
+<h1>TRANSFER DATA FILES</h1>
+<p>Copy all your data to your directory on Ireland or on ZIP disks. Do
+<strong>NOT</strong> save your data on the FACS computer only. <strong>ALL</strong> files in the
+temporary directories will be erased weekly on Monday morning.</p><p><strong>PLEASE RECORD ANY CELLQUEST OR INSTRUMENT PROBLEMS ON THE CLIPBOARD
+LOCATED ON TOP OF THE FACSCALIBUR. THANK YOU!</strong></p>
+<h2>FURTHER READING</h2>
+<p>There is excellent FACS documentation at the website of the Cell
+Analysis Facility of the Department of Immunology:
+<a href="http://nucleus.immunol.washington.edu/Research_facilities/cell_analysis.html">http://nucleus.immunol.washington.edu/Research_facilities/cell_analysis.html</a></p>
+</div>
+
+
+
+<div class="clear"></div>
+</article>
+
+</section>
+
+</div>
+</body>
+<!-- Mirrored from mullinslab.microbiol.washington.edu/protocols/flow_cytometry/2214-Cell-Quest-Users-Guide by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 21 Jul 2025 18:09:16 GMT -->
+</html>

@@ -1,0 +1,175 @@
+<!DOCTYPE html>
+<html>
+
+<!-- Mirrored from mullinslab.microbiol.washington.edu/protocols/flow_cytometry/604-Separation-of-T-Cell-Subsets-by-FACStar by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 21 Jul 2025 18:09:16 GMT -->
+<!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=utf-8" /><!-- /Added by HTTrack -->
+<head>
+    
+<title>Separation of T-Cell Subsets by FACStar | Mullins Molecular Retrovirology Lab</title>
+
+    
+    <link rel="stylesheet" href="style.css" />
+    
+    <link rel="alternate" type="application/atom+xml" title="Atom feed" href="feed" />
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <script src='https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js?config=TeX-MML-AM_CHTML' async></script>
+
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-136625084-1"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+
+      gtag('config', 'UA-136625084-1');
+    </script>
+</head>
+<body id="entry">
+
+<div id="container">
+
+<header>
+
+<h1>Mullins Molecular Retrovirology Lab</h1>
+
+<div class="description">
+<ul>
+<li>Department of Microbiology</li>
+<li>School of Medicine</li>
+<li>University of Washington</li>
+</ul>
+
+</div>
+
+
+</header>
+
+<section id="nav">
+    <nav>
+        
+        <ul>
+            <li class=""><a href="../../index.html">Home</a></li>
+            <li class=""><a href="../../research/index.html">Research</a></li>
+            <li class=""><a href="../../publications/index.html">Publications</a></li>
+            <li class="here"><a href="../index.html">Protocols</a></li>
+            <li class=""><a href="../../people/index.html">People</a></li>
+            <li class=""><a href="../../contact/index.html">Contact</a></li>
+            <li class=""><a href="../../help/index.html">Help</a></li>
+        </ul>
+    </nav>
+</section>
+
+<section id="links">
+    <nav id="quicklinks">
+        <h2>Software &amp; Tools</h2>
+
+        <ul>
+            <li><a href="http://indra.mullins.microbiol.washington.edu/">Bioinformatics Tools</a></li>
+            <li><a href="https://github.com/mullinslab">GitHub</a></li>
+            <li><a href="../../hiris/index.html">HIRIS</a></li>
+            <li><a href="../../HMA/index.html">HMA Subtyping Kit</a></li>
+            <li><a href="../../isdb/index.html">ISDB</a></li>
+            <li><a href="../../tcozy/index.html">TCozy</a></li>
+            <li><a href="https://viroverse.washington.edu/">Viroverse</a></li>
+        </ul>
+    </nav>
+
+    <nav id="lablinks">
+        <h2>Lab Links</h2>
+
+        <ul>
+            <li><a href="https://hercules.mullins.microbiol.washington.edu/pub/doc/">Computing Docs</a></li>
+            <li><a href="../../hiris/private/index.html">HIRIS (Private)</a></li>
+            <li><a href="https://tcozy.mullins.microbiol.washington.edu/ice-floe/">ICE Floe</a></li>
+            <li><a href="https://hercules.mullins.microbiol.washington.edu/git/">Internal Git</a></li>
+            <li><a href="../../twiki/index.html">Internal wiki</a></li>
+            <li><a href="https://viroverse.washington.edu/viroblast/">Local ViroBLAST</a></li>
+            <li><a href="https://redash.mullins.microbiol.washington.edu/">Redash</a></li>
+            <li><a href="https://mullinslab.slack.com/">Slack</a></li>
+            <li><a href="../../support/index.html">Ticketing system</a></li>
+        </ul>
+    </nav>
+
+</section>
+
+<div id="cfar"><a href="http://cfar.washington.edu/">
+    <img src="../../static/_img/2c/47ca/CFAR-logo-rev-10-22-18_4aa6fe47bc_500x157.jpg" width="500" height="157" srcset="/static/_img/2c/47ca/CFAR-logo-rev-10-22-18_4aa6fe47bc_500x157.jpg 1x, /static/_img/2c/47ca/CFAR-logo-rev-10-22-18_4aa6fe47bc_1000x314.jpg 2x" alt="University of Washington/Fred Hutch Center for AIDS Research">
+</a></div>
+
+<section id="content">
+    
+<article>
+<h1>Separation of T-Cell Subsets by FACStar</h1>
+
+<div id="intro">
+<h1>Materials:</h1>
+
+<ul>
+<li><p>Equipment</p>
+<ul>
+<li><p>10-100 ml Pipette, Eppendorf</p></li>
+<li><p>Rotixa/RP centrifuge, Hettich</p></li>
+<li><p>Biosafety cabinet, Clean Air</p></li>
+<li><p>FACStar, Becton Dickinson</p></li>
+</ul></li>
+<li><p>Disposables</p>
+<ul>
+<li><p>Pipettes: 2, 5, 10 ml, Falcon, BD</p></li>
+<li><p>Pipette tips: 1-200 ml, Costar</p></li>
+<li><p>Propylene conial tube: 15 ml, Falcon, BD</p></li>
+<li><p>Polypropylene round-bottom tube with cap: 6 ml (12x75mm), Falcon, BD</p></li>
+<li><p>Bio-freeze vial: 6 ml (12x75mm), Costar.</p></li>
+</ul></li>
+<li><p>Reagents</p>
+<ul>
+<li><p>Bovine serum albumine (BSA), Sigma</p></li>
+<li><p>Phosphate buffered Saline (PBS)</p></li>
+<li><p>Wash buffer (PB): PBS/1.0%BSA</p></li>
+<li><p>RPMI-1640 with Hepes, Gibco BRL</p></li>
+<li><p>Fetal bovine serum (FBS), Hyclone</p></li>
+</ul></li>
+<li><p>Antibodies</p>
+<ul>
+<li><p>Leu2a-PE (g1;CD8), Becton Dickinson.</p></li>
+<li><p>Leu3a-FITC (g1;CD4), Becton Dickinson.</p></li>
+</ul></li>
+</ul>
+
+<h1>Methods</h1>
+
+<ul>
+<li><p>Thaw PBMC gently in 10 ml RPMI with 20% FCS, spin down (4Â°C, 5&#39;,
+2000 rpm)</p></li>
+<li><p>Resuspend in 2 ml PB, take 40 ml in 20 ml Isoton for cell counting</p></li>
+<li><p>Add another 3 mL of PB and spin down (4°C, 5&#39;, 2000 rpm)</p></li>
+<li><p>In the mean time count the cells with the Coulter Counter</p></li>
+<li><p>Resuspend cells in PB at concentration to 10<sup>7</sup> cells/mL</p></li>
+<li><p>Add directly labelled mAb to final concentration of 1:50</p></li>
+<li><p>Incubate 30&#39; at 4Â°C in the dark.</p></li>
+<li><p>Wash twice with PB</p></li>
+<li><p>Resuspend cells in PB to 3*10<sup>6</sup>/mL in 6 mL tubes. (Max.
+4.5 mL)</p></li>
+<li><p>Deliver also tubes with 0.5 mL RPMI/20% FCS for harvesting sorted
+cells</p></li>
+<li><p>Sort on FACStar approximately 1-2*10<sup>6</sup> cells per T-cell
+subset</p></li>
+<li><p>Gate on lymphocyte population in dot plot</p></li>
+<li><p>Sort cells with high expression of CD4 or CD8 separately</p></li>
+<li><p>Analyze purity of T-cell subsets by analyzing 5,000 events</p></li>
+<li><p>Transfer sorted cell suspension to 15 mL conial tube</p></li>
+<li><p>Spin cells down (4Â°C, 5&#39;, 3000 rpm)</p></li>
+</ul>
+
+</div>
+
+
+
+<div class="clear"></div>
+</article>
+
+</section>
+
+</div>
+</body>
+<!-- Mirrored from mullinslab.microbiol.washington.edu/protocols/flow_cytometry/604-Separation-of-T-Cell-Subsets-by-FACStar by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 21 Jul 2025 18:09:16 GMT -->
+</html>

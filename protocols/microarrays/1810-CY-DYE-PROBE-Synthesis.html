@@ -1,0 +1,312 @@
+<!DOCTYPE html>
+<html>
+
+<!-- Mirrored from mullinslab.microbiol.washington.edu/protocols/microarrays/1810-CY-DYE-PROBE-Synthesis by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 21 Jul 2025 18:09:18 GMT -->
+<!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=utf-8" /><!-- /Added by HTTrack -->
+<head>
+    
+<title>CY-DYE PROBE Synthesis | Mullins Molecular Retrovirology Lab</title>
+
+    
+    <link rel="stylesheet" href="style.css" />
+    
+    <link rel="alternate" type="application/atom+xml" title="Atom feed" href="feed" />
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <script src='https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js?config=TeX-MML-AM_CHTML' async></script>
+
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-136625084-1"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+
+      gtag('config', 'UA-136625084-1');
+    </script>
+</head>
+<body id="entry">
+
+<div id="container">
+
+<header>
+
+<h1>Mullins Molecular Retrovirology Lab</h1>
+
+<div class="description">
+<ul>
+<li>Department of Microbiology</li>
+<li>School of Medicine</li>
+<li>University of Washington</li>
+</ul>
+
+</div>
+
+
+</header>
+
+<section id="nav">
+    <nav>
+        
+        <ul>
+            <li class=""><a href="../../index.html">Home</a></li>
+            <li class=""><a href="../../research/index.html">Research</a></li>
+            <li class=""><a href="../../publications/index.html">Publications</a></li>
+            <li class="here"><a href="../index.html">Protocols</a></li>
+            <li class=""><a href="../../people/index.html">People</a></li>
+            <li class=""><a href="../../contact/index.html">Contact</a></li>
+            <li class=""><a href="../../help/index.html">Help</a></li>
+        </ul>
+    </nav>
+</section>
+
+<section id="links">
+    <nav id="quicklinks">
+        <h2>Software &amp; Tools</h2>
+
+        <ul>
+            <li><a href="http://indra.mullins.microbiol.washington.edu/">Bioinformatics Tools</a></li>
+            <li><a href="https://github.com/mullinslab">GitHub</a></li>
+            <li><a href="../../hiris/index.html">HIRIS</a></li>
+            <li><a href="../../HMA/index.html">HMA Subtyping Kit</a></li>
+            <li><a href="../../isdb/index.html">ISDB</a></li>
+            <li><a href="../../tcozy/index.html">TCozy</a></li>
+            <li><a href="https://viroverse.washington.edu/">Viroverse</a></li>
+        </ul>
+    </nav>
+
+    <nav id="lablinks">
+        <h2>Lab Links</h2>
+
+        <ul>
+            <li><a href="https://hercules.mullins.microbiol.washington.edu/pub/doc/">Computing Docs</a></li>
+            <li><a href="../../hiris/private/index.html">HIRIS (Private)</a></li>
+            <li><a href="https://tcozy.mullins.microbiol.washington.edu/ice-floe/">ICE Floe</a></li>
+            <li><a href="https://hercules.mullins.microbiol.washington.edu/git/">Internal Git</a></li>
+            <li><a href="../../twiki/index.html">Internal wiki</a></li>
+            <li><a href="https://viroverse.washington.edu/viroblast/">Local ViroBLAST</a></li>
+            <li><a href="https://redash.mullins.microbiol.washington.edu/">Redash</a></li>
+            <li><a href="https://mullinslab.slack.com/">Slack</a></li>
+            <li><a href="../../support/index.html">Ticketing system</a></li>
+        </ul>
+    </nav>
+
+</section>
+
+<div id="cfar"><a href="http://cfar.washington.edu/">
+    <img src="../../static/_img/2c/47ca/CFAR-logo-rev-10-22-18_4aa6fe47bc_500x157.jpg" width="500" height="157" srcset="/static/_img/2c/47ca/CFAR-logo-rev-10-22-18_4aa6fe47bc_500x157.jpg 1x, /static/_img/2c/47ca/CFAR-logo-rev-10-22-18_4aa6fe47bc_1000x314.jpg 2x" alt="University of Washington/Fred Hutch Center for AIDS Research">
+</a></div>
+
+<section id="content">
+    
+<article>
+<h1>CY-DYE PROBE Synthesis</h1>
+
+<div id="intro">
+<h2>Reagents:</h2>
+
+<table>
+<thead>
+<tr>
+<th></th>
+<th></th>
+</tr>
+</thead>
+
+<tbody>
+<tr>
+<td>Anchored dT25</td>
+<td>Amersham, 8 ÂµM, RPK0145, quote 7G-3709, $110</td>
+</tr>
+<tr>
+<td><em>or</em> Anchored dT25</td>
+<td><em>or</em> dT<sub>23</sub>VN, 8 ÂµM, GibcoBRL</td>
+</tr>
+<tr>
+<td>Random 9-mers</td>
+<td>5&#39; NNN NNN NNN 3&#39;, 1 Âµg/Âµl, GibcoBRL</td>
+</tr>
+<tr>
+<td>GFP poly A<sup>+</sup> RNA</td>
+<td>prepared from plasmid pSP64-GFP</td>
+</tr>
+<tr>
+<td>SuperScript II</td>
+<td>GibcoBRL, 200 U/Âµl, 10000 units, 18064-014, $177</td>
+</tr>
+<tr>
+<td>5X First Strand Buffer</td>
+<td>GibcoBRL, included with enzyme</td>
+</tr>
+<tr>
+<td>DTT</td>
+<td>GibcoBRL, included with enzyme</td>
+</tr>
+<tr>
+<td>Nucleotides*</td>
+<td>Pharmacia, 100mM each, 27-2035-02, $00</td>
+</tr>
+<tr>
+<td>or Nucleotides*</td>
+<td>Promega, 10mmol each, U1330, $75</td>
+</tr>
+<tr>
+<td>Cy3-dCTP</td>
+<td>Amersham, 25nmol, PA53023, quote 1A-3709, $151</td>
+</tr>
+<tr>
+<td>Cy5-dCTP</td>
+<td>Amersham, 25nmol, PA55023, quote 1A-3709, $151</td>
+</tr>
+<tr>
+<td>RNase Inhibitor</td>
+<td>Boehringer Mannheim, 40U/ml, 799 017, $00</td>
+</tr>
+<tr>
+<td>or Rnasin</td>
+<td>Promega, 2500 units, N2511, $82</td>
+</tr>
+<tr>
+<td>NaOH</td>
+<td>Sigma, 2.5M, $00</td>
+</tr>
+<tr>
+<td>MOPS</td>
+<td>Sigma, 2M, $00</td>
+</tr>
+<tr>
+<td>Glass fiber filter plate</td>
+<td>Millipore, MAFB NOB 10, 10/pack, $134</td>
+</tr>
+<tr>
+<td>Catch Plate</td>
+<td>VWR, 622409-108, 50/pack, $00</td>
+</tr>
+<tr>
+<td>Binding buffer</td>
+<td>5.3M Gua-HCl in 150mM Kac pH 4.8 with glacial acetic acid (3-4ml/500ml)</td>
+</tr>
+<tr>
+<td>Tris-HCl</td>
+<td>Sigma, 10mM pH 8.0, T-3038, $00</td>
+</tr>
+<tr>
+<td>Ethanol</td>
+<td>Stores, 80%, $00</td>
+</tr>
+<tr>
+<td>ProbeQuant G50</td>
+<td>Amersham, 27-5335-01, 50/pack, $145</td>
+</tr>
+<tr>
+<td>Coverslips</td>
+<td>VWR, 24x60mm, 48393-106, $15.92</td>
+</tr>
+<tr>
+<td>Deionized Formamide</td>
+<td>Sigma, 100mL, F-9037, $23.60</td>
+</tr>
+<tr>
+<td>20X SSC</td>
+<td>Ambion, 1L, 9763, $30</td>
+</tr>
+<tr>
+<td>50X Denhardtï¿½s</td>
+<td>Fisher, 500g, BP515-5, $42.40</td>
+</tr>
+<tr>
+<td>10% SDS</td>
+<td>Ambion, 500ml, 9822, $40</td>
+</tr>
+<tr>
+<td>Human CotI DNA</td>
+<td>GibcoBRL, 500 units, 15279-011, $75</td>
+</tr>
+<tr>
+<td>Poly A<sub>72</sub></td>
+<td>5ï¿½ A<sub>72</sub> 3ï¿½, GibcoBRL</td>
+</tr>
+<tr>
+<td>Wash buffers</td>
+<td>1XSSC/0.2%SDS, 0.1XSSC/0.2%SDS, 0.1XSSC</td>
+</tr>
+</tbody>
+</table>
+<p>* Nucleotide mix: always use 10mM dGTP/dATP/dTTP and 1mM dCTP;
+unlabeled dCTP used in 1:1 ratio with Cy-labeled dCTP.</p>
+<h2>CY-DYE PROBE SYNTHESIS (17 February 2001)</h2>
+<p><span class="underline">Protocol:</span></p>
+<ol>
+<li>Mix together:</li>
+</ol>
+<p>2 Âµg mRNA</p><p>2 Âµl oligo dT<sub>23</sub>VN (8 ÂµM)</p><p>2 Âµl random 9-mers (1 Âµg/Âµl)</p><p><span class="underline"></span> <span class="underline">1 Âµl GFP mRNA
+(1 ng/Âµl)</span></p><p>10.5 Âµl total volume</p>
+<ol>
+<li><p>Heat to 70Â°C for 10 minutes.</p></li>
+<li><p>Chill on ice for 30 seconds.</p></li>
+<li><p>Centrifuge briefly.</p></li>
+<li><p>Add the following:</p></li>
+</ol>
+<p>4 Âµl 5X First Strand Buffer</p><p>2 Âµl DTT (0.1 M)</p><p>1 Âµl Nucleotide Mix (10 mM G/A/T, 1 mM C)</p><p>1 Âµl Cy3- or Cy5-dCTP (1 mM)</p><p>0.5 Âµl RNase Inhibitor</p><p>Note: when doing multiple reactions, make up premix containing all but
+Cy-dyes and aliquot 7.5 Âµl premix to each tube before adding Cy-dyes.</p>
+<ol>
+<li><p>Mix contents of tube gently and incubate at RT for 10 minutes.</p></li>
+<li><p>Add</p></li>
+</ol>
+<p><span class="underline">1 Âµl</span> SuperScriptII</p><p>20 Âµl total reaction volume</p>
+<ol>
+<li><p>Mix contents of tube gently and incubate at 42Â°C for 2-3 hours.</p></li>
+<li><p>Denature cDNA/mRNA hybrid as follows:</p></li>
+</ol>
+<p>Add 2 Âµl 2.5 M NaOH</p><p>Incubate at 37Â°C for 10 minutes</p><p>Add 10 Âµl 2 M MOPS</p>
+<ol>
+<li><p>Add 200 Âµl binding buffer to probe and mix.</p></li>
+<li><p>Dispense into glass fiber filter plate.</p></li>
+<li><p>Place filter plate on top of vacu-system and apply vacuum.</p></li>
+<li><p>Wash 6x with 200 ml 80% Ethanol.</p></li>
+<li><p>Place filter plate on top of catch plate along with centrifuge
+alignment frame.</p></li>
+<li><p>Do one dry spin to remove residual ethanol (3500 rpm, 5 min).</p></li>
+<li><p>Add 50 Âµl 10 mM Tris-HCl, pH 8. Incubate 1 minute at RT.</p></li>
+<li><p>Place filter plate on top of a <strong>clean</strong> catch plate along with a
+centrifuge alignment frame and spin (3000 rpm, 5 min).</p></li>
+<li><p>Repeat with another 50 Âµl Tris-HCl.</p></li>
+<li><p>Scan probe at OD 260 nm, 550 nm and 650 nm and calculate probe
+yield, incorporated Cy-dye and specific activity.</p></li>
+<li><p>Purify probe over G50 column (prespin column (1000x g 1 min),
+transfer to new tube, apply probe, spin (1000x g 2 min), collect
+flow-through).</p></li>
+<li><p>Dry purified probe down in speedvac (1 hour at 50Â°C).</p></li>
+<li><p>Rinse slides and coverslips by two quick dips in ddH<sub>2</sub>O,
+air dry.</p></li>
+<li><p>Resuspend dried-down probe in 25 Âµl volume of hybridization
+solution (50% formamide, 5x SSC, 5x Denhardtï¿½s, 0.1% SDS, 100 Âµg/ml
+poly A<sub>72</sub>, 100 Âµg/ml human CotI DNA; pass through 0.2 Âµm
+filter).</p></li>
+<li><p>Boil probe for 3 minutes, ice 30 seconds, spin briefly.</p></li>
+<li><p>Combine with appropriate reaction; total volume is now 50 Âµl.</p></li>
+<li><p>Apply probe to slide and cover with coverslip.</p></li>
+<li><p>Incubate overnight (14-16 hrs) at 42Â°C in humid chamber.</p></li>
+<li><p>Preheat wash buffers to 55Â°C.</p></li>
+<li><p>Remove coverslip by immersing slide in 1x SSC/0.2% SDS.</p></li>
+<li><p>Wash in 1x SSC/0.2% SDS for 10 minutes at RT.</p></li>
+<li><p>Wash twice in 0.1x SSC/0.2% SDS at RT for 10 minutes.</p></li>
+<li><p>Wash twice in 0.1x SSC at RT for 1 minute.</p></li>
+<li><p>Rinse by two quick dips in ddH<sub>2</sub>O</p></li>
+<li><p>Dry with compressed air.</p></li>
+<li><p>Scan (PMT 600, green (532nm), filter 1; PMT650, red (633nm), filter
+2; width 10mm, length 60mm).</p></li>
+</ol>
+<p>PS. Name Fluorescence Solution</p><p>Cy3 = green = pink</p><p>Cy5 = red = blue</p>
+</div>
+
+
+
+<div class="clear"></div>
+</article>
+
+</section>
+
+</div>
+</body>
+<!-- Mirrored from mullinslab.microbiol.washington.edu/protocols/microarrays/1810-CY-DYE-PROBE-Synthesis by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 21 Jul 2025 18:09:18 GMT -->
+</html>

@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+
+<feed xmlns="http://www.w3.org/2005/Atom"
+    xmlns:fh="http://purl.org/syndication/history/1.0"
+    xmlns:at="http://purl.org/atompub/tombstones/1.0">
+
+    <title>Mullins Molecular Retrovirology Lab: Data Analysis</title>
+    <subtitle>A personal publishing system for the modern web</subtitle>
+    <link href="https://mullinslab.microbiol.washington.edu/protocols/data_analysis/feed" rel="self" />
+    <link href="https://mullinslab.microbiol.washington.edu/protocols/data_analysis/feed" rel="current" />
+    <link href="https://pubsubhubbub.superfeedr.com" rel="hub" />
+    
+    
+    <link href="https://mullinslab.microbiol.washington.edu/protocols/data_analysis/" />
+    
+    <id>tag:mullinslab.microbiol.washington.edu,2019-03-04:protocols/data_analysis</id>
+    <updated>2011-06-03T15:52:57+00:00</updated>
+
+    
+    <entry>
+        <title>Sequence Analysis for Research Genetics Clones</title>
+        <link href="https://mullinslab.microbiol.washington.edu/protocols/data_analysis/2491-Sequence-Analysis-for-Research-Genetics-Clones" rel="alternate" type="text/html" />
+        <published>2010-04-01T16:37:30-07:00</published>
+        <updated>2011-06-03T15:49:48+00:00</updated>
+        <id>urn:uuid:d4418ad5-b35e-5bfe-947e-3f37f31af963</id>
+        <author><name>Camille</name></author>
+        <content type="html">
+<![CDATA[
+<p>Fetch files from CFAR DSF ftp-site</p><p>Start SEQUENCHER</p><p>Drag sequences to SEQUENCHER window</p><p>Open files by double clicking</p><p>Only use files with good signal</p><p>Find restriction site of vector (eg. EcoRI GAATTC) with FIND option</p><p>Crop vector sequence</p><p>Open chromatogram</p><p>Find where good sequence ends or poly A tail starts</p><p>Crop rest of sequence</p><p>Export sequence as Pearson text</p><p>One file:</p>
+<ul>
+<li><p>copy sequence into window at NCBI webpage</p></li>
+<li><p>do basic blastn nr search</p></li>
+</ul>
+<p>Multiple files:</p>
+<ul>
+<li><p>start SEARCH LAUNCHER by dropping sequence files onto the camel
+symbol</p></li>
+<li><p>type DNA</p></li>
+<li><p>type 10 (BLASTN NR) or 12 (dbEST)</p></li>
+<li><p>results are returned into the SEARCH LAUNCHER directory</p></li>
+</ul>
+
+
+]]>
+        </content>
+    </entry>
+    
+    <entry>
+        <title>Freezerworks Maps</title>
+        <link href="https://mullinslab.microbiol.washington.edu/protocols/data_analysis/2496-Freezerworks-Maps" rel="alternate" type="text/html" />
+        <published>2010-04-01T16:24:16-07:00</published>
+        <updated>2011-06-03T15:52:57+00:00</updated>
+        <id>urn:uuid:03cab83e-df71-57b8-843b-748329ab3705</id>
+        <author><name>Camille</name></author>
+        <content type="html">
+<![CDATA[
+<p>Getting the Data From Freezerworks</p><p>The mapping macro generates one map per freezer box, but it&rsquo;s quickest
+to pull the data out by one freezer at a time.</p>
+<ul>
+<li>Log in to Freezerworks. If you don&rsquo;t know how, you should get help
+from Tara (queen of the Freezer people)</li>
+<li>From the <code>Samples</code> menu, choose <code>Search by Location</code></li>
+<li>Select the Freezer you want to export. Leave the <code>Rack</code>, <code>Box</code>,
+<code>Position</code> boxes blank to select all of the samples in the freezer.</li>
+<li>Open the <code>Import/Export</code> menu and choose <code>Export Data</code>.</li>
+<li>Double-click the <code>Map Maker</code> export format.</li>
+<li>Make sure the <code>Field Delimiter</code> is still <code>tab</code> and the <code>Record
+Delimiter</code> is <code>return</code> and that <code>Include Header Record</code> is checked.</li>
+<li>Click the <code>Save Export</code> button and note where you save the file for
+the next step</li>
+</ul>
+<p>Creating the Freezer Data File in Excel</p><p>Open a new Excel worksheet</p><p><code>Choose Data Get External Data Import Text File</code></p><p>select the freezerworks file you created in step 1</p><p>click <code>Finish</code> to accept the defaults and import the data</p><p>Fill the empty <code>Subdivision 5</code> column with spaces:</p>
+<ul>
+<li>enter a space in the top of the column (probably cell C2)</li>
+<li>select that cell and everything below it (shift + cmd + down arrow)</li>
+<li>choose <code>Edit Fill Down</code></li>
+</ul>
+<p>Sort the data by position</p>
+<ul>
+<li>Select all of the data (cmd + A or edit select all)</li>
+<li>Choose <code>Data Sort</code></li>
+<li>Sort by <code>Subdivision 1 Position</code>, then <code>Subdivision 2 position</code>,
+then <code>Subdivision 3 Position</code> with a <code>Header row</code></li>
+</ul>
+<p>Create a Map of the Data for a Box</p>
+<ul>
+<li>If you plan to save, create a copy of the <code>MapMaker Blank.xls</code> file.
+You can find it in the &lsquo;Freezerworks Webinars&rsquo; folder on transfer if
+necessary.</li>
+<li>Copy and paste the rows corresponding to a single box from the
+freezer worksheet into the &lsquo;Paste Data&rsquo; worksheet of the Map Maker
+file. The shelf column should be blank because we don&rsquo;t use that
+subdivision.</li>
+<li>Press <code>ctrl+a</code>
+to activate the magic. The data in the Paste Data tab will be
+transformed into a map of the box on the Map tab.</li>
+<li>Print or save as you like. (you may need to redefine the print area
+to include the line numbers)</li>
+</ul>
+
+
+]]>
+        </content>
+    </entry>
+    
+
+    
+</feed>

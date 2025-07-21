@@ -1,0 +1,205 @@
+<!DOCTYPE html>
+<html>
+
+<!-- Mirrored from mullinslab.microbiol.washington.edu/protocols/microarrays/2002-Mullins-Lab-Total-RNA-Extraction by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 21 Jul 2025 18:09:18 GMT -->
+<!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=utf-8" /><!-- /Added by HTTrack -->
+<head>
+    
+<title>Mullins Lab Total RNA Extraction | Mullins Molecular Retrovirology Lab</title>
+
+    
+    <link rel="stylesheet" href="style.css" />
+    
+    <link rel="alternate" type="application/atom+xml" title="Atom feed" href="feed" />
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <script src='https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js?config=TeX-MML-AM_CHTML' async></script>
+
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-136625084-1"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+
+      gtag('config', 'UA-136625084-1');
+    </script>
+</head>
+<body id="entry">
+
+<div id="container">
+
+<header>
+
+<h1>Mullins Molecular Retrovirology Lab</h1>
+
+<div class="description">
+<ul>
+<li>Department of Microbiology</li>
+<li>School of Medicine</li>
+<li>University of Washington</li>
+</ul>
+
+</div>
+
+
+</header>
+
+<section id="nav">
+    <nav>
+        
+        <ul>
+            <li class=""><a href="../../index.html">Home</a></li>
+            <li class=""><a href="../../research/index.html">Research</a></li>
+            <li class=""><a href="../../publications/index.html">Publications</a></li>
+            <li class="here"><a href="../index.html">Protocols</a></li>
+            <li class=""><a href="../../people/index.html">People</a></li>
+            <li class=""><a href="../../contact/index.html">Contact</a></li>
+            <li class=""><a href="../../help/index.html">Help</a></li>
+        </ul>
+    </nav>
+</section>
+
+<section id="links">
+    <nav id="quicklinks">
+        <h2>Software &amp; Tools</h2>
+
+        <ul>
+            <li><a href="http://indra.mullins.microbiol.washington.edu/">Bioinformatics Tools</a></li>
+            <li><a href="https://github.com/mullinslab">GitHub</a></li>
+            <li><a href="../../hiris/index.html">HIRIS</a></li>
+            <li><a href="../../HMA/index.html">HMA Subtyping Kit</a></li>
+            <li><a href="../../isdb/index.html">ISDB</a></li>
+            <li><a href="../../tcozy/index.html">TCozy</a></li>
+            <li><a href="https://viroverse.washington.edu/">Viroverse</a></li>
+        </ul>
+    </nav>
+
+    <nav id="lablinks">
+        <h2>Lab Links</h2>
+
+        <ul>
+            <li><a href="https://hercules.mullins.microbiol.washington.edu/pub/doc/">Computing Docs</a></li>
+            <li><a href="../../hiris/private/index.html">HIRIS (Private)</a></li>
+            <li><a href="https://tcozy.mullins.microbiol.washington.edu/ice-floe/">ICE Floe</a></li>
+            <li><a href="https://hercules.mullins.microbiol.washington.edu/git/">Internal Git</a></li>
+            <li><a href="../../twiki/index.html">Internal wiki</a></li>
+            <li><a href="https://viroverse.washington.edu/viroblast/">Local ViroBLAST</a></li>
+            <li><a href="https://redash.mullins.microbiol.washington.edu/">Redash</a></li>
+            <li><a href="https://mullinslab.slack.com/">Slack</a></li>
+            <li><a href="../../support/index.html">Ticketing system</a></li>
+        </ul>
+    </nav>
+
+</section>
+
+<div id="cfar"><a href="http://cfar.washington.edu/">
+    <img src="../../static/_img/2c/47ca/CFAR-logo-rev-10-22-18_4aa6fe47bc_500x157.jpg" width="500" height="157" srcset="/static/_img/2c/47ca/CFAR-logo-rev-10-22-18_4aa6fe47bc_500x157.jpg 1x, /static/_img/2c/47ca/CFAR-logo-rev-10-22-18_4aa6fe47bc_1000x314.jpg 2x" alt="University of Washington/Fred Hutch Center for AIDS Research">
+</a></div>
+
+<section id="content">
+    
+<article>
+<h1>Mullins Lab Total RNA Extraction</h1>
+
+<div id="intro">
+<p><span class="underline"><strong>Reagents:</strong></span></p>
+<ul>
+<li><p>Guanidine Thiocyanate (Fluka, FW=118.2, 250 g, 50990, $77.15)</p></li>
+<li><p>Citric Acid (Sigma, FW=294.1, 500 g, C-8532, $14.25)</p></li>
+<li><p>Sarkosyl (Sigma, FW=293.4, 50 g, L-9150, $14.75)</p></li>
+<li><p>2-Î² Mercaptoethanol (Sigma, FW=78.13, 100 ml, M-7522, $15.40)</p></li>
+<li><p>RNase free ddH<sub>2</sub>O (Sigma, 1 L, W-4502, $23.55)</p></li>
+<li><p>3M Sodium Acetate Buffer (pH 5.2) (Sigma, 100 ml, S-7899, $11.90)</p></li>
+<li><p>Phenol (Boehringer Mannheim, 500 g, 1814303, $88.00)</p></li>
+<li><p>Chloroform (UW Stores, 4 L, 0011-555, $36.14)</p></li>
+<li><p>Isoamyl Alcohol (Sigma, FW=88.15, 500 ml, I-9392, $22.65)</p></li>
+<li><p>Isopropanol (UW Stores, 4 L, 0014-620, $22.08)</p></li>
+<li><p>75% and 100% Ethanol</p></li>
+<li><p>1 M Tris-HCl (pH 7.6) (Sigma, 1L, T-2788, $0.00)</p></li>
+<li><p>20cc Syringe (UW Stores, 40/box, 0056-590, $11.12)</p></li>
+<li><p>18Gx1-&frac12; Needle (UW Stores, 100/pack, 0053-560,
+$4.05)</p></li>
+</ul>
+
+<table>
+<thead>
+<tr>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+</thead>
+
+<tbody>
+<tr>
+<td><em>Solution D</em></td>
+<td><em>Final Concentration</em></td>
+<td><em>Amount (100 ml)</em></td>
+</tr>
+<tr>
+<td>Guanidine thiocyanate</td>
+<td>4 M</td>
+<td>47.26 g</td>
+</tr>
+<tr>
+<td>Citric Acid (1 M, pH 7.0)</td>
+<td>25 mM</td>
+<td>2.5 ml</td>
+</tr>
+<tr>
+<td>Sarkosyl (10%)</td>
+<td>0.5%</td>
+<td>5 mL</td>
+</tr>
+<tr>
+<td>2-Î² Mercaptoethanol (14 M)</td>
+<td>0.1 M</td>
+<td>0.72 ml<sup>*</sup></td>
+</tr>
+<tr>
+<td>RNase free ddH<sub>2</sub>O</td>
+<td></td>
+<td>to 100 ml</td>
+</tr>
+</tbody>
+</table>
+<p><strong>*</strong> Î² Mercaptoethanol should be added to the amount of solution D
+that is to be used that day. Make up solution D without Î²
+Mercaptoethanol and then add 7.2 Âµl/ml of solution D as needed.
+Solution D without Î² Mercaptoethanol can be stored at room temperature
+for 1 month.</p><p>Chomczynske, P. and Sacchi, N., Analytical Biochem. 162: 156-159, 1987.</p><p><strong><span class="underline"><br>
+</span></strong></p><p><span class="underline"><strong>Protocol:</strong></span></p><p>1. Lyse cells in solution D (200 Âµl/l X 10<sup>6</sup> cells).</p><p>2. Homogenize by passing lysate five times through 18-gauge needle with
+syringe. Store at ï¿½70 Â°C or continue.</p><p>3. Sequentially add the following:</p><p>0.1 volume 3 M Sodium Acetate (pH 5.2), mix</p><p>1.0 volume Phenol, water-saturated, mix</p><p>0.2 volume Chloroform/Isoamyl Alcohol (24:1) (fresh)</p><p>4. Vortex 10 seconds.</p><p>5. Incubate on ice 15 minutes.</p><p>6. Centrifuge 30 minutes at 10,000x g (brake slowly), 4Â°C.</p><p>7. Transfer upper aqueous phase to new tube.</p><p>8. Precipitate with an equal volume of Isopropanol for 30-60 minutes,
+-20Â°C.</p><p>9. Centrifuge 30 minutes at 10,000x g (brake max), 4Â°C.</p><p>10. Dissolve pellet in 600 Âµl solution D.</p><p>11. Transfer to Eppendorf tube.</p><p>12. Sequentially add the following:</p><p>60 Âµl 3 M Sodium Acetate (pH 5.2), mix</p><p>600 Âµl Phenol, water-saturated, mix</p><p>120 Âµl Chloroform/Isoamyl Alcohol (24:1) (fresh)</p><p>13. Vortex 10 seconds.</p><p>14. Incubate on ice 15 minutes.</p><p>15. Centrifuge 15 minutes at 14,000 rpm.</p><p>16. Transfer upper aqueous phase to new tube.</p><p>17. Precipitate with an equal volume of Isopropanol for 30-60 minutes,
+-20Â°C.</p><p>18. Centrifuge 5 minutes at 14,000 rpm.</p><p>19. Wash pellet with 200 Âµl 75% Ethanol.</p><p>20. Centrifuge 1 minute at 14,000 rpm.</p><p>21. Air dry and resuspend in 500 Âµl RNase-free ddH<sub>2</sub>O.</p><p>22. Make 1:100 dilutions in 10mM Tris pH 7.6 to read
+OD<sub>260/280</sub>.</p><p>23. Run 100-500 ng total RNA on Bioanalyzer.</p><p>24. Make 250 Âµg aliquots.</p><p>25. Store at ï¿½70 Â°C with 0.1 volumes 3M Sodium Acetate (pH 5.2) and
+2.5 volumes 100% Ethanol.</p><p><strong><span class="underline"><br>
+</span></strong></p><p><span class="underline">Notes:</span></p><p>- Phenol is a poison and causes burns. Use gloves and eye protection.</p><p>- Carry out all steps at room temperature unless otherwise stated.</p><p>- The procedure can be carried out in sterile, disposable, 50 ml
+conical tubes (Falcon, Greiner).</p><p>- Do not let the RNA pellet dry completely as this greatly decreases
+its solubility.</p><p>- Dissolve the pellet in DEPC-treated water. Incubate 10 to 15 minutes
+at 55-60Â°C. Expected yield: 50 to 80 Âµg for 10 x 10<sup>6</sup> cells.</p><p>- Water used for spectrophotometric measurement of RNA should have pH
+7.5. Typically, distilled water has pH 6. Adjust water to a slightly
+alkaline pH by adding concentrated Na<sub>2</sub>HPO<sub>4</sub>
+solution to a final concentration of 1 mM.</p><p><em>Solution D:</em></p><p>To Guanidine Thiocyanate bottle (250 g) add 293 ml ddH<sub>2</sub>O
+preheated to 60Â°C, and 13.25 ml 1M Citric Acid (pH 7.0). Keep at 60Â°C
+and mix until dissolved. Add 26.5 ml of 10% (w/v) N-lauroylsarcosine
+(Sarkosyl) and water to 530 ml total volume. For use add 324 Âµl 2-Î²
+mercaptoethanol (2-ME) to 45ml solution.</p><p><em>Sodium acetate, 2M:</em></p><p>Add 16.42 g sodium acetate (anhydrous) to 40 ml water and 35 ml glacial
+acetic acid. Adjust solution to pH 4.0 with glacial acetic acid and
+dilute to 100 ml final with water (solution is 2 M with respect to
+sodium ions). Store up to 1 year at room temperature.</p><p><em>Water-saturated phenol:</em></p><p>Dissolve 50 g phenol in 50ml ddH<sub>2</sub>0 at 60 to 65Â°C. Aliquot in
+50 ml conical tubes wrapped in aluminium foil and store at ï¿½20Â°C. Do
+NOT use buffered phenol in place of water-saturated phenol.</p>
+</div>
+
+
+
+<div class="clear"></div>
+</article>
+
+</section>
+
+</div>
+</body>
+<!-- Mirrored from mullinslab.microbiol.washington.edu/protocols/microarrays/2002-Mullins-Lab-Total-RNA-Extraction by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 21 Jul 2025 18:09:18 GMT -->
+</html>

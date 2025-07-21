@@ -1,0 +1,345 @@
+<!DOCTYPE html>
+<html>
+
+<!-- Mirrored from mullinslab.microbiol.washington.edu/protocols/microarrays/874-RT-PCR by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 21 Jul 2025 18:09:18 GMT -->
+<!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=utf-8" /><!-- /Added by HTTrack -->
+<head>
+    
+<title>RT-PCR | Mullins Molecular Retrovirology Lab</title>
+
+    
+    <link rel="stylesheet" href="style.css" />
+    
+    <link rel="alternate" type="application/atom+xml" title="Atom feed" href="feed" />
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <script src='https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js?config=TeX-MML-AM_CHTML' async></script>
+
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-136625084-1"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+
+      gtag('config', 'UA-136625084-1');
+    </script>
+</head>
+<body id="entry">
+
+<div id="container">
+
+<header>
+
+<h1>Mullins Molecular Retrovirology Lab</h1>
+
+<div class="description">
+<ul>
+<li>Department of Microbiology</li>
+<li>School of Medicine</li>
+<li>University of Washington</li>
+</ul>
+
+</div>
+
+
+</header>
+
+<section id="nav">
+    <nav>
+        
+        <ul>
+            <li class=""><a href="../../index.html">Home</a></li>
+            <li class=""><a href="../../research/index.html">Research</a></li>
+            <li class=""><a href="../../publications/index.html">Publications</a></li>
+            <li class="here"><a href="../index.html">Protocols</a></li>
+            <li class=""><a href="../../people/index.html">People</a></li>
+            <li class=""><a href="../../contact/index.html">Contact</a></li>
+            <li class=""><a href="../../help/index.html">Help</a></li>
+        </ul>
+    </nav>
+</section>
+
+<section id="links">
+    <nav id="quicklinks">
+        <h2>Software &amp; Tools</h2>
+
+        <ul>
+            <li><a href="http://indra.mullins.microbiol.washington.edu/">Bioinformatics Tools</a></li>
+            <li><a href="https://github.com/mullinslab">GitHub</a></li>
+            <li><a href="../../hiris/index.html">HIRIS</a></li>
+            <li><a href="../../HMA/index.html">HMA Subtyping Kit</a></li>
+            <li><a href="../../isdb/index.html">ISDB</a></li>
+            <li><a href="../../tcozy/index.html">TCozy</a></li>
+            <li><a href="https://viroverse.washington.edu/">Viroverse</a></li>
+        </ul>
+    </nav>
+
+    <nav id="lablinks">
+        <h2>Lab Links</h2>
+
+        <ul>
+            <li><a href="https://hercules.mullins.microbiol.washington.edu/pub/doc/">Computing Docs</a></li>
+            <li><a href="../../hiris/private/index.html">HIRIS (Private)</a></li>
+            <li><a href="https://tcozy.mullins.microbiol.washington.edu/ice-floe/">ICE Floe</a></li>
+            <li><a href="https://hercules.mullins.microbiol.washington.edu/git/">Internal Git</a></li>
+            <li><a href="../../twiki/index.html">Internal wiki</a></li>
+            <li><a href="https://viroverse.washington.edu/viroblast/">Local ViroBLAST</a></li>
+            <li><a href="https://redash.mullins.microbiol.washington.edu/">Redash</a></li>
+            <li><a href="https://mullinslab.slack.com/">Slack</a></li>
+            <li><a href="../../support/index.html">Ticketing system</a></li>
+        </ul>
+    </nav>
+
+</section>
+
+<div id="cfar"><a href="http://cfar.washington.edu/">
+    <img src="../../static/_img/2c/47ca/CFAR-logo-rev-10-22-18_4aa6fe47bc_500x157.jpg" width="500" height="157" srcset="/static/_img/2c/47ca/CFAR-logo-rev-10-22-18_4aa6fe47bc_500x157.jpg 1x, /static/_img/2c/47ca/CFAR-logo-rev-10-22-18_4aa6fe47bc_1000x314.jpg 2x" alt="University of Washington/Fred Hutch Center for AIDS Research">
+</a></div>
+
+<section id="content">
+    
+<article>
+<h1>RT-PCR</h1>
+
+<div id="intro">
+<p>18 June 2002</p><p><span class="underline"><strong>Reagents:</strong></span></p>
+<ul>
+<li>Forward Gene Specific Primer (IDT)</li>
+<li>Reverse Gene Specific Primer (IDT)</li>
+<li>Random decamer primer (from Ambion RetroScript Kit: 1710,
+$206.00/kit or Ambion, 5722G, $50.00/80Âµl)</li>
+<li>RNase Inhibitor (from Ambion RetroScript Kit: 1710, $206.00/kit)</li>
+<li>Reverse Transcriptase (M-MLV) (5x RT Buffer from Ambion RetroScript
+Kit: 1710, $206.00/kit)</li>
+<li>10x RT Buffer, otherwise referred to as 10x first strand buffer
+(from Ambion RetroScript Kit: 1710, $206.00/kit)</li>
+<li>10x PCR Reaction Buffer (from Ambion RetroScript Kit: 1710,
+$206.00/kit)</li>
+<li>50 mM MgCl<sub>2</sub> (from Ambion RetroScript Kit: 1710,
+$206.00/kit)</li>
+<li>SuperTAQ DNA Polymerase (Ambion, 2050, $48.00/50 U or 2052,
+$190.00/250U)</li>
+<li>18S rRNA PCR Primer Pair (Ambion kit, 1716 $155.00/kit)</li>
+<li>Control Template RNA (Ambion kit, 1716 $155.00/kit)</li>
+</ul>
+<p><strong><span class="underline">Protocol:</span></strong></p><p><strong><span class="underline"></span></strong></p><p><strong><span class="underline"></span></strong></p>
+<h4>Reverse Transcription</h4>
+
+<ol>
+<li><p> Adjust concentration of RNA to 100 ng/Âµl (The RNA should be DNase
+treated or equivalent).</p></li>
+<li><p> Set up two 500 Âµl tubes: mark one tube as (-)RT control &ndash; it will
+have no reverse transcriptase; mark the other with the sample name.
+Both tubes will will contain the same sample RNA.</p></li>
+<li><p> For each tube mix together:  </p><p>RNA (100-450ng) 2 Âµl<br>
+Ramdom decamer (in excess) 2 Âµl<br>
+<span class="underline">H<sub>2</sub>O to equal total volume</span>
+<span class="underline">8 Âµl</span><br>
+Total volume 12 Âµl<br>
+For a positive control use 2 Âµl of the RNA Control Template
+(Ambion).</p></li>
+<li><p> Heat at 75Â°C for ten minutes; briefly centrifuge and keep on ice 30
+seconds or until ready.</p></li>
+<li><p> While heating above, prepare the RT Reaction Cocktail for the
+sample(s) and the controls (separate):  </p>
+<table>
+<colgroup>
+<col style="width: 25%" />
+<col style="width: 25%" />
+<col style="width: 25%" />
+<col style="width: 25%" />
+</colgroup>
+<tbody>
+<tr class="odd">
+<td><h5 id="per-sample-or-rt-control">Per Sample or (+)RT Control</h5></td>
+<td><h3 id="section"></h3></td>
+<td><h5 id="per--rt-control">Per (-)RT Control</h5></td>
+<td><h3 id="section-1"></h3></td>
+</tr>
+<tr class="even">
+<td>5x RT Buffer</td>
+<td>2 Âµl</td>
+<td>5x RT Buffer</td>
+<td>2 Âµl</td>
+</tr>
+<tr class="odd">
+<td>2.5mM dNTP</td>
+<td>4 Âµl</td>
+<td>2.5mM dNTP</td>
+<td>4 Âµl</td>
+</tr>
+<tr class="even">
+<td>RNase Inhibitor (40 U/Âµl)</td>
+<td>1 Âµl</td>
+<td>RNase Inhibitor (40 U/Âµl)</td>
+<td>1 Âµl</td>
+</tr>
+<tr class="odd">
+<td>M-MLV Reverse Transcriptase</td>
+<td>1 Âµl</td>
+<td>H<sub>2</sub>O</td>
+<td>1 Âµl</td>
+</tr>
+<tr class="even">
+<td>Total Volume</td>
+<td>8 Âµl</td>
+<td>Total Volume</td>
+<td>8 Âµl</td>
+</tr>
+</tbody>
+</table>
+<p>Note: When doing multiple reactions, make up a master mix for all
+samples allowing 10% extra to permit for pipetting errors. Aliquot 8
+Âµl/sample or control and add to the reaction mixture from step 2.</p></li>
+<li><p> Add 8 Âµl of the RT Cocktail mix to the 12 Âµl of RNA mix. Mix by
+pipetting up and down, centrifuge briefly.</p></li>
+<li><p> Incubate at 42Â°C for 1 hour.</p></li>
+<li><p> Centrifuge briefly and store at -20Â°C until ready to continue.</p></li>
+</ol>
+<p><strong><span class="underline"></span></strong></p><p><strong><span class="underline"></span></strong></p>
+<h4>Polymerase Chain Reaction</h4>
+
+<ol>
+<li> For linear range PCR, we find it best to use 10 cycle-increments
+plus controls.<br>
+Controls are:
+
+<ul>
+<li>-a positive RT Control</li>
+<li>-a negative PCR control to ensure no reagent contaminants</li>
+<li>-a negative RT sample control (no M-MLV RT) to ensure the RNA
+used is free of DNA contaminants.
+The (+) RT and (-) PCR control can be use for an entire experiment,
+for all conditions.<br>
+The (-) RT sample controls, however, are needed per condition being
+tested.</li>
+</ul></li>
+</ol>
+
+<!-- end list -->
+
+<ol>
+<li> For each of the controls add 1 Âµl of the
+following.
+|     |                             |                                              |
+| &mdash; | &mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash; | &mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&ndash; |
+| 1a. | Positive RT Control-Mock    | 1Âµl cDNA from RNA Control Template (Ambion) |
+| 1b. | Negative PCR Control        | 1Âµl H<sub>2</sub>O                          |
+| 2a. | Negative RT Control-Mock    | 1Âµl (-)RT Mock cDNA                         |
+| 2b. | Negative RT Control-Treated | 1Âµl (-)RT Treated cDNA                      |</li>
+</ol>
+<p><strong><span class="underline"></span></strong></p><p><strong><span class="underline"></span></strong></p>
+<h4>For Linear Range</h4>
+
+<ol>
+<li>For each sample, add 1 Âµl cDNA for a total of 50 Âµl.</li>
+<li>Distribute 50 Âµl each into 10 separate tubes with each representing
+a different cycle.</li>
+<li>Set and run the following PCR cycles:
+
+<ol>
+<li> 95Â°C for 3 minutes<br>
+start cycles:</li>
+<li> 95Â°C for 45 seconds</li>
+<li> 58Â°C for 45 seconds</li>
+<li> 72Â°C for 45 seconds<br>
+<strong>REPEAT from step &ldquo;b&rdquo; 35 times<br>
+Note:</strong> Preheat thermocycler before placing the sample tubes in
+the machine.</li>
+</ol></li>
+</ol>
+
+<!-- end list -->
+
+<ol>
+<li>Remove the appropriate tube after the designated cycle is over.
+Ideally you should run a final extension cycle in another
+thermocycler (10 minutes at 72Â°C). Put on ice for 1 minute. Keep at
+4Â°C until ready to load into gel. Store PCR product at -20Â°C.</li>
+<li>Add 2.5 Âµl of dye to 10 Âµl of sample. Run samples on a 2% agarose
+gel in 1x TAE buffer at 100 Volts until done or at 25 Volts
+overnight. Stain gel with Ethidium Bromide or Sybr Green.</li>
+<li>To image on Phosphoimager (Storm): for 100 ml gel, prepare 250 ml 1x
+TAE buffer with 25 Âµl Sybr Green stain. (Stain the gel in 1:10,000
+dilution Sybr Green stain in 1x TAE buffer.) Shake gently for at
+least a hour. Sybr Green can be reused.<br>
+<strong>Note:</strong> Keep the staining solution in the dark by wrapping the
+container with aluminum foil.</li>
+<li>Observe gel under UV light and photograph the image. Also, scan the
+gel under STORM fluorimager.</li>
+<li>Determine the optimal range by observing the linear range of the
+gel. Take two points within the optimal range to continue on with
+the Quantitative RT PCR.</li>
+</ol>
+
+<!-- end list -->
+
+<ol>
+<li>Observe gel under UV light and photograph the image. Also, scan the
+gel under STORM Fluorimager to be able to analyze quantitative
+differences.</li>
+</ol>
+<p><strong><span class="underline">Troubleshooting</span></strong></p>
+<table>
+<colgroup>
+<col style="width: 50%" />
+<col style="width: 50%" />
+</colgroup>
+<tbody>
+<tr class="odd">
+<td><strong>Problem</strong></td>
+<td><strong>Solution</strong></td>
+</tr>
+<tr class="even">
+<td><p>No Band</p></td>
+<td><ul>
+<li>Decrease stringency= lower annealing temperature or increase MgCl<sub>2</sub> concentration</li>
+<li>Increase cycle number</li>
+</ul></td>
+</tr>
+<tr class="odd">
+<td><p>Too many bands</p></td>
+<td><ul>
+<li>Increase stringency: Higher annealing temp or decrease MgCl<sub>2</sub></li>
+<li>Decrease cycle number</li>
+<li>Perform hot start PCR</li>
+<li>Decrease primer and/or template concentration</li>
+</ul></td>
+</tr>
+<tr class="even">
+<td><p>Wrong size band</p></td>
+<td><ul>
+<li>Raise annealing temp</li>
+<li>Perform hot start PC</li>
+</ul></td>
+</tr>
+<tr class="odd">
+<td><p>Primer-dimers</p></td>
+<td><ul>
+<li>Set up reactions on ice and perform hot start PCR</li>
+<li>Lower primer concentration (try 50-100 nM)</li>
+</ul></td>
+</tr>
+<tr class="even">
+<td><p>Band in negative RT lane</p></td>
+<td><ul>
+<li>Treat with DNase free</li>
+<li>Design primers over several exons</li>
+</ul></td>
+</tr>
+</tbody>
+</table>
+
+</div>
+
+
+
+<div class="clear"></div>
+</article>
+
+</section>
+
+</div>
+</body>
+<!-- Mirrored from mullinslab.microbiol.washington.edu/protocols/microarrays/874-RT-PCR by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 21 Jul 2025 18:09:18 GMT -->
+</html>

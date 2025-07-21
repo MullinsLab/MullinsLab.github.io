@@ -1,0 +1,151 @@
+<!DOCTYPE html>
+<html>
+
+<!-- Mirrored from mullinslab.microbiol.washington.edu/protocols/microarrays/2150-Aminoallyl-labeling by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 21 Jul 2025 18:09:18 GMT -->
+<!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=utf-8" /><!-- /Added by HTTrack -->
+<head>
+    
+<title>Aminoallyl labeling | Mullins Molecular Retrovirology Lab</title>
+
+    
+    <link rel="stylesheet" href="style.css" />
+    
+    <link rel="alternate" type="application/atom+xml" title="Atom feed" href="feed" />
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <script src='https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js?config=TeX-MML-AM_CHTML' async></script>
+
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-136625084-1"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+
+      gtag('config', 'UA-136625084-1');
+    </script>
+</head>
+<body id="entry">
+
+<div id="container">
+
+<header>
+
+<h1>Mullins Molecular Retrovirology Lab</h1>
+
+<div class="description">
+<ul>
+<li>Department of Microbiology</li>
+<li>School of Medicine</li>
+<li>University of Washington</li>
+</ul>
+
+</div>
+
+
+</header>
+
+<section id="nav">
+    <nav>
+        
+        <ul>
+            <li class=""><a href="../../index.html">Home</a></li>
+            <li class=""><a href="../../research/index.html">Research</a></li>
+            <li class=""><a href="../../publications/index.html">Publications</a></li>
+            <li class="here"><a href="../index.html">Protocols</a></li>
+            <li class=""><a href="../../people/index.html">People</a></li>
+            <li class=""><a href="../../contact/index.html">Contact</a></li>
+            <li class=""><a href="../../help/index.html">Help</a></li>
+        </ul>
+    </nav>
+</section>
+
+<section id="links">
+    <nav id="quicklinks">
+        <h2>Software &amp; Tools</h2>
+
+        <ul>
+            <li><a href="http://indra.mullins.microbiol.washington.edu/">Bioinformatics Tools</a></li>
+            <li><a href="https://github.com/mullinslab">GitHub</a></li>
+            <li><a href="../../hiris/index.html">HIRIS</a></li>
+            <li><a href="../../HMA/index.html">HMA Subtyping Kit</a></li>
+            <li><a href="../../isdb/index.html">ISDB</a></li>
+            <li><a href="../../tcozy/index.html">TCozy</a></li>
+            <li><a href="https://viroverse.washington.edu/">Viroverse</a></li>
+        </ul>
+    </nav>
+
+    <nav id="lablinks">
+        <h2>Lab Links</h2>
+
+        <ul>
+            <li><a href="https://hercules.mullins.microbiol.washington.edu/pub/doc/">Computing Docs</a></li>
+            <li><a href="../../hiris/private/index.html">HIRIS (Private)</a></li>
+            <li><a href="https://tcozy.mullins.microbiol.washington.edu/ice-floe/">ICE Floe</a></li>
+            <li><a href="https://hercules.mullins.microbiol.washington.edu/git/">Internal Git</a></li>
+            <li><a href="../../twiki/index.html">Internal wiki</a></li>
+            <li><a href="https://viroverse.washington.edu/viroblast/">Local ViroBLAST</a></li>
+            <li><a href="https://redash.mullins.microbiol.washington.edu/">Redash</a></li>
+            <li><a href="https://mullinslab.slack.com/">Slack</a></li>
+            <li><a href="../../support/index.html">Ticketing system</a></li>
+        </ul>
+    </nav>
+
+</section>
+
+<div id="cfar"><a href="http://cfar.washington.edu/">
+    <img src="../../static/_img/2c/47ca/CFAR-logo-rev-10-22-18_4aa6fe47bc_500x157.jpg" width="500" height="157" srcset="/static/_img/2c/47ca/CFAR-logo-rev-10-22-18_4aa6fe47bc_500x157.jpg 1x, /static/_img/2c/47ca/CFAR-logo-rev-10-22-18_4aa6fe47bc_1000x314.jpg 2x" alt="University of Washington/Fred Hutch Center for AIDS Research">
+</a></div>
+
+<section id="content">
+    
+<article>
+<h1>Aminoallyl labeling</h1>
+
+<div id="intro">
+<p><strong>Protocol for Amino-allyl Reverse Transcription and NHS-Cy Dye
+Labeling</strong></p><p>**<br>
+**</p><p><strong>MATERIALS</strong></p>
+<h1>Equipment</h1>
+<p>- Single channel pipette: 0.5-10 Âµl, 10-100 Âµl, 200-1000 Âµl,
+Eppendorf</p><p>- Vacuum manifold, Millipore</p><p>- Speedvac</p><p>- Adjustable waterbaths (37Â° C, 42Â° C, 55Â° C, 100Â° C)</p><p><strong>Disposables</strong></p><p>- 96-well Multiscreen-FB filter plate, Millipore, MAFB NOB 10</p><p>- Catch plate, VWR, 622409-108</p><p>- Pipette tips: 1-10 Âµl, 2-20 Âµl, 20-200 Âµl, 200-1000 Âµl, ART</p><p>- Tubes: 1.5ml</p><p><strong>Reagents</strong></p><p>- Anchored dT25, dT<sub>23</sub>VN, 8 ÂµM stock GibcoBRL</p><p>- Random 9-mers, NNNNNNNNN, 1 Âµg/Âµl stock Gibco-BRL</p><p>- GFP poly A<sup>+</sup> RNA, prepared from plasmid pSP64-GFP</p><p>- SuperScript II, GibcoBRL, 200 U/Âµl, 18064-022 (includes 5X First
+Strand Buffer and DTT)</p><p>- Nucleotides, Pharmacia 27-2035-02, 100mM each*</p><p>- 5-(3-Aminoallyl)-2&#39;-deoxyurindine 5&#39;-triphosphate sodium salt
+(AA-dUTP), Sigma A-0410</p><p>- RNase Inhibitor, Boehringer Mannheim 799 017, 40U/ml</p><p>- Buffers, Sigma, 2.5M NaOH, 2M MOPS, 1M Tris-HCl pH 7.5 8.5</p><p>- 4M Hydroxylamine, Sigma H-2391</p><p>- 0.1M NaBicarbonate pH 9.0</p><p>- Monofunctional NHS-ester Cy3/Cy5, APBiotech PA23001/PA25001;
+resuspend each tube in 72Âµl H<sub>2</sub>O, aliquot 4.5Âµl into 16
+tubes, dry in speedvac</p><p>- Millipore Binding Buffer (5.3M Gua-HCl in 150mM KAc, pH 4.8)</p><p>- Millipore Wash Solution (80% Ethanol)</p><p>- Slide pretreatment buffer, 5XSSC/0.2%SDS</p><p>- Hybridization Buffer (50% Formamide, 5X SSC, 5X Denhardtï¿½s,
+0.1%SDS, 100Âµg/ml ssDNA (Sigma), 100Âµg/ml COT-I DNA (BRL), 100Âµg/ml
+polyA<sub>72</sub>)</p><p>- Wash buffers, 1XSSC/0.2%SDS, 0.1XSSC/0.2%SDS, 0.1XSSC</p><p>* Nucleotide mix (20X): 10mM GTP, 10mM ATP, 10mM CTP, 4mM TTP, 4mM
+AA-dUTP</p>
+<hr>
+<p><strong>PROTOCOL</strong></p>
+<h1>Reverse Transcription</h1>
+<p>- Mix together:</p><p>2 Âµg poly A<sup>+</sup> RNA (or 50mg total RNA)</p><p>2 Âµl oligo dT<sub>23</sub>VN (8 mM)</p><p>2 Âµl random 9-mers (1mg/ml)</p><p>2.5 ng GFP poly A<sup>+</sup> RNA</p><p>10.5 Âµl total volume</p><p>- Incubate at 70Â° C for 10 minutes, chill on ice 30 seconds, spin</p><p>- Add the following:</p><p>4 Âµl 5X First Strand Buffer</p><p>2 Âµl DTT (0.1M)</p><p>1 Âµl Nucleotide Mix (10mM G/A/C, 4mM T, 4mM AA-dUTP)</p><p>1 Âµl H<sub>2</sub>O</p><p>0.5 Âµl RNase Inhibitor</p><p>- Mix contents of tube gently and incubate at RT for 10 minutes</p><p>- Add 1 Âµl SuperScriptII</p><p>20 Âµl total reaction volume</p><p>- Mix contents of tube gently and incubate at 42Â°C for 2 hours</p><p><strong>RNA hydrolysis and purification of cDNA</strong></p><p>- Add 2 Âµl 2.5 M NaOH</p><p>- Incubate at 37Â°C for 10 minutes</p><p>- Add 10 Âµl 2 M MOPS</p><p>- Add 200 Âµl binding buffer to probe and mix</p><p>- Dispense into glass fiber filter plate</p><p>- Place filter plate on top of vacu-system and apply vacuum.</p><p>- Wash 6x with 80% fresh Ethanol</p><p>- Place filter plate on top of catch plate along with centrifuge
+alignment frame</p><p>- Do one dry spin to remove residual ethanol (3500 rpm, 5ï¿½)</p><p>- Add 50 Âµl H<sub>2</sub>O. Incubate 1 minute at RT</p><p>- Place filter plate on top of a clean catch plate along with a
+centrifuge alignment frame and spin (3000 rpm, 5ï¿½)</p><p>- Repeat with another 50 Âµl H<sub>2</sub>O</p><p>- Scan probe at OD 260nm, 550nm and 650nm.</p><p>- Dry in Speedvac until volume is less than 5Âµl (~45 minutes @
+50ï¿½C)</p>
+<h1>Coupling to NHS-ester Cy dyes</h1>
+<p>- Adjust volume of sample to 4.5Âµl</p><p>- Resuspend mono-functional NHS-ester Cy3 or Cy5 dye aliquot in 4.5Âµl
+of 0.1M NaBicarbonate Buffer pH 9.0</p><p>- Mix dye and cDNA</p><p>- Incubate 1 hr at RT (Note: there is no advantage to incubating
+longer)</p><p>Quenching the Reaction and Removal of uncoupled Cy dyes</p><p>- Add 4.5Âµl of 4M Hydroxylamine</p><p>- Add 16.5Âµl of H<sub>2</sub>O to bring the volume to 30Âµl</p><p>- Add 150Âµl of Millipore binding buffer, purify as above in Millipore
+96 well plate, elute twice in 50Âµl aliquots of H<sub>2</sub>O</p><p>- Scan probe at OD 260nm, 550nm and 650nm and calculate probe yield,
+incorporated Cy-dye and specific activity</p><p>- Purify probe over G50 column (prespin column (3000 rpm 1ï¿½),
+transfer to new tube, apply probe, spin (3000rpm 2ï¿½), collect
+flow-through).</p><p>- Dry purified probe down in speedvac (~1.5 hours at 50 Â°C)</p>
+<h1>Hybridization</h1>
+<p>- Slide pretreatment: submerge mirrored slides for 40 minutes in
+5XSSC/0.2%SDS at 55 Â°C (waterbath), rinse slide by two quick dips in
+ddH<sub>2</sub>O, air dry. Rinse coverslip in ddH<sub>2</sub>O and
+ethanol, air dry</p><p>- Resuspend dried down probe in Hybridization Buffer (25Âµl/reaction)</p><p>- Boil probe for 3 minutes, ice 30 seconds, spin briefly</p><p>- Apply probe to slide and cover with coverslip</p><p>- Incubate overnight (14-16 hrs) at 42 Â°C in humid chamber</p><p>- Preheat wash buffers to 55 Â°C</p><p>- Remove coverslip by immersing slide in 1XSSC/0.2%SDS</p><p>- Wash in 1XSSC/0.2% SDS for 10 minutes at RT</p><p>- Wash twice in 0.1XSSC/0.2%SDS at RT for 10 minutes</p><p>- Wash twice in 0.1XSSC at RT for 1 minute</p><p>- Rinse by two quick dips in ddH<sub>2</sub>O, dry with compressed air</p><p>- Scan (PMT 700, green (532nm), filter 1; PMT700, red (633nm), filter
+2; width 10mm, length 60mm).</p>
+</div>
+
+
+
+<div class="clear"></div>
+</article>
+
+</section>
+
+</div>
+</body>
+<!-- Mirrored from mullinslab.microbiol.washington.edu/protocols/microarrays/2150-Aminoallyl-labeling by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 21 Jul 2025 18:09:18 GMT -->
+</html>

@@ -1,0 +1,161 @@
+<!DOCTYPE html>
+<html>
+
+<!-- Mirrored from mullinslab.microbiol.washington.edu/protocols/data_analysis/2496-Freezerworks-Maps by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 21 Jul 2025 18:09:12 GMT -->
+<!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=utf-8" /><!-- /Added by HTTrack -->
+<head>
+    
+<title>Freezerworks Maps | Mullins Molecular Retrovirology Lab</title>
+
+    
+    <link rel="stylesheet" href="style.css" />
+    
+    <link rel="alternate" type="application/atom+xml" title="Atom feed" href="feed" />
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <script src='https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js?config=TeX-MML-AM_CHTML' async></script>
+
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-136625084-1"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+
+      gtag('config', 'UA-136625084-1');
+    </script>
+</head>
+<body id="entry">
+
+<div id="container">
+
+<header>
+
+<h1>Mullins Molecular Retrovirology Lab</h1>
+
+<div class="description">
+<ul>
+<li>Department of Microbiology</li>
+<li>School of Medicine</li>
+<li>University of Washington</li>
+</ul>
+
+</div>
+
+
+</header>
+
+<section id="nav">
+    <nav>
+        
+        <ul>
+            <li class=""><a href="../../index.html">Home</a></li>
+            <li class=""><a href="../../research/index.html">Research</a></li>
+            <li class=""><a href="../../publications/index.html">Publications</a></li>
+            <li class="here"><a href="../index.html">Protocols</a></li>
+            <li class=""><a href="../../people/index.html">People</a></li>
+            <li class=""><a href="../../contact/index.html">Contact</a></li>
+            <li class=""><a href="../../help/index.html">Help</a></li>
+        </ul>
+    </nav>
+</section>
+
+<section id="links">
+    <nav id="quicklinks">
+        <h2>Software &amp; Tools</h2>
+
+        <ul>
+            <li><a href="http://indra.mullins.microbiol.washington.edu/">Bioinformatics Tools</a></li>
+            <li><a href="https://github.com/mullinslab">GitHub</a></li>
+            <li><a href="../../hiris/index.html">HIRIS</a></li>
+            <li><a href="../../HMA/index.html">HMA Subtyping Kit</a></li>
+            <li><a href="../../isdb/index.html">ISDB</a></li>
+            <li><a href="../../tcozy/index.html">TCozy</a></li>
+            <li><a href="https://viroverse.washington.edu/">Viroverse</a></li>
+        </ul>
+    </nav>
+
+    <nav id="lablinks">
+        <h2>Lab Links</h2>
+
+        <ul>
+            <li><a href="https://hercules.mullins.microbiol.washington.edu/pub/doc/">Computing Docs</a></li>
+            <li><a href="../../hiris/private/index.html">HIRIS (Private)</a></li>
+            <li><a href="https://tcozy.mullins.microbiol.washington.edu/ice-floe/">ICE Floe</a></li>
+            <li><a href="https://hercules.mullins.microbiol.washington.edu/git/">Internal Git</a></li>
+            <li><a href="../../twiki/index.html">Internal wiki</a></li>
+            <li><a href="https://viroverse.washington.edu/viroblast/">Local ViroBLAST</a></li>
+            <li><a href="https://redash.mullins.microbiol.washington.edu/">Redash</a></li>
+            <li><a href="https://mullinslab.slack.com/">Slack</a></li>
+            <li><a href="../../support/index.html">Ticketing system</a></li>
+        </ul>
+    </nav>
+
+</section>
+
+<div id="cfar"><a href="http://cfar.washington.edu/">
+    <img src="../../static/_img/2c/47ca/CFAR-logo-rev-10-22-18_4aa6fe47bc_500x157.jpg" width="500" height="157" srcset="/static/_img/2c/47ca/CFAR-logo-rev-10-22-18_4aa6fe47bc_500x157.jpg 1x, /static/_img/2c/47ca/CFAR-logo-rev-10-22-18_4aa6fe47bc_1000x314.jpg 2x" alt="University of Washington/Fred Hutch Center for AIDS Research">
+</a></div>
+
+<section id="content">
+    
+<article>
+<h1>Freezerworks Maps</h1>
+
+<div id="intro">
+<p>Getting the Data From Freezerworks</p><p>The mapping macro generates one map per freezer box, but it&rsquo;s quickest
+to pull the data out by one freezer at a time.</p>
+<ul>
+<li>Log in to Freezerworks. If you don&rsquo;t know how, you should get help
+from Tara (queen of the Freezer people)</li>
+<li>From the <code>Samples</code> menu, choose <code>Search by Location</code></li>
+<li>Select the Freezer you want to export. Leave the <code>Rack</code>, <code>Box</code>,
+<code>Position</code> boxes blank to select all of the samples in the freezer.</li>
+<li>Open the <code>Import/Export</code> menu and choose <code>Export Data</code>.</li>
+<li>Double-click the <code>Map Maker</code> export format.</li>
+<li>Make sure the <code>Field Delimiter</code> is still <code>tab</code> and the <code>Record
+Delimiter</code> is <code>return</code> and that <code>Include Header Record</code> is checked.</li>
+<li>Click the <code>Save Export</code> button and note where you save the file for
+the next step</li>
+</ul>
+<p>Creating the Freezer Data File in Excel</p><p>Open a new Excel worksheet</p><p><code>Choose Data Get External Data Import Text File</code></p><p>select the freezerworks file you created in step 1</p><p>click <code>Finish</code> to accept the defaults and import the data</p><p>Fill the empty <code>Subdivision 5</code> column with spaces:</p>
+<ul>
+<li>enter a space in the top of the column (probably cell C2)</li>
+<li>select that cell and everything below it (shift + cmd + down arrow)</li>
+<li>choose <code>Edit Fill Down</code></li>
+</ul>
+<p>Sort the data by position</p>
+<ul>
+<li>Select all of the data (cmd + A or edit select all)</li>
+<li>Choose <code>Data Sort</code></li>
+<li>Sort by <code>Subdivision 1 Position</code>, then <code>Subdivision 2 position</code>,
+then <code>Subdivision 3 Position</code> with a <code>Header row</code></li>
+</ul>
+<p>Create a Map of the Data for a Box</p>
+<ul>
+<li>If you plan to save, create a copy of the <code>MapMaker Blank.xls</code> file.
+You can find it in the &lsquo;Freezerworks Webinars&rsquo; folder on transfer if
+necessary.</li>
+<li>Copy and paste the rows corresponding to a single box from the
+freezer worksheet into the &lsquo;Paste Data&rsquo; worksheet of the Map Maker
+file. The shelf column should be blank because we don&rsquo;t use that
+subdivision.</li>
+<li>Press <code>ctrl+a</code>
+to activate the magic. The data in the Paste Data tab will be
+transformed into a map of the box on the Map tab.</li>
+<li>Print or save as you like. (you may need to redefine the print area
+to include the line numbers)</li>
+</ul>
+
+</div>
+
+
+
+<div class="clear"></div>
+</article>
+
+</section>
+
+</div>
+</body>
+<!-- Mirrored from mullinslab.microbiol.washington.edu/protocols/data_analysis/2496-Freezerworks-Maps by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 21 Jul 2025 18:09:14 GMT -->
+</html>

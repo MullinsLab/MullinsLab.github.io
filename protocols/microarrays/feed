@@ -1,0 +1,2039 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+
+<feed xmlns="http://www.w3.org/2005/Atom"
+    xmlns:fh="http://purl.org/syndication/history/1.0"
+    xmlns:at="http://purl.org/atompub/tombstones/1.0">
+
+    <title>Mullins Molecular Retrovirology Lab: Microarrays</title>
+    <subtitle>A personal publishing system for the modern web</subtitle>
+    <link href="https://mullinslab.microbiol.washington.edu/protocols/microarrays/feed" rel="self" />
+    <link href="https://mullinslab.microbiol.washington.edu/protocols/microarrays/feed" rel="current" />
+    <link href="https://pubsubhubbub.superfeedr.com" rel="hub" />
+    
+    
+    <link href="https://mullinslab.microbiol.washington.edu/protocols/microarrays/" />
+    
+    <id>tag:mullinslab.microbiol.washington.edu,2019-03-04:protocols/microarrays</id>
+    <updated>2011-06-03T16:06:24+00:00</updated>
+
+    
+    <entry>
+        <title>Processing Q-Bot Membranes</title>
+        <link href="https://mullinslab.microbiol.washington.edu/protocols/microarrays/692-Processing-Q-Bot-Membranes" rel="alternate" type="text/html" />
+        <published>2010-04-01T16:17:05-07:00</published>
+        <updated>2011-06-03T15:56:58+00:00</updated>
+        <id>urn:uuid:89f6196a-ac73-557a-9d6a-bcca7cc829c2</id>
+        <author><name>Camille</name></author>
+        <content type="html">
+<![CDATA[
+<p><span class="underline"><strong>Reagents</strong>:</span></p>
+<table>
+<thead>
+<tr>
+<th></th>
+<th></th>
+</tr>
+</thead>
+
+<tbody>
+<tr>
+<td>Whatman</td>
+<td>23x23</td>
+</tr>
+<tr>
+<td>Boiling waterbath</td>
+<td>95 Â°C</td>
+</tr>
+<tr>
+<td>Denaturing Solution</td>
+<td>0.5M NaOH, 1.5M NaCl</td>
+</tr>
+<tr>
+<td>Neutralizing Solution</td>
+<td>1M Tris-Cl pH 7.4, 1.5M NaCl</td>
+</tr>
+<tr>
+<td>PROPK Solution</td>
+<td>50mM Tris-Cl pH8.5, 50mM EDTA, 100mM NaCl, 1% Na-lauroyl-sarcosine</td>
+</tr>
+<tr>
+<td>Proteinase K</td>
+<td>500mg/9ml, use 3ml per 600ml PROPK</td>
+</tr>
+</tbody>
+</table>
+<p><span class="underline"><strong>Protocol</strong>:</span></p>
+<ol>
+<li><p> Observe membrane and note any abnormalities about growth after
+spotting. Check pencil numbers and robot puncture marks.</p></li>
+<li><p> Handle membrane with 2 forceps holding it for diagonal corners.</p></li>
+<li><p> Place on Whatman pre-wetted in Denaturing Solution. Leave for 4
+minutes.</p></li>
+<li><p> Place membrane on fresh Whatman pre-wetted in Denaturing Solution
+and transfer to glass plate sitting on empty pipette tip box in
+boiling waterbath. Leave for 4 minutes with covered lid.</p></li>
+<li><p> Place membrane on Whatman pre-wetted in Neutratlizing Solution.
+Leave for 4 minutes.</p></li>
+<li><p> Place membrane on dry Whatman. Leave for 1 minute.</p></li>
+<li><p> Submerge membrane under a 600ml pre-warmed (37 Â°C) PROPK Solution
+containing ~150mg/ml <em>fresh</em> Proteinase K. Do NOT shake. Leave in
+incubator for 30-50 minutes.</p></li>
+<li><p> Place membrane on dry Whatman.</p></li>
+<li><p> Cover with a NUNC. Leave overnight.</p></li>
+<li><p>UV cross-link.</p></li>
+<li><p>Store between dry Whatmans.</p></li>
+</ol>
+
+
+]]>
+        </content>
+    </entry>
+    
+    <entry>
+        <title>Radiolabeled First-Strand cDNA Synthesis</title>
+        <link href="https://mullinslab.microbiol.washington.edu/protocols/microarrays/352-Radiolabeled-First-Strand-cDNA-Synthesis" rel="alternate" type="text/html" />
+        <published>2010-04-01T16:16:24-07:00</published>
+        <updated>2011-06-03T15:57:26+00:00</updated>
+        <id>urn:uuid:2249ddcc-dd8c-547d-b41d-25c4dcc8227e</id>
+        <author><name>Camille</name></author>
+        <content type="html">
+<![CDATA[
+<p><span class="underline"><strong>Protocol</strong></span> ****</p><p><strong>Denaturation</strong></p><p>1. Prepare the following:</p><p>25 Âµg total RNA/ 1Âµg poly A<sup>+</sup> RNA x Âµl</p><p>1 Âµg oligo dT<sub>19</sub>V (2 Âµg/Âµl) 0.5 Âµl</p><p>8 Âµg oligo dT<sub>30</sub> (8Âµg/Âµl) 1.0 Âµl</p><p>GFP poly A<sup>+</sup> RNA (10ng/Âµl) 0.5 Âµl</p><p>ddH<sub>2</sub>O <span class="underline">x Âµl</span></p><p>Final volume 10.5 Âµl</p><p>2. Heat at 70 Â°C for 10 minutes, cool to 42 Â°C, slowly.</p><p>Note: Heat in 70 Â°C heat block then take out block and allow to cool on
+bench top until temp is 42 Â°C.</p><p><strong>Reverse Transcription</strong></p><p>3. To sample from above add the following:</p><p>dNTP mix (800 ÂµM dATP/dGTP/dTTP, 5 ÂµM dCTP) 1.0 Âµl</p><p>5x First Strand Buffer 5.0 Âµl</p><p>10x DTT 2.5 Âµl</p><p>[Î±-<sup>32</sup>P]-dCTP (10ÂµCi/Âµl) 5.0 Âµl</p><p>SuperScript II (200 U/Âµl) <span class="underline">1.0 Âµl</span></p><p>Final volume 25.0 Âµl</p><p>4. Incubate at 42 Â°C for 1 hour.</p><p><strong>Hydrolysis of RNA</strong></p><p>5. Sequentially add the following:</p><p>1% SDS 1.0 Âµl</p><p>500 mM EDTA 1.0 Âµl</p><p>2 N NaOH 3.0 Âµl</p><p>6. Heat at 65 Â°C for 5 minutes</p><p>7. Then add the following:</p><p>1 M Tris.HCl pH 7.6 10.0 Âµl</p><p>2 N HCl 3.0 Âµl</p><p>8. Incubate at RT for 10 minutes.</p><p>9. Add ddH<sub>2</sub>O <span class="underline">7.0 Âµl</span></p><p>Final volume 50.0 Âµl</p><p>10. Purify probe over G-50 Micro Column (Pre-spin col umn at 3500 rpm
+for 1 minute, apply probe to column, spin at 3500 rpm for 2 minutes.)</p><p>Note: Save 1Âµl for counting and 1Âµl for denaturing gel.</p><p><strong>Prehyb membrane</strong></p><p>11. Incubate filter at 65 Â°C for 6-20 hrs in 10 ml Hybridization
+solution (5x SSC, 5x Denhardtï¿½s, 0.5% SDS, 100 Âµg/ml ssDNA)</p><p><span class="underline">5ml</span> <span class="underline">10ml</span>
+<span class="underline">15ml</span> <span class="underline">20ml</span>
+<span class="underline">25ml</span> <span class="underline">30ml</span>
+<span class="underline">50ml</span></p><p>20x SSC 1.25 2.50 3.75 5.00 6.25 7.50 12.5</p><p>50x Denhardtï¿½s 0.50 1.00 1.50 2.00 2.50 3.00 5.00</p><p>20% SDS 0.13 0.25 0.38 0.50 0.63 0.75 1.25</p><p>ssDNA 0.05 0.10 0.15 0.20 0.25 0.30 0.50</p><p>ddH<sub>2</sub>O 3.10 6.20 9.20 12.3 15.4 18.5 30.8</p><p><strong>Probe preparation</strong></p><p>12. Boil probe 5 minutes, place on ice at least 5 minutes.</p><p>13. Add 2 Âµg poly A<sub>72</sub> to 2 ml Hybridization solution.</p><p>14. Add denatured probe to the 2 ml Hybridization solution.</p><p>15. Incubate 1 hr at 65 Â°C.</p><p>16. Add 3 ml Hybridization solution.</p><p><strong>Hyb membrane</strong></p><p>17. Incubate filter in 5 ml Hybridization solution for 20 hrs at 65
+Â°C.</p><p><strong>Washes</strong></p><p>18. Wash membrane 5 minutes at RT in 2x SSC/0.1% SDS.</p><p>19. Wash membrane 20 minutes at 65 Â°C in 2x SSC/0.1% SDS.</p><p>20. Wash membrane 1 hour at 65 Â°C in 0.1x SSC/0.1% SDS.</p><p>21 (Optional). If needed, repeat 1 hour at 65 Â°C 0.1x SSC/0.1% SDS.</p><p><em>Adapted from Huntsman Cancer Institute Katze Lab Protocols</em></p>
+
+]]>
+        </content>
+    </entry>
+    
+    <entry>
+        <title>Oligonucleitide Hybridization to Glass Arrays</title>
+        <link href="https://mullinslab.microbiol.washington.edu/protocols/microarrays/591-Oligonucleitide-Hybridization-to-Glass-Arrays" rel="alternate" type="text/html" />
+        <published>2010-04-01T16:15:45-07:00</published>
+        <updated>2011-06-03T15:58:18+00:00</updated>
+        <id>urn:uuid:cbadffc6-89ab-557a-b3cc-ada951248e70</id>
+        <author><name>Camille</name></author>
+        <content type="html">
+<![CDATA[
+<p>1. (optional) Prescan slide in Array Scanner II to determine quality of
+slide (Note: I usually only do this in the green channel (532nm) to save
+time.</p><p>2. Prepare 0.3 to 1 pmole of each Cy<sup>3</sup> or Cy<sup>5</sup>
+labeled primer in 50Âµl 1X hybridization solution (50% formamide, 5X
+SSC, 0.1% SDS, 100Âµg/ml salmon sperm DNA).</p><p>3. Pipet 50Âµl hyb solution with probe onto long edge of slide.</p><p>4. Cover with long cover slip, avoid air bubbles (gives high
+background).</p><p>5. Incubate overnight (12hrs) at room temperature in humid chamber
+(moist paper towel in bottom of relatively airtight container).</p><p>6. To remove coverslip, submerge slide in 2X SSC/0.2% SDS.</p><p><strong>Turn on scanner now if you want to scan immediately after processing,
+scanner needs at least 40 minutes to warm up.</strong></p><p>7. Wash 5 min in 2X SSC/0.2% SDS at room temperature.</p><p>8. Wash10 min at room temp with 2X SSC/0.1% SDS.</p><p>9. Rinse slide 10 seconds in ddH<sub>2</sub>0.</p><p>10. Dry with compressed air.</p><p>11. Store in dark until ready to scan.</p><p>12. Scan in Array Scanner II in both channels (<strong>make sure scanner has
+had at least 40 minutes to warm up</strong>).</p>
+
+]]>
+        </content>
+    </entry>
+    
+    <entry>
+        <title>RT-PCR</title>
+        <link href="https://mullinslab.microbiol.washington.edu/protocols/microarrays/874-RT-PCR" rel="alternate" type="text/html" />
+        <published>2010-04-01T16:15:07-07:00</published>
+        <updated>2011-06-03T15:58:26+00:00</updated>
+        <id>urn:uuid:dc95955b-0c52-5a72-84e0-38bcd04a822e</id>
+        <author><name>Camille</name></author>
+        <content type="html">
+<![CDATA[
+<p>18 June 2002</p><p><span class="underline"><strong>Reagents:</strong></span></p>
+<ul>
+<li>Forward Gene Specific Primer (IDT)</li>
+<li>Reverse Gene Specific Primer (IDT)</li>
+<li>Random decamer primer (from Ambion RetroScript Kit: 1710,
+$206.00/kit or Ambion, 5722G, $50.00/80Âµl)</li>
+<li>RNase Inhibitor (from Ambion RetroScript Kit: 1710, $206.00/kit)</li>
+<li>Reverse Transcriptase (M-MLV) (5x RT Buffer from Ambion RetroScript
+Kit: 1710, $206.00/kit)</li>
+<li>10x RT Buffer, otherwise referred to as 10x first strand buffer
+(from Ambion RetroScript Kit: 1710, $206.00/kit)</li>
+<li>10x PCR Reaction Buffer (from Ambion RetroScript Kit: 1710,
+$206.00/kit)</li>
+<li>50 mM MgCl<sub>2</sub> (from Ambion RetroScript Kit: 1710,
+$206.00/kit)</li>
+<li>SuperTAQ DNA Polymerase (Ambion, 2050, $48.00/50 U or 2052,
+$190.00/250U)</li>
+<li>18S rRNA PCR Primer Pair (Ambion kit, 1716 $155.00/kit)</li>
+<li>Control Template RNA (Ambion kit, 1716 $155.00/kit)</li>
+</ul>
+<p><strong><span class="underline">Protocol:</span></strong></p><p><strong><span class="underline"></span></strong></p><p><strong><span class="underline"></span></strong></p>
+<h4>Reverse Transcription</h4>
+
+<ol>
+<li><p> Adjust concentration of RNA to 100 ng/Âµl (The RNA should be DNase
+treated or equivalent).</p></li>
+<li><p> Set up two 500 Âµl tubes: mark one tube as (-)RT control &ndash; it will
+have no reverse transcriptase; mark the other with the sample name.
+Both tubes will will contain the same sample RNA.</p></li>
+<li><p> For each tube mix together:  </p><p>RNA (100-450ng) 2 Âµl<br>
+Ramdom decamer (in excess) 2 Âµl<br>
+<span class="underline">H<sub>2</sub>O to equal total volume</span>
+<span class="underline">8 Âµl</span><br>
+Total volume 12 Âµl<br>
+For a positive control use 2 Âµl of the RNA Control Template
+(Ambion).</p></li>
+<li><p> Heat at 75Â°C for ten minutes; briefly centrifuge and keep on ice 30
+seconds or until ready.</p></li>
+<li><p> While heating above, prepare the RT Reaction Cocktail for the
+sample(s) and the controls (separate):  </p>
+<table>
+<colgroup>
+<col style="width: 25%" />
+<col style="width: 25%" />
+<col style="width: 25%" />
+<col style="width: 25%" />
+</colgroup>
+<tbody>
+<tr class="odd">
+<td><h5 id="per-sample-or-rt-control">Per Sample or (+)RT Control</h5></td>
+<td><h3 id="section"></h3></td>
+<td><h5 id="per--rt-control">Per (-)RT Control</h5></td>
+<td><h3 id="section-1"></h3></td>
+</tr>
+<tr class="even">
+<td>5x RT Buffer</td>
+<td>2 Âµl</td>
+<td>5x RT Buffer</td>
+<td>2 Âµl</td>
+</tr>
+<tr class="odd">
+<td>2.5mM dNTP</td>
+<td>4 Âµl</td>
+<td>2.5mM dNTP</td>
+<td>4 Âµl</td>
+</tr>
+<tr class="even">
+<td>RNase Inhibitor (40 U/Âµl)</td>
+<td>1 Âµl</td>
+<td>RNase Inhibitor (40 U/Âµl)</td>
+<td>1 Âµl</td>
+</tr>
+<tr class="odd">
+<td>M-MLV Reverse Transcriptase</td>
+<td>1 Âµl</td>
+<td>H<sub>2</sub>O</td>
+<td>1 Âµl</td>
+</tr>
+<tr class="even">
+<td>Total Volume</td>
+<td>8 Âµl</td>
+<td>Total Volume</td>
+<td>8 Âµl</td>
+</tr>
+</tbody>
+</table>
+<p>Note: When doing multiple reactions, make up a master mix for all
+samples allowing 10% extra to permit for pipetting errors. Aliquot 8
+Âµl/sample or control and add to the reaction mixture from step 2.</p></li>
+<li><p> Add 8 Âµl of the RT Cocktail mix to the 12 Âµl of RNA mix. Mix by
+pipetting up and down, centrifuge briefly.</p></li>
+<li><p> Incubate at 42Â°C for 1 hour.</p></li>
+<li><p> Centrifuge briefly and store at -20Â°C until ready to continue.</p></li>
+</ol>
+<p><strong><span class="underline"></span></strong></p><p><strong><span class="underline"></span></strong></p>
+<h4>Polymerase Chain Reaction</h4>
+
+<ol>
+<li> For linear range PCR, we find it best to use 10 cycle-increments
+plus controls.<br>
+Controls are:
+
+<ul>
+<li>-a positive RT Control</li>
+<li>-a negative PCR control to ensure no reagent contaminants</li>
+<li>-a negative RT sample control (no M-MLV RT) to ensure the RNA
+used is free of DNA contaminants.
+The (+) RT and (-) PCR control can be use for an entire experiment,
+for all conditions.<br>
+The (-) RT sample controls, however, are needed per condition being
+tested.</li>
+</ul></li>
+</ol>
+
+<!-- end list -->
+
+<ol>
+<li> For each of the controls add 1 Âµl of the
+following.
+|     |                             |                                              |
+| &mdash; | &mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash; | &mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&ndash; |
+| 1a. | Positive RT Control-Mock    | 1Âµl cDNA from RNA Control Template (Ambion) |
+| 1b. | Negative PCR Control        | 1Âµl H<sub>2</sub>O                          |
+| 2a. | Negative RT Control-Mock    | 1Âµl (-)RT Mock cDNA                         |
+| 2b. | Negative RT Control-Treated | 1Âµl (-)RT Treated cDNA                      |</li>
+</ol>
+<p><strong><span class="underline"></span></strong></p><p><strong><span class="underline"></span></strong></p>
+<h4>For Linear Range</h4>
+
+<ol>
+<li>For each sample, add 1 Âµl cDNA for a total of 50 Âµl.</li>
+<li>Distribute 50 Âµl each into 10 separate tubes with each representing
+a different cycle.</li>
+<li>Set and run the following PCR cycles:
+
+<ol>
+<li> 95Â°C for 3 minutes<br>
+start cycles:</li>
+<li> 95Â°C for 45 seconds</li>
+<li> 58Â°C for 45 seconds</li>
+<li> 72Â°C for 45 seconds<br>
+<strong>REPEAT from step &ldquo;b&rdquo; 35 times<br>
+Note:</strong> Preheat thermocycler before placing the sample tubes in
+the machine.</li>
+</ol></li>
+</ol>
+
+<!-- end list -->
+
+<ol>
+<li>Remove the appropriate tube after the designated cycle is over.
+Ideally you should run a final extension cycle in another
+thermocycler (10 minutes at 72Â°C). Put on ice for 1 minute. Keep at
+4Â°C until ready to load into gel. Store PCR product at -20Â°C.</li>
+<li>Add 2.5 Âµl of dye to 10 Âµl of sample. Run samples on a 2% agarose
+gel in 1x TAE buffer at 100 Volts until done or at 25 Volts
+overnight. Stain gel with Ethidium Bromide or Sybr Green.</li>
+<li>To image on Phosphoimager (Storm): for 100 ml gel, prepare 250 ml 1x
+TAE buffer with 25 Âµl Sybr Green stain. (Stain the gel in 1:10,000
+dilution Sybr Green stain in 1x TAE buffer.) Shake gently for at
+least a hour. Sybr Green can be reused.<br>
+<strong>Note:</strong> Keep the staining solution in the dark by wrapping the
+container with aluminum foil.</li>
+<li>Observe gel under UV light and photograph the image. Also, scan the
+gel under STORM fluorimager.</li>
+<li>Determine the optimal range by observing the linear range of the
+gel. Take two points within the optimal range to continue on with
+the Quantitative RT PCR.</li>
+</ol>
+
+<!-- end list -->
+
+<ol>
+<li>Observe gel under UV light and photograph the image. Also, scan the
+gel under STORM Fluorimager to be able to analyze quantitative
+differences.</li>
+</ol>
+<p><strong><span class="underline">Troubleshooting</span></strong></p>
+<table>
+<colgroup>
+<col style="width: 50%" />
+<col style="width: 50%" />
+</colgroup>
+<tbody>
+<tr class="odd">
+<td><strong>Problem</strong></td>
+<td><strong>Solution</strong></td>
+</tr>
+<tr class="even">
+<td><p>No Band</p></td>
+<td><ul>
+<li>Decrease stringency= lower annealing temperature or increase MgCl<sub>2</sub> concentration</li>
+<li>Increase cycle number</li>
+</ul></td>
+</tr>
+<tr class="odd">
+<td><p>Too many bands</p></td>
+<td><ul>
+<li>Increase stringency: Higher annealing temp or decrease MgCl<sub>2</sub></li>
+<li>Decrease cycle number</li>
+<li>Perform hot start PCR</li>
+<li>Decrease primer and/or template concentration</li>
+</ul></td>
+</tr>
+<tr class="even">
+<td><p>Wrong size band</p></td>
+<td><ul>
+<li>Raise annealing temp</li>
+<li>Perform hot start PC</li>
+</ul></td>
+</tr>
+<tr class="odd">
+<td><p>Primer-dimers</p></td>
+<td><ul>
+<li>Set up reactions on ice and perform hot start PCR</li>
+<li>Lower primer concentration (try 50-100 nM)</li>
+</ul></td>
+</tr>
+<tr class="even">
+<td><p>Band in negative RT lane</p></td>
+<td><ul>
+<li>Treat with DNase free</li>
+<li>Design primers over several exons</li>
+</ul></td>
+</tr>
+</tbody>
+</table>
+
+
+]]>
+        </content>
+    </entry>
+    
+    <entry>
+        <title>Quantitative PCR</title>
+        <link href="https://mullinslab.microbiol.washington.edu/protocols/microarrays/1054-Quantitative-PCR" rel="alternate" type="text/html" />
+        <published>2010-04-01T16:14:14-07:00</published>
+        <updated>2011-06-03T15:58:34+00:00</updated>
+        <id>urn:uuid:a509c78c-9e4e-5616-a8c1-5791b0f15f23</id>
+        <author><name>Camille</name></author>
+        <content type="html">
+<![CDATA[
+<p>27 February 2002</p><p><span class="underline"><strong>Reagents:</strong></span></p>
+<ul>
+<li>Forward Gene Specific Primer (IDT)</li>
+<li>Reverse Gene Specific Primer (IDT)</li>
+<li>Random decamer primer (from Ambion RetroScript Kit: 1710,
+$206.00/kit or Ambion, 5722G, $50.00/80Âµl)</li>
+<li>RNase Inhibitor (from Ambion RetroScript Kit: 1710, $206.00/kit)</li>
+<li>Reverse Transcriptase (M-MLV) (5x RT Buffer from Ambion RetroScript
+Kit: 1710, $206.00/kit)</li>
+<li>10x PCR Reaction Buffer (from Ambion RetroScript Kit: 1710,
+$206.00/kit)</li>
+<li>50 mM MgCl<sub>2</sub> (from Ambion RetroScript Kit: 1710,
+$206.00/kit)</li>
+<li>SuperTAQ DNA Polymerase (Ambion, 2050, $48.00/50 U or 2052,
+$190.00/250U)</li>
+<li>18S rRNA PCR Primer Pair (Ambion kit, 1716 $155.00/kit)</li>
+<li>18S PCR Competimers (Ambion kit, 1716 $155.00/kit)</li>
+<li>Sybr Green Stain (FMC Bioproduct, 50513, $146.00/box)</li>
+</ul>
+<p><strong><span class="underline">Protocol:</span></strong></p><p>Using the cDNA from the previous RT PCR, optimal cycles were determined
+for gene of interest. The optimal 18S rRNA PCR Primer:Competimer ratio
+will need to be optimized per gene primer pair (start with 1:9, 2:8, 3:7
+and reduce ratio again if rare primer)</p>
+<ol>
+<li><p> Prepare of Primer Mixes (for desired gene) per reaction:  </p><p>Forward Primer 2 Âµl<br>
+<span class="underline">Reverse Primer</span>
+<span class="underline">2 Âµl</span><br>
+Total Primer Mix 4 Âµl</p></li>
+<li><p> Prepare of 10s rRNA PCR Primer:Competimer Mix (e.g., 1:9 Ratio):  </p><p>18 S rRNA PCR Primer 1Âµl<br>
+<span class="underline">Competimer</span> <span class="underline">9
+Âµl</span><br>
+Total 1:9 Mix 10 Âµl</p></li>
+<li><p> Prepare PCR Reaction Cocktail (ideal to include 4 controls):  </p><p>per reaction:<br>
+10x Complete PCR Buffer 5 Âµl<br>
+2.5 mM dNTP 4 Âµl<br>
+Taq Polymerase 0.2 Âµl<br>
+18 S Primer:Competimer Mix 4 Âµl<br>
+<span class="underline">RNase-free H<sub>2</sub>O</span>
+<span class="underline">4 Âµl</span><br>
+Total 45 Âµl<br>
+Mix by pipetting up and down, centrifuge briefly</p></li>
+</ol>
+<p><strong><span class="underline">For your Controls:</span></strong></p><p>Aliquot 45 Âµl into 4 PCR (0.2 ml) tubes marked C1, C2, C3, C4 (or
+aliquot 180 Âµl (45 Âµl x 4) into a tube with 16ul 18 S primer pair and
+aliquot 49 Âµl into 4 tubes)</p><p>Add 4 Âµl 18 S Primer pair to each tube then add 1 Âµl of the
+following:<br>
+C1 = 1 Âµl of (+) RT Control cDNA<br>
+C2 = 1 Âµl of (-) RT Mock Control cDNA<br>
+C3 = 1 Âµl of (-) RT LAU Control cDNA<br>
+C4 = 1 Âµl of (-) PCR Control (ddH<sub>2</sub>O)<br>
+Total reaction mix/tube per tube = 50 Âµl  </p><p>Add 4 Âµl of gene specific primer mix per cocktail mix. Mix well by
+pipetting up and down.</p><p>Aliquot 49 Âµl into a PCR tubes</p><p>Add 1 Âµl of appropriate cDNA. and mix by pipetting up and down,
+centrifuge briefly and keep on ice.</p><p>Close tube lid tightly and put into PCR machine at 95Â°C.</p><p>Run the tubes at the pre-determined optimal cycles per gene.</p><p>Perform PCR under the following conditions:</p>
+<ol>
+<li> 95Â°C for 3 minutes<br>
+start cycles:</li>
+<li> 95Â°C for 45 seconds</li>
+<li> 58Â°C for 45 seconds (check annealing temp for gene)</li>
+<li> 72Â°C for 45 seconds<br>
+REPEAT for OPTIMAL CYCLES (pre-determined)</li>
+<li> 72Â°C for 10 minutes</li>
+<li> 4Â°C Forever</li>
+</ol>
+<p>Remove tubes at the appropriately designated cycle and kept on ice or at
+4Â°C until gel can be run.</p><p>Analyze 10 Âµl PCR Product by mixing with 2.5 Âµl 5x dye in a 2% agarose
+gel with 3.5 Âµl Ethinium Bromide in 1x TAE buffer.</p>
+<ul>
+<li>Run for 1.5 hours (or until ready) at 100V or overnight at 25V.</li>
+<li>Stained gel with Sybr Green (250 Âµl 1x TAE and 25 Âµl Sybr Green)
+for 1.5 hours while shaking.</li>
+</ul>
+
+<!-- end list -->
+
+<ol>
+<li>Observe gel under UV light and photograph the image. Also, scan the
+gel under STORM Fluorimager to be able to analyze quantitative
+differences.</li>
+</ol>
+
+
+]]>
+        </content>
+    </entry>
+    
+    <entry>
+        <title>In Vitro Transcription</title>
+        <link href="https://mullinslab.microbiol.washington.edu/protocols/microarrays/1194-In-Vitro-Transcription" rel="alternate" type="text/html" />
+        <published>2010-04-01T16:13:28-07:00</published>
+        <updated>2011-06-03T15:59:34+00:00</updated>
+        <id>urn:uuid:43f2d57a-931f-5469-9c11-5a53e55b65d5</id>
+        <author><name>Camille</name></author>
+        <content type="html">
+<![CDATA[
+<p><strong>Reagents:</strong></p>
+<ul>
+<li><p>ddH<sub>2</sub>O</p></li>
+<li><p>Phenol, water-saturated and buffered (pH 7.5)</p></li>
+<li><p>Chloroform</p></li>
+<li><p>G25 column</p></li>
+<li><p>Linear acrylamide</p></li>
+<li><p>3M Sodium Acetate pH 7.5 and pH 5.2</p></li>
+<li><p>Ethanol</p></li>
+<li><p>T7 polymerase with 5x reaction buffer and DTT</p></li>
+<li><p>Nucleosides</p></li>
+<li><p>RQ1 RNase-free DNase</p></li>
+</ul>
+<p><strong>Protocol:</strong></p><p><strong>A. Prepare template</strong></p>
+<ol>
+<li><p> Adjust volume of template PCR or linearized plasmid to 200 Âµl with
+ddH<sub>2</sub>O</p></li>
+<li><p> Phenol/Chloroform extract 3x with 100 Âµl P/C pH7.5</p></li>
+<li><p> Pass through G25 column</p></li>
+<li><p> Add:</p>
+<ol>
+<li><p> 1 Âµl linear acrylamide</p></li>
+<li><p> 30 Âµl Sodium Acetate pH 7.5</p></li>
+<li><p> 600 Âµl 100% Ethanol</p></li>
+</ol></li>
+<li><p> Mix, precipitate at -80Â°C for 15 minutes.</p></li>
+<li><p> Spin 12 minutes at 14,000 rpm</p></li>
+<li><p> Wash pellet with 70% Ethanol</p></li>
+<li><p> Wash pellet with 100% Ethanol</p></li>
+<li><p> Dry pellet for 10 minutes</p></li>
+<li><p>Dissolve pellet in 11 Âµl ddH<sub>2</sub>O</p></li>
+<li><p>Use 1 Âµl template to determine concentration.</p></li>
+<li><p>Use 1.5 Âµg template in 10 Âµl ddH<sub>2</sub>O for transcription
+reaction.</p></li>
+</ol>
+
+<h2>B. In vitro transcription reaction</h2>
+
+<ol>
+<li><p>Make reaction mix:</p>
+<ol>
+<li><p> 38 Âµl ddH<sub>2</sub>O</p></li>
+<li><p> 20 Âµl 5x Buffer</p></li>
+<li><p> 10 Âµl 100 mM DTT</p></li>
+<li><p> 5 Âµl 10 mM rGTP</p></li>
+<li><p> 5 Âµl 10 mM rATP</p></li>
+<li><p> 5 Âµl 10 mM rUTP</p></li>
+<li><p> 5 Âµl 10 mM rCTP</p></li>
+<li><p> 1 Âµl RNase Inhibitor</p></li>
+<li><p> 1 Âµl T7 polymerase</p></li>
+</ol></li>
+<li><p>Vortex, spin briefly</p></li>
+<li><p>Add 10 Âµl template DNA, mix, spin briefly</p></li>
+<li><p>Incubate for 1 hour at 40Â°C</p></li>
+</ol>
+
+<h1>C. Destroy DNA, purify RNA</h1>
+
+<ol>
+<li><p>Add 1 Âµl RQ1 RNase-free DNase</p></li>
+<li><p>Incubate for 15 minutes at 40Â°C</p></li>
+<li><p>Add 106 Âµl ddH<sub>2</sub>O</p></li>
+<li><p>Sequentially add the following:</p>
+<ol>
+<li><p> 200 Âµl Phenol (water-saturated)</p></li>
+<li><p> 40 Âµl Chloroform</p></li>
+</ol></li>
+<li><p>Vortex, spin for 5 minutes at 14,000 rpm</p></li>
+<li><p>Pass the upper aqueous phase through G25 column</p></li>
+<li><p>Precipitate with:</p>
+<ol>
+<li><p> 1 Âµl linear acrylamide</p></li>
+<li><p> 30 Âµl 3M Sodium Acetate pH5.2</p></li>
+<li><p> 600 Âµl 100% Ethanol</p></li>
+</ol></li>
+<li><p>Mix, precipitate at -80Â°C for 15 minutes.</p></li>
+<li><p>Spin 15 minutes at 14,000 rpm</p></li>
+<li><p>Wash pellet with 70% Ethanol</p></li>
+<li><p>Wash pellet with 100% Ethanol</p></li>
+<li><p>Dry pellet for 10 minutes</p></li>
+<li><p>Dissolve pellet in 11 Âµl ddH<sub>2</sub>O</p></li>
+<li><p>Use 1 Âµl to determine RNA concentration</p></li>
+</ol>
+<p>Svetlana Mikheeva, 13 August 1999</p>
+
+]]>
+        </content>
+    </entry>
+    
+    <entry>
+        <title>Aminoallyl labeling</title>
+        <link href="https://mullinslab.microbiol.washington.edu/protocols/microarrays/2150-Aminoallyl-labeling" rel="alternate" type="text/html" />
+        <published>2010-04-01T16:11:49-07:00</published>
+        <updated>2011-06-03T16:01:46+00:00</updated>
+        <id>urn:uuid:c31f0932-3796-5bab-8b76-de8d6cabbfd4</id>
+        <author><name>Camille</name></author>
+        <content type="html">
+<![CDATA[
+<p><strong>Protocol for Amino-allyl Reverse Transcription and NHS-Cy Dye
+Labeling</strong></p><p>**<br>
+**</p><p><strong>MATERIALS</strong></p>
+<h1>Equipment</h1>
+<p>- Single channel pipette: 0.5-10 Âµl, 10-100 Âµl, 200-1000 Âµl,
+Eppendorf</p><p>- Vacuum manifold, Millipore</p><p>- Speedvac</p><p>- Adjustable waterbaths (37Â° C, 42Â° C, 55Â° C, 100Â° C)</p><p><strong>Disposables</strong></p><p>- 96-well Multiscreen-FB filter plate, Millipore, MAFB NOB 10</p><p>- Catch plate, VWR, 622409-108</p><p>- Pipette tips: 1-10 Âµl, 2-20 Âµl, 20-200 Âµl, 200-1000 Âµl, ART</p><p>- Tubes: 1.5ml</p><p><strong>Reagents</strong></p><p>- Anchored dT25, dT<sub>23</sub>VN, 8 ÂµM stock GibcoBRL</p><p>- Random 9-mers, NNNNNNNNN, 1 Âµg/Âµl stock Gibco-BRL</p><p>- GFP poly A<sup>+</sup> RNA, prepared from plasmid pSP64-GFP</p><p>- SuperScript II, GibcoBRL, 200 U/Âµl, 18064-022 (includes 5X First
+Strand Buffer and DTT)</p><p>- Nucleotides, Pharmacia 27-2035-02, 100mM each*</p><p>- 5-(3-Aminoallyl)-2&#39;-deoxyurindine 5&#39;-triphosphate sodium salt
+(AA-dUTP), Sigma A-0410</p><p>- RNase Inhibitor, Boehringer Mannheim 799 017, 40U/ml</p><p>- Buffers, Sigma, 2.5M NaOH, 2M MOPS, 1M Tris-HCl pH 7.5 8.5</p><p>- 4M Hydroxylamine, Sigma H-2391</p><p>- 0.1M NaBicarbonate pH 9.0</p><p>- Monofunctional NHS-ester Cy3/Cy5, APBiotech PA23001/PA25001;
+resuspend each tube in 72Âµl H<sub>2</sub>O, aliquot 4.5Âµl into 16
+tubes, dry in speedvac</p><p>- Millipore Binding Buffer (5.3M Gua-HCl in 150mM KAc, pH 4.8)</p><p>- Millipore Wash Solution (80% Ethanol)</p><p>- Slide pretreatment buffer, 5XSSC/0.2%SDS</p><p>- Hybridization Buffer (50% Formamide, 5X SSC, 5X Denhardtï¿½s,
+0.1%SDS, 100Âµg/ml ssDNA (Sigma), 100Âµg/ml COT-I DNA (BRL), 100Âµg/ml
+polyA<sub>72</sub>)</p><p>- Wash buffers, 1XSSC/0.2%SDS, 0.1XSSC/0.2%SDS, 0.1XSSC</p><p>* Nucleotide mix (20X): 10mM GTP, 10mM ATP, 10mM CTP, 4mM TTP, 4mM
+AA-dUTP</p>
+<hr>
+<p><strong>PROTOCOL</strong></p>
+<h1>Reverse Transcription</h1>
+<p>- Mix together:</p><p>2 Âµg poly A<sup>+</sup> RNA (or 50mg total RNA)</p><p>2 Âµl oligo dT<sub>23</sub>VN (8 mM)</p><p>2 Âµl random 9-mers (1mg/ml)</p><p>2.5 ng GFP poly A<sup>+</sup> RNA</p><p>10.5 Âµl total volume</p><p>- Incubate at 70Â° C for 10 minutes, chill on ice 30 seconds, spin</p><p>- Add the following:</p><p>4 Âµl 5X First Strand Buffer</p><p>2 Âµl DTT (0.1M)</p><p>1 Âµl Nucleotide Mix (10mM G/A/C, 4mM T, 4mM AA-dUTP)</p><p>1 Âµl H<sub>2</sub>O</p><p>0.5 Âµl RNase Inhibitor</p><p>- Mix contents of tube gently and incubate at RT for 10 minutes</p><p>- Add 1 Âµl SuperScriptII</p><p>20 Âµl total reaction volume</p><p>- Mix contents of tube gently and incubate at 42Â°C for 2 hours</p><p><strong>RNA hydrolysis and purification of cDNA</strong></p><p>- Add 2 Âµl 2.5 M NaOH</p><p>- Incubate at 37Â°C for 10 minutes</p><p>- Add 10 Âµl 2 M MOPS</p><p>- Add 200 Âµl binding buffer to probe and mix</p><p>- Dispense into glass fiber filter plate</p><p>- Place filter plate on top of vacu-system and apply vacuum.</p><p>- Wash 6x with 80% fresh Ethanol</p><p>- Place filter plate on top of catch plate along with centrifuge
+alignment frame</p><p>- Do one dry spin to remove residual ethanol (3500 rpm, 5ï¿½)</p><p>- Add 50 Âµl H<sub>2</sub>O. Incubate 1 minute at RT</p><p>- Place filter plate on top of a clean catch plate along with a
+centrifuge alignment frame and spin (3000 rpm, 5ï¿½)</p><p>- Repeat with another 50 Âµl H<sub>2</sub>O</p><p>- Scan probe at OD 260nm, 550nm and 650nm.</p><p>- Dry in Speedvac until volume is less than 5Âµl (~45 minutes @
+50ï¿½C)</p>
+<h1>Coupling to NHS-ester Cy dyes</h1>
+<p>- Adjust volume of sample to 4.5Âµl</p><p>- Resuspend mono-functional NHS-ester Cy3 or Cy5 dye aliquot in 4.5Âµl
+of 0.1M NaBicarbonate Buffer pH 9.0</p><p>- Mix dye and cDNA</p><p>- Incubate 1 hr at RT (Note: there is no advantage to incubating
+longer)</p><p>Quenching the Reaction and Removal of uncoupled Cy dyes</p><p>- Add 4.5Âµl of 4M Hydroxylamine</p><p>- Add 16.5Âµl of H<sub>2</sub>O to bring the volume to 30Âµl</p><p>- Add 150Âµl of Millipore binding buffer, purify as above in Millipore
+96 well plate, elute twice in 50Âµl aliquots of H<sub>2</sub>O</p><p>- Scan probe at OD 260nm, 550nm and 650nm and calculate probe yield,
+incorporated Cy-dye and specific activity</p><p>- Purify probe over G50 column (prespin column (3000 rpm 1ï¿½),
+transfer to new tube, apply probe, spin (3000rpm 2ï¿½), collect
+flow-through).</p><p>- Dry purified probe down in speedvac (~1.5 hours at 50 Â°C)</p>
+<h1>Hybridization</h1>
+<p>- Slide pretreatment: submerge mirrored slides for 40 minutes in
+5XSSC/0.2%SDS at 55 Â°C (waterbath), rinse slide by two quick dips in
+ddH<sub>2</sub>O, air dry. Rinse coverslip in ddH<sub>2</sub>O and
+ethanol, air dry</p><p>- Resuspend dried down probe in Hybridization Buffer (25Âµl/reaction)</p><p>- Boil probe for 3 minutes, ice 30 seconds, spin briefly</p><p>- Apply probe to slide and cover with coverslip</p><p>- Incubate overnight (14-16 hrs) at 42 Â°C in humid chamber</p><p>- Preheat wash buffers to 55 Â°C</p><p>- Remove coverslip by immersing slide in 1XSSC/0.2%SDS</p><p>- Wash in 1XSSC/0.2% SDS for 10 minutes at RT</p><p>- Wash twice in 0.1XSSC/0.2%SDS at RT for 10 minutes</p><p>- Wash twice in 0.1XSSC at RT for 1 minute</p><p>- Rinse by two quick dips in ddH<sub>2</sub>O, dry with compressed air</p><p>- Scan (PMT 700, green (532nm), filter 1; PMT700, red (633nm), filter
+2; width 10mm, length 60mm).</p>
+
+]]>
+        </content>
+    </entry>
+    
+    <entry>
+        <title>CY-DYE PROBE Synthesis</title>
+        <link href="https://mullinslab.microbiol.washington.edu/protocols/microarrays/1810-CY-DYE-PROBE-Synthesis" rel="alternate" type="text/html" />
+        <published>2010-03-30T16:26:06-07:00</published>
+        <updated>2011-06-03T16:01:59+00:00</updated>
+        <id>urn:uuid:7c168c15-fd05-54cb-8b84-17df8469028b</id>
+        <author><name>Camille</name></author>
+        <content type="html">
+<![CDATA[
+<h2>Reagents:</h2>
+
+<table>
+<thead>
+<tr>
+<th></th>
+<th></th>
+</tr>
+</thead>
+
+<tbody>
+<tr>
+<td>Anchored dT25</td>
+<td>Amersham, 8 ÂµM, RPK0145, quote 7G-3709, $110</td>
+</tr>
+<tr>
+<td><em>or</em> Anchored dT25</td>
+<td><em>or</em> dT<sub>23</sub>VN, 8 ÂµM, GibcoBRL</td>
+</tr>
+<tr>
+<td>Random 9-mers</td>
+<td>5&#39; NNN NNN NNN 3&#39;, 1 Âµg/Âµl, GibcoBRL</td>
+</tr>
+<tr>
+<td>GFP poly A<sup>+</sup> RNA</td>
+<td>prepared from plasmid pSP64-GFP</td>
+</tr>
+<tr>
+<td>SuperScript II</td>
+<td>GibcoBRL, 200 U/Âµl, 10000 units, 18064-014, $177</td>
+</tr>
+<tr>
+<td>5X First Strand Buffer</td>
+<td>GibcoBRL, included with enzyme</td>
+</tr>
+<tr>
+<td>DTT</td>
+<td>GibcoBRL, included with enzyme</td>
+</tr>
+<tr>
+<td>Nucleotides*</td>
+<td>Pharmacia, 100mM each, 27-2035-02, $00</td>
+</tr>
+<tr>
+<td>or Nucleotides*</td>
+<td>Promega, 10mmol each, U1330, $75</td>
+</tr>
+<tr>
+<td>Cy3-dCTP</td>
+<td>Amersham, 25nmol, PA53023, quote 1A-3709, $151</td>
+</tr>
+<tr>
+<td>Cy5-dCTP</td>
+<td>Amersham, 25nmol, PA55023, quote 1A-3709, $151</td>
+</tr>
+<tr>
+<td>RNase Inhibitor</td>
+<td>Boehringer Mannheim, 40U/ml, 799 017, $00</td>
+</tr>
+<tr>
+<td>or Rnasin</td>
+<td>Promega, 2500 units, N2511, $82</td>
+</tr>
+<tr>
+<td>NaOH</td>
+<td>Sigma, 2.5M, $00</td>
+</tr>
+<tr>
+<td>MOPS</td>
+<td>Sigma, 2M, $00</td>
+</tr>
+<tr>
+<td>Glass fiber filter plate</td>
+<td>Millipore, MAFB NOB 10, 10/pack, $134</td>
+</tr>
+<tr>
+<td>Catch Plate</td>
+<td>VWR, 622409-108, 50/pack, $00</td>
+</tr>
+<tr>
+<td>Binding buffer</td>
+<td>5.3M Gua-HCl in 150mM Kac pH 4.8 with glacial acetic acid (3-4ml/500ml)</td>
+</tr>
+<tr>
+<td>Tris-HCl</td>
+<td>Sigma, 10mM pH 8.0, T-3038, $00</td>
+</tr>
+<tr>
+<td>Ethanol</td>
+<td>Stores, 80%, $00</td>
+</tr>
+<tr>
+<td>ProbeQuant G50</td>
+<td>Amersham, 27-5335-01, 50/pack, $145</td>
+</tr>
+<tr>
+<td>Coverslips</td>
+<td>VWR, 24x60mm, 48393-106, $15.92</td>
+</tr>
+<tr>
+<td>Deionized Formamide</td>
+<td>Sigma, 100mL, F-9037, $23.60</td>
+</tr>
+<tr>
+<td>20X SSC</td>
+<td>Ambion, 1L, 9763, $30</td>
+</tr>
+<tr>
+<td>50X Denhardtï¿½s</td>
+<td>Fisher, 500g, BP515-5, $42.40</td>
+</tr>
+<tr>
+<td>10% SDS</td>
+<td>Ambion, 500ml, 9822, $40</td>
+</tr>
+<tr>
+<td>Human CotI DNA</td>
+<td>GibcoBRL, 500 units, 15279-011, $75</td>
+</tr>
+<tr>
+<td>Poly A<sub>72</sub></td>
+<td>5ï¿½ A<sub>72</sub> 3ï¿½, GibcoBRL</td>
+</tr>
+<tr>
+<td>Wash buffers</td>
+<td>1XSSC/0.2%SDS, 0.1XSSC/0.2%SDS, 0.1XSSC</td>
+</tr>
+</tbody>
+</table>
+<p>* Nucleotide mix: always use 10mM dGTP/dATP/dTTP and 1mM dCTP;
+unlabeled dCTP used in 1:1 ratio with Cy-labeled dCTP.</p>
+<h2>CY-DYE PROBE SYNTHESIS (17 February 2001)</h2>
+<p><span class="underline">Protocol:</span></p>
+<ol>
+<li>Mix together:</li>
+</ol>
+<p>2 Âµg mRNA</p><p>2 Âµl oligo dT<sub>23</sub>VN (8 ÂµM)</p><p>2 Âµl random 9-mers (1 Âµg/Âµl)</p><p><span class="underline"></span> <span class="underline">1 Âµl GFP mRNA
+(1 ng/Âµl)</span></p><p>10.5 Âµl total volume</p>
+<ol>
+<li><p>Heat to 70Â°C for 10 minutes.</p></li>
+<li><p>Chill on ice for 30 seconds.</p></li>
+<li><p>Centrifuge briefly.</p></li>
+<li><p>Add the following:</p></li>
+</ol>
+<p>4 Âµl 5X First Strand Buffer</p><p>2 Âµl DTT (0.1 M)</p><p>1 Âµl Nucleotide Mix (10 mM G/A/T, 1 mM C)</p><p>1 Âµl Cy3- or Cy5-dCTP (1 mM)</p><p>0.5 Âµl RNase Inhibitor</p><p>Note: when doing multiple reactions, make up premix containing all but
+Cy-dyes and aliquot 7.5 Âµl premix to each tube before adding Cy-dyes.</p>
+<ol>
+<li><p>Mix contents of tube gently and incubate at RT for 10 minutes.</p></li>
+<li><p>Add</p></li>
+</ol>
+<p><span class="underline">1 Âµl</span> SuperScriptII</p><p>20 Âµl total reaction volume</p>
+<ol>
+<li><p>Mix contents of tube gently and incubate at 42Â°C for 2-3 hours.</p></li>
+<li><p>Denature cDNA/mRNA hybrid as follows:</p></li>
+</ol>
+<p>Add 2 Âµl 2.5 M NaOH</p><p>Incubate at 37Â°C for 10 minutes</p><p>Add 10 Âµl 2 M MOPS</p>
+<ol>
+<li><p>Add 200 Âµl binding buffer to probe and mix.</p></li>
+<li><p>Dispense into glass fiber filter plate.</p></li>
+<li><p>Place filter plate on top of vacu-system and apply vacuum.</p></li>
+<li><p>Wash 6x with 200 ml 80% Ethanol.</p></li>
+<li><p>Place filter plate on top of catch plate along with centrifuge
+alignment frame.</p></li>
+<li><p>Do one dry spin to remove residual ethanol (3500 rpm, 5 min).</p></li>
+<li><p>Add 50 Âµl 10 mM Tris-HCl, pH 8. Incubate 1 minute at RT.</p></li>
+<li><p>Place filter plate on top of a <strong>clean</strong> catch plate along with a
+centrifuge alignment frame and spin (3000 rpm, 5 min).</p></li>
+<li><p>Repeat with another 50 Âµl Tris-HCl.</p></li>
+<li><p>Scan probe at OD 260 nm, 550 nm and 650 nm and calculate probe
+yield, incorporated Cy-dye and specific activity.</p></li>
+<li><p>Purify probe over G50 column (prespin column (1000x g 1 min),
+transfer to new tube, apply probe, spin (1000x g 2 min), collect
+flow-through).</p></li>
+<li><p>Dry purified probe down in speedvac (1 hour at 50Â°C).</p></li>
+<li><p>Rinse slides and coverslips by two quick dips in ddH<sub>2</sub>O,
+air dry.</p></li>
+<li><p>Resuspend dried-down probe in 25 Âµl volume of hybridization
+solution (50% formamide, 5x SSC, 5x Denhardtï¿½s, 0.1% SDS, 100 Âµg/ml
+poly A<sub>72</sub>, 100 Âµg/ml human CotI DNA; pass through 0.2 Âµm
+filter).</p></li>
+<li><p>Boil probe for 3 minutes, ice 30 seconds, spin briefly.</p></li>
+<li><p>Combine with appropriate reaction; total volume is now 50 Âµl.</p></li>
+<li><p>Apply probe to slide and cover with coverslip.</p></li>
+<li><p>Incubate overnight (14-16 hrs) at 42Â°C in humid chamber.</p></li>
+<li><p>Preheat wash buffers to 55Â°C.</p></li>
+<li><p>Remove coverslip by immersing slide in 1x SSC/0.2% SDS.</p></li>
+<li><p>Wash in 1x SSC/0.2% SDS for 10 minutes at RT.</p></li>
+<li><p>Wash twice in 0.1x SSC/0.2% SDS at RT for 10 minutes.</p></li>
+<li><p>Wash twice in 0.1x SSC at RT for 1 minute.</p></li>
+<li><p>Rinse by two quick dips in ddH<sub>2</sub>O</p></li>
+<li><p>Dry with compressed air.</p></li>
+<li><p>Scan (PMT 600, green (532nm), filter 1; PMT650, red (633nm), filter
+2; width 10mm, length 60mm).</p></li>
+</ol>
+<p>PS. Name Fluorescence Solution</p><p>Cy3 = green = pink</p><p>Cy5 = red = blue</p>
+
+]]>
+        </content>
+    </entry>
+    
+    <entry>
+        <title>Northern Transfer</title>
+        <link href="https://mullinslab.microbiol.washington.edu/protocols/microarrays/1894-Northern-Transfer" rel="alternate" type="text/html" />
+        <published>2010-03-30T16:25:00-07:00</published>
+        <updated>2011-06-03T16:02:40+00:00</updated>
+        <id>urn:uuid:264e69fb-10b2-5b48-90ca-084a86df4b55</id>
+        <author><name>Camille</name></author>
+        <content type="html">
+<![CDATA[
+<p><span class="underline"><strong>Reagents</strong>:</span></p><p>20X SSC (3M NaCl, 0.3M NaCitrate, pH 7.0):</p>
+<table>
+<thead>
+<tr>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+</thead>
+
+<tbody>
+<tr>
+<td></td>
+<td>1000ml</td>
+<td>2000ml</td>
+</tr>
+<tr>
+<td>NaCl</td>
+<td>175g</td>
+<td>350g</td>
+</tr>
+<tr>
+<td>Na<sub>3</sub>citrate.2H<sub>2</sub>O</td>
+<td>88g</td>
+<td>176g</td>
+</tr>
+</tbody>
+</table>
+<p>- adjust pH to 7.0 with 1M HCl</p><p>100X Denhardt:</p>
+<table>
+<thead>
+<tr>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+</thead>
+
+<tbody>
+<tr>
+<td></td>
+<td>100ml</td>
+<td>500ml</td>
+</tr>
+<tr>
+<td>Ficoll-400</td>
+<td>2g</td>
+<td>10g</td>
+</tr>
+<tr>
+<td>Polyvinyl-pyrrolidone</td>
+<td>2g</td>
+<td>10g</td>
+</tr>
+<tr>
+<td>Bovine Serum Albumin</td>
+<td>2g</td>
+<td>10g</td>
+</tr>
+<tr>
+<td>ddH<sub>2</sub>O</td>
+<td>to 100ml</td>
+<td>to 500ml</td>
+</tr>
+</tbody>
+</table>
+<p>- filter sterilize</p><p>- store at ï¿½20 Â°C in 25ml aliquots</p><p>Hyb Solution (5X SSC, 5X Denhardt, 50% Formamid, 1% SDS)</p>
+<table>
+<thead>
+<tr>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+</thead>
+
+<tbody>
+<tr>
+<td></td>
+<td>5ml</td>
+<td>10ml</td>
+<td>15ml</td>
+<td>20ml</td>
+</tr>
+<tr>
+<td>20X SSC</td>
+<td>1.25ml</td>
+<td>2.5ml</td>
+<td>3.75ml</td>
+<td>5.0ml</td>
+</tr>
+<tr>
+<td>100X Denhardt</td>
+<td>0.25ml</td>
+<td>0.5ml</td>
+<td>0.75ml</td>
+<td>1.0ml</td>
+</tr>
+<tr>
+<td>di-Formamid</td>
+<td>2.50ml</td>
+<td>5.0ml</td>
+<td>7.50ml</td>
+<td>10.0ml</td>
+</tr>
+<tr>
+<td>10% SDS</td>
+<td>0.50ml</td>
+<td>1.0ml</td>
+<td>1.50ml</td>
+<td>2.0ml</td>
+</tr>
+<tr>
+<td>ssDNA (11mg/ml)</td>
+<td>50ml</td>
+<td>100ml</td>
+<td>150ml</td>
+<td>200ml</td>
+</tr>
+<tr>
+<td>ddH<sub>2</sub>O</td>
+<td>0.45ml</td>
+<td>0.9ml</td>
+<td>1.35ml</td>
+<td>1.8ml</td>
+</tr>
+</tbody>
+</table>
+<p><span class="underline"><strong>Protocol</strong>:</span></p>
+<ol>
+<li> Rinse gel with ddH<sub>2</sub>0, 3X.</li>
+<li> Soak in 20X SSC for 45 minutes.</li>
+<li> Take photograph of gel.</li>
+<li> Soak nylon membrane -cut to size- in ddH<sub>2</sub>O for 5 minutes.</li>
+<li> Put sponge in container, fill with 20X SSC halfway up sponge.</li>
+<li> Put 3 20X SSC-soaked GB002-sheets on top of sponge.</li>
+<li> Place gel on top, remove bubbles.</li>
+<li> Cover with nylon membrane, remove bubbles.</li>
+<li> Successively add 1 GB002, 4 GB003 and 4cm GB004.</li>
+<li>Cover with glass plate and 0.4kg weight.</li>
+<li>Transfer overnight.</li>
+<li>Take structure apart, mark wells on membrane.</li>
+<li>Visualize and mark rRNA bands and RNA MW ladder on membrane.</li>
+<li>Rinse membrane in 2X SSC.</li>
+<li>Dry on GB003 and wrap in plastic foil</li>
+<li>UV cross-link (ï¿½Autolinkï¿½ on Stratalinker).</li>
+<li>Take photograph of flattened gel to assess transfer efficiency.</li>
+<li>Pre-hybridize membrane for 4-20 hours in 5-10 ml Formamid (Pre-)
+Hybridization solution (FPH) at 42 Â°C.</li>
+<li>Boil 100Âµl probe for 10 minutes (use 1 x 10<sup>6</sup> cpm/ml
+FPH).</li>
+<li>Cool on ice, spin.</li>
+<li>Add to hybridization bag.</li>
+<li>Incubate 20 hours at 42 Â°C.</li>
+<li>Rinse in 2X SSC/0.1% SDS at RT, 3X.</li>
+<li>Wash in 0.2X SSC/0.1% SDS for 15 minutes at 42 Â°C, 2X.</li>
+<li>Wash in 0.1X SSC/0.1% SDS for 15 minutes at 65 Â°C, 2X.</li>
+<li>Rinse in 2X SSC.</li>
+<li>Wrap in plastic foil.</li>
+<li>Expose to phosphoscreen.</li>
+</ol>
+<p><span class="underline"><strong>Notes</strong>:</span></p>
+<ul>
+<li><p>After overnight exposure 5pg RNA can be detected with a probe
+labeled to a specific activity of 10<sup>9</sup> dpm/mg.</p></li>
+<li><p>Probes labeled to â‰¥5 x 10<sup>8</sup> dpm/Âµg should detect
+transcripts that represent 0.01% of mRNA population with a blot of
+10 Âµg total RNA or 0.0002% of mRNA population with a blot of 3 Âµg
+poly(A)<sup>+</sup> RNA.</p></li>
+<li><p>For stripping poor boiling 0.05% SDS on membrane, incubate for 10
+minutes, repeat up to 3X. Rinse with 2X SSC.</p></li>
+</ul>
+
+
+]]>
+        </content>
+    </entry>
+    
+    <entry>
+        <title>Hot Asymmetric PCR (Katze Lab)</title>
+        <link href="https://mullinslab.microbiol.washington.edu/protocols/microarrays/2603-Hot-Asymmetric-PCR-Katze-Lab" rel="alternate" type="text/html" />
+        <published>2010-03-30T16:24:14-07:00</published>
+        <updated>2011-06-03T16:03:43+00:00</updated>
+        <id>urn:uuid:edf99773-ca7c-54af-b53b-e018f98ea279</id>
+        <author><name>Camille</name></author>
+        <content type="html">
+<![CDATA[
+<p>Primary PCR should be performed with the Unigene forward and reverse
+primers. Purify PCR product using Millipore MAFBNOB10 plates. Elute in
+water, and use the purified product as a template in the next reaction.
+Note that you use only one primer (VNG26), in order to make the
+complementary strand alone. This is a linear, asymmetric PCR reaction.</p><p><strong><span class="underline">Combine reagents listed below</span>:</strong></p><p>Primer VNG26 (30 ÂµM) 1.0 Âµl</p><p>Template (100ng) 3.0 Âµl</p><p>10x PCR Buffer 5.0 Âµl</p><p>MgCl<sub>2</sub> (25mM) 3.0 Âµl</p><p>10X dNTPï¿½s<sup>*</sup> 5.0 Âµl</p><p><sup>32</sup> P dCTP (~10 ÂµCi/Âµl) 10.0 Âµl</p><p>Water 22.8 Âµl</p><p>Taq polymerase <span class="underline">0.2 Âµl</span></p><p>Final Volume 50.0 Âµl</p><p>*10X dNTP stock: 2 mM dGTP/dATP/dTTP and 12 ÂµM dCTP. Final
+concentration in the PCR reaction is: 0.2 mM dGTP/dATP/dTTP, and 0.0012
+mM dCTP. Recipe: combine 5 Âµl 10mM dGTP, 5 Âµl 10mM dATP, 5 Âµl 10mM
+dTTP and 10 Âµl 30 ÂµM dCTP for 25 Âµl total volume.</p><p><strong><span class="underline">PCR cycles</span>:</strong></p><p>5 min at 95Â°C 1X</p><p>45 sec at 95Â°C</p><p>45 sec at 50Â°C 40X</p><p>4 min at 72Â°C</p><p>10 min at 72Â°C 1X</p><p>hold at 4Â°C</p><p>Purify the hot PCR product over a G50 column.</p><p>Count 1 Âµl: PCR counts should range ~2-3 x 10<sup>6</sup> cpm/Âµl</p><p><strong>(PRE) HYBRIDIZING THE PCR PROBE</strong></p><p><strong><span class="underline">Prehybridization:</span></strong></p>
+<ol>
+<li><p> Place blot in hybridization tube: add 6-10ml prehyb/hyb solution.</p></li>
+<li><p> Place tube in 42Â°C, preheated, hybridization oven. Turn rotator to
+the ï¿½8ï¿½ setting. Always include a balance tube.</p></li>
+<li><p> Incubate for 3-6
+hours.</p></li>
+</ol>
+<p><strong><span class="underline">Hybridization</span></strong><span class="underline">:</span></p>
+<ol>
+<li><p> Boil labeled probe for 2 minutes. Chill on ice for 2 minutes, and
+add to the hybridization solution. Mix well before pouring the
+solution into the tube containing the blot. Use 6ml of solution with
+at least 2 x 10<sup>6</sup> cpm/Âµl of probe (best to use entire
+probe for 6ml hyb, i.e. 2 x 10<sup>7</sup> cpm/Âµl).</p></li>
+<li><p> Pour prehybridization solution out of the hybridization tube and add
+the hybridization solution containing the probe.</p></li>
+<li><p> Incubate in the hybridization oven at 42Â°C, rotating, overnight.</p></li>
+<li><p> Rinse blot 1X quickly at room temp in 2xSSC/0.05%SDS.</p></li>
+<li><p> Wash 1X for 20 minutes at room temp in 2xSSC/0.05% SDS.</p></li>
+<li><p> Wash 1X for 30 minutes at 50Â°C in 0.1xSSC/0.1% SDS.</p></li>
+<li><p>Wrap in Saran while the blot is still damp, and expose with a
+phosphor image
+screen.</p></li>
+</ol>
+
+<h1><span class="underline">Purchasing Bacterial Clones for Northern Verification:</span></h1>
+<p>Purchase the clones by their <strong>IMAGE ID</strong> number. The vendor is Research
+Genetics (phone number 1-800-533-4363) The cost is $45 for sequence
+verified clones.</p><p>Search engine with more clone info:
+<a href="http://www.resgen.com/resources/apps/cdna/index.php3">http://www.resgen.com/resources/apps/cdna/index.php3</a> (Type in the
+IMAGE ID).</p><p>Image website: <a href="http://image.llnl.gov/">http://image.llnl.gov/</a></p>
+
+]]>
+        </content>
+    </entry>
+    
+    <entry>
+        <title>Radiolabeling DNA Probe for Northerns</title>
+        <link href="https://mullinslab.microbiol.washington.edu/protocols/microarrays/2216-Radiolabeling-DNA-Probe-for-Northerns" rel="alternate" type="text/html" />
+        <published>2010-03-30T16:23:14-07:00</published>
+        <updated>2011-06-03T16:03:55+00:00</updated>
+        <id>urn:uuid:aaed912a-ef3c-58c0-b283-7407c022f548</id>
+        <author><name>Camille</name></author>
+        <content type="html">
+<![CDATA[
+<p><span class="underline"><strong>Reagents</strong></span></p>
+<ul>
+<li><p>25-50ng of target DNA in no more than 25Âµl TE buffer.</p></li>
+<li><p>Ready.To.Go DNA Labelling Kit (-dCTP), Pharmacia, 27-9251-01</p></li>
+<li><p>ProbeQuant G-50 Micro Columns, Pharmacia, 27-5335-01</p></li>
+<li><p>ddH<sub>2</sub>O</p></li>
+<li><p>5ml scintillation fluid in vial.</p></li>
+</ul>
+<p><span class="underline"><strong>Protocol</strong></span></p>
+<h3>Probe synthesis</h3>
+<p>1. Reconstitute the contents of the Reaction Mix tube by adding 20Âµl
+ddH<sub>2</sub>O. DO NOT MIX. Let sit on ice for 5-60 minutes.</p><p>2. Denature 25-50ng DNA by heating for 2-3 minutes at 95-100 Â°C.
+Immediately place on ice for 2 minutes, then centrifuge briefly.</p><p>3. Add the following to the reconstituted Reaction Mix tube:</p><p>Denatured DNA (25-50ng) 25Âµl</p><p>[a-32P]dCTP (3000 Ci/mmol) 5Âµl (50ÂµCi)</p><p>ddH<sub>2</sub>O to total of 50Âµl</p><p>4. Mix by gently pipetting up and down several times. Bubbles may be
+removed by a pulse centrifugation.</p><p>5. Incubate at 37 Â°C for 5-15 minutes. (Difficult templates may
+require up to 30 minutes.)</p><p>Note: The Reaction Mix contains dATP, dGTP, dTTP, FPLC-pure Klenow
+fragment (4-8 units) and random oligonucleotides, primarily 9-mers.</p>
+<h3>Probe purification</h3>
+<p>6. Resuspend the resin in spin column by vortexing.</p><p>7. Loosen the cap one-fourth and snap off the bottom closure.</p><p>8. Place the column in a 1.5ml screw-cap tube.</p><p>9. Pre-spin the column for 1 minute at 735 x g (3500rpm).</p><p>10. Place the column in a new 1.5ml tube and slowly apply 50Âµl of the
+sample to the top-center of the resin without disturbing the resin-bed.</p><p>11. Spin the column at 735 x g for 2 minutes. The purified probe is
+collected in the bottom of the support tube. Cap the tube. Store at
+ï¿½20 Â°C until use.</p><p>Note: For a force of 735 x g the appropriate speed can be calculated
+from the following formula: rpm = (1000) (657/r)<sup>&frac12;</sup> . For
+example with a rotor radius of 73mm, the appropriate speed would be
+3000rpm.</p>
+<h3>Probe quantification</h3>
+<p>12. Resuspend 1Âµl of purified probe in 50Âµl ddH<sub>2</sub>O.</p><p>13. Transfer mixture to a vial with 5ml scintillation fluid.</p><p>14. Count the samples (as user 7, T-wing).</p><p>Note: this protocol should label 25-50ng of DNA to 1 x 10<sup>9</sup>
+dpm/Âµg. Yields are usually 10<sup>6</sup> cpm/Âµl.</p>
+<h3>Probe qualification</h3>
+<p>15. Run 20,000 cpm probe on a 1% Agarose gel.</p><p>16. Place gel on 4 pieces of Whatman paper.</p><p>17. Cover just the gel with piece of Saran Wrap.</p><p>18. Dry down gel at 65 Â°C for 1 hour.</p><p>19. Expose phosphoscreen.</p><p>Note: PCR products should give one sharp band.</p>
+
+]]>
+        </content>
+    </entry>
+    
+    <entry>
+        <title>RNA-Gel for Northern Transfer</title>
+        <link href="https://mullinslab.microbiol.washington.edu/protocols/microarrays/133-RNA-Gel-for-Northern-Transfer" rel="alternate" type="text/html" />
+        <published>2010-03-30T16:22:31-07:00</published>
+        <updated>2011-06-03T16:04:02+00:00</updated>
+        <id>urn:uuid:d548737d-ee45-5e00-b075-b4b6dbcd2371</id>
+        <author><name>Camille</name></author>
+        <content type="html">
+<![CDATA[
+<p><strong><span class="underline">Reagents:</span></strong></p><p>Reduced Formaldehyde denaturing gel (1% Agarose, 1x MOPS, 1.9%
+di-F)</p>
+<table>
+<thead>
+<tr>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+</thead>
+
+<tbody>
+<tr>
+<td><span class="underline"></span></td>
+<td><span class="underline">20 ml</span></td>
+<td>80 ml</td>
+<td>100 ml</td>
+</tr>
+<tr>
+<td>Agarose</td>
+<td>0.2 g</td>
+<td>0.8 g</td>
+<td>1.2 g</td>
+</tr>
+<tr>
+<td>25x MOPS</td>
+<td>800 ul</td>
+<td>3.2 ml</td>
+<td>4.0 ml</td>
+</tr>
+<tr>
+<td>H<sub>2</sub>O</td>
+<td>18 ml</td>
+<td>73 ml</td>
+<td>91 ml</td>
+</tr>
+<tr>
+<td>di-Formaldehyde</td>
+<td>1.0 ml</td>
+<td>4.0 ml</td>
+<td>5.1 ml</td>
+</tr>
+</tbody>
+</table>
+<p>25x MOPS (2 M MOPS, 500 mM NaOAc, 10 mM EDTA)ddH<sub>2</sub>O</p>
+<table>
+<thead>
+<tr>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+</thead>
+
+<tbody>
+<tr>
+<td></td>
+<td>50 ml</td>
+<td>200 ml</td>
+<td>400 ml</td>
+</tr>
+<tr>
+<td>MOPS</td>
+<td>20.91 g</td>
+<td>83.65 g</td>
+<td>167.3 g</td>
+</tr>
+<tr>
+<td>NaOAc</td>
+<td>3.40 g</td>
+<td>13.6 g</td>
+<td>27.2 g</td>
+</tr>
+<tr>
+<td>EDTA</td>
+<td>0.19 g</td>
+<td>0.75 g</td>
+<td>1.50 g</td>
+</tr>
+<tr>
+<td>ddH<sub>2</sub>O</td>
+<td>to 50 ml</td>
+<td>to 200 ml</td>
+<td>to 400 ml</td>
+</tr>
+</tbody>
+</table>
+<p>Denaturing Buffer (1x MOPS, 50% Formamide, 2% Formaldehyde)</p>
+<table>
+<thead>
+<tr>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+</thead>
+
+<tbody>
+<tr>
+<td></td>
+<td>150 Âµl</td>
+<td>200 Âµl</td>
+<td>750 Âµl</td>
+<td>1500 Âµl</td>
+</tr>
+<tr>
+<td>25x MOPS</td>
+<td>6 ml</td>
+<td>8 ml</td>
+<td>30 ml</td>
+<td>60 ml</td>
+</tr>
+<tr>
+<td>di-Formamide</td>
+<td>75 ml</td>
+<td>100 ml</td>
+<td>375 ml</td>
+<td>750 ml</td>
+</tr>
+<tr>
+<td>di-Formaldehyde</td>
+<td>8 ml</td>
+<td>11 ml</td>
+<td>40 ml</td>
+<td>80 ml</td>
+</tr>
+<tr>
+<td>ddH<sub>2</sub>O</td>
+<td>61 ml</td>
+<td>81 ml</td>
+<td>305 ml</td>
+<td>610 ml</td>
+</tr>
+</tbody>
+</table>
+<p>Blue Juice (50% Glycerol, 0.27% BPB/XC, 1.3 mM EDTA)</p>
+<table>
+<thead>
+<tr>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+</thead>
+
+<tbody>
+<tr>
+<td></td>
+<td>1 ml</td>
+<td>2 ml</td>
+</tr>
+<tr>
+<td>Glycerol</td>
+<td>0.5 ml</td>
+<td>1.0 ml</td>
+</tr>
+<tr>
+<td>Bromophenol Blue</td>
+<td>2 mg</td>
+<td>4 mg</td>
+</tr>
+<tr>
+<td>Xylene Cyanol</td>
+<td>2 mg</td>
+<td>4 mg</td>
+</tr>
+<tr>
+<td>0.5 M EDTA</td>
+<td>2 ml</td>
+<td>4 ml</td>
+</tr>
+<tr>
+<td>ddH<sub>2</sub>O</td>
+<td>498 ml</td>
+<td>996 ml</td>
+</tr>
+</tbody>
+</table>
+<p>Ethidium Bromide (1mg/ml)</p><p>ï¿½ Blue Juice and Ethidium Bromide are added in 2:1 ratio.</p><p>ï¿½ 100 ml gel: 50 Âµl sample (6 Âµl RNA + 30 Âµl denaturing buffer + 9
+Âµl BJ/EB)</p><p><strong><span class="underline">Protocol:</span></strong></p>
+<ol>
+<li><p> Dissolve agarose in MOPS and H<sub>2</sub>O, cool to handwarm.</p></li>
+<li><p> Add 37% di-Formaldehyde, poor gel, let solidify.</p></li>
+<li><p> Flush wells after removal of comb.</p></li>
+<li><p> Running buffer is 1x MOPS.</p></li>
+<li><p> Add denaturing buffer to RNA samples in 5:1 ratio.</p></li>
+<li><p> Incubate at 65Â°C for 15 minutes.</p></li>
+<li><p> Cool on ice.</p></li>
+<li><p> Add Blue Juice/Ethidium Bromide (2:1) to samples in 1:4 ratio.</p></li>
+<li><p> Load on gel (max. 15 Âµl on 20ml gel, max. 50 Âµl on 100ml gel).</p></li>
+<li><p>Run for 3 hrs at 75V.</p></li>
+</ol>
+<p><strong>Notes:</strong></p><p>- Run 6 Âµg of RNA MW ladder along with samples.</p><p>- Optional: run <sup>32</sup>P labelled l/<em>Hin</em>dIII (10000 cpm) with
+samples.</p>
+
+]]>
+        </content>
+    </entry>
+    
+    <entry>
+        <title>Agilent Bioanalyzer RNA Samples</title>
+        <link href="https://mullinslab.microbiol.washington.edu/protocols/microarrays/1979-Agilent-Bioanalyzer-RNA-Samples" rel="alternate" type="text/html" />
+        <published>2010-03-30T16:19:52-07:00</published>
+        <updated>2011-06-03T16:04:15+00:00</updated>
+        <id>urn:uuid:a2c516fc-9ccb-58e7-9d4c-affafe7488b6</id>
+        <author><name>Camille</name></author>
+        <content type="html">
+<![CDATA[
+<h2>Preparing Gel-Dye-Mix:</h2>
+
+<ol>
+<li><p> Put 400 µl RNA gel matrix (red dot <span title="red dot" style="color:red">●</span>)
+and 4 µl RNA dye concentrate (blue dot <span title="blue dot" style="color:blue">●</span>)
+in a 1.5ml tube.</p></li>
+<li><p> Vortex well. Transfer to spin filter.</p></li>
+<li><p> Spin 10 minutes at 3000rpm. Protect from light. Store at 4°C. Use
+within 3 weeks.</p></li>
+</ol>
+
+<h2>Preparing ladder and samples:</h2>
+
+<ol>
+<li><p> Denature 1.5 µl RNA ladder for 3 minutes at 70°C. Chill on ice.
+Spin.</p></li>
+<li><p> Mark 0.6 ml tubes &ldquo;ladder&rdquo; and &ldquo;1&rdquo; to &ldquo;12&rdquo;</p></li>
+<li><p> Pipette 5 µl sample buffer (white dot <span title="white dot">○</spanm>)
+in each tube.</p></li>
+<li><p> Pipette 1 µl denatured RNA ladder in tube marked &ldquo;ladder&rdquo;.</p></li>
+<li><p> Pipette 1 µl of each sample into the appropriately marked tubes.</p></li>
+<li><p> Vortex each tube for 5 seconds.</p></li>
+<li><p>Spin tubes for 10 seconds.</p></li>
+<li><p>Store on ice until ready to load samples.</p></li>
+</ol>
+
+<h2>Loading Gel-Dye Mix:</h2>
+
+<ol>
+<li><p>Put chip on preparation stand.</p></li>
+<li><p>Pipette 9 µl gel-dye mix in circled G well</p></li>
+<li><p>Pull back syringe-plunger to 1ml mark.</p></li>
+<li><p>Put syringe tip around well to form tight seal.</p></li>
+<li><p>Press plunger to 0.2ml and hold for 30 seconds.</p></li>
+<li><p>Pull back plunger to the 1ml mark while maintaining the seal.</p></li>
+<li><p>Remove syringe from well.</p></li>
+<li><p>Pipette 9 µl gel-dye mix in other 2 G wells.</p></li>
+</ol>
+
+<h2>Loading the ladder and samples:</h2>
+
+<ol>
+<li><p>Pipette the 6 µl of ladder-tube in ladder-well</p></li>
+<li><p>Pipette the 6 µl of each sample-tube in the 12 µl sample wells.</p></li>
+<li><p>Treat bioanalyzer-electrodes for 30 seconds (no longer) with ZAP.</p></li>
+<li><p>Treat bioanalyzer-electrodes for 30 seconds (no longer) with
+ddH<sub>2</sub>O.</p></li>
+<li><p>Dry bioanalyzer-electrodes for 10 seconds (no longer).</p></li>
+<li><p>Insert the loaded chip into the bioanalyzer within 5 minutes after
+loading.</p></li>
+</ol>
+
+<h2>Reagents:</h2>
+<p><strong>Agilent 2100 Bioanalyzer Reagent and Chip
+Kits</strong></p>
+<table>
+<thead>
+<tr>
+<th style="text-align: left"></th>
+<th></th>
+</tr>
+</thead>
+
+<tbody>
+<tr>
+<td style="text-align: left">5064-8284</td>
+<td>DNA 500 LabChip kit. Kit contains 25 LabChips, syringe, spin filters, and reagents for the quantitative analysis of DNA from 25-500bp. $299</td>
+</tr>
+<tr>
+<td style="text-align: left">5064-8230</td>
+<td>DNA 7500 LabChip kit. Kit contains 25 LabChips, syringe, spin filters, and reagents for the quantitative analysis of DNA from 100-7500bp. $299</td>
+</tr>
+<tr>
+<td style="text-align: left">5064-8231</td>
+<td>DNA 12000 LabChip kit. Kit contains 25 LabChips, syringe, spin filters, and reagents for analysis of DNA from 100-12000bp. $299</td>
+</tr>
+<tr>
+<td style="text-align: left">5064-8229</td>
+<td>RNA 6000 LabChip kit. Kit contains 25 LabChips, syringe, spin filters, and reagents for analysis of RNA samples. $399</td>
+</tr>
+</tbody>
+</table>
+<p>For quantitation of RNA samples, an RNA 6000 ladder must be purchased
+from Ambion, #7152.</p>
+
+]]>
+        </content>
+    </entry>
+    
+    <entry>
+        <title>Preparation of Linear Acrylamide</title>
+        <link href="https://mullinslab.microbiol.washington.edu/protocols/microarrays/960-Preparation-of-Linear-Acrylamide" rel="alternate" type="text/html" />
+        <published>2010-03-30T16:16:23-07:00</published>
+        <updated>2011-06-03T16:04:48+00:00</updated>
+        <id>urn:uuid:9783e028-5b87-5219-a813-fb21a9e6507c</id>
+        <author><name>Camille</name></author>
+        <content type="html">
+<![CDATA[
+<p>Unlike glycogen, linear acrylamide does not inhibit polymerase
+activities, or restriction enzymes.</p><p><strong><span class="underline">Short Protocol:</span></strong></p>
+<ol>
+<li><p> Dissolve 5mg Acrylamide in 200 Âµl TE</p></li>
+<li><p> Add 1 Âµl 10%APS</p></li>
+<li><p> Add 1 Âµl TEMED</p></li>
+<li><p> Allow to polymerize (incubate as long as you like, can heat to 37Â°C
+to increase rate): forms a jelly mass.</p></li>
+<li><p> Add 2.5 volumes ethanol.</p></li>
+<li><p> Spin 5-6 minutes.</p></li>
+<li><p> Speed vac to dry.</p></li>
+<li><p> Resuspend 500 Âµl ddH<sub>2</sub>0 (i.e. 10 Âµg/Âµl). Takes a while
+to resuspend (may leave at RT overnight). Subsequent pellets are
+easy to resuspend.</p></li>
+<li><p> Use 10-20 Âµg for a precipitation.</p></li>
+</ol>
+<p>Linear <em>poly-</em>acrylamide can be used as an efficient neutral carrier for
+precipitating nucleic acids with ethanol (Gaillard, C and Strauss, F.
+Nucleic Acids Res. 18, 378). Alhough glycogen is often used as carrier
+in ethanol precipitation, it has been shown that glycogen inhibits the
+activity of an ssDNA-binding protein on which linear polyacrylamide has
+no effect. Disadvantage using linear polyacrylamide as carrier is that
+the pellet of polyacrylamide does not stick tightly on the bottom of
+microfuge tube. Be careful not to discard pellet when you remove
+supernatant.</p><p><strong><span class="underline">Extended Protocol:</span></strong></p>
+<ol>
+<li><p> Prepare a 5% acrylamide solution without bis-acrylamide in 40 mM
+Tris-HCl (pH. 8), 20 mM sodium acetate, 1 mM EDTA.</p></li>
+<li><p> Add ammonium persulfate to a final concentration of 0.1% (w/v).</p></li>
+<li><p> Add 1/1000 volume of TEMED, and let polymerize for 30 min at room
+temperature.</p></li>
+<li><p> When the solution has become viscous, precipitate the polymer with
+2.5 volumes of ethanol.</p></li>
+<li><p> Recover the polymer by centrifugation, and dissolve the pellet in 10
+mM Tris-HCl (pH 8.0), 1 mM EDTA to make a final polyacrylamide
+concentration of 5 mg/ml.</p></li>
+<li><p> The linear polyacrylamide solution can be stored in the refrigerator
+for several years.</p></li>
+<li><p> Add 10-20 micrograms of the linear polyacrylamide into nucleic acid
+solution before ethanol precipitation.</p></li>
+<li><p> Picogram amounts of nucleic acids longer than 20 base pairs can be
+precipitated without loss.</p></li>
+</ol>
+
+
+]]>
+        </content>
+    </entry>
+    
+    <entry>
+        <title>Selection of Poly A+ RNA (Katze Lab w/modifications)</title>
+        <link href="https://mullinslab.microbiol.washington.edu/protocols/microarrays/712-Selection-of-Poly-A-RNA-Katze-Lab-w-modifications" rel="alternate" type="text/html" />
+        <published>2010-03-30T16:14:45-07:00</published>
+        <updated>2011-06-03T16:05:34+00:00</updated>
+        <id>urn:uuid:bcbbd619-2ef5-50b0-a530-224f1624d716</id>
+        <author><name>Camille</name></author>
+        <content type="html">
+<![CDATA[
+<p><span class="underline"><strong>Reagents</strong></span>:</p>
+<ul>
+<li><p>Oligo (dT)-cellulose Type 7 (Pharmacia)</p></li>
+<li><p>Polypropylene chromatography columns (BioRad)</p></li>
+<li><p>0.1 N NaOH/5 mM EDTA</p></li>
+<li><p>2x Column Loading Buffer (40 mM Tris pH 7.5, 1 M LiCl, 2 mM EDTA,
+0.2% SDS)</p></li>
+<li><p>dH<sub>2</sub>0</p></li>
+<li><p>4 M LiCl</p></li>
+<li><p>Linear acrylamide (5 mg/ml)</p></li>
+<li><p>100% EtOH</p></li>
+</ul>
+<p><span class="underline"><strong>Protocol</strong>:</span></p>
+<ol>
+<li><p> Pour a small amount of Oligo (dT)-cellulose powder into a conical
+tube and suspend in 1X Column Loading Buffer.</p></li>
+<li><p> Transfer into the column that is sitting in a 15ml conical tube (up
+to 10mg RNA can be selected per ml of oligo (dT). Oligo
+(dT)-cellulose packed to 0.4ml for 1mg total RNA gave very good
+yields. Expect ~15-50 Âµg poly A+ RNA per mg of total RNA.</p></li>
+<li><p> Wash with 10 volumes each</p>
+<ol>
+<li><p> sterile dH<sub>2</sub>O</p></li>
+<li><p> 0.1N NaOH/5mM EDTA</p></li>
+<li><p> sterile dH<sub>2</sub>O</p></li>
+</ol></li>
+<li><p> Wash with 5 volumes 0.1x Column Loading Buffer.</p></li>
+<li><p> Wash with 10 volumes dH<sub>2</sub>O.</p></li>
+<li><p> With pH paper, check to make sure the pH of the column effluent is
+less than 8.</p></li>
+<li><p> Wash the column with 1x Column Loading Buffer, then replace the
+catch tube with a new one.</p></li>
+<li><p> In the meantime, prepare the RNA sample:</p>
+<ol>
+<li><p> dissolve in 500 ml dH<sub>2</sub>O</p></li>
+<li><p> heat at 65<sup>o</sup>C for 5 minutes</p></li>
+<li><p> add an equal volume of 65<sup>o</sup>C 2x Column Loading Buffer</p></li>
+<li><p> let cool to RT on benchtop</p></li>
+</ol></li>
+<li><p> Apply RNA sample to column.</p></li>
+<li><p>Collect the flow through, heat again to 65<sup>o</sup>C for 5
+minutes, allow to cool to almost RT and reapply to column.</p></li>
+<li><p>Collect the effluent; this is the poly A- fraction.</p></li>
+<li><p>Replace the catch tube and wash with 10 volumes of 1x Column Loading
+Buffer.</p></li>
+<li><p>Replace the catch tube again and elute the poly A+ RNA with 2 ml
+65<sup>o</sup>C dH<sub>2</sub>O.</p></li>
+<li><p>Spin at 2000 rpm, 4<sup>o</sup>C for 10 minutes to remove
+contaminating gel.</p></li>
+<li><p>Read O.D. 260/280 and calculate concentration.</p></li>
+<li><p>Ethanol precipitate with</p>
+<ol>
+<li><p> LiCl added to 0.2M (1:4)</p></li>
+<li><p> 100 Âµg linear acrylamide (carrier)</p></li>
+<li><p> 2.5 volumes 95% EtOH.</p></li>
+</ol>
+<p>Always do the precipitation overnight.</p></li>
+<li><p>Regenerate the column by sequential washing with 10 volumes each of
+0.1 N NaOH/5 mM EDTA, dH<sub>2</sub>O and 1x Column Loading Buffer.
+Columns may be stored at -20 Â°C and used up to 3 times, depending
+on the amount of RNA selected.</p></li>
+</ol>
+<p><strong>Note:</strong> If you must break the 2 ml into aliquots for eppendorf tubes,
+use 20 Âµg linear acrylamide per aliquot.</p>
+
+]]>
+        </content>
+    </entry>
+    
+    <entry>
+        <title>mRNA Isolation with Qiagen OligoTex Kit</title>
+        <link href="https://mullinslab.microbiol.washington.edu/protocols/microarrays/1484-mRNA-Isolation-with-Qiagen-OligoTex-Kit" rel="alternate" type="text/html" />
+        <published>2010-03-30T16:14:05-07:00</published>
+        <updated>2011-06-03T16:05:44+00:00</updated>
+        <id>urn:uuid:bc2d1a14-bc5a-59ac-a918-681733d36ca7</id>
+        <author><name>Camille</name></author>
+        <content type="html">
+<![CDATA[
+<p><span class="underline">A. Reagents:</span></p><p><em>For mRNA isolation</em></p><p>- Binding Buffer <strong>OBB</strong></p>
+<ul>
+<li>20 mM Tris-Cl pH 7.5, 1 M NaCl, 2 mM EDTA, 0.2% SDS</li>
+</ul>
+<p>- Oligotex Suspension</p>
+<ul>
+<li>10% (w/v) in 10 mM Tris-Cl pH 7.5, 500 mM NaCl, 1 mM EDTA, 0.1% SDS,
+0.1% NaN<sub>3</sub> (Qiagen cat.no. 79000)</li>
+</ul>
+<p>- Wash Buffer OW2</p>
+<ul>
+<li>10 mM Tris-Cl pH 7.5, 150 mM NaCl, 1 mM EDTA</li>
+</ul>
+<p>- Elution Buffer OEB</p>
+<ul>
+<li>5 mM Tris-Cl pH 7.5</li>
+</ul>
+<p>- Small spin columns</p>
+<ul>
+<li>RNase-free spin columns (Qiagen cat.no. 79523)</li>
+</ul>
+<p><em>For mRNA precipitation</em></p><p>- 4M LiCl</p><p>- Linear acrylamide (5 mg/ml)</p><p>- 100% EtOH</p><p>Oligotex mRNA kits Mini (70022, 250 Âµg), Midi (70042, 250 Âµg-1mg) and
+Maxi (70061, 1-3mg)  </p><p><span class="underline"><strong>B. Protocol:</strong></span></p><p>1. Dilute no more than 250 Âµg total RNA in 250 Âµl ddH<sub>2</sub>O.</p><p>Add 250 Âµl OBB (pre-heated at 70Â°C).</p><p>Add 15 Âµl Oligotex (pre-heated at 37Â°C).</p><p>Mix by pipetting up and down.</p><p>Incubate at 70Â°C for 3 minutes.</p><p>Incubate at RT for 10 minutes.</p><p>Spin at 14,000 x g for 2 minutes.</p><p>Remove supernatant and save for second extraction (step 20).</p><p>Resuspend pellet in 400 Âµl OW2 by pipetting up and down.</p><p>Transfer to spin column in clean 1.5ml tube.</p><p>Spin at 14,000 x g for 1 minute. Discard flow-through.</p><p>Transfer spin column to clean 1.5ml tube.</p><p>Add 400 Âµl OW2.</p><p>Spin at 14,000x g for 1 minute. Discard flow-through.</p><p>Transfer to spin column in clean 1.5 ml tube.</p><p>Add 100 Âµl OEB (pre-heated at 70Â°C).</p><p>Resuspend Oligotex by pipetting up and down.</p><p>Spin 14,000x g for 1 minute.</p><p>Save eluted mRNA on ice.</p><p><em>Optional:</em> resuspend Oligotex with supernatant from step 7 and transfer
+to 1.5 ml tube. Repeat extraction from step 4. Combine eluted mRNA.</p><p>Read OD<sub>260/280</sub> and calculate concentration.</p><p>Run 50-200 ng mRNA on Bioanalyzer.</p><p>Ethanol precipitate with</p>
+<ol>
+<li><p> LiCl added to 0.2 M (1:20)</p></li>
+<li><p> 20 Âµg linear acrylamide (carrier)</p></li>
+<li><p> 2.5 volumes 100% EtOH.</p></li>
+</ol>
+<p>Store at -70Â°C.</p>
+
+]]>
+        </content>
+    </entry>
+    
+    <entry>
+        <title>Katze Lab Total RNA Extraction Method</title>
+        <link href="https://mullinslab.microbiol.washington.edu/protocols/microarrays/307-Katze-Lab-Total-RNA-Extraction-Method" rel="alternate" type="text/html" />
+        <published>2010-03-30T16:13:04-07:00</published>
+        <updated>2011-06-03T16:05:51+00:00</updated>
+        <id>urn:uuid:c176e73d-6ca5-5312-b2a0-d855c085f513</id>
+        <author><name>Camille</name></author>
+        <content type="html">
+<![CDATA[
+<p><span class="underline"><strong>Reagents</strong>:</span></p>
+<ul>
+<li><p>Guanidine Thiocyanate (Fluka)</p></li>
+<li><p>1 M Sodium Citrate (pH 7.0)</p></li>
+<li><p>10% Sarcosyl</p></li>
+<li><p>14 M 2-Î² Mercaptoethanol</p></li>
+<li><p>Rnase free H<sub>2</sub>O</p></li>
+<li><p>2 M Sodium Acetate (pH 5.2)</p></li>
+<li><p>water saturated Phenol</p></li>
+<li><p>49:1 Chloroform/Isoamylalcohol</p></li>
+<li><p>Isopropanol</p></li>
+<li><p>75% Ethanol</p></li>
+<li><p>DNase I (Promega)</p></li>
+<li><p>10x reaction buffer (400 mM Tris-HCl, pH 7.9; 60 mM
+MgCl<sub>2</sub>; 100 mM NaCl; 100 mM CaCl<sub>2</sub>; 1 mM DTT)</p></li>
+</ul>
+<p><span class="underline"><strong>Solutions</strong></span></p>
+<table>
+<thead>
+<tr>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+</thead>
+
+<tbody>
+<tr>
+<td>Solution D</td>
+<td>Final Conc.</td>
+<td>Amount (100 ml)</td>
+</tr>
+<tr>
+<td>Guanidine thiocyanate</td>
+<td>4 M</td>
+<td>47.25 g</td>
+</tr>
+<tr>
+<td>Sodium Citrate (1 M)</td>
+<td>25 mM</td>
+<td>2.5 mL</td>
+</tr>
+<tr>
+<td>Sarcosyl (10%)</td>
+<td>0.5%</td>
+<td>5 mL</td>
+</tr>
+<tr>
+<td>2-Î² Mercaptoethanol (14 M)</td>
+<td>0.1 M</td>
+<td>0.72 ml*</td>
+</tr>
+<tr>
+<td>RNase free H<sub>2</sub>O</td>
+<td></td>
+<td>to 100 mL</td>
+</tr>
+</tbody>
+</table>
+<p><strong>*</strong> Î²-Mercaptoethanol should be added to the amount of solution D
+that is to be used that day. Make up solution D without
+Î²-Mercaptoethanol and then add 7.2 Âµl/ml of solution D as needed.
+Solution D without Î²-Mercaptoethanol can be stored at room temperature
+for 1 month.</p><p><span class="underline"><strong>Protocol</strong>:</span></p>
+<ol>
+<li><p> Lyse cells in solution D (100 Âµl/1 X 10<sup>6</sup> cells).</p></li>
+<li><p> Sequentially add the following:</p><p>0.1 Vol 2M Sodium Acetate, mix</p><p>1 Vol Phenol</p><p>0.2 Vol Chloroform/Isoamylalcohol</p></li>
+<li><p> Vortex 10 seconds.</p></li>
+<li><p> Incubate on ice 15 minutes.</p></li>
+<li><p> Centrifuge 30 minutes at 10K, 4Â°C.</p></li>
+<li><p> Transfer aqueous (top) phase to new tube.</p></li>
+<li><p> Precipitate with 1 volume Isopropanol at least 1 hour, -20Â°C.</p></li>
+<li><p> Centrifuge 30 minutes at 10K, 4Â°C</p></li>
+<li><p> Dissolve pellet in 300Âµl solution D.</p></li>
+<li><p>Transfer to Eppendorf tube.</p></li>
+<li><p>Precipitate with 1 volume Isopropanol at least 30 minutes, -20Â°C.</p></li>
+<li><p>Centrifuge 30 minutes at 14K in Eppendorf tabletop centrifuge.</p></li>
+<li><p>Wash pellet with 75% Ethanol.</p></li>
+<li><p>Centrifuge 10 minutes at 14K.</p></li>
+<li><p>Dry and resuspend in appropriate RNAse free reagent
+(ddH<sub>2</sub>O, poly A selection buffer).</p></li>
+<li><p>Read O.D. 260/280.</p></li>
+<li><p>Set up DNase I reaction in 1x buffer (10 U/250 Âµg RNA in 200 Âµl).</p></li>
+<li><p>Incubate at 37Â°C for 1 hour.</p></li>
+<li><p>Sequentially add the following:</p><p>0.1 Vol 2 M Sodium Acetate, mix</p><p>1 Vol Phenol</p><p>0.2 Vol Chloroform/Isoamylalcohol</p></li>
+<li><p>Vortex and centrifuge 15 minutes at 14K.</p></li>
+<li><p>Remove aqueous (top) phase to new tube.</p></li>
+<li><p>Precipitate with 1 volume Isopropanol at least 30 minutes, -20Â°C.</p></li>
+<li><p>Centrifuge 30 minutes at 14K.</p></li>
+<li><p>Wash pellet with 75% Ethanol.</p></li>
+<li><p>Centrifuge 10 minutes at 14K.</p></li>
+<li><p>Dry and resuspend in appropriate RNase free agent.</p></li>
+<li><p>Read O.D. 260/280 and calculate % yield.</p></li>
+<li><p>Aliquot, store at ï¿½70Â°C under alcohol.</p></li>
+</ol>
+<p><em>Chomczynske, P. and Sacchi, N., Analytical Biochem. 162: 156-159,
+1987.</em></p>
+
+]]>
+        </content>
+    </entry>
+    
+    <entry>
+        <title>Mullins Lab Total RNA Extraction</title>
+        <link href="https://mullinslab.microbiol.washington.edu/protocols/microarrays/2002-Mullins-Lab-Total-RNA-Extraction" rel="alternate" type="text/html" />
+        <published>2010-03-30T16:12:15-07:00</published>
+        <updated>2011-06-03T16:06:03+00:00</updated>
+        <id>urn:uuid:11f15d4b-7010-5e01-94d8-2e927241de6a</id>
+        <author><name>Camille</name></author>
+        <content type="html">
+<![CDATA[
+<p><span class="underline"><strong>Reagents:</strong></span></p>
+<ul>
+<li><p>Guanidine Thiocyanate (Fluka, FW=118.2, 250 g, 50990, $77.15)</p></li>
+<li><p>Citric Acid (Sigma, FW=294.1, 500 g, C-8532, $14.25)</p></li>
+<li><p>Sarkosyl (Sigma, FW=293.4, 50 g, L-9150, $14.75)</p></li>
+<li><p>2-Î² Mercaptoethanol (Sigma, FW=78.13, 100 ml, M-7522, $15.40)</p></li>
+<li><p>RNase free ddH<sub>2</sub>O (Sigma, 1 L, W-4502, $23.55)</p></li>
+<li><p>3M Sodium Acetate Buffer (pH 5.2) (Sigma, 100 ml, S-7899, $11.90)</p></li>
+<li><p>Phenol (Boehringer Mannheim, 500 g, 1814303, $88.00)</p></li>
+<li><p>Chloroform (UW Stores, 4 L, 0011-555, $36.14)</p></li>
+<li><p>Isoamyl Alcohol (Sigma, FW=88.15, 500 ml, I-9392, $22.65)</p></li>
+<li><p>Isopropanol (UW Stores, 4 L, 0014-620, $22.08)</p></li>
+<li><p>75% and 100% Ethanol</p></li>
+<li><p>1 M Tris-HCl (pH 7.6) (Sigma, 1L, T-2788, $0.00)</p></li>
+<li><p>20cc Syringe (UW Stores, 40/box, 0056-590, $11.12)</p></li>
+<li><p>18Gx1-&frac12; Needle (UW Stores, 100/pack, 0053-560,
+$4.05)</p></li>
+</ul>
+
+<table>
+<thead>
+<tr>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+</thead>
+
+<tbody>
+<tr>
+<td><em>Solution D</em></td>
+<td><em>Final Concentration</em></td>
+<td><em>Amount (100 ml)</em></td>
+</tr>
+<tr>
+<td>Guanidine thiocyanate</td>
+<td>4 M</td>
+<td>47.26 g</td>
+</tr>
+<tr>
+<td>Citric Acid (1 M, pH 7.0)</td>
+<td>25 mM</td>
+<td>2.5 ml</td>
+</tr>
+<tr>
+<td>Sarkosyl (10%)</td>
+<td>0.5%</td>
+<td>5 mL</td>
+</tr>
+<tr>
+<td>2-Î² Mercaptoethanol (14 M)</td>
+<td>0.1 M</td>
+<td>0.72 ml<sup>*</sup></td>
+</tr>
+<tr>
+<td>RNase free ddH<sub>2</sub>O</td>
+<td></td>
+<td>to 100 ml</td>
+</tr>
+</tbody>
+</table>
+<p><strong>*</strong> Î² Mercaptoethanol should be added to the amount of solution D
+that is to be used that day. Make up solution D without Î²
+Mercaptoethanol and then add 7.2 Âµl/ml of solution D as needed.
+Solution D without Î² Mercaptoethanol can be stored at room temperature
+for 1 month.</p><p>Chomczynske, P. and Sacchi, N., Analytical Biochem. 162: 156-159, 1987.</p><p><strong><span class="underline"><br>
+</span></strong></p><p><span class="underline"><strong>Protocol:</strong></span></p><p>1. Lyse cells in solution D (200 Âµl/l X 10<sup>6</sup> cells).</p><p>2. Homogenize by passing lysate five times through 18-gauge needle with
+syringe. Store at ï¿½70 Â°C or continue.</p><p>3. Sequentially add the following:</p><p>0.1 volume 3 M Sodium Acetate (pH 5.2), mix</p><p>1.0 volume Phenol, water-saturated, mix</p><p>0.2 volume Chloroform/Isoamyl Alcohol (24:1) (fresh)</p><p>4. Vortex 10 seconds.</p><p>5. Incubate on ice 15 minutes.</p><p>6. Centrifuge 30 minutes at 10,000x g (brake slowly), 4Â°C.</p><p>7. Transfer upper aqueous phase to new tube.</p><p>8. Precipitate with an equal volume of Isopropanol for 30-60 minutes,
+-20Â°C.</p><p>9. Centrifuge 30 minutes at 10,000x g (brake max), 4Â°C.</p><p>10. Dissolve pellet in 600 Âµl solution D.</p><p>11. Transfer to Eppendorf tube.</p><p>12. Sequentially add the following:</p><p>60 Âµl 3 M Sodium Acetate (pH 5.2), mix</p><p>600 Âµl Phenol, water-saturated, mix</p><p>120 Âµl Chloroform/Isoamyl Alcohol (24:1) (fresh)</p><p>13. Vortex 10 seconds.</p><p>14. Incubate on ice 15 minutes.</p><p>15. Centrifuge 15 minutes at 14,000 rpm.</p><p>16. Transfer upper aqueous phase to new tube.</p><p>17. Precipitate with an equal volume of Isopropanol for 30-60 minutes,
+-20Â°C.</p><p>18. Centrifuge 5 minutes at 14,000 rpm.</p><p>19. Wash pellet with 200 Âµl 75% Ethanol.</p><p>20. Centrifuge 1 minute at 14,000 rpm.</p><p>21. Air dry and resuspend in 500 Âµl RNase-free ddH<sub>2</sub>O.</p><p>22. Make 1:100 dilutions in 10mM Tris pH 7.6 to read
+OD<sub>260/280</sub>.</p><p>23. Run 100-500 ng total RNA on Bioanalyzer.</p><p>24. Make 250 Âµg aliquots.</p><p>25. Store at ï¿½70 Â°C with 0.1 volumes 3M Sodium Acetate (pH 5.2) and
+2.5 volumes 100% Ethanol.</p><p><strong><span class="underline"><br>
+</span></strong></p><p><span class="underline">Notes:</span></p><p>- Phenol is a poison and causes burns. Use gloves and eye protection.</p><p>- Carry out all steps at room temperature unless otherwise stated.</p><p>- The procedure can be carried out in sterile, disposable, 50 ml
+conical tubes (Falcon, Greiner).</p><p>- Do not let the RNA pellet dry completely as this greatly decreases
+its solubility.</p><p>- Dissolve the pellet in DEPC-treated water. Incubate 10 to 15 minutes
+at 55-60Â°C. Expected yield: 50 to 80 Âµg for 10 x 10<sup>6</sup> cells.</p><p>- Water used for spectrophotometric measurement of RNA should have pH
+7.5. Typically, distilled water has pH 6. Adjust water to a slightly
+alkaline pH by adding concentrated Na<sub>2</sub>HPO<sub>4</sub>
+solution to a final concentration of 1 mM.</p><p><em>Solution D:</em></p><p>To Guanidine Thiocyanate bottle (250 g) add 293 ml ddH<sub>2</sub>O
+preheated to 60Â°C, and 13.25 ml 1M Citric Acid (pH 7.0). Keep at 60Â°C
+and mix until dissolved. Add 26.5 ml of 10% (w/v) N-lauroylsarcosine
+(Sarkosyl) and water to 530 ml total volume. For use add 324 Âµl 2-Î²
+mercaptoethanol (2-ME) to 45ml solution.</p><p><em>Sodium acetate, 2M:</em></p><p>Add 16.42 g sodium acetate (anhydrous) to 40 ml water and 35 ml glacial
+acetic acid. Adjust solution to pH 4.0 with glacial acetic acid and
+dilute to 100 ml final with water (solution is 2 M with respect to
+sodium ions). Store up to 1 year at room temperature.</p><p><em>Water-saturated phenol:</em></p><p>Dissolve 50 g phenol in 50ml ddH<sub>2</sub>0 at 60 to 65Â°C. Aliquot in
+50 ml conical tubes wrapped in aluminium foil and store at ï¿½20Â°C. Do
+NOT use buffered phenol in place of water-saturated phenol.</p>
+
+]]>
+        </content>
+    </entry>
+    
+    <entry>
+        <title>RNA Extraction with Qiagen RNEASY Midi Kit</title>
+        <link href="https://mullinslab.microbiol.washington.edu/protocols/microarrays/1866-RNA-Extraction-with-Qiagen-RNEASY-Midi-Kit" rel="alternate" type="text/html" />
+        <published>2010-03-30T16:11:12-07:00</published>
+        <updated>2011-06-03T16:06:24+00:00</updated>
+        <id>urn:uuid:8c9f2316-9eac-5703-b721-04efea04efc6</id>
+        <author><name>Camille</name></author>
+        <content type="html">
+<![CDATA[
+<p><span class="underline"><strong>Reagents:</strong></span></p><p><strong>Provided by Midi Kit (Qiagen, #75142, 10 samples, $90.00):</strong></p>
+<ul>
+<li><p>45 ml Buffer RLT (contains GITC, add 10ml Î²-Mercaptoethanol per ml
+RLT before use)</p></li>
+<li><p>45 ml Buffer RW1 (contains GITC and ethanol)</p></li>
+<li><p>11 ml Buffer RPE (concentrate, add 44 ml 100% ethanol before use)</p></li>
+<li><p>10 ml RNase-free water</p></li>
+<li><p>10 RNeasy Midi columns (RNA binding capacity up to 1mg each)</p></li>
+</ul>
+<p><strong>To be supplied by user:</strong></p>
+<ul>
+<li><p>20 cc Syringe (UW Stores, 40/box, 0056-590, $11.12)</p></li>
+<li><p>14.3 M Î²-Mercaptoethanol (Sigma, FW=78.13, 100 ml, M-7522, $15.40)</p></li>
+<li><p>Ethanol (70% and 100%)</p></li>
+</ul>
+<p><span class="underline"><strong>Protocol:</strong></span></p>
+<ol>
+<li><p> Wash cells once with PBS.</p></li>
+<li><p> Lyse cells in buffer RLT (2 ml for up to 50 x 10<sup>6</sup> cells).</p></li>
+<li><p> Homogenize cell lysate immediately by passing 10 times through 18
+gauge needle with syringe.</p></li>
+<li><p> Add 1 volume (2 ml) of 70% Ethanol, mix thoroughly.</p></li>
+<li><p> Transfer sample to RNeasy Midi column in 15 ml tube</p></li>
+<li><p> Centrifuge at 3000-5000 x g for 5 minutes; discard flow-through.</p></li>
+<li><p> Add 4ml of buffer RW1.</p></li>
+<li><p> entrifuge at 3000-5000 x g for 5 minutes; discard flow-through.</p></li>
+<li><p> Add 2.5ml of buffer RPE.</p></li>
+<li><p>Centrifuge at 3000-5000 x g for 2 minutes; discard flow-through.</p></li>
+<li><p>Add 2.5ml of buffer RPE.</p></li>
+<li><p>Centrifuge at 3000-5000 x g for 5 minutes; discard flow-through.</p></li>
+<li><p>Transfer RNeasy Midi column to clean 15 ml tube.</p></li>
+<li><p>Add max. 250 Âµl RNase-free H<sub>2</sub>O, incubate for 1 minute.</p></li>
+<li><p>Centrifuge at 3000-5000 x g for 3 minutes</p></li>
+<li><p>Add max. 250 Âµl RNase-free H<sub>2</sub>O, incubate for 1 minute.</p></li>
+<li><p>Centrifuge at 3000-5000 x g for 3 minutes; discard column.</p></li>
+<li><p>Read O.D. 260/280.</p></li>
+<li><p>Give sample to CEA for Bioanalyzer run.</p></li>
+</ol>
+
+
+]]>
+        </content>
+    </entry>
+    
+    <entry>
+        <title>Eberwine T7 RNA Amplification</title>
+        <link href="https://mullinslab.microbiol.washington.edu/protocols/microarrays/653-Eberwine-T7-RNA-Amplification" rel="alternate" type="text/html" />
+        <published>2002-05-30T16:15:42-07:00</published>
+        <updated>2011-06-03T16:05:23+00:00</updated>
+        <id>urn:uuid:86d74216-5a6f-52d9-ad5b-d74d0f68c5e9</id>
+        <author><name>Camille</name></author>
+        <content type="html">
+<![CDATA[
+<p>30 May
+2002</p>
+<h2>Reagents:</h2>
+
+<table>
+<thead>
+<tr>
+<th></th>
+<th></th>
+</tr>
+</thead>
+
+<tbody>
+<tr>
+<td>Oligo-dT/T7 (Eberwine)</td>
+<td>5ï¿½-AAA CGA CGG CCA GTG AAT TGT AAT ACG ACT CAC TAT AGG CGC T<sub>15</sub>-3ï¿½</td>
+</tr>
+<tr>
+<td>or T7-oligodT (Luo)</td>
+<td>5ï¿½-TCT AGT CGA CGG CCA GTG AAT TGT AAT ACG ACT CAC TAT AGG GCGT<sub>21</sub>-3ï¿½</td>
+</tr>
+<tr>
+<td>SuperScript II</td>
+<td>GibcoBRL, 200 U/µl, 18064-022</td>
+</tr>
+<tr>
+<td>5X First Strand Buffer</td>
+<td>GibcoBRL, included with enzyme</td>
+</tr>
+<tr>
+<td>DTT</td>
+<td>GibcoBRL, 0.1 M, included with enzyme</td>
+</tr>
+<tr>
+<td>Nucleotides</td>
+<td>Pharmacia, 100 mM each of dGTP, dATP, dTTP, dCTP, 27-2035-02<sup>*</sup></td>
+</tr>
+<tr>
+<td>RNase Inhibitor</td>
+<td>Boehringer Mannheim, 40 U/µl, 799017</td>
+</tr>
+<tr>
+<td>or RNasin</td>
+<td>GibcoBRL, 40 U/µl15518-012</td>
+</tr>
+<tr>
+<td>Linear Acrylamide</td>
+<td>Ambion, 0.1 µg/µl, 9520</td>
+</tr>
+<tr>
+<td>5x Second Strand Buffer</td>
+<td>100 mM Tris pH 6.9, 450 mM KCl, 23 mM MgCl<sub>2</sub>, 750 µM Î²-Nicotine Adenine Dinucleotide (Sigma, N6522), 50 mM (NH<sub>4</sub>)<sub>2</sub>SO<sub>4</sub></td>
+</tr>
+<tr>
+<td><em>E. coli</em> DNA polymerase I</td>
+<td>NEB, 10 U/µl, 209L or GibcoBRL, 10 U/µl, 18010-017</td>
+</tr>
+<tr>
+<td><em>E. coli</em> RNase H</td>
+<td>GibcoBRL, 2 U/µl, 18021-071</td>
+</tr>
+<tr>
+<td><em>E. coli</em> DNA ligase</td>
+<td>NEB, 10 U/µl, 205L or GibcoBRL, 10 U/µl, 18052-019</td>
+</tr>
+<tr>
+<td>Phenol:Chloroform:IAA</td>
+<td>Ambion, 25:24:1, pH 6.6, raised to pH 7.9 with included buffer (400 ml), 9732</td>
+</tr>
+<tr>
+<td>Ammonium Acetate</td>
+<td>Ambion, 5M (0.2 µm), 9070G</td>
+</tr>
+<tr>
+<td>Ethanol</td>
+<td>Stores, 100% (-20°C)</td>
+</tr>
+<tr>
+<td>T7 MegaScript Kit</td>
+<td>Ambion, 1334</td>
+</tr>
+<tr>
+<td>or Ampliscribe T7 Kit</td>
+<td>Epicentre, AS2607 (25x)/AS3107 (50x)</td>
+</tr>
+<tr>
+<td>MicroBioSpin column</td>
+<td>BioRad, P-6 732-6221, P-30 732-6223</td>
+</tr>
+<tr>
+<td>Phase-Lock Gel Light</td>
+<td>Brinkman Instruments, 1.5 ml, 0032007.961</td>
+</tr>
+</tbody>
+</table>
+<p><strong>*</strong> Nucleotide mix: use 10 mM dGTP/dATP/dTTP/dCTP.</p><p>**
+**</p><p><span class="underline">Protocol:</span></p>
+<ol>
+<li><p> Mix together:</p><p>200 ng poly A<sup>+</sup> RNA (or 4-10 µg total RNA)</p><p><span class="underline">1 µl</span> oligo-dT/T7 (1 µg/µl)</p><p>10 µl total volume</p></li>
+<li><p> Heat to 70°C for 10 minutes.</p></li>
+<li><p> Chill on ice for 30 seconds.</p></li>
+<li><p> Centrifuge briefly.</p></li>
+<li><p> Add the following (on ice):</p><p>4 µl 5x First Strand Buffer</p><p>2 µl DTT (0.1 M)</p><p>1 µl dNTP mix (10 mM)</p><p>1 µl Linear Acrylamide (0.1 µg/µl)</p><p>1 µl RNase Inhibitor (40 U/µl)</p><p>Note: when doing multiple reactions, make up premix containing all
+and aliquot 9 µl premix to each tube.</p></li>
+<li><p> Mix contents of tube gently. Heat to 42°C for 1 minute.</p></li>
+<li><p> Add:</p><p><span class="underline">1 µl</span> SuperScript II (200 U/µl)</p><p>20 µl total volume</p></li>
+<li><p> Mix contents of tube gently and incubate at 42°C for 1-2 hours.</p></li>
+<li><p> Place on ice and keep cool while adding second strand components.</p></li>
+<li><p>Add the following:</p><p>30 µl 5x Second Strand Buffer <em>(recipe below)</em></p><p>3 µl dNTP mix (10 mM)</p><p>4 µl <em>E. coli</em> DNA polymerase I (10 U/µl)</p><p>1 µl <em>E. coli</em> RNase H (2 U/µl)</p><p>1 µl <em>E. coli</em> DNA ligase (10 U/µl)</p><p><span class="underline">91 µl</span> ddH<sub>2</sub>O</p><p>150 µl total volume</p></li>
+<li><p>Mix contents of tube gently and incubate at 16°C for 2 hours.</p></li>
+<li><p>Add 3 µl 2.5M NaOH and incubate at 37°C for 10 minutes.</p></li>
+<li><p>Add 150 µl <strong><em>buffered</em></strong> Phenol:Chloroform:Isoamylalcohol
+(25:24:1).</p></li>
+<li><p>Mix by pipetting, spin 15K for 5 minutes.</p></li>
+<li><p>Transfer aqueous phase to new tube.</p></li>
+<li><p>Precipitate with 150 µl 5 M Ammonium Acetate and 1 ml 100% Ethanol.</p></li>
+<li><p>Keep at -20°C for at least 15 minutes.</p></li>
+<li><p>Vortex, spin 15K for 20 minutes at RT.</p></li>
+<li><p>Add 100 µl 100% Ethanol, spin 15K for 5 minutes.</p></li>
+<li><p>Resuspend dry pellet in 50 µl ddH<sub>2</sub>O or 10mM Tris pH 7.5.</p></li>
+<li><p>Pass through BioRad MicroBioSpin column (P-6 5bp, P-30 20bp). Mix
+column, remove cap, snap off bottom, spin 2 minutes at 1000x g,
+change collection tube, add sample, spin 4 minutes at 1000x g.</p></li>
+<li><p>Dry purified probe down in speedvac to 16 µl or less.</p></li>
+<li><p>T7 amplification kit: use all 16 µl in 40 µl reaction (double
+volume). Add sequentially (<strong>at RT</strong>):</p><p>16 µl template DNA</p><p>4 µl 10x T7 Reaction Buffer</p><p>12 µl NTP mix (100 mM)</p><p>4 µl DTT (100 mM)</p><p><span class="underline">4 µl</span> Ampliscribe T7 enzyme solution</p><p>40 µl total volume</p></li>
+<li><p>Incubate 42°C for 2-3 hours.</p></li>
+<li><p>Add 110 µl H<sub>2</sub>O and 150 µl <strong><em>water-saturated</em></strong>
+Phenol:Chloroform:Isoamylalcohol (25:24:1).</p></li>
+<li><p>Mix by pipetting, spin 15K for 5 minutes.</p></li>
+<li><p>Transfer aqueous phase to new tube.</p></li>
+<li><p>Precipitate with 150 µl 5 M Ammonium Acetate and 1 ml 100% Ethanol.</p></li>
+<li><p>Keep at -20°C for at least 15 minutes.</p></li>
+<li><p>Vortex, spin 15K for 20 minutes at RT.</p></li>
+<li><p>Add 100 µl 100% Ethanol, spin 15K for 5 minutes at 4°C.</p></li>
+<li><p>Resuspend dry pellet in 30-50 µl ddH<sub>2</sub>O.</p></li>
+<li><p>Pass through BioRad MicroBioSpin column as in step 21.</p></li>
+<li><p>Quantitate approximate aRNA yield by Bioanalyzer and
+spectrophotometer (1 µl).</p></li>
+</ol>
+<p>Ready for CyDye probe synthesis. Label at least 5 µg of amplified RNA
+per reaction with 3-8 µg random hexamers. Yield ~20 µg aRNA from
+200ng mRNA.</p><p><strong>5x Second Strand Buffer Recipe:</strong></p><p>Final Concentration Stock 10 ml</p><p>100 mM Tris pH 7.0 1.0 M 1.000 ml</p><p>450 mM KCl 2.0 M 2.250 ml</p><p>23 mM MgCl<sub>2</sub> 1.0 M 0.230 ml</p><p>50 mM (NH<sub>4</sub>)<sub>2</sub>SO<sub>4</sub> 1.0 M 0.500 ml</p><p>750 µM Î²-NAD 0.1 M 0.075 ml</p><p>ddH<sub>2</sub>O - 5.945ml</p>
+<ul>
+<li><p>Making 0.1 M Î²-NAD: 0.25(g)/663.4(mw)/0.1(M)=3.768(ml). Add 3.768
+ml ddH<sub>2</sub>O to 250 mg Î²-NAD.</p></li>
+<li><p>Making 50 ml 1M (NH<sub>4</sub>)<sub>2</sub>SO<sub>4</sub>:
+132.14(mw) x 0.05(ml) x 1(M)=6.607 (g). Add 50 ml ddH<sub>2</sub>O
+to 6.607 g (NH<sub>4</sub>)<sub>2</sub>SO<sub>4</sub>.</p></li>
+<li><p>All the other buffers are from the Ambion Buffer Kit, 9010</p></li>
+</ul>
+
+
+]]>
+        </content>
+    </entry>
+    
+
+    
+</feed>
