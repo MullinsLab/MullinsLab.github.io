@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<html>
+
+<!-- Mirrored from mullinslab.microbiol.washington.edu/publications/10-Multiple-viral-genetic-analyses-detect-low-level-human-immunodeficiency-virus-type-1-replication-during-effective-highly-active-antiretroviral-therapy by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 21 Jul 2025 18:08:03 GMT -->
+<!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=utf-8" /><!-- /Added by HTTrack -->
+<head>
+    
+<title>Multiple viral genetic analyses detect low-level human immunodeficiency virus type 1 replication during effective highly active antiretroviral therapy. | Mullins Molecular Retrovirology Lab</title>
+
+    
+    <link rel="stylesheet" href="style.css" />
+    
+    <link rel="alternate" type="application/atom+xml" title="Atom feed" href="feed" />
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <script src='https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js?config=TeX-MML-AM_CHTML' async></script>
+
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-136625084-1"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+
+      gtag('config', 'UA-136625084-1');
+    </script>
+</head>
+<body id="entry">
+
+<div id="container">
+
+<header>
+
+<h1>Mullins Molecular Retrovirology Lab</h1>
+
+<div class="description">
+<ul>
+<li>Department of Microbiology</li>
+<li>School of Medicine</li>
+<li>University of Washington</li>
+</ul>
+
+</div>
+
+
+</header>
+
+<section id="nav">
+    <nav>
+        
+        <ul>
+            <li class=""><a href="../index.html">Home</a></li>
+            <li class=""><a href="../research/index.html">Research</a></li>
+            <li class="here"><a href="index.html">Publications</a><ul><li><a href="supplemental.html">Supplemental Data</a></li></ul></li>
+            <li class=""><a href="../protocols/index.html">Protocols</a></li>
+            <li class=""><a href="../people/index.html">People</a></li>
+            <li class=""><a href="../contact/index.html">Contact</a></li>
+            <li class=""><a href="../help/index.html">Help</a></li>
+        </ul>
+    </nav>
+</section>
+
+<section id="links">
+    <nav id="quicklinks">
+        <h2>Software &amp; Tools</h2>
+
+        <ul>
+            <li><a href="http://indra.mullins.microbiol.washington.edu/">Bioinformatics Tools</a></li>
+            <li><a href="https://github.com/mullinslab">GitHub</a></li>
+            <li><a href="../hiris/index.html">HIRIS</a></li>
+            <li><a href="../HMA/index.html">HMA Subtyping Kit</a></li>
+            <li><a href="../isdb/index.html">ISDB</a></li>
+            <li><a href="../tcozy/index.html">TCozy</a></li>
+            <li><a href="https://viroverse.washington.edu/">Viroverse</a></li>
+        </ul>
+    </nav>
+
+    <nav id="lablinks">
+        <h2>Lab Links</h2>
+
+        <ul>
+            <li><a href="https://hercules.mullins.microbiol.washington.edu/pub/doc/">Computing Docs</a></li>
+            <li><a href="../hiris/private/index.html">HIRIS (Private)</a></li>
+            <li><a href="https://tcozy.mullins.microbiol.washington.edu/ice-floe/">ICE Floe</a></li>
+            <li><a href="https://hercules.mullins.microbiol.washington.edu/git/">Internal Git</a></li>
+            <li><a href="../twiki/index.html">Internal wiki</a></li>
+            <li><a href="https://viroverse.washington.edu/viroblast/">Local ViroBLAST</a></li>
+            <li><a href="https://redash.mullins.microbiol.washington.edu/">Redash</a></li>
+            <li><a href="https://mullinslab.slack.com/">Slack</a></li>
+            <li><a href="../support/index.html">Ticketing system</a></li>
+        </ul>
+    </nav>
+
+</section>
+
+<div id="cfar"><a href="http://cfar.washington.edu/">
+    <img src="../static/_img/2c/47ca/CFAR-logo-rev-10-22-18_4aa6fe47bc_500x157.jpg" width="500" height="157" srcset="/static/_img/2c/47ca/CFAR-logo-rev-10-22-18_4aa6fe47bc_500x157.jpg 1x, /static/_img/2c/47ca/CFAR-logo-rev-10-22-18_4aa6fe47bc_1000x314.jpg 2x" alt="University of Washington/Fred Hutch Center for AIDS Research">
+</a></div>
+
+<section id="content">
+    
+<!-- source file: content/publications/frenkel_2003/frenkel_2003-144.md -->
+<article>
+
+<div id="intro">
+    <h1>Citation Information</h1>
+<p>Frenkel LM, Wang Y, Learn GH, McKernan JL, Ellis GM, Mohan KM, Holte SE, De Vange SM, Pawluk DM, Melvin AJ, Lewis PF, Heath LM, Beck IA, Mahalanabis M, Naugler WE, Tobin NH, Mullins JI (2003). <span class="title">Multiple viral genetic analyses detect low-level human immunodeficiency virus type 1 replication during effective highly active antiretroviral therapy.</span> <cite class="journalName">Journal of virology</cite>, <span class="journalIssue">77(10)</span>, 5721-30. (<a href="http://ncbi.nlm.nih.gov/pubmed/12719565">pubmed</a>)</p>
+</div>
+
+
+<div id="more">
+    <h1>Abstract</h1>
+<p>To evaluate human immunodeficiency virus type 1 (HIV-1) replication and selection of drug-resistant viruses during seemingly effective highly active antiretroviral therapy (HAART), multiple HIV-1 env and pol sequences were analyzed and viral DNA levels were quantified from nucleoside analog-experienced children prior to and during a median of 5.1 (range, 1.8 to 6.4) years of HAART. Viral replication was detected at different rates, with apparently increasing sensitivity: 1 of 10 by phylogenetic analysis; 2 of 10 by viral evolution with increasing genetic distances from the most recent common ancestor (MRCA) of infection; 3 of 10 by selection of drug-resistant mutants; and 6 of 10 by maintenance of genetic distances from the MRCA. When four- or five-drug antiretroviral regimens were given to these children, persistent plasma viral rebound did not occur despite the accumulation of highly drug-resistant genotypes. Among the four children without genetic evidence of viral replication, a statistically significant decrease in the genetic distance to the MRCA was detected in three, indicating the persistence of a greater number of early compared to recent viruses, and their HIV-1 DNA decreased by &gt; or =0.9 log(10), resulting in lower absolute DNA levels (P = 0.007). This study demonstrates the variable rates of viral replication when HAART has suppressed plasma HIV-1 RNA for years to a median of &lt;50 copies/ml and that combinations of four or five antiretroviral drugs suppress viral replication even after short-term virologic failure of three-drug HAART and despite ongoing accumulation of drug-resistant mutants. Furthermore, the decrease of cellular HIV-1 DNA to low absolute levels in those without genetic evidence of viral replication suggests that monitoring viral DNA during HAART may gauge low-level replication.</p>
+<!-- suppData -->
+
+<h1>Supplemental Data</h1>
+<p><strong>Supplemental Data:</strong>  </p><p>Appendix 1 for Frenkel et al.  </p><p>Env Trees  </p><p><a href="../static/_img/76/2b50/b1e_cd02d77a74.gif">B1</a> <a href="../static/_img/eb/f28d/g1e_63fa87b22c.gif">G1</a> <a href="../static/_img/00/524b/g2e_f1be87d970.gif">G2</a> <a href="../static/_img/af/c8d1/h1e_cdc8927470.gif">H1</a> <a href="../static/_img/ce/8235/h2e_85d096ca4d.gif">H2</a>
+<a href="../static/_img/ff/f7ec/h3e_3e50659edb.gif">H3</a> <a href="../static/_img/a7/9bb3/l1e_2a37b45393.gif">L1</a> <a href="../static/_img/aa/1021/m2e_fc14d51498.gif">M2</a> <a href="../static/_img/11/2e17/r1e_1fa373cec3.gif">R1</a><a href="../static/_img/c2/7706/s1e_77edfbd571.gif">S1</a>  </p><p>PR Trees  </p><p><a href="../static/_img/d7/0cfc/b1s_e6312f9b23.gif">B1</a> <a href="../static/_img/6d/7cc0/g1s_2773adb186.gif">G1</a> <a href="../static/_img/5e/4c36/g2s_07cd691de7.gif">G2</a> <a href="../static/_img/22/e8d6/h1s_96d8817277.gif">H1</a> <a href="../static/_img/52/49dc/h2s_34fb9892c0.gif">H2</a>
+<a href="../static/_img/72/6663/h3s_5ecee41c96.gif">H3</a> <a href="../static/_img/57/f289/l1s_519aadf6b9.gif">L1</a> <a href="../static/_img/c2/e5d7/m2s_5a6193556b.gif">M2</a> <a href="../static/_img/51/51af/r1s_17d7572cb8.gif">R1</a><a href="../static/_img/69/c14a/s1s_0d61311442.gif">S1</a>  </p><p>RT Trees<br>
+<a href="../static/_img/ea/120b/b1rt_ee4b8d2bf4.gif">B1</a> <a href="../static/_img/8a/00b3/g1rt_4ec4489a5b.gif">G1</a> <a href="../static/_img/b9/7774/g2t_44c111ad8f.gif">G2</a> <a href="../static/_img/3a/b291/h1t_3d080920d0.gif">H1</a> <a href="../static/_img/1d/01a7/h2rt_fa7e9404f7.gif">H2</a>
+<a href="../static/_img/99/d006/h3rt_bc30ecf11a.gif">H3</a> <a href="../static/_img/11/64a4/l1t_19808101c8.gif">L1</a> <a href="../static/_img/17/c250/m2t_c784742e1d.gif">M2</a> <a href="../static/_img/23/38a5/r1rt_3752a282ef.gif">R1</a><a href="../static/_img/a3/bb4f/s1t_15fe096d4d.gif">S1</a></p>
+</div>
+
+
+<div class="clear"></div>
+</article>
+
+</section>
+
+</div>
+</body>
+<!-- Mirrored from mullinslab.microbiol.washington.edu/publications/10-Multiple-viral-genetic-analyses-detect-low-level-human-immunodeficiency-virus-type-1-replication-during-effective-highly-active-antiretroviral-therapy by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 21 Jul 2025 18:08:33 GMT -->
+</html>

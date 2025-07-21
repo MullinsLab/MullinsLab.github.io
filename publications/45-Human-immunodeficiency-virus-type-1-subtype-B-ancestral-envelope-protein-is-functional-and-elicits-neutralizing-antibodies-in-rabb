@@ -1,0 +1,139 @@
+<!DOCTYPE html>
+<html>
+
+<!-- Mirrored from mullinslab.microbiol.washington.edu/publications/45-Human-immunodeficiency-virus-type-1-subtype-B-ancestral-envelope-protein-is-functional-and-elicits-neutralizing-antibodies-in-rabbits-similar-to-those-elicited-by-a-circulating-subtype-B-envelope by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 21 Jul 2025 18:07:09 GMT -->
+<!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=utf-8" /><!-- /Added by HTTrack -->
+<head>
+    
+<title>Human immunodeficiency virus type 1 subtype B ancestral envelope protein is functional and elicits neutralizing antibodies in rabbits similar to those elicited by a circulating subtype B envelope. | Mullins Molecular Retrovirology Lab</title>
+
+    
+    <link rel="stylesheet" href="style.css" />
+    
+    <link rel="alternate" type="application/atom+xml" title="Atom feed" href="feed" />
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <script src='https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js?config=TeX-MML-AM_CHTML' async></script>
+
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-136625084-1"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+
+      gtag('config', 'UA-136625084-1');
+    </script>
+</head>
+<body id="entry">
+
+<div id="container">
+
+<header>
+
+<h1>Mullins Molecular Retrovirology Lab</h1>
+
+<div class="description">
+<ul>
+<li>Department of Microbiology</li>
+<li>School of Medicine</li>
+<li>University of Washington</li>
+</ul>
+
+</div>
+
+
+</header>
+
+<section id="nav">
+    <nav>
+        
+        <ul>
+            <li class=""><a href="../index.html">Home</a></li>
+            <li class=""><a href="../research/index.html">Research</a></li>
+            <li class="here"><a href="index.html">Publications</a><ul><li><a href="supplemental.html">Supplemental Data</a></li></ul></li>
+            <li class=""><a href="../protocols/index.html">Protocols</a></li>
+            <li class=""><a href="../people/index.html">People</a></li>
+            <li class=""><a href="../contact/index.html">Contact</a></li>
+            <li class=""><a href="../help/index.html">Help</a></li>
+        </ul>
+    </nav>
+</section>
+
+<section id="links">
+    <nav id="quicklinks">
+        <h2>Software &amp; Tools</h2>
+
+        <ul>
+            <li><a href="http://indra.mullins.microbiol.washington.edu/">Bioinformatics Tools</a></li>
+            <li><a href="https://github.com/mullinslab">GitHub</a></li>
+            <li><a href="../hiris/index.html">HIRIS</a></li>
+            <li><a href="../HMA/index.html">HMA Subtyping Kit</a></li>
+            <li><a href="../isdb/index.html">ISDB</a></li>
+            <li><a href="../tcozy/index.html">TCozy</a></li>
+            <li><a href="https://viroverse.washington.edu/">Viroverse</a></li>
+        </ul>
+    </nav>
+
+    <nav id="lablinks">
+        <h2>Lab Links</h2>
+
+        <ul>
+            <li><a href="https://hercules.mullins.microbiol.washington.edu/pub/doc/">Computing Docs</a></li>
+            <li><a href="../hiris/private/index.html">HIRIS (Private)</a></li>
+            <li><a href="https://tcozy.mullins.microbiol.washington.edu/ice-floe/">ICE Floe</a></li>
+            <li><a href="https://hercules.mullins.microbiol.washington.edu/git/">Internal Git</a></li>
+            <li><a href="../twiki/index.html">Internal wiki</a></li>
+            <li><a href="https://viroverse.washington.edu/viroblast/">Local ViroBLAST</a></li>
+            <li><a href="https://redash.mullins.microbiol.washington.edu/">Redash</a></li>
+            <li><a href="https://mullinslab.slack.com/">Slack</a></li>
+            <li><a href="../support/index.html">Ticketing system</a></li>
+        </ul>
+    </nav>
+
+</section>
+
+<div id="cfar"><a href="http://cfar.washington.edu/">
+    <img src="../static/_img/2c/47ca/CFAR-logo-rev-10-22-18_4aa6fe47bc_500x157.jpg" width="500" height="157" srcset="/static/_img/2c/47ca/CFAR-logo-rev-10-22-18_4aa6fe47bc_500x157.jpg 1x, /static/_img/2c/47ca/CFAR-logo-rev-10-22-18_4aa6fe47bc_1000x314.jpg 2x" alt="University of Washington/Fred Hutch Center for AIDS Research">
+</a></div>
+
+<section id="content">
+    
+<!-- source file: content/publications/doria-rose_2005/doria-rose_2005-172.md -->
+<article>
+
+<div id="intro">
+    <h1>Citation Information</h1>
+<p>Doria-Rose NA, Learn GH, Rodrigo AG, Nickle DC, Li F, Mahalanabis M, Hensel MT, McLaughlin S, Edmonson PF, Montefiori D, Barnett SW, Haigwood NL, Mullins JI (2005). <span class="title">Human immunodeficiency virus type 1 subtype B ancestral envelope protein is functional and elicits neutralizing antibodies in rabbits similar to those elicited by a circulating subtype B envelope.</span> <cite class="journalName">Journal of virology</cite>, <span class="journalIssue">79(17)</span>, 11214-24. (<a href="http://ncbi.nlm.nih.gov/pubmed/16103173">pubmed</a>)</p>
+</div>
+
+
+<div id="more">
+    <h1>Abstract</h1>
+<p>Human immunodeficiency virus type 1 (HIV-1) is a difficult target for vaccine development, in part because of its ever-expanding genetic diversity and attendant capacity to escape immunologic recognition. Vaccine efficacy might be improved by maximizing immunogen antigenic similarity to viruses likely to be encountered by vaccinees. To this end, we designed a prototype HIV-1 envelope vaccine using a deduced ancestral state for the env gene. The ancestral state reconstruction method was shown to be &gt;95% accurate by computer simulation and 99.8% accurate when estimating the known inoculum used in an experimental infection study in rhesus macaques. Furthermore, the deduced ancestor gene differed from the set of sequences used to derive the ancestor by an average of 12.3%, while these latter sequences were an average of 17.3% different from each other. A full-length ancestral subtype B HIV-1 env gene was constructed and shown to produce a glycoprotein of 160 kDa that bound and fused with cells expressing the HIV-1 coreceptor CCR5. This Env was also functional in a virus pseudotype assay. When either gp160- or gp140-expressing plasmids and recombinant gp120 were used to immunize rabbits in a DNA prime-protein boost regimen, the artificial gene induced immunoglobulin G antibodies capable of weakly neutralizing heterologous primary HIV-1 strains. The results were similar for rabbits immunized in parallel with a natural isolate, HIV-1 SF162. Further design efforts to better present conserved neutralization determinants are warranted.</p>
+<!-- suppData -->
+
+<h1>Supplemental Data</h1>
+
+<h3>Supplemental Data for Doria-Rose et al.:</h3>
+
+<ol>
+<li> Table S1: <a href="doria-rose_2005/2203-Supplemental-Tables.html#MP">Model Parameters</a></li>
+<li> Table S2: <a href="doria-rose_2005/2203-Supplemental-Tables.html#Seq">Sequences used to derive subtype B MRCA</a></li>
+<li> Figure S1: <a href="doria-rose_2005/1845-Supp1.html">Alignment of SIVBK28 (Env region) and deduced
+ancestor</a></li>
+<li> Figure S2: <a href="doria-rose_2005/477-Supp2.html">Nucleotide and inferred amino acid sequence of
+AN1env</a></li>
+</ol>
+
+</div>
+
+
+<div class="clear"></div>
+</article>
+
+</section>
+
+</div>
+</body>
+<!-- Mirrored from mullinslab.microbiol.washington.edu/publications/45-Human-immunodeficiency-virus-type-1-subtype-B-ancestral-envelope-protein-is-functional-and-elicits-neutralizing-antibodies-in-rabbits-similar-to-those-elicited-by-a-circulating-subtype-B-envelope by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 21 Jul 2025 18:07:12 GMT -->
+</html>

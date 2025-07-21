@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<html>
+
+<!-- Mirrored from mullinslab.microbiol.washington.edu/publications/7-Complex-patterns-of-protease-inhibitor-resistance-among-antiretroviral-treatment-experienced-HIV-2-patients-from-Senegal-implications-for-second-line-therapy by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 21 Jul 2025 18:05:57 GMT -->
+<!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=utf-8" /><!-- /Added by HTTrack -->
+<head>
+    
+<title>Complex patterns of protease inhibitor resistance among antiretroviral treatment-experienced HIV-2 patients from Senegal: implications for second-line therapy. | Mullins Molecular Retrovirology Lab</title>
+
+    
+    <link rel="stylesheet" href="style.css" />
+    
+    <link rel="alternate" type="application/atom+xml" title="Atom feed" href="feed" />
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <script src='https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js?config=TeX-MML-AM_CHTML' async></script>
+
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-136625084-1"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+
+      gtag('config', 'UA-136625084-1');
+    </script>
+</head>
+<body id="entry">
+
+<div id="container">
+
+<header>
+
+<h1>Mullins Molecular Retrovirology Lab</h1>
+
+<div class="description">
+<ul>
+<li>Department of Microbiology</li>
+<li>School of Medicine</li>
+<li>University of Washington</li>
+</ul>
+
+</div>
+
+
+</header>
+
+<section id="nav">
+    <nav>
+        
+        <ul>
+            <li class=""><a href="../index.html">Home</a></li>
+            <li class=""><a href="../research/index.html">Research</a></li>
+            <li class="here"><a href="index.html">Publications</a><ul><li><a href="supplemental.html">Supplemental Data</a></li></ul></li>
+            <li class=""><a href="../protocols/index.html">Protocols</a></li>
+            <li class=""><a href="../people/index.html">People</a></li>
+            <li class=""><a href="../contact/index.html">Contact</a></li>
+            <li class=""><a href="../help/index.html">Help</a></li>
+        </ul>
+    </nav>
+</section>
+
+<section id="links">
+    <nav id="quicklinks">
+        <h2>Software &amp; Tools</h2>
+
+        <ul>
+            <li><a href="http://indra.mullins.microbiol.washington.edu/">Bioinformatics Tools</a></li>
+            <li><a href="https://github.com/mullinslab">GitHub</a></li>
+            <li><a href="../hiris/index.html">HIRIS</a></li>
+            <li><a href="../HMA/index.html">HMA Subtyping Kit</a></li>
+            <li><a href="../isdb/index.html">ISDB</a></li>
+            <li><a href="../tcozy/index.html">TCozy</a></li>
+            <li><a href="https://viroverse.washington.edu/">Viroverse</a></li>
+        </ul>
+    </nav>
+
+    <nav id="lablinks">
+        <h2>Lab Links</h2>
+
+        <ul>
+            <li><a href="https://hercules.mullins.microbiol.washington.edu/pub/doc/">Computing Docs</a></li>
+            <li><a href="../hiris/private/index.html">HIRIS (Private)</a></li>
+            <li><a href="https://tcozy.mullins.microbiol.washington.edu/ice-floe/">ICE Floe</a></li>
+            <li><a href="https://hercules.mullins.microbiol.washington.edu/git/">Internal Git</a></li>
+            <li><a href="../twiki/index.html">Internal wiki</a></li>
+            <li><a href="https://viroverse.washington.edu/viroblast/">Local ViroBLAST</a></li>
+            <li><a href="https://redash.mullins.microbiol.washington.edu/">Redash</a></li>
+            <li><a href="https://mullinslab.slack.com/">Slack</a></li>
+            <li><a href="../support/index.html">Ticketing system</a></li>
+        </ul>
+    </nav>
+
+</section>
+
+<div id="cfar"><a href="http://cfar.washington.edu/">
+    <img src="../static/_img/2c/47ca/CFAR-logo-rev-10-22-18_4aa6fe47bc_500x157.jpg" width="500" height="157" srcset="/static/_img/2c/47ca/CFAR-logo-rev-10-22-18_4aa6fe47bc_500x157.jpg 1x, /static/_img/2c/47ca/CFAR-logo-rev-10-22-18_4aa6fe47bc_1000x314.jpg 2x" alt="University of Washington/Fred Hutch Center for AIDS Research">
+</a></div>
+
+<section id="content">
+    
+<!-- source file: content/publications/raugi_2013/raugi_2013-542.md -->
+<article>
+
+<div id="intro">
+    <h1>Citation Information</h1>
+<p>Raugi DN, Smith RA, Ba S, Toure M, Traore F, Sall F, Pan C, Blankenship L, Montano A, Olson J, Dia Badiane NM, Mullins JI, Kiviat NB, Hawes SE, Sow PS, Gottlieb GS, University of Washington-Dakar HIV-2 Study Group (2013). <span class="title">Complex patterns of protease inhibitor resistance among antiretroviral treatment-experienced HIV-2 patients from Senegal: implications for second-line therapy.</span> <cite class="journalName">Antimicrobial agents and chemotherapy</cite>, <span class="journalIssue">57(6)</span>, 2751-60. (<a href="http://ncbi.nlm.nih.gov/pubmed/23571535">pubmed</a>) (<a href="https://doi.org/10.1128/AAC.00405-13">doi</a>)</p>
+</div>
+
+
+<div id="more">
+    <h1>Abstract</h1>
+<p>Protease inhibitor (PI)-based antiretroviral therapy (ART) can effectively suppress HIV-2 plasma load and increase CD4 counts; however, not all PIs are equally active against HIV-2, and few data exist to support second-line therapy decisions. To identify therapeutic options for HIV-2 patients failing ART, we evaluated the frequency of PI resistance-associated amino acid changes in HIV-2 sequences from a cohort of 43 Senegalese individuals receiving unboosted indinavir (n = 18 subjects)-, lopinavir/ritonavir (n = 4)-, or indinavir and then lopinavir/ritonavir (n = 21)-containing ART. Common protease substitutions included V10I, V47A, I54M, V71I, I82F, I84V, L90M, and L99F, and most patients harbored viruses containing multiple changes. Based on genotypic data, we constructed a panel of 15 site-directed mutants of HIV-2ROD9 containing single- or multiple-treatment-associated amino acid changes in the protease-encoding region of pol. We then quantified the susceptibilities of the mutants to the HIV-2 &ldquo;active&rdquo; PIs saquinavir, lopinavir, and darunavir using a single-cycle assay. Relative to wild-type HIV-2, the V47A mutant was resistant to lopinavir (6.3-fold increase in the mean 50% effective concentration [EC50]), the I54M variant was resistant to darunavir and lopinavir (6.2- and 2.7-fold increases, respectively), and the L90M mutant was resistant to saquinavir (3.6-fold increase). In addition, the triple mutant that included I54M plus I84V plus L90M was resistant to all three PIs (31-, 10-, and 3.8-fold increases in the mean EC50 for darunavir, saquinavir, and lopinavir, respectively). Taken together, our data demonstrate that PI-treated HIV-2 patients frequently harbor viruses that exhibit complex patterns of PI cross-resistance. These findings suggest that sequential PI-based regimens for HIV-2 treatment may be ineffective.</p>
+<!-- suppData -->
+
+<h1>Supplemental Data</h1>
+<p><a href="../_file/9f92f/SupplementalFigure1.v2.pdf">SupplementalFigure1.v2.pdf</a></p><p><a href="../_file/dffbd/SupplementalTable1.v3.docx">SupplementalTable1.v3.docx</a></p>
+</div>
+
+
+<div class="clear"></div>
+</article>
+
+</section>
+
+</div>
+</body>
+<!-- Mirrored from mullinslab.microbiol.washington.edu/publications/7-Complex-patterns-of-protease-inhibitor-resistance-among-antiretroviral-treatment-experienced-HIV-2-patients-from-Senegal-implications-for-second-line-therapy by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 21 Jul 2025 18:05:59 GMT -->
+</html>

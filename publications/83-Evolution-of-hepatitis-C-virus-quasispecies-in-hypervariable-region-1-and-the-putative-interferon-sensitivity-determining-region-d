@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html>
+
+<!-- Mirrored from mullinslab.microbiol.washington.edu/publications/83-Evolution-of-hepatitis-C-virus-quasispecies-in-hypervariable-region-1-and-the-putative-interferon-sensitivity-determining-region-during-interferon-therapy-and-natural-infection by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 21 Jul 2025 18:09:10 GMT -->
+<!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=utf-8" /><!-- /Added by HTTrack -->
+<head>
+    
+<title>Evolution of hepatitis C virus quasispecies in hypervariable region 1 and the putative interferon sensitivity-determining region during interferon therapy and natural infection. | Mullins Molecular Retrovirology Lab</title>
+
+    
+    <link rel="stylesheet" href="style.css" />
+    
+    <link rel="alternate" type="application/atom+xml" title="Atom feed" href="feed" />
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <script src='https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js?config=TeX-MML-AM_CHTML' async></script>
+
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-136625084-1"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+
+      gtag('config', 'UA-136625084-1');
+    </script>
+</head>
+<body id="entry">
+
+<div id="container">
+
+<header>
+
+<h1>Mullins Molecular Retrovirology Lab</h1>
+
+<div class="description">
+<ul>
+<li>Department of Microbiology</li>
+<li>School of Medicine</li>
+<li>University of Washington</li>
+</ul>
+
+</div>
+
+
+</header>
+
+<section id="nav">
+    <nav>
+        
+        <ul>
+            <li class=""><a href="../index.html">Home</a></li>
+            <li class=""><a href="../research/index.html">Research</a></li>
+            <li class="here"><a href="index.html">Publications</a><ul><li><a href="supplemental.html">Supplemental Data</a></li></ul></li>
+            <li class=""><a href="../protocols/index.html">Protocols</a></li>
+            <li class=""><a href="../people/index.html">People</a></li>
+            <li class=""><a href="../contact/index.html">Contact</a></li>
+            <li class=""><a href="../help/index.html">Help</a></li>
+        </ul>
+    </nav>
+</section>
+
+<section id="links">
+    <nav id="quicklinks">
+        <h2>Software &amp; Tools</h2>
+
+        <ul>
+            <li><a href="http://indra.mullins.microbiol.washington.edu/">Bioinformatics Tools</a></li>
+            <li><a href="https://github.com/mullinslab">GitHub</a></li>
+            <li><a href="../hiris/index.html">HIRIS</a></li>
+            <li><a href="../HMA/index.html">HMA Subtyping Kit</a></li>
+            <li><a href="../isdb/index.html">ISDB</a></li>
+            <li><a href="../tcozy/index.html">TCozy</a></li>
+            <li><a href="https://viroverse.washington.edu/">Viroverse</a></li>
+        </ul>
+    </nav>
+
+    <nav id="lablinks">
+        <h2>Lab Links</h2>
+
+        <ul>
+            <li><a href="https://hercules.mullins.microbiol.washington.edu/pub/doc/">Computing Docs</a></li>
+            <li><a href="../hiris/private/index.html">HIRIS (Private)</a></li>
+            <li><a href="https://tcozy.mullins.microbiol.washington.edu/ice-floe/">ICE Floe</a></li>
+            <li><a href="https://hercules.mullins.microbiol.washington.edu/git/">Internal Git</a></li>
+            <li><a href="../twiki/index.html">Internal wiki</a></li>
+            <li><a href="https://viroverse.washington.edu/viroblast/">Local ViroBLAST</a></li>
+            <li><a href="https://redash.mullins.microbiol.washington.edu/">Redash</a></li>
+            <li><a href="https://mullinslab.slack.com/">Slack</a></li>
+            <li><a href="../support/index.html">Ticketing system</a></li>
+        </ul>
+    </nav>
+
+</section>
+
+<div id="cfar"><a href="http://cfar.washington.edu/">
+    <img src="../static/_img/2c/47ca/CFAR-logo-rev-10-22-18_4aa6fe47bc_500x157.jpg" width="500" height="157" srcset="/static/_img/2c/47ca/CFAR-logo-rev-10-22-18_4aa6fe47bc_500x157.jpg 1x, /static/_img/2c/47ca/CFAR-logo-rev-10-22-18_4aa6fe47bc_1000x314.jpg 2x" alt="University of Washington/Fred Hutch Center for AIDS Research">
+</a></div>
+
+<section id="content">
+    
+<!-- source file: content/publications/polyak_1998-99.md -->
+<article>
+
+<div id="intro">
+    <h1>Citation Information</h1>
+<p>Polyak SJ, McArdle S, Liu SL, Sullivan DG, Chung M, Hofgärtner WT, Carithers RL, McMahon BJ, Mullins JI, Corey L, Gretch DR (1998). <span class="title">Evolution of hepatitis C virus quasispecies in hypervariable region 1 and the putative interferon sensitivity-determining region during interferon therapy and natural infection.</span> <cite class="journalName">Journal of virology</cite>, <span class="journalIssue">72(5)</span>, 4288-96. (<a href="http://ncbi.nlm.nih.gov/pubmed/9557719">pubmed</a>)</p>
+</div>
+
+
+<div id="more">
+    <h1>Abstract</h1>
+<p>To study hepatitis C virus (HCV) genetic mutation during interferon (IFN) therapy, the temporal changes in HCV quasispecies heterogeneity were compared before and after treatment for nine patients infected with HCV genotype 1, including four nonresponders, four responders who relapsed after therapy, and one responder who experienced a breakthrough of viremia during therapy. Nine untreated patients with an average time between specimens of 8.4 years served as controls. Sequences from the second envelope glycoprotein gene hypervariable region 1 (HVR1) and the putative IFN sensitivity-determining region (ISDR) of the nonstructural NS5A gene were analyzed by heteroduplex mobility assays and nucleotide sequencing. A strong positive correlation was found between the percent change in a heteroduplex mobility ratio (HMR) and percent change in nucleotide sequence (r = 0.941, P &lt; 0.001). The rate of fixation of mutations in the HVR1 was significantly higher for IFN-treated patients than for controls (6.97 versus 1.31% change in HMR/year; P = 0.02). Similarly, a higher rate of fixation of mutations was observed in the ISDR for IFN-treated patients than for untreated controls, although the result was not significant (1.45 versus 0.15 amino acid changes/year; P = 0.12). On an individual patient basis, IFN therapy was associated with measurable HVR1 and ISDR mutation in nine of nine (100%) and two of nine (22.2%) patients, respectively. Evolution to IFN-resistant ISDR sequences was observed in only one of nine IFN-treated patients. These data suggest that IFN therapy frequently exerts pressure on the HCV envelope region, while pressure on the ISDR was evident in only a subset of patients. Thus, the selection pressures evoked on HCV genotype 1 quasispecies during IFN therapy appear to differ among different patients.</p>
+</div>
+
+
+<div class="clear"></div>
+</article>
+
+</section>
+
+</div>
+</body>
+<!-- Mirrored from mullinslab.microbiol.washington.edu/publications/83-Evolution-of-hepatitis-C-virus-quasispecies-in-hypervariable-region-1-and-the-putative-interferon-sensitivity-determining-region-during-interferon-therapy-and-natural-infection by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 21 Jul 2025 18:09:10 GMT -->
+</html>

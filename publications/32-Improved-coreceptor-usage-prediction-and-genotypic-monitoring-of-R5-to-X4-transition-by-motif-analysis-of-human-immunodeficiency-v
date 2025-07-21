@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<html>
+
+<!-- Mirrored from mullinslab.microbiol.washington.edu/publications/32-Improved-coreceptor-usage-prediction-and-genotypic-monitoring-of-R5-to-X4-transition-by-motif-analysis-of-human-immunodeficiency-virus-type-1-env-V3-loop-sequences by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 21 Jul 2025 18:07:43 GMT -->
+<!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=utf-8" /><!-- /Added by HTTrack -->
+<head>
+    
+<title>Improved coreceptor usage prediction and genotypic monitoring of R5-to-X4 transition by motif analysis of human immunodeficiency virus type 1 env V3 loop sequences. | Mullins Molecular Retrovirology Lab</title>
+
+    
+    <link rel="stylesheet" href="style.css" />
+    
+    <link rel="alternate" type="application/atom+xml" title="Atom feed" href="feed" />
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <script src='https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js?config=TeX-MML-AM_CHTML' async></script>
+
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-136625084-1"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+
+      gtag('config', 'UA-136625084-1');
+    </script>
+</head>
+<body id="entry">
+
+<div id="container">
+
+<header>
+
+<h1>Mullins Molecular Retrovirology Lab</h1>
+
+<div class="description">
+<ul>
+<li>Department of Microbiology</li>
+<li>School of Medicine</li>
+<li>University of Washington</li>
+</ul>
+
+</div>
+
+
+</header>
+
+<section id="nav">
+    <nav>
+        
+        <ul>
+            <li class=""><a href="../index.html">Home</a></li>
+            <li class=""><a href="../research/index.html">Research</a></li>
+            <li class="here"><a href="index.html">Publications</a><ul><li><a href="supplemental.html">Supplemental Data</a></li></ul></li>
+            <li class=""><a href="../protocols/index.html">Protocols</a></li>
+            <li class=""><a href="../people/index.html">People</a></li>
+            <li class=""><a href="../contact/index.html">Contact</a></li>
+            <li class=""><a href="../help/index.html">Help</a></li>
+        </ul>
+    </nav>
+</section>
+
+<section id="links">
+    <nav id="quicklinks">
+        <h2>Software &amp; Tools</h2>
+
+        <ul>
+            <li><a href="http://indra.mullins.microbiol.washington.edu/">Bioinformatics Tools</a></li>
+            <li><a href="https://github.com/mullinslab">GitHub</a></li>
+            <li><a href="../hiris/index.html">HIRIS</a></li>
+            <li><a href="../HMA/index.html">HMA Subtyping Kit</a></li>
+            <li><a href="../isdb/index.html">ISDB</a></li>
+            <li><a href="../tcozy/index.html">TCozy</a></li>
+            <li><a href="https://viroverse.washington.edu/">Viroverse</a></li>
+        </ul>
+    </nav>
+
+    <nav id="lablinks">
+        <h2>Lab Links</h2>
+
+        <ul>
+            <li><a href="https://hercules.mullins.microbiol.washington.edu/pub/doc/">Computing Docs</a></li>
+            <li><a href="../hiris/private/index.html">HIRIS (Private)</a></li>
+            <li><a href="https://tcozy.mullins.microbiol.washington.edu/ice-floe/">ICE Floe</a></li>
+            <li><a href="https://hercules.mullins.microbiol.washington.edu/git/">Internal Git</a></li>
+            <li><a href="../twiki/index.html">Internal wiki</a></li>
+            <li><a href="https://viroverse.washington.edu/viroblast/">Local ViroBLAST</a></li>
+            <li><a href="https://redash.mullins.microbiol.washington.edu/">Redash</a></li>
+            <li><a href="https://mullinslab.slack.com/">Slack</a></li>
+            <li><a href="../support/index.html">Ticketing system</a></li>
+        </ul>
+    </nav>
+
+</section>
+
+<div id="cfar"><a href="http://cfar.washington.edu/">
+    <img src="../static/_img/2c/47ca/CFAR-logo-rev-10-22-18_4aa6fe47bc_500x157.jpg" width="500" height="157" srcset="/static/_img/2c/47ca/CFAR-logo-rev-10-22-18_4aa6fe47bc_500x157.jpg 1x, /static/_img/2c/47ca/CFAR-logo-rev-10-22-18_4aa6fe47bc_1000x314.jpg 2x" alt="University of Washington/Fred Hutch Center for AIDS Research">
+</a></div>
+
+<section id="content">
+    
+<!-- source file: content/publications/jensen_2003/jensen_2003-152.md -->
+<article>
+
+<div id="intro">
+    <h1>Citation Information</h1>
+<p>Jensen MA, Li FS, van &rsquo;t Wout AB, Nickle DC, Shriner D, He HX, McLaughlin S, Shankarappa R, Margolick JB, Mullins JI (2003). <span class="title">Improved coreceptor usage prediction and genotypic monitoring of R5-to-X4 transition by motif analysis of human immunodeficiency virus type 1 env V3 loop sequences.</span> <cite class="journalName">Journal of virology</cite>, <span class="journalIssue">77(24)</span>, 13376-88. (<a href="http://ncbi.nlm.nih.gov/pubmed/14645592">pubmed</a>)</p>
+</div>
+
+
+<div id="more">
+    <h1>Abstract</h1>
+<p>Early in infection, human immunodeficiency virus type 1 (HIV-1) generally uses the CCR5 chemokine receptor (along with CD4) for cellular entry. In many HIV-1-infected individuals, viral genotypic changes arise that allow the virus to use CXCR4 (either in addition to CCR5 or alone) as an entry coreceptor. This switch has been associated with an acceleration of both CD3(+) T-cell decline and progression to AIDS. While it is well known that the V3 loop of gp120 largely determines coreceptor usage and that positively charged residues in V3 play an important role, the process of genetic change in V3 leading to altered coreceptor usage is not well understood. Further, the methods for biological phenotyping of virus for research or clinical purposes are laborious, depend on sample availability, and present biosafety concerns, so reliable methods for sequence-based &ldquo;virtual phenotyping&rdquo; are desirable. We introduce a simple bioinformatic method of scoring V3 amino acid sequences that reliably predicts CXCR4 usage (sensitivity, 84%; specificity, 96%). This score (as determined on the basis of position-specific scoring matrices [PSSM]) can be interpreted as revealing a propensity to use CXCR4 as follows: known R5 viruses had low scores, R5X4 viruses had intermediate scores, and X4 viruses had high scores. Application of the PSSM scoring method to reconstructed virus phylogenies of 11 longitudinally sampled individuals revealed that the development of X4 viruses was generally gradual and involved the accumulation of multiple amino acid changes in V3. We found that X4 viruses were lost in two ways: by the dying off of an established X4 lineage or by mutation back to low-scoring V3 loops.</p>
+<!-- suppData -->
+
+<h1>Supplemental Data</h1>
+<p>Appendix: Supplemental material</p><p><a href="../static/_img/43/833e/Figure1_dce15663bd.gif" data-lightbox="gallery" title><img src="../static/_img/43/833e/Figure1_dce15663bd_160x200.gif" width="160" height="200" srcset="/static/_img/43/833e/Figure1_dce15663bd_160x200.gif 1x, /static/_img/43/833e/Figure1_dce15663bd_320x400.gif 2x" alt="Figure1.gif"></a><a href="../static/_img/53/96d4/Figure2_f3750252fd.gif" data-lightbox="gallery" title><img src="../static/_img/53/96d4/Figure2_f3750252fd_160x200.gif" width="160" height="200" srcset="/static/_img/53/96d4/Figure2_f3750252fd_160x200.gif 1x, /static/_img/53/96d4/Figure2_f3750252fd_320x400.gif 2x" alt="Figure2.gif"></a></p><p>Description: Figure S2: Cross-validation of X4 and SI PSSM for varying
+X4 prevalence. Sens: sensitivity, Spec: specificity of CXCR4-use/SI
+prediction. Boxes span interquartile range of values, for 100 validation
+iterates (see paper); error bars indicate range. Stippled and open boxes
+are results using charge based methods (see paper).</p><p><a href="../static/_img/f7/e405/Figure3_08ede7b85c.gif" data-lightbox="gallery" title><img src="../static/_img/f7/e405/Figure3_08ede7b85c_160x200.gif" width="160" height="200" srcset="/static/_img/f7/e405/Figure3_08ede7b85c_160x200.gif 1x, /static/_img/f7/e405/Figure3_08ede7b85c_320x400.gif 2x" alt="Figure3.gif"></a><a href="../static/_img/12/3361/Figure4_8b1c9935ec.gif" data-lightbox="gallery" title><img src="../static/_img/12/3361/Figure4_8b1c9935ec_160x200.gif" width="160" height="200" srcset="/static/_img/12/3361/Figure4_8b1c9935ec_160x200.gif 1x, /static/_img/12/3361/Figure4_8b1c9935ec_320x400.gif 2x" alt="Figure4.gif"></a><a href="../static/_img/c8/64c8/Figure5_05550538ef.gif" data-lightbox="gallery" title><img src="../static/_img/c8/64c8/Figure5_05550538ef_160x200.gif" width="160" height="200" srcset="/static/_img/c8/64c8/Figure5_05550538ef_160x200.gif 1x, /static/_img/c8/64c8/Figure5_05550538ef_320x400.gif 2x" alt="Figure5.gif"></a><a href="../static/_img/c9/64e7/Figure6_4be870eb46.gif" data-lightbox="gallery" title><img src="../static/_img/c9/64e7/Figure6_4be870eb46_160x200.gif" width="160" height="200" srcset="/static/_img/c9/64e7/Figure6_4be870eb46_160x200.gif 1x, /static/_img/c9/64e7/Figure6_4be870eb46_320x400.gif 2x" alt="Figure6.gif"></a><a href="../static/_img/b1/2431/Figure7_a2863f531b.gif" data-lightbox="gallery" title><img src="../static/_img/b1/2431/Figure7_a2863f531b_160x200.gif" width="160" height="200" srcset="/static/_img/b1/2431/Figure7_a2863f531b_160x200.gif 1x, /static/_img/b1/2431/Figure7_a2863f531b_320x400.gif 2x" alt="Figure7.gif"></a><a href="../static/_img/ba/20a2/Figure8_139585d66d.gif" data-lightbox="gallery" title><img src="../static/_img/ba/20a2/Figure8_139585d66d_160x200.gif" width="160" height="200" srcset="/static/_img/ba/20a2/Figure8_139585d66d_160x200.gif 1x, /static/_img/ba/20a2/Figure8_139585d66d_320x400.gif 2x" alt="Figure8.gif"></a><a href="../static/_img/27/cf99/Figure9_8e264dac38.gif" data-lightbox="gallery" title><img src="../static/_img/27/cf99/Figure9_8e264dac38_160x200.gif" width="160" height="200" srcset="/static/_img/27/cf99/Figure9_8e264dac38_160x200.gif 1x, /static/_img/27/cf99/Figure9_8e264dac38_320x400.gif 2x" alt="Figure9.gif"></a><a href="../static/_img/32/2678/Figure10_7dd1684ebd.gif" data-lightbox="gallery" title><img src="../static/_img/32/2678/Figure10_7dd1684ebd_86x200.gif" width="86" height="200" srcset="/static/_img/32/2678/Figure10_7dd1684ebd_86x200.gif 1x, /static/_img/32/2678/Figure10_7dd1684ebd_172x400.gif 2x" alt="Figure10.gif"></a></p>
+</div>
+
+
+<div class="clear"></div>
+</article>
+
+</section>
+
+</div>
+</body>
+<!-- Mirrored from mullinslab.microbiol.washington.edu/publications/32-Improved-coreceptor-usage-prediction-and-genotypic-monitoring-of-R5-to-X4-transition-by-motif-analysis-of-human-immunodeficiency-virus-type-1-env-V3-loop-sequences by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 21 Jul 2025 18:08:03 GMT -->
+</html>
