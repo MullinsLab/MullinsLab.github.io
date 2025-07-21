@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html>
+
+<!-- Mirrored from mullinslab.microbiol.washington.edu/publications/397-Selective-induction-of-CTL-helper-rather-than-killer-activity-by-natural-epitope-variants-promotes-dendritic-cell-mediated-HIV-1-dissemination by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 21 Jul 2025 18:05:53 GMT -->
+<!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=utf-8" /><!-- /Added by HTTrack -->
+<head>
+    
+<title>Selective induction of CTL helper rather than killer activity by natural epitope variants promotes dendritic cell-mediated HIV-1 dissemination. | Mullins Molecular Retrovirology Lab</title>
+
+    
+    <link rel="stylesheet" href="style.css" />
+    
+    <link rel="alternate" type="application/atom+xml" title="Atom feed" href="feed" />
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <script src='https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js?config=TeX-MML-AM_CHTML' async></script>
+
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-136625084-1"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+
+      gtag('config', 'UA-136625084-1');
+    </script>
+</head>
+<body id="entry">
+
+<div id="container">
+
+<header>
+
+<h1>Mullins Molecular Retrovirology Lab</h1>
+
+<div class="description">
+<ul>
+<li>Department of Microbiology</li>
+<li>School of Medicine</li>
+<li>University of Washington</li>
+</ul>
+
+</div>
+
+
+</header>
+
+<section id="nav">
+    <nav>
+        
+        <ul>
+            <li class=""><a href="../index.html">Home</a></li>
+            <li class=""><a href="../research/index.html">Research</a></li>
+            <li class="here"><a href="index.html">Publications</a><ul><li><a href="supplemental.html">Supplemental Data</a></li></ul></li>
+            <li class=""><a href="../protocols/index.html">Protocols</a></li>
+            <li class=""><a href="../people/index.html">People</a></li>
+            <li class=""><a href="../contact/index.html">Contact</a></li>
+            <li class=""><a href="../help/index.html">Help</a></li>
+        </ul>
+    </nav>
+</section>
+
+<section id="links">
+    <nav id="quicklinks">
+        <h2>Software &amp; Tools</h2>
+
+        <ul>
+            <li><a href="http://indra.mullins.microbiol.washington.edu/">Bioinformatics Tools</a></li>
+            <li><a href="https://github.com/mullinslab">GitHub</a></li>
+            <li><a href="../hiris/index.html">HIRIS</a></li>
+            <li><a href="../HMA/index.html">HMA Subtyping Kit</a></li>
+            <li><a href="../isdb/index.html">ISDB</a></li>
+            <li><a href="../tcozy/index.html">TCozy</a></li>
+            <li><a href="https://viroverse.washington.edu/">Viroverse</a></li>
+        </ul>
+    </nav>
+
+    <nav id="lablinks">
+        <h2>Lab Links</h2>
+
+        <ul>
+            <li><a href="https://hercules.mullins.microbiol.washington.edu/pub/doc/">Computing Docs</a></li>
+            <li><a href="../hiris/private/index.html">HIRIS (Private)</a></li>
+            <li><a href="https://tcozy.mullins.microbiol.washington.edu/ice-floe/">ICE Floe</a></li>
+            <li><a href="https://hercules.mullins.microbiol.washington.edu/git/">Internal Git</a></li>
+            <li><a href="../twiki/index.html">Internal wiki</a></li>
+            <li><a href="https://viroverse.washington.edu/viroblast/">Local ViroBLAST</a></li>
+            <li><a href="https://redash.mullins.microbiol.washington.edu/">Redash</a></li>
+            <li><a href="https://mullinslab.slack.com/">Slack</a></li>
+            <li><a href="../support/index.html">Ticketing system</a></li>
+        </ul>
+    </nav>
+
+</section>
+
+<div id="cfar"><a href="http://cfar.washington.edu/">
+    <img src="../static/_img/2c/47ca/CFAR-logo-rev-10-22-18_4aa6fe47bc_500x157.jpg" width="500" height="157" srcset="/static/_img/2c/47ca/CFAR-logo-rev-10-22-18_4aa6fe47bc_500x157.jpg 1x, /static/_img/2c/47ca/CFAR-logo-rev-10-22-18_4aa6fe47bc_1000x314.jpg 2x" alt="University of Washington/Fred Hutch Center for AIDS Research">
+</a></div>
+
+<section id="content">
+    
+<!-- source file: content/publications/mailliard_2013_ji-552.md -->
+<article>
+
+<div id="intro">
+    <h1>Citation Information</h1>
+<p>Mailliard RB, Smith KN, Fecek RJ, Rappocciolo G, Nascimento EJ, Marques ET, Watkins SC, Mullins JI, Rinaldo CR (2013). <span class="title">Selective induction of CTL helper rather than killer activity by natural epitope variants promotes dendritic cell-mediated HIV-1 dissemination.</span> <cite class="journalName">Journal of immunology (Baltimore, Md. : 1950)</cite>, <span class="journalIssue">191(5)</span>, 2570-80. (<a href="http://ncbi.nlm.nih.gov/pubmed/23913962">pubmed</a>) (<a href="https://doi.org/10.4049/jimmunol.1300373">doi</a>)</p>
+</div>
+
+
+<div id="more">
+    <h1>Abstract</h1>
+<p>The ability of HIV-1 to rapidly accumulate mutations provides the virus with an effective means of escaping CD8(+) CTL responses. In this study, we describe how subtle alterations in CTL epitopes expressed by naturally occurring HIV-1 variants can result in an incomplete escape from CTL recognition, providing the virus with a selective advantage. Rather than paralyzing the CTL response, these epitope modifications selectively induce the CTL to produce proinflammatory cytokines in the absence of target killing. Importantly, instead of dampening the immune response through CTL elimination of variant Ag-expressing immature dendritic cells (DC), a positive CTL-to-DC immune feedback loop dominates whereby the immature DC differentiate into mature proinflammatory DC. Moreover, these CTL-programmed DC exhibit a superior capacity to mediate HIV-1 trans-infection of T cells. This discordant induction of CTL helper activity in the absence of killing most likely contributes to the chronic immune activation associated with HIV-1 infection, and can be used by HIV-1 to promote viral dissemination and persistence. Our findings highlight the need to address the detrimental potential of eliciting dysfunctional cross-reactive memory CTL responses when designing and implementing anti-HIV-1 immunotherapies. </p>
+</div>
+
+
+<div class="clear"></div>
+</article>
+
+</section>
+
+</div>
+</body>
+<!-- Mirrored from mullinslab.microbiol.washington.edu/publications/397-Selective-induction-of-CTL-helper-rather-than-killer-activity-by-natural-epitope-variants-promotes-dendritic-cell-mediated-HIV-1-dissemination by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 21 Jul 2025 18:05:53 GMT -->
+</html>

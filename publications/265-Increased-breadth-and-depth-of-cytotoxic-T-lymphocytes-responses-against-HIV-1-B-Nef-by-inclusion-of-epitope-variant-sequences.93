@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html>
+
+<!-- Mirrored from mullinslab.microbiol.washington.edu/publications/265-Increased-breadth-and-depth-of-cytotoxic-T-lymphocytes-responses-against-HIV-1-B-Nef-by-inclusion-of-epitope-variant-sequences by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 21 Jul 2025 18:06:17 GMT -->
+<!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=utf-8" /><!-- /Added by HTTrack -->
+<head>
+    
+<title>Increased breadth and depth of cytotoxic T lymphocytes responses against HIV-1-B Nef by inclusion of epitope variant sequences. | Mullins Molecular Retrovirology Lab</title>
+
+    
+    <link rel="stylesheet" href="style.css" />
+    
+    <link rel="alternate" type="application/atom+xml" title="Atom feed" href="feed" />
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <script src='https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js?config=TeX-MML-AM_CHTML' async></script>
+
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-136625084-1"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+
+      gtag('config', 'UA-136625084-1');
+    </script>
+</head>
+<body id="entry">
+
+<div id="container">
+
+<header>
+
+<h1>Mullins Molecular Retrovirology Lab</h1>
+
+<div class="description">
+<ul>
+<li>Department of Microbiology</li>
+<li>School of Medicine</li>
+<li>University of Washington</li>
+</ul>
+
+</div>
+
+
+</header>
+
+<section id="nav">
+    <nav>
+        
+        <ul>
+            <li class=""><a href="../index.html">Home</a></li>
+            <li class=""><a href="../research/index.html">Research</a></li>
+            <li class="here"><a href="index.html">Publications</a><ul><li><a href="supplemental.html">Supplemental Data</a></li></ul></li>
+            <li class=""><a href="../protocols/index.html">Protocols</a></li>
+            <li class=""><a href="../people/index.html">People</a></li>
+            <li class=""><a href="../contact/index.html">Contact</a></li>
+            <li class=""><a href="../help/index.html">Help</a></li>
+        </ul>
+    </nav>
+</section>
+
+<section id="links">
+    <nav id="quicklinks">
+        <h2>Software &amp; Tools</h2>
+
+        <ul>
+            <li><a href="http://indra.mullins.microbiol.washington.edu/">Bioinformatics Tools</a></li>
+            <li><a href="https://github.com/mullinslab">GitHub</a></li>
+            <li><a href="../hiris/index.html">HIRIS</a></li>
+            <li><a href="../HMA/index.html">HMA Subtyping Kit</a></li>
+            <li><a href="../isdb/index.html">ISDB</a></li>
+            <li><a href="../tcozy/index.html">TCozy</a></li>
+            <li><a href="https://viroverse.washington.edu/">Viroverse</a></li>
+        </ul>
+    </nav>
+
+    <nav id="lablinks">
+        <h2>Lab Links</h2>
+
+        <ul>
+            <li><a href="https://hercules.mullins.microbiol.washington.edu/pub/doc/">Computing Docs</a></li>
+            <li><a href="../hiris/private/index.html">HIRIS (Private)</a></li>
+            <li><a href="https://tcozy.mullins.microbiol.washington.edu/ice-floe/">ICE Floe</a></li>
+            <li><a href="https://hercules.mullins.microbiol.washington.edu/git/">Internal Git</a></li>
+            <li><a href="../twiki/index.html">Internal wiki</a></li>
+            <li><a href="https://viroverse.washington.edu/viroblast/">Local ViroBLAST</a></li>
+            <li><a href="https://redash.mullins.microbiol.washington.edu/">Redash</a></li>
+            <li><a href="https://mullinslab.slack.com/">Slack</a></li>
+            <li><a href="../support/index.html">Ticketing system</a></li>
+        </ul>
+    </nav>
+
+</section>
+
+<div id="cfar"><a href="http://cfar.washington.edu/">
+    <img src="../static/_img/2c/47ca/CFAR-logo-rev-10-22-18_4aa6fe47bc_500x157.jpg" width="500" height="157" srcset="/static/_img/2c/47ca/CFAR-logo-rev-10-22-18_4aa6fe47bc_500x157.jpg 1x, /static/_img/2c/47ca/CFAR-logo-rev-10-22-18_4aa6fe47bc_1000x314.jpg 2x" alt="University of Washington/Fred Hutch Center for AIDS Research">
+</a></div>
+
+<section id="content">
+    
+<!-- source file: content/publications/rolland_2011_2-487.md -->
+<article>
+
+<div id="intro">
+    <h1>Citation Information</h1>
+<p>Rolland M, Frahm N, Nickle DC, Jojic N, Deng W, Allen TM, Brander C, Heckerman DE, Mullins JI (2011). <span class="title">Increased breadth and depth of cytotoxic T lymphocytes responses against HIV-1-B Nef by inclusion of epitope variant sequences.</span> <cite class="journalName">PloS one</cite>, <span class="journalIssue">6(3)</span>, e17969. (<a href="http://ncbi.nlm.nih.gov/pubmed/21464919">pubmed</a>) (<a href="https://doi.org/10.1371/journal.pone.0017969">doi</a>)</p>
+</div>
+
+
+<div id="more">
+    <h1>Abstract</h1>
+<p>Different vaccine approaches cope with HIV-1 diversity, ranging from centralized(1-4) to variability-encompassing(5-7) antigens. For all these strategies, a concern remains: how does HIV-1 diversity impact epitope recognition by the immune system? We studied the relationship between HIV-1 diversity and CD8(+) T Lymphocytes (CTL) targeting of HIV-1 subtype B Nef using 944 peptides (10-mers overlapping by nine amino acids (AA)) that corresponded to consensus peptides and their most common variants in the HIV-1-B virus population. IFN-γ ELISpot assays were performed using freshly isolated PBMC from 26 HIV-1-infected persons. Three hundred and fifty peptides elicited a response in at least one individual. Individuals targeted a median of 7 discrete regions. Overall, 33% of responses were directed against viral variants but not elicited against consensus-based test peptides. However, there was no significant relationship between the frequency of a 10-mer in the viral population and either its frequency of recognition (Spearman&rsquo;s correlation coefficient ρ = 0.24) or the magnitude of the responses (ρ = 0.16). We found that peptides with a single mutation compared to the consensus were likely to be recognized (especially if the change was conservative) and to elicit responses of similar magnitude as the consensus peptide. Our results indicate that cross-reactivity between rare and frequent variants is likely to play a role in the expansion of CTL responses, and that maximizing antigenic diversity in a vaccine may increase the breadth and depth of CTL responses. However, since there are few obvious preferred pathways to virologic escape, the diversity that may be required to block all potential escape pathways may be too large for a realistic vaccine to accommodate. Furthermore, since peptides were not recognized based on their frequency in the population, it remains unclear by which mechanisms variability-inclusive antigens (i.e., constructs enriched with frequent variants) expand CTL recognition.</p>
+</div>
+
+
+<div class="clear"></div>
+</article>
+
+</section>
+
+</div>
+</body>
+<!-- Mirrored from mullinslab.microbiol.washington.edu/publications/265-Increased-breadth-and-depth-of-cytotoxic-T-lymphocytes-responses-against-HIV-1-B-Nef-by-inclusion-of-epitope-variant-sequences by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 21 Jul 2025 18:06:17 GMT -->
+</html>

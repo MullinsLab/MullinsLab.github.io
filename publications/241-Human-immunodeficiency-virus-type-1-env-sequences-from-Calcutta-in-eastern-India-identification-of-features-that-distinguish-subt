@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html>
+
+<!-- Mirrored from mullinslab.microbiol.washington.edu/publications/241-Human-immunodeficiency-virus-type-1-env-sequences-from-Calcutta-in-eastern-India-identification-of-features-that-distinguish-subtype-C-sequences-in-India-from-other-subtype-C-sequences by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 21 Jul 2025 18:08:34 GMT -->
+<!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=utf-8" /><!-- /Added by HTTrack -->
+<head>
+    
+<title>Human immunodeficiency virus type 1 env sequences from Calcutta in eastern India: identification of features that distinguish subtype C sequences in India from other subtype C sequences. | Mullins Molecular Retrovirology Lab</title>
+
+    
+    <link rel="stylesheet" href="style.css" />
+    
+    <link rel="alternate" type="application/atom+xml" title="Atom feed" href="feed" />
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <script src='https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js?config=TeX-MML-AM_CHTML' async></script>
+
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-136625084-1"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+
+      gtag('config', 'UA-136625084-1');
+    </script>
+</head>
+<body id="entry">
+
+<div id="container">
+
+<header>
+
+<h1>Mullins Molecular Retrovirology Lab</h1>
+
+<div class="description">
+<ul>
+<li>Department of Microbiology</li>
+<li>School of Medicine</li>
+<li>University of Washington</li>
+</ul>
+
+</div>
+
+
+</header>
+
+<section id="nav">
+    <nav>
+        
+        <ul>
+            <li class=""><a href="../index.html">Home</a></li>
+            <li class=""><a href="../research/index.html">Research</a></li>
+            <li class="here"><a href="index.html">Publications</a><ul><li><a href="supplemental.html">Supplemental Data</a></li></ul></li>
+            <li class=""><a href="../protocols/index.html">Protocols</a></li>
+            <li class=""><a href="../people/index.html">People</a></li>
+            <li class=""><a href="../contact/index.html">Contact</a></li>
+            <li class=""><a href="../help/index.html">Help</a></li>
+        </ul>
+    </nav>
+</section>
+
+<section id="links">
+    <nav id="quicklinks">
+        <h2>Software &amp; Tools</h2>
+
+        <ul>
+            <li><a href="http://indra.mullins.microbiol.washington.edu/">Bioinformatics Tools</a></li>
+            <li><a href="https://github.com/mullinslab">GitHub</a></li>
+            <li><a href="../hiris/index.html">HIRIS</a></li>
+            <li><a href="../HMA/index.html">HMA Subtyping Kit</a></li>
+            <li><a href="../isdb/index.html">ISDB</a></li>
+            <li><a href="../tcozy/index.html">TCozy</a></li>
+            <li><a href="https://viroverse.washington.edu/">Viroverse</a></li>
+        </ul>
+    </nav>
+
+    <nav id="lablinks">
+        <h2>Lab Links</h2>
+
+        <ul>
+            <li><a href="https://hercules.mullins.microbiol.washington.edu/pub/doc/">Computing Docs</a></li>
+            <li><a href="../hiris/private/index.html">HIRIS (Private)</a></li>
+            <li><a href="https://tcozy.mullins.microbiol.washington.edu/ice-floe/">ICE Floe</a></li>
+            <li><a href="https://hercules.mullins.microbiol.washington.edu/git/">Internal Git</a></li>
+            <li><a href="../twiki/index.html">Internal wiki</a></li>
+            <li><a href="https://viroverse.washington.edu/viroblast/">Local ViroBLAST</a></li>
+            <li><a href="https://redash.mullins.microbiol.washington.edu/">Redash</a></li>
+            <li><a href="https://mullinslab.slack.com/">Slack</a></li>
+            <li><a href="../support/index.html">Ticketing system</a></li>
+        </ul>
+    </nav>
+
+</section>
+
+<div id="cfar"><a href="http://cfar.washington.edu/">
+    <img src="../static/_img/2c/47ca/CFAR-logo-rev-10-22-18_4aa6fe47bc_500x157.jpg" width="500" height="157" srcset="/static/_img/2c/47ca/CFAR-logo-rev-10-22-18_4aa6fe47bc_500x157.jpg 1x, /static/_img/2c/47ca/CFAR-logo-rev-10-22-18_4aa6fe47bc_1000x314.jpg 2x" alt="University of Washington/Fred Hutch Center for AIDS Research">
+</a></div>
+
+<section id="content">
+    
+<!-- source file: content/publications/shankarappa_2001-129.md -->
+<article>
+
+<div id="intro">
+    <h1>Citation Information</h1>
+<p>Shankarappa R, Chatterjee R, Learn GH, Neogi D, Ding M, Roy P, Ghosh A, Kingsley L, Harrison L, Mullins JI, Gupta P (2001). <span class="title">Human immunodeficiency virus type 1 env sequences from Calcutta in eastern India: identification of features that distinguish subtype C sequences in India from other subtype C sequences.</span> <cite class="journalName">Journal of virology</cite>, <span class="journalIssue">75(21)</span>, 10479-87. (<a href="http://ncbi.nlm.nih.gov/pubmed/11581417">pubmed</a>)</p>
+</div>
+
+
+<div id="more">
+    <h1>Abstract</h1>
+<p>India is experiencing a rapid spread of human immunodeficiency virus type 1 (HIV-1), primarily through heterosexual transmission of subtype C viruses. To delineate the molecular features of HIV-1 circulating in India, we sequenced the V3-V4 region of viral env from 21 individuals attending an HIV clinic in Calcutta, the most populous city in the eastern part of the country, and analyzed these and the other Indian sequences in the HIV database. Twenty individuals were infected with viruses having a subtype C env, and one had viruses with a subtype A env. Analyses of 192 subtype C sequences that included one sequence for each subject from this study and from the HIV database revealed that almost all sequences from India, along with a small number from other countries, form a phylogenetically distinct lineage within subtype C, which we designate C(IN). Overall, C(IN) lineage sequences were more closely related to each other (level of diversity, 10.2%) than to subtype C sequences from Botswana, Burundi, South Africa, Tanzania, and Zimbabwe (range, 15.3 to 20.7%). Of the three positions identified as signature amino acid substitution sites for C(IN) sequences (K340E, K350A, and G429E), 56% of the C(IN) sequences contained all three amino acids while 87% of the sequences contained at least two of these substitutions. Among the non-C(IN) sequences, all three amino acids were present in 2%, while 22% contained two or more of these amino acids. These results suggest that much of the current Indian epidemic is descended from a single introduction into the country. Identification of conserved signature amino acid positions could assist epidemiologic tracking and has implications for the development of a vaccine against subtype C HIV-1 in India.</p>
+</div>
+
+
+<div class="clear"></div>
+</article>
+
+</section>
+
+</div>
+</body>
+<!-- Mirrored from mullinslab.microbiol.washington.edu/publications/241-Human-immunodeficiency-virus-type-1-env-sequences-from-Calcutta-in-eastern-India-identification-of-features-that-distinguish-subtype-C-sequences-in-India-from-other-subtype-C-sequences by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 21 Jul 2025 18:08:34 GMT -->
+</html>

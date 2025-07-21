@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html>
+
+<!-- Mirrored from mullinslab.microbiol.washington.edu/publications/475-Therapeutic-conserved-elements-CE-DNA-vaccine-induces-strong-T-cell-responses-against-highly-conserved-viral-sequences-during-simian-human-immunodeficiency-virus-infection by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 21 Jul 2025 18:05:25 GMT -->
+<!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=utf-8" /><!-- /Added by HTTrack -->
+<head>
+    
+<title>Therapeutic conserved elements (CE) DNA vaccine induces strong T-cell responses against highly conserved viral sequences during simian-human immunodeficiency virus infection. | Mullins Molecular Retrovirology Lab</title>
+
+    
+    <link rel="stylesheet" href="style.css" />
+    
+    <link rel="alternate" type="application/atom+xml" title="Atom feed" href="feed" />
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <script src='https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js?config=TeX-MML-AM_CHTML' async></script>
+
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-136625084-1"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+
+      gtag('config', 'UA-136625084-1');
+    </script>
+</head>
+<body id="entry">
+
+<div id="container">
+
+<header>
+
+<h1>Mullins Molecular Retrovirology Lab</h1>
+
+<div class="description">
+<ul>
+<li>Department of Microbiology</li>
+<li>School of Medicine</li>
+<li>University of Washington</li>
+</ul>
+
+</div>
+
+
+</header>
+
+<section id="nav">
+    <nav>
+        
+        <ul>
+            <li class=""><a href="../index.html">Home</a></li>
+            <li class=""><a href="../research/index.html">Research</a></li>
+            <li class="here"><a href="index.html">Publications</a><ul><li><a href="supplemental.html">Supplemental Data</a></li></ul></li>
+            <li class=""><a href="../protocols/index.html">Protocols</a></li>
+            <li class=""><a href="../people/index.html">People</a></li>
+            <li class=""><a href="../contact/index.html">Contact</a></li>
+            <li class=""><a href="../help/index.html">Help</a></li>
+        </ul>
+    </nav>
+</section>
+
+<section id="links">
+    <nav id="quicklinks">
+        <h2>Software &amp; Tools</h2>
+
+        <ul>
+            <li><a href="http://indra.mullins.microbiol.washington.edu/">Bioinformatics Tools</a></li>
+            <li><a href="https://github.com/mullinslab">GitHub</a></li>
+            <li><a href="../hiris/index.html">HIRIS</a></li>
+            <li><a href="../HMA/index.html">HMA Subtyping Kit</a></li>
+            <li><a href="../isdb/index.html">ISDB</a></li>
+            <li><a href="../tcozy/index.html">TCozy</a></li>
+            <li><a href="https://viroverse.washington.edu/">Viroverse</a></li>
+        </ul>
+    </nav>
+
+    <nav id="lablinks">
+        <h2>Lab Links</h2>
+
+        <ul>
+            <li><a href="https://hercules.mullins.microbiol.washington.edu/pub/doc/">Computing Docs</a></li>
+            <li><a href="../hiris/private/index.html">HIRIS (Private)</a></li>
+            <li><a href="https://tcozy.mullins.microbiol.washington.edu/ice-floe/">ICE Floe</a></li>
+            <li><a href="https://hercules.mullins.microbiol.washington.edu/git/">Internal Git</a></li>
+            <li><a href="../twiki/index.html">Internal wiki</a></li>
+            <li><a href="https://viroverse.washington.edu/viroblast/">Local ViroBLAST</a></li>
+            <li><a href="https://redash.mullins.microbiol.washington.edu/">Redash</a></li>
+            <li><a href="https://mullinslab.slack.com/">Slack</a></li>
+            <li><a href="../support/index.html">Ticketing system</a></li>
+        </ul>
+    </nav>
+
+</section>
+
+<div id="cfar"><a href="http://cfar.washington.edu/">
+    <img src="../static/_img/2c/47ca/CFAR-logo-rev-10-22-18_4aa6fe47bc_500x157.jpg" width="500" height="157" srcset="/static/_img/2c/47ca/CFAR-logo-rev-10-22-18_4aa6fe47bc_500x157.jpg 1x, /static/_img/2c/47ca/CFAR-logo-rev-10-22-18_4aa6fe47bc_1000x314.jpg 2x" alt="University of Washington/Fred Hutch Center for AIDS Research">
+</a></div>
+
+<section id="content">
+    
+<!-- source file: content/publications/munson_human_vac_imm_2018-646.md -->
+<article>
+
+<div id="intro">
+    <h1>Citation Information</h1>
+<p>Munson P, Liu Y, Bratt D, Fuller JT, Hu X, Pavlakis GN, Felber BK, Mullins JI, Fuller DH (2018). <span class="title">Therapeutic conserved elements (CE) DNA vaccine induces strong T-cell responses against highly conserved viral sequences during simian-human immunodeficiency virus infection.</span> <cite class="journalName">Human vaccines &amp; immunotherapeutics</cite>, <span class="journalIssue">14(7)</span>, 1820-1831. (<a href="http://ncbi.nlm.nih.gov/pubmed/29648490">pubmed</a>) (<a href="https://doi.org/10.1080/21645515.2018.1448328">doi</a>)</p>
+</div>
+
+
+<div id="more">
+    <h1>Abstract</h1>
+<p>HIV-specific T-cell responses play a key role in controlling HIV infection, and therapeutic vaccines for HIV that aim to improve viral control will likely need to improve on the T-cell responses induced by infection. However, in the setting of chronic infection, an effective therapeutic vaccine must overcome the enormous viral genetic diversity and the presence of pre-existing T-cell responses that are biased toward immunodominant T-cell epitopes that can readily mutate to evade host immunity and thus potentially provide inferior protection. To address these issues, we investigated a novel, epidermally administered DNA vaccine expressing SIV capsid (p27<sup>Gag</sup>) homologues of highly conserved elements (CE) of the HIV proteome in macaques experiencing chronic but controlled SHIV infection. We assessed the ability to boost or induce de novo T-cell responses against the conserved but immunologically subdominant CE epitopes. Two groups of animals were immunized with either the CE DNA vaccine or a full-length SIV p57<sup>gag</sup> DNA vaccine. Prior to vaccination, CE responses were similar in both groups. The full-length p57<sup>gag</sup> DNA vaccine, which contains the CE, increased overall Gag-specific responses but did not increase CE responses in any animals (0/4). In contrast, the CE DNA vaccine increased CE responses in all (4/4) vaccinated macaques. In SIV infected but unvaccinated macaques, those that developed stronger CE-specific responses during acute infection exhibited lower viral loads. We conclude that CE DNA vaccination can re-direct the immunodominance hierarchy towards CE in the setting of attenuated chronic infection and that induction of these responses by therapeutic vaccination may improve immune control of HIV.</p>
+</div>
+
+
+<div class="clear"></div>
+</article>
+
+</section>
+
+</div>
+</body>
+<!-- Mirrored from mullinslab.microbiol.washington.edu/publications/475-Therapeutic-conserved-elements-CE-DNA-vaccine-induces-strong-T-cell-responses-against-highly-conserved-viral-sequences-during-simian-human-immunodeficiency-virus-infection by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 21 Jul 2025 18:05:25 GMT -->
+</html>

@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html>
+
+<!-- Mirrored from mullinslab.microbiol.washington.edu/publications/361-Comparison-of-Major-and-Minor-Viral-SNPs-Identified-through-Single-Template-Sequencing-and-Pyrosequencing-in-Acute-HIV-1-Infection by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 21 Jul 2025 18:05:49 GMT -->
+<!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=utf-8" /><!-- /Added by HTTrack -->
+<head>
+    
+<title>Comparison of Major and Minor Viral SNPs Identified through Single Template Sequencing and Pyrosequencing in Acute HIV-1 Infection. | Mullins Molecular Retrovirology Lab</title>
+
+    
+    <link rel="stylesheet" href="style.css" />
+    
+    <link rel="alternate" type="application/atom+xml" title="Atom feed" href="feed" />
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <script src='https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js?config=TeX-MML-AM_CHTML' async></script>
+
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-136625084-1"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+
+      gtag('config', 'UA-136625084-1');
+    </script>
+</head>
+<body id="entry">
+
+<div id="container">
+
+<header>
+
+<h1>Mullins Molecular Retrovirology Lab</h1>
+
+<div class="description">
+<ul>
+<li>Department of Microbiology</li>
+<li>School of Medicine</li>
+<li>University of Washington</li>
+</ul>
+
+</div>
+
+
+</header>
+
+<section id="nav">
+    <nav>
+        
+        <ul>
+            <li class=""><a href="../index.html">Home</a></li>
+            <li class=""><a href="../research/index.html">Research</a></li>
+            <li class="here"><a href="index.html">Publications</a><ul><li><a href="supplemental.html">Supplemental Data</a></li></ul></li>
+            <li class=""><a href="../protocols/index.html">Protocols</a></li>
+            <li class=""><a href="../people/index.html">People</a></li>
+            <li class=""><a href="../contact/index.html">Contact</a></li>
+            <li class=""><a href="../help/index.html">Help</a></li>
+        </ul>
+    </nav>
+</section>
+
+<section id="links">
+    <nav id="quicklinks">
+        <h2>Software &amp; Tools</h2>
+
+        <ul>
+            <li><a href="http://indra.mullins.microbiol.washington.edu/">Bioinformatics Tools</a></li>
+            <li><a href="https://github.com/mullinslab">GitHub</a></li>
+            <li><a href="../hiris/index.html">HIRIS</a></li>
+            <li><a href="../HMA/index.html">HMA Subtyping Kit</a></li>
+            <li><a href="../isdb/index.html">ISDB</a></li>
+            <li><a href="../tcozy/index.html">TCozy</a></li>
+            <li><a href="https://viroverse.washington.edu/">Viroverse</a></li>
+        </ul>
+    </nav>
+
+    <nav id="lablinks">
+        <h2>Lab Links</h2>
+
+        <ul>
+            <li><a href="https://hercules.mullins.microbiol.washington.edu/pub/doc/">Computing Docs</a></li>
+            <li><a href="../hiris/private/index.html">HIRIS (Private)</a></li>
+            <li><a href="https://tcozy.mullins.microbiol.washington.edu/ice-floe/">ICE Floe</a></li>
+            <li><a href="https://hercules.mullins.microbiol.washington.edu/git/">Internal Git</a></li>
+            <li><a href="../twiki/index.html">Internal wiki</a></li>
+            <li><a href="https://viroverse.washington.edu/viroblast/">Local ViroBLAST</a></li>
+            <li><a href="https://redash.mullins.microbiol.washington.edu/">Redash</a></li>
+            <li><a href="https://mullinslab.slack.com/">Slack</a></li>
+            <li><a href="../support/index.html">Ticketing system</a></li>
+        </ul>
+    </nav>
+
+</section>
+
+<div id="cfar"><a href="http://cfar.washington.edu/">
+    <img src="../static/_img/2c/47ca/CFAR-logo-rev-10-22-18_4aa6fe47bc_500x157.jpg" width="500" height="157" srcset="/static/_img/2c/47ca/CFAR-logo-rev-10-22-18_4aa6fe47bc_500x157.jpg 1x, /static/_img/2c/47ca/CFAR-logo-rev-10-22-18_4aa6fe47bc_1000x314.jpg 2x" alt="University of Washington/Fred Hutch Center for AIDS Research">
+</a></div>
+
+<section id="content">
+    
+<!-- source file: content/publications/iyer_2015_plos-616.md -->
+<article>
+
+<div id="intro">
+    <h1>Citation Information</h1>
+<p>Iyer S, Casey E, Bouzek H, Kim M, Deng W, Larsen BB, Zhao H, Bumgarner RE, Rolland M, Mullins JI (2015). <span class="title">Comparison of Major and Minor Viral SNPs Identified through Single Template Sequencing and Pyrosequencing in Acute HIV-1 Infection.</span> <cite class="journalName">PloS one</cite>, <span class="journalIssue">10(8)</span>, e0135903. (<a href="http://ncbi.nlm.nih.gov/pubmed/26317928">pubmed</a>) (<a href="https://doi.org/10.1371/journal.pone.0135903">doi</a>)</p>
+</div>
+
+
+<div id="more">
+    <h1>Abstract</h1>
+<p>Massively parallel sequencing (MPS) technologies, such as 454-pyrosequencing, allow for the identification of variants in sequence populations at lower levels than consensus sequencing and most single-template Sanger sequencing experiments. We sought to determine if the greater depth of population sampling attainable using MPS technology would allow detection of minor variants in HIV founder virus populations very early in infection in instances where Sanger sequencing detects only a single variant. We compared single nucleotide polymorphisms (SNPs) during acute HIV-1 infection from 32 subjects using both single template Sanger and 454-pyrosequencing. Pyrosequences from a median of 2400 viral templates per subject and encompassing 40% of the HIV-1 genome, were compared to a median of five individually amplified near full-length viral genomes sequenced using Sanger technology. There was no difference in the consensus nucleotide sequences over the 3.6kb compared in 84% of the subjects infected with single founders and 33% of subjects infected with multiple founder variants: among the subjects with disagreements, mismatches were found in less than 1% of the sites evaluated (of a total of nearly 117,000 sites across all subjects). The majority of the SNPs observed only in pyrosequences were present at less than 2% of the subject&rsquo;s viral sequence population. These results demonstrate the utility of the Sanger approach for study of early HIV infection and provide guidance regarding the design, utility and limitations of population sequencing from variable template sources, and emphasize parameters for improving the interpretation of massively parallel sequencing data to address important questions regarding target sequence evolution. </p>
+</div>
+
+
+<div class="clear"></div>
+</article>
+
+</section>
+
+</div>
+</body>
+<!-- Mirrored from mullinslab.microbiol.washington.edu/publications/361-Comparison-of-Major-and-Minor-Viral-SNPs-Identified-through-Single-Template-Sequencing-and-Pyrosequencing-in-Acute-HIV-1-Infection by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 21 Jul 2025 18:05:49 GMT -->
+</html>
