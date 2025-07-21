@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html>
+
+<!-- Mirrored from mullinslab.microbiol.washington.edu/publications/2725-The-replication-competent-HIV-reservoir-is-a-genetically-restricted-younger-subset-of-the-overall-pool-of-HIV-proviruses-persisting-during-therapy-which-is-highly-genetically-stable-over-time by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 21 Jul 2025 18:05:25 GMT -->
+<!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=utf-8" /><!-- /Added by HTTrack -->
+<head>
+    
+<title>The replication-competent HIV reservoir is a genetically restricted, younger subset of the overall pool of HIV proviruses persisting during therapy, which is highly genetically stable over time | Mullins Molecular Retrovirology Lab</title>
+
+    
+    <link rel="stylesheet" href="style.css" />
+    
+    <link rel="alternate" type="application/atom+xml" title="Atom feed" href="feed" />
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <script src='https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js?config=TeX-MML-AM_CHTML' async></script>
+
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-136625084-1"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+
+      gtag('config', 'UA-136625084-1');
+    </script>
+</head>
+<body id="entry">
+
+<div id="container">
+
+<header>
+
+<h1>Mullins Molecular Retrovirology Lab</h1>
+
+<div class="description">
+<ul>
+<li>Department of Microbiology</li>
+<li>School of Medicine</li>
+<li>University of Washington</li>
+</ul>
+
+</div>
+
+
+</header>
+
+<section id="nav">
+    <nav>
+        
+        <ul>
+            <li class=""><a href="../index.html">Home</a></li>
+            <li class=""><a href="../research/index.html">Research</a></li>
+            <li class="here"><a href="index.html">Publications</a><ul><li><a href="supplemental.html">Supplemental Data</a></li></ul></li>
+            <li class=""><a href="../protocols/index.html">Protocols</a></li>
+            <li class=""><a href="../people/index.html">People</a></li>
+            <li class=""><a href="../contact/index.html">Contact</a></li>
+            <li class=""><a href="../help/index.html">Help</a></li>
+        </ul>
+    </nav>
+</section>
+
+<section id="links">
+    <nav id="quicklinks">
+        <h2>Software &amp; Tools</h2>
+
+        <ul>
+            <li><a href="http://indra.mullins.microbiol.washington.edu/">Bioinformatics Tools</a></li>
+            <li><a href="https://github.com/mullinslab">GitHub</a></li>
+            <li><a href="../hiris/index.html">HIRIS</a></li>
+            <li><a href="../HMA/index.html">HMA Subtyping Kit</a></li>
+            <li><a href="../isdb/index.html">ISDB</a></li>
+            <li><a href="../tcozy/index.html">TCozy</a></li>
+            <li><a href="https://viroverse.washington.edu/">Viroverse</a></li>
+        </ul>
+    </nav>
+
+    <nav id="lablinks">
+        <h2>Lab Links</h2>
+
+        <ul>
+            <li><a href="https://hercules.mullins.microbiol.washington.edu/pub/doc/">Computing Docs</a></li>
+            <li><a href="../hiris/private/index.html">HIRIS (Private)</a></li>
+            <li><a href="https://tcozy.mullins.microbiol.washington.edu/ice-floe/">ICE Floe</a></li>
+            <li><a href="https://hercules.mullins.microbiol.washington.edu/git/">Internal Git</a></li>
+            <li><a href="../twiki/index.html">Internal wiki</a></li>
+            <li><a href="https://viroverse.washington.edu/viroblast/">Local ViroBLAST</a></li>
+            <li><a href="https://redash.mullins.microbiol.washington.edu/">Redash</a></li>
+            <li><a href="https://mullinslab.slack.com/">Slack</a></li>
+            <li><a href="../support/index.html">Ticketing system</a></li>
+        </ul>
+    </nav>
+
+</section>
+
+<div id="cfar"><a href="http://cfar.washington.edu/">
+    <img src="../static/_img/2c/47ca/CFAR-logo-rev-10-22-18_4aa6fe47bc_500x157.jpg" width="500" height="157" srcset="/static/_img/2c/47ca/CFAR-logo-rev-10-22-18_4aa6fe47bc_500x157.jpg 1x, /static/_img/2c/47ca/CFAR-logo-rev-10-22-18_4aa6fe47bc_1000x314.jpg 2x" alt="University of Washington/Fred Hutch Center for AIDS Research">
+</a></div>
+
+<section id="content">
+    
+<!-- source file: content/publications/shahid_2024ReplicationCompetentHIVReservoir.md -->
+<article>
+
+<div id="intro">
+    <h1>Citation Information</h1>
+<p>Aniqa Shahid, Signe MacLennan, Bradley R Jones, Hanwei Sudderuddin, Zhong Dang, Kyle Cobarrubias, Maggie C Duncan, Natalie N Kinloch, Michael J Dapp, Nancie M Archin, Margaret A Fischl, Igho Ofotokun, Adaora Adimora, Stephen Gange, Bradley Aouizerat, Mark H Kuniholm, Seble Kassaye, James I Mullins, Harris Goldstein, Jeffrey B Joy, Kathryn Anastos, Zabrina L Brumme; MACS/WIHS combined cohort study (MWCSS) (2024).<span class="title">The replication-competent HIV reservoir is a genetically restricted, younger subset of the overall pool of HIV proviruses persisting during therapy, which is highly genetically stable over time.</span> <cite class="journalName">J.  Virol.</cite> 2024 Feb 20;98(2):e0165523.(<a href="http://ncbi.nlm.nih.gov/pubmed/38214547">pubmed</a>) (<a href="https://doi.org/10.1128/jvi.01655-23">doi</a>)</p>
+</div>
+
+
+<div id="more">
+    <h1>Abstract</h1>
+<p>Within-host HIV populations continually diversify during untreated infection, and this diversity persists within infected cell reservoirs during antiretroviral therapy (ART). Achieving a better understanding of on-ART proviral evolutionary dynamics, and a better appreciation of how the overall persisting pool of (largely genetically defective) proviruses differs from the much smaller replication-competent HIV reservoir, is critical to HIV cure efforts. We reconstructed within-host HIV evolutionary histories in blood from seven participants of the Women&rsquo;s Interagency HIV Study who experienced HIV seroconversion, and used these data to characterize the diversity, lineage origins, and ages of proviral env-gp120 sequences sampled longitudinally up to 12 years on ART. We also studied HIV sequences emerging from the reservoir in two participants. We observed that proviral clonality generally increased over time on ART, with clones frequently persisting long term. While on-ART proviral integration dates generally spanned the duration of untreated infection, HIV emerging in plasma was exclusively younger (i.e., dated to the years immediately pre-ART). The genetic and age distributions of distinct proviral sequences remained stable during ART in all but one participant, in whom there was evidence that younger proviruses had been preferentially eliminated after 12 years on ART. Analysis of the gag region in three participants corroborated our env-gp120-based observations, indicating that our observations are not influenced by the HIV region studied. Our results underscore the remarkable genetic stability of the distinct proviral sequences that persist in blood during ART. Our results also suggest that the replication-competent HIV reservoir is a genetically restricted, younger subset of this overall proviral pool.IMPORTANCECharacterizing the genetically diverse HIV sequences that persist in the reservoir despite antiretroviral therapy (ART) is critical to cure efforts. Our observations confirm that proviruses persisting in blood on ART, which are largely genetically defective, broadly reflect the extent of within-host HIV evolution pre-ART. Moreover, on-ART clonal expansion is not appreciably accompanied by the loss of distinct proviral lineages. In fact, on-ART proviral genetic composition remained stable in all but one participant, in whom, after 12 years on ART, proviruses dating to around near ART initiation had been preferentially eliminated. We also identified recombinant proviruses between parental sequence fragments of different ages. Though rare, such sequences suggest that reservoir cells can be superinfected with HIV from another infection era. Overall, our finding that the replication-competent reservoir in blood is a genetically restricted, younger subset of all persisting proviruses suggests that HIV cure strategies will need to eliminate a reservoir that differs in key respects from the overall proviral pool.</p>
+</div>
+
+
+<div class="clear"></div>
+</article>
+
+</section>
+
+</div>
+</body>
+<!-- Mirrored from mullinslab.microbiol.washington.edu/publications/2725-The-replication-competent-HIV-reservoir-is-a-genetically-restricted-younger-subset-of-the-overall-pool-of-HIV-proviruses-persisting-during-therapy-which-is-highly-genetically-stable-over-time by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 21 Jul 2025 18:05:25 GMT -->
+</html>

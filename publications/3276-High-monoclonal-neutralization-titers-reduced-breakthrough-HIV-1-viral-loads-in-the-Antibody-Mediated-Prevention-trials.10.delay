@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html>
+
+<!-- Mirrored from mullinslab.microbiol.washington.edu/publications/3276-High-monoclonal-neutralization-titers-reduced-breakthrough-HIV-1-viral-loads-in-the-Antibody-Mediated-Prevention-trials by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 21 Jul 2025 18:05:25 GMT -->
+<!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=utf-8" /><!-- /Added by HTTrack -->
+<head>
+    
+<title>High monoclonal neutralization titers reduced breakthrough HIV-1 viral loads in the Antibody Mediated Prevention trials. | Mullins Molecular Retrovirology Lab</title>
+
+    
+    <link rel="stylesheet" href="style.css" />
+    
+    <link rel="alternate" type="application/atom+xml" title="Atom feed" href="feed" />
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <script src='https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js?config=TeX-MML-AM_CHTML' async></script>
+
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-136625084-1"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+
+      gtag('config', 'UA-136625084-1');
+    </script>
+</head>
+<body id="entry">
+
+<div id="container">
+
+<header>
+
+<h1>Mullins Molecular Retrovirology Lab</h1>
+
+<div class="description">
+<ul>
+<li>Department of Microbiology</li>
+<li>School of Medicine</li>
+<li>University of Washington</li>
+</ul>
+
+</div>
+
+
+</header>
+
+<section id="nav">
+    <nav>
+        
+        <ul>
+            <li class=""><a href="../index.html">Home</a></li>
+            <li class=""><a href="../research/index.html">Research</a></li>
+            <li class="here"><a href="index.html">Publications</a><ul><li><a href="supplemental.html">Supplemental Data</a></li></ul></li>
+            <li class=""><a href="../protocols/index.html">Protocols</a></li>
+            <li class=""><a href="../people/index.html">People</a></li>
+            <li class=""><a href="../contact/index.html">Contact</a></li>
+            <li class=""><a href="../help/index.html">Help</a></li>
+        </ul>
+    </nav>
+</section>
+
+<section id="links">
+    <nav id="quicklinks">
+        <h2>Software &amp; Tools</h2>
+
+        <ul>
+            <li><a href="http://indra.mullins.microbiol.washington.edu/">Bioinformatics Tools</a></li>
+            <li><a href="https://github.com/mullinslab">GitHub</a></li>
+            <li><a href="../hiris/index.html">HIRIS</a></li>
+            <li><a href="../HMA/index.html">HMA Subtyping Kit</a></li>
+            <li><a href="../isdb/index.html">ISDB</a></li>
+            <li><a href="../tcozy/index.html">TCozy</a></li>
+            <li><a href="https://viroverse.washington.edu/">Viroverse</a></li>
+        </ul>
+    </nav>
+
+    <nav id="lablinks">
+        <h2>Lab Links</h2>
+
+        <ul>
+            <li><a href="https://hercules.mullins.microbiol.washington.edu/pub/doc/">Computing Docs</a></li>
+            <li><a href="../hiris/private/index.html">HIRIS (Private)</a></li>
+            <li><a href="https://tcozy.mullins.microbiol.washington.edu/ice-floe/">ICE Floe</a></li>
+            <li><a href="https://hercules.mullins.microbiol.washington.edu/git/">Internal Git</a></li>
+            <li><a href="../twiki/index.html">Internal wiki</a></li>
+            <li><a href="https://viroverse.washington.edu/viroblast/">Local ViroBLAST</a></li>
+            <li><a href="https://redash.mullins.microbiol.washington.edu/">Redash</a></li>
+            <li><a href="https://mullinslab.slack.com/">Slack</a></li>
+            <li><a href="../support/index.html">Ticketing system</a></li>
+        </ul>
+    </nav>
+
+</section>
+
+<div id="cfar"><a href="http://cfar.washington.edu/">
+    <img src="../static/_img/2c/47ca/CFAR-logo-rev-10-22-18_4aa6fe47bc_500x157.jpg" width="500" height="157" srcset="/static/_img/2c/47ca/CFAR-logo-rev-10-22-18_4aa6fe47bc_500x157.jpg 1x, /static/_img/2c/47ca/CFAR-logo-rev-10-22-18_4aa6fe47bc_1000x314.jpg 2x" alt="University of Washington/Fred Hutch Center for AIDS Research">
+</a></div>
+
+<section id="content">
+    
+<!-- source file: content/publications/Reeves_2023HighbNabTitersReducedBreakthrough.md -->
+<article>
+
+<div id="intro">
+    <h1>Citation Information</h1>
+<p>Reeves, D.B., Mayer, B.T., deCamp, A.C., Huang, Y., Zhang, B., Carpp, L.N., Magaret, C.A., Juraska, M., Gilbert, P.B., Montefiori, D.C., Bar, K.J., Cardozo-Ojeda, E.F., Schiffer, J.T., Rossenkhan, R., Edlefsen, P., Morris, L., Mkhize, N.N., Williamson, C., Mullins, J.I., Seaton, K.E., Tomaras, G.D., Andrew, P., Mgodi, N., Ledgerwood, J.E., Cohen, M.S., Corey, L., Naidoo, L., Orrell, C., Goepfert, P.A., Casapia, M., Sobieszczyk, M.E., Karuna, S.T., Edupuganti, S., (2023).<span class="title">High monoclonal neutralization titers reduced breakthrough HIV-1 viral loads in the Antibody Mediated Prevention trials.</span> <cite class="journalName">Nature Communications</cite> 2023 Dec 14;14(1):8299(<a href="http://ncbi.nlm.nih.gov/pubmed/38097552">pubmed</a>) (<a href="https://doi.org/10.1038/s41467-023-43384-y">doi</a>)</p>
+</div>
+
+
+<div id="more">
+    <h1>Abstract</h1>
+<p>The Antibody Mediated Prevention (AMP) trials (NCT02716675 and NCT02568215) demonstrated that passive administration of the broadly neutralizing monoclonal antibody VRC01 could prevent some HIV-1 acquisition events. Here, we use mathematical modeling in a post hoc analysis to demonstrate that VRC01 influenced viral loads in AMP participants who acquired HIV. Instantaneous inhibitory potential (IIP), which integrates VRC01 serum concentration and VRC01 sensitivity of acquired viruses in terms of both IC50 and IC80, follows a dose-response relationship with first positive viral load (p = 0.03), which is particularly strong above a threshold of IIP = 1.6 (r = -0.6, p = 2e-4). Mathematical modeling reveals that VRC01 activity predicted from in vitro IC80s and serum VRC01 concentrations overestimates in vivo neutralization by 600-fold (95% CI: 300-1200). The trained model projects that even if future therapeutic HIV trials of combination monoclonal antibodies do not always prevent acquisition, reductions in viremia and reservoir size could be expected.
+Erratum in <a href="https://pubmed.ncbi.nlm.nih.gov/38519455/">https://pubmed.ncbi.nlm.nih.gov/38519455/</a></p>
+</div>
+
+
+<div class="clear"></div>
+</article>
+
+</section>
+
+</div>
+</body>
+<!-- Mirrored from mullinslab.microbiol.washington.edu/publications/3276-High-monoclonal-neutralization-titers-reduced-breakthrough-HIV-1-viral-loads-in-the-Antibody-Mediated-Prevention-trials by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 21 Jul 2025 18:05:25 GMT -->
+</html>

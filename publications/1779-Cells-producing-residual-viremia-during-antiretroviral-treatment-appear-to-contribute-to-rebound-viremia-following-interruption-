@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html>
+
+<!-- Mirrored from mullinslab.microbiol.washington.edu/publications/1779-Cells-producing-residual-viremia-during-antiretroviral-treatment-appear-to-contribute-to-rebound-viremia-following-interruption-of-treatment by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 21 Jul 2025 18:05:25 GMT -->
+<!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=utf-8" /><!-- /Added by HTTrack -->
+<head>
+    
+<title>Cells producing residual viremia during antiretroviral treatment appear to contribute to rebound viremia following interruption of treatment. | Mullins Molecular Retrovirology Lab</title>
+
+    
+    <link rel="stylesheet" href="style.css" />
+    
+    <link rel="alternate" type="application/atom+xml" title="Atom feed" href="feed" />
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <script src='https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js?config=TeX-MML-AM_CHTML' async></script>
+
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-136625084-1"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+
+      gtag('config', 'UA-136625084-1');
+    </script>
+</head>
+<body id="entry">
+
+<div id="container">
+
+<header>
+
+<h1>Mullins Molecular Retrovirology Lab</h1>
+
+<div class="description">
+<ul>
+<li>Department of Microbiology</li>
+<li>School of Medicine</li>
+<li>University of Washington</li>
+</ul>
+
+</div>
+
+
+</header>
+
+<section id="nav">
+    <nav>
+        
+        <ul>
+            <li class=""><a href="../index.html">Home</a></li>
+            <li class=""><a href="../research/index.html">Research</a></li>
+            <li class="here"><a href="index.html">Publications</a><ul><li><a href="supplemental.html">Supplemental Data</a></li></ul></li>
+            <li class=""><a href="../protocols/index.html">Protocols</a></li>
+            <li class=""><a href="../people/index.html">People</a></li>
+            <li class=""><a href="../contact/index.html">Contact</a></li>
+            <li class=""><a href="../help/index.html">Help</a></li>
+        </ul>
+    </nav>
+</section>
+
+<section id="links">
+    <nav id="quicklinks">
+        <h2>Software &amp; Tools</h2>
+
+        <ul>
+            <li><a href="http://indra.mullins.microbiol.washington.edu/">Bioinformatics Tools</a></li>
+            <li><a href="https://github.com/mullinslab">GitHub</a></li>
+            <li><a href="../hiris/index.html">HIRIS</a></li>
+            <li><a href="../HMA/index.html">HMA Subtyping Kit</a></li>
+            <li><a href="../isdb/index.html">ISDB</a></li>
+            <li><a href="../tcozy/index.html">TCozy</a></li>
+            <li><a href="https://viroverse.washington.edu/">Viroverse</a></li>
+        </ul>
+    </nav>
+
+    <nav id="lablinks">
+        <h2>Lab Links</h2>
+
+        <ul>
+            <li><a href="https://hercules.mullins.microbiol.washington.edu/pub/doc/">Computing Docs</a></li>
+            <li><a href="../hiris/private/index.html">HIRIS (Private)</a></li>
+            <li><a href="https://tcozy.mullins.microbiol.washington.edu/ice-floe/">ICE Floe</a></li>
+            <li><a href="https://hercules.mullins.microbiol.washington.edu/git/">Internal Git</a></li>
+            <li><a href="../twiki/index.html">Internal wiki</a></li>
+            <li><a href="https://viroverse.washington.edu/viroblast/">Local ViroBLAST</a></li>
+            <li><a href="https://redash.mullins.microbiol.washington.edu/">Redash</a></li>
+            <li><a href="https://mullinslab.slack.com/">Slack</a></li>
+            <li><a href="../support/index.html">Ticketing system</a></li>
+        </ul>
+    </nav>
+
+</section>
+
+<div id="cfar"><a href="http://cfar.washington.edu/">
+    <img src="../static/_img/2c/47ca/CFAR-logo-rev-10-22-18_4aa6fe47bc_500x157.jpg" width="500" height="157" srcset="/static/_img/2c/47ca/CFAR-logo-rev-10-22-18_4aa6fe47bc_500x157.jpg 1x, /static/_img/2c/47ca/CFAR-logo-rev-10-22-18_4aa6fe47bc_1000x314.jpg 2x" alt="University of Washington/Fred Hutch Center for AIDS Research">
+</a></div>
+
+<section id="content">
+    
+<!-- source file: content/publications/32841299-Cells-producing-residual-viremia-during-antiretroviral-treatment-appear-to-contribute-to-rebound-viremia-following-interruption-of-treatment.md -->
+<article>
+
+<div id="intro">
+    <h1>Citation Information</h1>
+<p>Aamer HA, McClure J, Ko D, Maenza J, Collier AC, Coombs RW, Mullins JI, Frenkel LM (2020). <span class="title">Cells producing residual viremia during antiretroviral treatment appear to contribute to rebound viremia following interruption of treatment.</span> <cite class="journalName">PLoS pathogens</cite>, <span class="journalIssue">16(8)</span>, e1008791. (<a href="http://ncbi.nlm.nih.gov/pubmed/32841299">pubmed</a>) (<a href="https://doi.org/10.1371/journal.ppat.1008791">doi</a>)</p>
+</div>
+
+
+<div id="more">
+    <h1>Abstract</h1>
+<p>During antiretroviral therapy (ART) that suppresses HIV replication to below the limit-of-quantification, virions produced during ART can be detected at low frequencies in the plasma, termed residual viremia (RV). We hypothesized that a reservoir of HIV-infected cells actively produce and release virions during ART that are potentially infectious, and that following ART-interruption, these virions can complete full-cycles of replication and contribute to rebound viremia. Therefore, we studied the dynamics of RV sequence variants in 3 participants who initiated ART after ~3 years of infection and were ART-suppressed for &gt;6 years prior to self-initiated ART-interruptions. Longitudinal RV C2V5env sequences were compared to sequences from pre-ART plasma, supernatants of quantitative viral outgrowth assays (QVOA) of cells collected during ART, post-ART-interruption plasma, and ART-re-suppression plasma. Identical, &ldquo;putatively clonal,&rdquo; RV sequences comprised 8-84% of sequences from each timepoint. The majority of RV sequences were genetically similar to those from plasma collected just prior to ART-initiation, but as the duration of ART-suppression increased, an increasing proportion of RV variants were similar to sequences from earlier in infection. Identical sequences were detected in RV over a median of 3 years (range: 0.3-8.2) of ART-suppression. RV sequences were identical to pre-ART plasma viruses (5%), infectious viruses induced in QVOA (4%) and rebound viruses (5%) (total n = 21/154 (14%) across the 3 participants). RV sequences identical to ART-interruption &ldquo;rebound&rdquo; sequences were detected 0.1-7.4 years prior to ART-interruption. RV variant prevalence and persistence were not associated with detection of the variant among rebound sequences. Shortly after ART-re-suppression, variants that had been replicating during ART-interruptions were detected as RV (n = 5). These studies show a dynamic, virion-producing HIV reservoir that contributes to rekindling infection upon ART-interruption. The persistence of identical RV variants over years suggests that a subpopulation of HIV-infected clones frequently or continuously produce virions that may resist immune clearance; this suggests that cure strategies should target this active as well as latent reservoirs.</p>
+</div>
+
+
+<div class="clear"></div>
+</article>
+
+</section>
+
+</div>
+</body>
+<!-- Mirrored from mullinslab.microbiol.washington.edu/publications/1779-Cells-producing-residual-viremia-during-antiretroviral-treatment-appear-to-contribute-to-rebound-viremia-following-interruption-of-treatment by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 21 Jul 2025 18:05:25 GMT -->
+</html>

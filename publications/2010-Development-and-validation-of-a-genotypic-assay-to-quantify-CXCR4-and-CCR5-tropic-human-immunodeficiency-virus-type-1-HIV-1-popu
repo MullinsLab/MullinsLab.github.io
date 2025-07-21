@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html>
+
+<!-- Mirrored from mullinslab.microbiol.washington.edu/publications/2010-Development-and-validation-of-a-genotypic-assay-to-quantify-CXCR4-and-CCR5-tropic-human-immunodeficiency-virus-type-1-HIV-1-populations-and-a-comparison-to-Trofile-tm by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 21 Jul 2025 18:05:25 GMT -->
+<!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=utf-8" /><!-- /Added by HTTrack -->
+<head>
+    
+<title>Development and validation of a genotypic assay to quantify CXCR4- and CCR5-tropic human immunodeficiency virus type-1 (HIV-1) populations and a comparison to Trofile&trade; | Mullins Molecular Retrovirology Lab</title>
+
+    
+    <link rel="stylesheet" href="style.css" />
+    
+    <link rel="alternate" type="application/atom+xml" title="Atom feed" href="feed" />
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <script src='https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js?config=TeX-MML-AM_CHTML' async></script>
+
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-136625084-1"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+
+      gtag('config', 'UA-136625084-1');
+    </script>
+</head>
+<body id="entry">
+
+<div id="container">
+
+<header>
+
+<h1>Mullins Molecular Retrovirology Lab</h1>
+
+<div class="description">
+<ul>
+<li>Department of Microbiology</li>
+<li>School of Medicine</li>
+<li>University of Washington</li>
+</ul>
+
+</div>
+
+
+</header>
+
+<section id="nav">
+    <nav>
+        
+        <ul>
+            <li class=""><a href="../index.html">Home</a></li>
+            <li class=""><a href="../research/index.html">Research</a></li>
+            <li class="here"><a href="index.html">Publications</a><ul><li><a href="supplemental.html">Supplemental Data</a></li></ul></li>
+            <li class=""><a href="../protocols/index.html">Protocols</a></li>
+            <li class=""><a href="../people/index.html">People</a></li>
+            <li class=""><a href="../contact/index.html">Contact</a></li>
+            <li class=""><a href="../help/index.html">Help</a></li>
+        </ul>
+    </nav>
+</section>
+
+<section id="links">
+    <nav id="quicklinks">
+        <h2>Software &amp; Tools</h2>
+
+        <ul>
+            <li><a href="http://indra.mullins.microbiol.washington.edu/">Bioinformatics Tools</a></li>
+            <li><a href="https://github.com/mullinslab">GitHub</a></li>
+            <li><a href="../hiris/index.html">HIRIS</a></li>
+            <li><a href="../HMA/index.html">HMA Subtyping Kit</a></li>
+            <li><a href="../isdb/index.html">ISDB</a></li>
+            <li><a href="../tcozy/index.html">TCozy</a></li>
+            <li><a href="https://viroverse.washington.edu/">Viroverse</a></li>
+        </ul>
+    </nav>
+
+    <nav id="lablinks">
+        <h2>Lab Links</h2>
+
+        <ul>
+            <li><a href="https://hercules.mullins.microbiol.washington.edu/pub/doc/">Computing Docs</a></li>
+            <li><a href="../hiris/private/index.html">HIRIS (Private)</a></li>
+            <li><a href="https://tcozy.mullins.microbiol.washington.edu/ice-floe/">ICE Floe</a></li>
+            <li><a href="https://hercules.mullins.microbiol.washington.edu/git/">Internal Git</a></li>
+            <li><a href="../twiki/index.html">Internal wiki</a></li>
+            <li><a href="https://viroverse.washington.edu/viroblast/">Local ViroBLAST</a></li>
+            <li><a href="https://redash.mullins.microbiol.washington.edu/">Redash</a></li>
+            <li><a href="https://mullinslab.slack.com/">Slack</a></li>
+            <li><a href="../support/index.html">Ticketing system</a></li>
+        </ul>
+    </nav>
+
+</section>
+
+<div id="cfar"><a href="http://cfar.washington.edu/">
+    <img src="../static/_img/2c/47ca/CFAR-logo-rev-10-22-18_4aa6fe47bc_500x157.jpg" width="500" height="157" srcset="/static/_img/2c/47ca/CFAR-logo-rev-10-22-18_4aa6fe47bc_500x157.jpg 1x, /static/_img/2c/47ca/CFAR-logo-rev-10-22-18_4aa6fe47bc_1000x314.jpg 2x" alt="University of Washington/Fred Hutch Center for AIDS Research">
+</a></div>
+
+<section id="content">
+    
+<!-- source file: content/publications/Ko_2024GenotypicTopismAssay.md -->
+<article>
+
+<div id="intro">
+    <h1>Citation Information</h1>
+<p>Ko, D., McLaughlin, S., Deng, W., Mullins, J.I., Dragavon, J., Harb, S., Coombs, R.W., Frenkel, L.M.(2024).<span class="title">Development and validation of a genotypic assay to quantify CXCR4- and CCR5-tropic human immunodeficiency virus type-1 (HIV-1) populations and a comparison to Trofile&trade;</span> <cite class="journalName">Viruses</cite> 2024 16, 510(<a href="http://ncbi.nlm.nih.gov/pubmed/38675853">pubmed</a>) (<a href="https://doi.org/10.3390/v16040510">doi</a>)</p>
+</div>
+
+
+<div id="more">
+    <h1>Abstract</h1>
+<p>HIV-1 typically infects cells via the CD4 receptor and CCR5 or CXCR4 co-receptors. Maraviroc is a CCR5-specific viral entry inhibitor; knowledge of viral co-receptor specificity is important prior to usage. We developed and validated an economical V3-env Illumina-based assay to detect and quantify the frequency of viruses utilizing each co-receptor. Plasma from 54 HIV+ participants (subtype B) was tested. The viral template cDNA was generated from plasma RNA with unique molecular identifiers (UMIs). The sequences were aligned and collapsed by the UMIs with a custom bioinformatics pipeline. Co-receptor usage, determined by codon analysis and online phenotype predictors PSSM and Geno2pheno, were compared to existing Trofile&trade; data. The cost of V3-UMI was tallied. The sequences interpreted by Geno2pheno using the most conservative cut-off, a 2% false-positive-rate (FPR), predicted CXCR4 usage with the greatest sensitivity (76%) and specificity (100%); PSSM and codon analysis had similar sensitivity and lower specificity. Discordant Trofile&trade; and genotypic results were more common when participants had specimens from different dates analyzed by either assay. V3-UMI reagents cost USD$62/specimen. A batch of &lt;=20 specimens required 5 h of technical time across 1.5 days. V3-UMI predicts HIV tropism at a sensitivity and specificity similar to those of Trofile&trade;, is relatively inexpensive, and could be performed by most central laboratories. The adoption of V3-UMI could expand HIV drug therapeutic options in lower-resource settings that currently do not have access to phenotypic HIV tropism testing.</p>
+</div>
+
+
+<div class="clear"></div>
+</article>
+
+</section>
+
+</div>
+</body>
+<!-- Mirrored from mullinslab.microbiol.washington.edu/publications/2010-Development-and-validation-of-a-genotypic-assay-to-quantify-CXCR4-and-CCR5-tropic-human-immunodeficiency-virus-type-1-HIV-1-populations-and-a-comparison-to-Trofile-tm by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 21 Jul 2025 18:05:25 GMT -->
+</html>

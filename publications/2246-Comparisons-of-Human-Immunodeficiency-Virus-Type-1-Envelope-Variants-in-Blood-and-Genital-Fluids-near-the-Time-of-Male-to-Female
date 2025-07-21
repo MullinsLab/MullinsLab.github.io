@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html>
+
+<!-- Mirrored from mullinslab.microbiol.washington.edu/publications/2246-Comparisons-of-Human-Immunodeficiency-Virus-Type-1-Envelope-Variants-in-Blood-and-Genital-Fluids-near-the-Time-of-Male-to-Female-Transmission by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 21 Jul 2025 18:05:25 GMT -->
+<!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=utf-8" /><!-- /Added by HTTrack -->
+<head>
+    
+<title>Comparisons of Human Immunodeficiency Virus Type 1 Envelope Variants in Blood and Genital Fluids near the Time of Male-to-Female Transmission. | Mullins Molecular Retrovirology Lab</title>
+
+    
+    <link rel="stylesheet" href="style.css" />
+    
+    <link rel="alternate" type="application/atom+xml" title="Atom feed" href="feed" />
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <script src='https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js?config=TeX-MML-AM_CHTML' async></script>
+
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-136625084-1"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+
+      gtag('config', 'UA-136625084-1');
+    </script>
+</head>
+<body id="entry">
+
+<div id="container">
+
+<header>
+
+<h1>Mullins Molecular Retrovirology Lab</h1>
+
+<div class="description">
+<ul>
+<li>Department of Microbiology</li>
+<li>School of Medicine</li>
+<li>University of Washington</li>
+</ul>
+
+</div>
+
+
+</header>
+
+<section id="nav">
+    <nav>
+        
+        <ul>
+            <li class=""><a href="../index.html">Home</a></li>
+            <li class=""><a href="../research/index.html">Research</a></li>
+            <li class="here"><a href="index.html">Publications</a><ul><li><a href="supplemental.html">Supplemental Data</a></li></ul></li>
+            <li class=""><a href="../protocols/index.html">Protocols</a></li>
+            <li class=""><a href="../people/index.html">People</a></li>
+            <li class=""><a href="../contact/index.html">Contact</a></li>
+            <li class=""><a href="../help/index.html">Help</a></li>
+        </ul>
+    </nav>
+</section>
+
+<section id="links">
+    <nav id="quicklinks">
+        <h2>Software &amp; Tools</h2>
+
+        <ul>
+            <li><a href="http://indra.mullins.microbiol.washington.edu/">Bioinformatics Tools</a></li>
+            <li><a href="https://github.com/mullinslab">GitHub</a></li>
+            <li><a href="../hiris/index.html">HIRIS</a></li>
+            <li><a href="../HMA/index.html">HMA Subtyping Kit</a></li>
+            <li><a href="../isdb/index.html">ISDB</a></li>
+            <li><a href="../tcozy/index.html">TCozy</a></li>
+            <li><a href="https://viroverse.washington.edu/">Viroverse</a></li>
+        </ul>
+    </nav>
+
+    <nav id="lablinks">
+        <h2>Lab Links</h2>
+
+        <ul>
+            <li><a href="https://hercules.mullins.microbiol.washington.edu/pub/doc/">Computing Docs</a></li>
+            <li><a href="../hiris/private/index.html">HIRIS (Private)</a></li>
+            <li><a href="https://tcozy.mullins.microbiol.washington.edu/ice-floe/">ICE Floe</a></li>
+            <li><a href="https://hercules.mullins.microbiol.washington.edu/git/">Internal Git</a></li>
+            <li><a href="../twiki/index.html">Internal wiki</a></li>
+            <li><a href="https://viroverse.washington.edu/viroblast/">Local ViroBLAST</a></li>
+            <li><a href="https://redash.mullins.microbiol.washington.edu/">Redash</a></li>
+            <li><a href="https://mullinslab.slack.com/">Slack</a></li>
+            <li><a href="../support/index.html">Ticketing system</a></li>
+        </ul>
+    </nav>
+
+</section>
+
+<div id="cfar"><a href="http://cfar.washington.edu/">
+    <img src="../static/_img/2c/47ca/CFAR-logo-rev-10-22-18_4aa6fe47bc_500x157.jpg" width="500" height="157" srcset="/static/_img/2c/47ca/CFAR-logo-rev-10-22-18_4aa6fe47bc_500x157.jpg 1x, /static/_img/2c/47ca/CFAR-logo-rev-10-22-18_4aa6fe47bc_1000x314.jpg 2x" alt="University of Washington/Fred Hutch Center for AIDS Research">
+</a></div>
+
+<section id="content">
+    
+<!-- source file: content/publications/30996101-Comparisons-of-human-immunodeficiency-virus-type-1-envelope-variants-in-blood-and-genital-fluids-near-the-time-of-male-to-female-transmission.md -->
+<article>
+
+<div id="intro">
+    <h1>Citation Information</h1>
+<p>Williams-Wietzikoski CA, Campbell MS, Payant R, Lam A, Zhao H, Huang H, Wald A, Stevens W, Gray G, Farquhar C, Rees H, Celum C, Mullins JI, Lingappa JR, Frenkel LM (2019). <span class="title">Comparisons of Human Immunodeficiency Virus Type 1 Envelope Variants in Blood and Genital Fluids near the Time of Male-to-Female Transmission.</span> <cite class="journalName">Journal of virology</cite> (ePub ahead of print). (<a href="http://ncbi.nlm.nih.gov/pubmed/30996101">pubmed</a>) (<a href="https://doi.org/10.1128/JVI.01769-18">doi</a>)</p>
+</div>
+
+
+<div id="more">
+    <h1>Abstract</h1>
+<p>To better understand the transmission of human immunodeficiency virus type 1 (HIV-1), the genetic characteristics of blood and genital viruses from males were compared to those of the imputed founding virus population in their female partners. Initially serodiscordant heterosexual African couples with sequence-confirmed male-to-female HIV-1 transmission and blood and genital specimens collected near the time of transmission were studied. Single viral templates from blood plasma and genital tract RNA and DNA were sequenced across HIV-1 <i>env</i> gp160. Eight of 29 couples examined yielded viral sequences from both tissues. Analysis of these couples&#39; sequences demonstrated, with one exception, that the women&rsquo;s founding viral populations arose from a single viral variant and were CCR5 tropic, even though CXCR4 variants were detected within four males. The median genetic distance of the imputed most recent common ancestor of the women&rsquo;s founder viruses showed that they were closer to the semen viruses than to the blood viruses of their transmitting male partner, but this finding was biased by detection of a greater number of viral clades in the blood. Using multiple assays, the blood and genital viruses were consistently found to be compartmentalized in only two of eight men. No distinct amino acid signatures in the men&rsquo;s viruses were found to link to the women&rsquo;s founders, nor did the women&rsquo;s <i>env</i> sequences have shorter variable loops or fewer N-linked glycosylation sites. The lack of selective factors, except for coreceptor tropism, is consistent with others&#39; findings in male-to-female and high-risk transmissions. The infrequent compartmentalization between the transmitters&#39; blood and semen viruses suggests that cell-free blood virus likely includes HIV-1 sequences representative of those of viruses in semen.<b>IMPORTANCE</b> Mucosal transmissions account for the majority of HIV-1 infections. Identification of the viral characteristics associated with transmission would facilitate vaccine design. This study of HIV strains from transmitting males and their seroconverting female partners found that the males&#39; genital tract viruses were rarely distinct from the blood variants. The imputed founder viruses in women were genetically similar to both the blood and genital tract variants of their male partners, indicating a lack of evidence for genital tract-specific lineages. These findings suggest that targeting vaccine responses to variants found in blood are likely to also protect from genital tract variants.</p>
+</div>
+
+
+<div class="clear"></div>
+</article>
+
+</section>
+
+</div>
+</body>
+<!-- Mirrored from mullinslab.microbiol.washington.edu/publications/2246-Comparisons-of-Human-Immunodeficiency-Virus-Type-1-Envelope-Variants-in-Blood-and-Genital-Fluids-near-the-Time-of-Male-to-Female-Transmission by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 21 Jul 2025 18:05:25 GMT -->
+</html>
