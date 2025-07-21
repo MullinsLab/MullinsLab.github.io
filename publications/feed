@@ -1,0 +1,567 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+
+<feed xmlns="http://www.w3.org/2005/Atom"
+    xmlns:fh="http://purl.org/syndication/history/1.0"
+    xmlns:at="http://purl.org/atompub/tombstones/1.0">
+
+    <title>Mullins Molecular Retrovirology Lab: Publications</title>
+    <subtitle>A personal publishing system for the modern web</subtitle>
+    <link href="https://mullinslab.microbiol.washington.edu/publications/feed" rel="self" />
+    <link href="https://mullinslab.microbiol.washington.edu/publications/feed" rel="current" />
+    <link href="https://pubsubhubbub.superfeedr.com" rel="hub" />
+    
+    <link href="https://mullinslab.microbiol.washington.edu/publications/feed?date=2019-11" rel="prev-archive" />
+    
+    
+    <link href="https://mullinslab.microbiol.washington.edu/publications/" />
+    
+    <id>tag:mullinslab.microbiol.washington.edu,2019-03-04:publications</id>
+    <updated>2024-06-20T10:38:31-07:00</updated>
+
+    
+    <entry>
+        <title>Phylobook: a tool for display, clade annotation and extraction of sequences from molecular phylogenies</title>
+        <link href="https://mullinslab.microbiol.washington.edu/publications/906-Phylobook-a-tool-for-display-clade-annotation-and-extraction-of-sequences-from-molecular-phylogenies" rel="alternate" type="text/html" />
+        <published>2024-06-20T10:38:31-07:00</published>
+        <updated>2024-06-20T10:38:31-07:00</updated>
+        <id>urn:uuid:4c282937-0e02-57dc-8086-d6ede8508a5a</id>
+        <author><name>Mullins Lab</name></author>
+        <content type="html">
+<![CDATA[
+<p>Jeffrey C Furlong, Peter D Darley, Wenjie Deng, James I Mullins, Roger E Bumgarner (2024). <span class="title">Phylobook: a tool for display, clade annotation and extraction of sequences from molecular phylogenies.</span> <cite class="journalName">Biotechniques</cite> 2024 May 3. (<a href="http://ncbi.nlm.nih.gov/pubmed/38700279">pubmed</a>) (<a href="https://doi.org/10.2144/btn-2023-0056">doi</a>)</p>
+
+<h1>Abstract</h1>
+<p>As the volume of sequence data from variable pathogens increases, means of analyzing, annotating and extracting specific taxa for study becomes more difficult. To meet these challenges for datasets with hundreds to thousands of taxa, &lsquo;Phylobook&rsquo; was developed. Starting with a sequence alignment file, Phylobook generates and displays phylogenetic trees adjacent to highlighter plots showing the position of mutations, and allows the user to identify lineages and recombinants, annotate and export selected subsets of sequences for downstream analysis. Accurate lineage assignment, which is difficult to automate, is aided using annotations created by different clustering methods. Phylobook provides web-based display combined with automated clustering and manual editing to allow for expert assessment and correction of lineage assignments and extraction for downstream analysis.</p>
+
+]]>
+        </content>
+    </entry>
+    
+    <entry>
+        <title>Antigen specificities and proviral integration sites differ in HIV-infected cells by timing of antiretroviral treatment initiation</title>
+        <link href="https://mullinslab.microbiol.washington.edu/publications/2663-Antigen-specificities-and-proviral-integration-sites-differ-in-HIV-infected-cells-by-timing-of-antiretroviral-treatment-initiation" rel="alternate" type="text/html" />
+        <published>2024-06-04T00:00:00-07:00</published>
+        <updated>2024-06-04T00:00:00-07:00</updated>
+        <id>urn:uuid:296444ae-f84b-5d74-b3c0-6baffd07ca16</id>
+        <author><name>Mullins Lab</name></author>
+        <content type="html">
+<![CDATA[
+<p>Joy, J., Gervassi, A.L., Chen, L., Kirshenbaum, B., Styrchak, S., Ko, D., Mclaughlin, S., Shao, D., Kosmider, E., Edlefsen, P.T., Maenza, J., Collier, A.C., Mullins, J.I., Horton, H., and Frenkel, L.M.(2024).<span class="title">Antigen specificities and proviral integration sites differ in HIV-infected cells by timing of antiretroviral treatment initiation</span> <cite class="journalName">J. Clin. Invest.</cite> 2024 Jun 4:e159569(<a href="http://ncbi.nlm.nih.gov/pubmed/38833307">pubmed</a>) (<a href="https://doi.org/10.1172/JCI159569">doi</a>)</p>
+
+<h1>Abstract</h1>
+<p>Despite effective antiretroviral therapy (ART), persons living with HIV (PWH) harbor reservoirs of persistently infected CD4+ cells, which constitute a barrier to cure. Initiation of ART during acute infection reduces the size of the HIV reservoir, and we hypothesized that in addition, it would favor integration of proviruses in HIV-specific CD4+ T cells, while initiation of ART during chronic HIV infection would favor relatively more proviruses in herpesvirus-specific cells. We further hypothesized that proviruses in acute-ART-initiators would be integrated into antiviral genes, whereas integration sites in chronic-ART-initiators would favor genes associated with cell proliferation and exhaustion. We found the HIV DNA distribution across HIV-specific vs. herpesvirus-specific CD4+ T cells was as hypothesized. HIV integration sites (IS) in acute-ART-initiators were significantly enriched in gene sets controlling lipid metabolism and HIF-1aplha-mediated hypoxia, both metabolic pathways active in early HIV infection. Persistence of these infected cells during prolonged ART suggests a survival advantage. IS in chronic-ART-initiators were enriched in a gene set controlling EZH2 histone methylation; and methylation has been associated with diminished LTR transcription. These differences we found in antigen specificities and IS distributions within HIV-infected cells might be leveraged in designing cure strategies tailored to the timing of ART initiation.</p>
+
+]]>
+        </content>
+    </entry>
+    
+    <entry>
+        <title>Development and validation of a genotypic assay to quantify CXCR4- and CCR5-tropic human immunodeficiency virus type-1 (HIV-1) populations and a comparison to Trofile(tm)</title>
+        <link href="https://mullinslab.microbiol.washington.edu/publications/2010-Development-and-validation-of-a-genotypic-assay-to-quantify-CXCR4-and-CCR5-tropic-human-immunodeficiency-virus-type-1-HIV-1-populations-and-a-comparison-to-Trofile-tm" rel="alternate" type="text/html" />
+        <published>2024-03-07T00:00:00-08:00</published>
+        <updated>2024-03-07T00:00:00-08:00</updated>
+        <id>urn:uuid:d93c9e5e-244d-5d64-a449-15e3f5227842</id>
+        <author><name>Mullins Lab</name></author>
+        <content type="html">
+<![CDATA[
+<p>Ko, D., McLaughlin, S., Deng, W., Mullins, J.I., Dragavon, J., Harb, S., Coombs, R.W., Frenkel, L.M.(2024).<span class="title">Development and validation of a genotypic assay to quantify CXCR4- and CCR5-tropic human immunodeficiency virus type-1 (HIV-1) populations and a comparison to Trofile&trade;</span> <cite class="journalName">Viruses</cite> 2024 16, 510(<a href="http://ncbi.nlm.nih.gov/pubmed/38675853">pubmed</a>) (<a href="https://doi.org/10.3390/v16040510">doi</a>)</p>
+
+<h1>Abstract</h1>
+<p>HIV-1 typically infects cells via the CD4 receptor and CCR5 or CXCR4 co-receptors. Maraviroc is a CCR5-specific viral entry inhibitor; knowledge of viral co-receptor specificity is important prior to usage. We developed and validated an economical V3-env Illumina-based assay to detect and quantify the frequency of viruses utilizing each co-receptor. Plasma from 54 HIV+ participants (subtype B) was tested. The viral template cDNA was generated from plasma RNA with unique molecular identifiers (UMIs). The sequences were aligned and collapsed by the UMIs with a custom bioinformatics pipeline. Co-receptor usage, determined by codon analysis and online phenotype predictors PSSM and Geno2pheno, were compared to existing Trofile&trade; data. The cost of V3-UMI was tallied. The sequences interpreted by Geno2pheno using the most conservative cut-off, a 2% false-positive-rate (FPR), predicted CXCR4 usage with the greatest sensitivity (76%) and specificity (100%); PSSM and codon analysis had similar sensitivity and lower specificity. Discordant Trofile&trade; and genotypic results were more common when participants had specimens from different dates analyzed by either assay. V3-UMI reagents cost USD$62/specimen. A batch of &lt;=20 specimens required 5 h of technical time across 1.5 days. V3-UMI predicts HIV tropism at a sensitivity and specificity similar to those of Trofile&trade;, is relatively inexpensive, and could be performed by most central laboratories. The adoption of V3-UMI could expand HIV drug therapeutic options in lower-resource settings that currently do not have access to phenotypic HIV tropism testing.</p>
+
+]]>
+        </content>
+    </entry>
+    
+    <entry>
+        <title>Optimized SMRT-UMI protocol produces highly accurate sequence datasets from diverse populations- Application to HIV-1 quasispecies</title>
+        <link href="https://mullinslab.microbiol.washington.edu/publications/965-Optimized-SMRT-UMI-protocol-produces-highly-accurate-sequence-datasets-from-diverse-populations-Application-to-HIV-1-quasispecies" rel="alternate" type="text/html" />
+        <published>2024-03-02T00:00:00-08:00</published>
+        <updated>2024-03-02T00:00:00-08:00</updated>
+        <id>urn:uuid:84e164fb-8faa-54a4-929e-3d9ee0f021c1</id>
+        <author><name>Mullins Lab</name></author>
+        <content type="html">
+<![CDATA[
+<p>Dylan H Westfall, Wenjie Deng, Alec Pankow, Hugh Murrell, Lennie Chen, Hong Zhao, Carolyn Williamson, Morgane Rolland, Ben Murrell, James I Mullins(2024).<span class="title">Optimized SMRT-UMI protocol produces highly accurate sequence datasets from diverse populations-Application to HIV-1 quasispecies</span> <cite class="journalName">Virus Evol.</cite> 2024 Mar 2;10(1)(<a href="http://ncbi.nlm.nih.gov/pubmed/38765465">pubmed</a>) (<a href="https://doi.org/10.1093/ve/veae019">doi</a>)</p>
+
+<h1>Abstract</h1>
+<p>Pathogen diversity resulting in quasispecies can enable persistence and adaptation to host defenses and therapies. However, accurate quasispecies characterization can be impeded by errors introduced during sample handling and sequencing, which can require extensive optimizations to overcome. We present complete laboratory and bioinformatics workflows to overcome many of these hurdles. The Pacific Biosciences single molecule real-time platform was used to sequence polymerase-chain reaction (PCR) amplicons derived from cDNA templates tagged with unique molecular identifiers (SMRT-UMI). Optimized laboratory protocols were developed through extensive testing of different sample preparation conditions to minimize between-template recombination during PCR. The use of UMI allowed accurate template quantitation as well as removal of point mutations introduced during PCR and sequencing to produce a highly accurate consensus sequence from each template. Production of highly accurate sequences from the large datasets produced from SMRT-UMI sequencing is facilitated by a novel bioinformatic pipeline, Probabilistic Offspring Resolver for Primer IDs (PORPIDpipeline). PORPIDpipeline automatically filters and parses circular consensus reads by sample, identifies and discards reads with UMIs likely created from PCR and sequencing errors, generates consensus sequences, checks for contamination within the dataset, and removes any sequence with evidence of PCR recombination, heteroduplex formation, or early cycle PCR errors. The optimized SMRT-UMI sequencing and PORPIDpipeline methods presented here represent a highly adaptable and established starting point for accurate sequencing of diverse pathogens. These methods are illustrated through characterization of human immunodeficiency virus quasispecies in a virus transmitter-recipient pair of individuals.</p>
+
+]]>
+        </content>
+    </entry>
+    
+    <entry>
+        <title>The replication-competent HIV reservoir is a genetically restricted, younger subset of the overall pool of HIV proviruses persisting during therapy, which is highly genetically stable over time</title>
+        <link href="https://mullinslab.microbiol.washington.edu/publications/2725-The-replication-competent-HIV-reservoir-is-a-genetically-restricted-younger-subset-of-the-overall-pool-of-HIV-proviruses-persisting-during-therapy-which-is-highly-genetically-stable-over-time" rel="alternate" type="text/html" />
+        <published>2024-02-20T00:00:00-08:00</published>
+        <updated>2024-02-20T00:00:00-08:00</updated>
+        <id>urn:uuid:706df5c1-22b8-5ee4-8883-25f52dd5ac0a</id>
+        <author><name>Mullins Lab</name></author>
+        <content type="html">
+<![CDATA[
+<p>Aniqa Shahid, Signe MacLennan, Bradley R Jones, Hanwei Sudderuddin, Zhong Dang, Kyle Cobarrubias, Maggie C Duncan, Natalie N Kinloch, Michael J Dapp, Nancie M Archin, Margaret A Fischl, Igho Ofotokun, Adaora Adimora, Stephen Gange, Bradley Aouizerat, Mark H Kuniholm, Seble Kassaye, James I Mullins, Harris Goldstein, Jeffrey B Joy, Kathryn Anastos, Zabrina L Brumme; MACS/WIHS combined cohort study (MWCSS) (2024).<span class="title">The replication-competent HIV reservoir is a genetically restricted, younger subset of the overall pool of HIV proviruses persisting during therapy, which is highly genetically stable over time.</span> <cite class="journalName">J.  Virol.</cite> 2024 Feb 20;98(2):e0165523.(<a href="http://ncbi.nlm.nih.gov/pubmed/38214547">pubmed</a>) (<a href="https://doi.org/10.1128/jvi.01655-23">doi</a>)</p>
+
+<h1>Abstract</h1>
+<p>Within-host HIV populations continually diversify during untreated infection, and this diversity persists within infected cell reservoirs during antiretroviral therapy (ART). Achieving a better understanding of on-ART proviral evolutionary dynamics, and a better appreciation of how the overall persisting pool of (largely genetically defective) proviruses differs from the much smaller replication-competent HIV reservoir, is critical to HIV cure efforts. We reconstructed within-host HIV evolutionary histories in blood from seven participants of the Women&rsquo;s Interagency HIV Study who experienced HIV seroconversion, and used these data to characterize the diversity, lineage origins, and ages of proviral env-gp120 sequences sampled longitudinally up to 12 years on ART. We also studied HIV sequences emerging from the reservoir in two participants. We observed that proviral clonality generally increased over time on ART, with clones frequently persisting long term. While on-ART proviral integration dates generally spanned the duration of untreated infection, HIV emerging in plasma was exclusively younger (i.e., dated to the years immediately pre-ART). The genetic and age distributions of distinct proviral sequences remained stable during ART in all but one participant, in whom there was evidence that younger proviruses had been preferentially eliminated after 12 years on ART. Analysis of the gag region in three participants corroborated our env-gp120-based observations, indicating that our observations are not influenced by the HIV region studied. Our results underscore the remarkable genetic stability of the distinct proviral sequences that persist in blood during ART. Our results also suggest that the replication-competent HIV reservoir is a genetically restricted, younger subset of this overall proviral pool.IMPORTANCECharacterizing the genetically diverse HIV sequences that persist in the reservoir despite antiretroviral therapy (ART) is critical to cure efforts. Our observations confirm that proviruses persisting in blood on ART, which are largely genetically defective, broadly reflect the extent of within-host HIV evolution pre-ART. Moreover, on-ART clonal expansion is not appreciably accompanied by the loss of distinct proviral lineages. In fact, on-ART proviral genetic composition remained stable in all but one participant, in whom, after 12 years on ART, proviruses dating to around near ART initiation had been preferentially eliminated. We also identified recombinant proviruses between parental sequence fragments of different ages. Though rare, such sequences suggest that reservoir cells can be superinfected with HIV from another infection era. Overall, our finding that the replication-competent reservoir in blood is a genetically restricted, younger subset of all persisting proviruses suggests that HIV cure strategies will need to eliminate a reservoir that differs in key respects from the overall proviral pool.</p>
+
+]]>
+        </content>
+    </entry>
+    
+    <entry>
+        <title>Prevention efficacy of the broadly neutralizing antibody VRC01 depends on HIV-1 envelope sequence features.</title>
+        <link href="https://mullinslab.microbiol.washington.edu/publications/2978-Prevention-efficacy-of-the-broadly-neutralizing-antibody-VRC01-depends-on-HIV-1-envelope-sequence-features" rel="alternate" type="text/html" />
+        <published>2024-01-19T00:00:00-08:00</published>
+        <updated>2024-01-19T00:00:00-08:00</updated>
+        <id>urn:uuid:3dbe0433-e60d-5f0f-9b9f-952137ae49c4</id>
+        <author><name>Mullins Lab</name></author>
+        <content type="html">
+<![CDATA[
+<p>Juraska, M., Bai, H., deCamp, A.C., Magaret, C.A., Li, L., Gillespie, K., Carpp, L.N., Giorgi, E.E., Ludwig, J., Molitor, C., Hudson, A., Williamson, B.D., Espy, N., Simpkins, B., Rudnicki, E., Shao, D., Rossenkhan, R., Edlefsen, P.T., Westfall, D.H., Deng, W., Chen, L., Zhao, H., Bhattacharya, T., Pankow, A., Murrell, B., Yssel, A., Matten, D., York, T., Beaume, N., Gwashu-Nyangiwe, A., Ndabambi, N., Thebus, R., Karuna, S.T., Morris, L., Montefiori, D.C., Hural, J.A., Cohen, M.S., Corey, L., Rolland, M., Gilbert, P.B., Williamson, C., Mullins, J.I., (2024).<span class="title">Prevention efficacy of the broadly neutralizing antibody VRC01 depends on HIV-1 envelope sequence features.</span> <cite class="journalName">Proc Natl Acad Sci U S A</cite> 2024 Jan 23;121(4):e2308942121(<a href="http://ncbi.nlm.nih.gov/pubmed/38241441">pubmed</a>) (<a href="https://doi.org/10.1073/pnas.2308942121">doi</a>)</p>
+
+<h1>Abstract</h1>
+<p>In the Antibody Mediated Prevention (AMP) trials (HVTN 704/HPTN 085 and HVTN 703/HPTN 081), prevention efficacy (PE) of the monoclonal broadly neutralizing antibody (bnAb) VRC01 (vs. placebo) against HIV-1 acquisition diagnosis varied according to the HIV-1 Envelope (Env) neutralization sensitivity to VRC01, as measured by 80% inhibitory concentration (IC80). Here, we performed a genotypic sieve analysis, a complementary approach to gaining insight into correlates of protection that assesses how PE varies with HIV-1 sequence features. We analyzed HIV-1 Env amino acid (AA) sequences from the earliest available HIV-1 RNA-positive plasma samples from AMP participants diagnosed with HIV-1 and identified Env sequence features that associated with PE. The strongest Env AA sequence correlate in both trials was VRC01 epitope distance that quantifies the divergence of the VRC01 epitope in an acquired HIV-1 isolate from the VRC01 epitope of reference HIV-1 strains that were most sensitive to VRC01-mediated neutralization. In HVTN 704/HPTN 085, the Env sequence-based predicted probability that VRC01 IC80 against the acquired isolate exceeded 1 ug/mL also significantly associated with PE. In HVTN 703/HPTN 081, a physicochemical-weighted Hamming distance across 50 VRC01 binding-associated Env AA positions of the acquired isolate from the most VRC01-sensitive HIV-1 strain significantly associated with PE. These results suggest that incorporating mutation scoring by BLOSUM62 and weighting by the strength of interactions at AA positions in the epitope:VRC01 interface can optimize performance of an Env sequence-based biomarker of VRC01 prevention efficacy. Future work could determine whether these results extend to other bnAbs and bnAb combinations.</p>
+
+]]>
+        </content>
+    </entry>
+    
+    <entry>
+        <title>High monoclonal neutralization titers reduced breakthrough HIV-1 viral loads in the Antibody Mediated Prevention trials.</title>
+        <link href="https://mullinslab.microbiol.washington.edu/publications/3276-High-monoclonal-neutralization-titers-reduced-breakthrough-HIV-1-viral-loads-in-the-Antibody-Mediated-Prevention-trials" rel="alternate" type="text/html" />
+        <published>2023-12-14T00:00:00-08:00</published>
+        <updated>2023-12-14T00:00:00-08:00</updated>
+        <id>urn:uuid:8609b5ae-703a-533f-be0a-3b7bb58f4ade</id>
+        <author><name>Mullins Lab</name></author>
+        <content type="html">
+<![CDATA[
+<p>Reeves, D.B., Mayer, B.T., deCamp, A.C., Huang, Y., Zhang, B., Carpp, L.N., Magaret, C.A., Juraska, M., Gilbert, P.B., Montefiori, D.C., Bar, K.J., Cardozo-Ojeda, E.F., Schiffer, J.T., Rossenkhan, R., Edlefsen, P., Morris, L., Mkhize, N.N., Williamson, C., Mullins, J.I., Seaton, K.E., Tomaras, G.D., Andrew, P., Mgodi, N., Ledgerwood, J.E., Cohen, M.S., Corey, L., Naidoo, L., Orrell, C., Goepfert, P.A., Casapia, M., Sobieszczyk, M.E., Karuna, S.T., Edupuganti, S., (2023).<span class="title">High monoclonal neutralization titers reduced breakthrough HIV-1 viral loads in the Antibody Mediated Prevention trials.</span> <cite class="journalName">Nature Communications</cite> 2023 Dec 14;14(1):8299(<a href="http://ncbi.nlm.nih.gov/pubmed/38097552">pubmed</a>) (<a href="https://doi.org/10.1038/s41467-023-43384-y">doi</a>)</p>
+
+<h1>Abstract</h1>
+<p>The Antibody Mediated Prevention (AMP) trials (NCT02716675 and NCT02568215) demonstrated that passive administration of the broadly neutralizing monoclonal antibody VRC01 could prevent some HIV-1 acquisition events. Here, we use mathematical modeling in a post hoc analysis to demonstrate that VRC01 influenced viral loads in AMP participants who acquired HIV. Instantaneous inhibitory potential (IIP), which integrates VRC01 serum concentration and VRC01 sensitivity of acquired viruses in terms of both IC50 and IC80, follows a dose-response relationship with first positive viral load (p = 0.03), which is particularly strong above a threshold of IIP = 1.6 (r = -0.6, p = 2e-4). Mathematical modeling reveals that VRC01 activity predicted from in vitro IC80s and serum VRC01 concentrations overestimates in vivo neutralization by 600-fold (95% CI: 300-1200). The trained model projects that even if future therapeutic HIV trials of combination monoclonal antibodies do not always prevent acquisition, reductions in viremia and reservoir size could be expected.
+Erratum in <a href="https://pubmed.ncbi.nlm.nih.gov/38519455/">https://pubmed.ncbi.nlm.nih.gov/38519455/</a></p>
+
+]]>
+        </content>
+    </entry>
+    
+    <entry>
+        <title>The immunogenicity of an HIV-1 Gag conserved element DNA vaccine in people with HIV and receiving antiretroviral therapy</title>
+        <link href="https://mullinslab.microbiol.washington.edu/publications/1660-The-immunogenicity-of-an-HIV-1-Gag-conserved-element-DNA-vaccine-in-people-with-HIV-and-receiving-antiretroviral-therapy" rel="alternate" type="text/html" />
+        <published>2023-12-01T00:00:00-08:00</published>
+        <updated>2023-12-01T00:00:00-08:00</updated>
+        <id>urn:uuid:5701aac6-7d78-5b1c-bec2-e51469dccc9b</id>
+        <author><name>Mullins Lab</name></author>
+        <content type="html">
+<![CDATA[
+<p>Jacobson, J.M., Felber, B.K., Chen, H., Pavlakis, G.N., Mullins, J.I., de Rosa, S.C., Kuritzkes, D.R., Tomaras, G.D., Kinslow, J., Bao, Y., Olefsky, M., Rosati, M., Bear, J., Hannaman, D., Laird, G.M., Cyktor, J.C., Heath, S.L., Collier, A.C., Koletar, S.L., Taiwo, B.O., Tebas, P., Wohl, D.A., Belanzauran-Zamudio, P.F., McElrath, M.J., Landay, A.L., ACGT 5369 Study Team, (2023)<span class="title">The immunogenicity of an HIV-1 Gag conserved element DNA vaccine in people with HIV and receiving antiretroviral therapy. </span><cite class="journalName">AIDS</cite> 2024 Jun 1;38(7):963-973(<a href="http://ncbi.nlm.nih.gov/pubmed/38051788">pubmed</a>) (<a href="https://doi.org/10.1097/QAD.0000000000003804">doi</a>)</p>
+
+<h1>Abstract</h1>
+<p><strong>Objective</strong>: The primary objective of the study was to assess the immunogenicity of an HIV-1 Gag conserved element DNA vaccine (p24CE DNA) in people with HIV (PWH) receiving suppressive antiretroviral therapy (ART).</p><p><strong>Design</strong>: AIDS Clinical Trials Group A5369 was a phase I/IIa, randomized, double-blind, placebo-controlled study of PWH receiving ART with plasma HIV-1 RNA less than 50 copies/ml, current CD4 + T-cell counts greater than 500 cells/ul, and nadir CD4 + T-cell counts greater than 350 cells/ul.</p><p><strong>Methods</strong>: The study enrolled 45 participants randomized 2 : 1 : 1 to receive p24CE DNA vaccine at weeks 0 and 4, followed by p24CE DNA admixed with full-length p55 Gag DNA vaccine at weeks 12 and 24 (arm A); full-length p55 Gag DNA vaccine at weeks 0, 4, 12, and 24 (arm B); or placebo at weeks 0, 4, 12, and 24 (arm C). The active and placebo vaccines were administered by intramuscular electroporation.</p><p><strong>Results</strong>: There was a modest, but significantly greater increase in the number of conserved elements recognized by CD4 + and/or CD8 + T cells in arm A compared with arm C ( P = 0.014). The percentage of participants with an increased number of conserved elements recognized by T cells was also highest in arm A (8/18, 44.4%) vs. arm C (0/10, 0.0%) ( P = 0.025). There were no significant differences between treatment groups in the change in magnitude of responses to total conserved elements.</p><p><strong>Conclusion</strong>: A DNA-delivered HIV-1 Gag conserved element vaccine boosted by a combination of this vaccine with a full-length p55 Gag DNA vaccine induced a new conserved element-directed cellular immune response in approximately half the treated PWH on ART.</p>
+
+]]>
+        </content>
+    </entry>
+    
+    <entry>
+        <title>Africa-specific human genetic variation near CHD1L associates with HIV-1 load</title>
+        <link href="https://mullinslab.microbiol.washington.edu/publications/715-Africa-specific-human-genetic-variation-near-CHD1L-associates-with-HIV-1-load" rel="alternate" type="text/html" />
+        <published>2023-08-02T00:00:00-07:00</published>
+        <updated>2023-08-02T00:00:00-07:00</updated>
+        <id>urn:uuid:e9150594-d278-511b-81ec-7f7a07970640</id>
+        <author><name>Mullins Lab</name></author>
+        <content type="html">
+<![CDATA[
+<p>McLaren, P.J., Porreca, I., Iaconis, G., Mok, H.P., Mukhopadhyay, S., Karakoc, E., Cristinelli, S., Pomilla, C., Bartha, I., Thorball, C.W., Tough, R.H., Angelino, P., Kiar, C.S., Carstensen, T., Fatumo, S., Porter, T., Jarvis, I., Skarnes, W.C., Bassett, A., DeGorter, M.K., Sathya Moorthy, M.P., Tuff, J.F., Kim, E.Y., Walter, M., Simons, L.M., Bashirova, A., Buchbinder, S., Carrington, M., Cossarizza, A., De Luca, A., Goedert, J.J., Goldstein, D.B., Haas, D.W., Herbeck, J.T., Johnson, E.O., Kaleebu, P., Kilembe, W., Kirk, G.D., Kootstra, N.A., Kral, A.H., Lambotte, O., Luo, M., Mallal, S., Martinez-Picado, J., Meyer, L., Miro, J.M., Moodley, P., Motala, A.A., Mullins, J.I., Nam, K., Obel, N., Pirie, F., Plummer, F.A., Poli, G., Price, M.A., Rauch, A., Theodorou, I., Trkola, A., Walker, B.D., Winkler, C.A., Zagury, J.F., Montgomery, S.B., Ciuffi, A., Hultquist, J.F., Wolinsky, S.M., Dougan, G., Lever, A.M.L., Gurdasani, D., Groom, H., Sandhu, M.S., Fellay, J. (2023).<span class="title">Africa-specific human genetic variation near CHD1L associates with HIV-1 load</span><cite class="journalName">Nature</cite> 2023 Aug;620(7976):1025-1030(<a href="http://ncbi.nlm.nih.gov/pubmed/37670157">pubmed</a>) (<a href="https://doi.org/10.1038/s41586-023-06591-7.">doi</a>)</p>
+
+<h1>Abstract</h1>
+
+
+]]>
+        </content>
+    </entry>
+    
+    <entry>
+        <title>Neutralization profiles of HIV-1 viruses from the VRC01 Antibody Mediated Prevention (AMP) trials</title>
+        <link href="https://mullinslab.microbiol.washington.edu/publications/1918-Neutralization-profiles-of-HIV-1-viruses-from-the-VRC01-Antibody-Mediated-Prevention-AMP-trials" rel="alternate" type="text/html" />
+        <published>2023-06-29T00:00:00-07:00</published>
+        <updated>2023-06-29T00:00:00-07:00</updated>
+        <id>urn:uuid:b7ed709f-f8a2-5e1c-808a-c95b4f7a733f</id>
+        <author><name>Mullins Lab</name></author>
+        <content type="html">
+<![CDATA[
+<p>Mkhize, N.N., Yssel, A.E.J., Kaldine, H., van Dorsten, R.T., Woodward Davis, A.S., Beaume, N., Matten, D., Lambson, B., Modise, T., Kgagudi, P., York, T., Westfall, D.H., Giorgi, E.E., Korber, B., Anthony, C., Mapengo, R.E., Bekker, V., Domin, E., Eaton, A., Deng, W., DeCamp, A., Huang, Y., Gilbert, P.B., Gwashu-Nyangiwe, A., Thebus, R., Ndabambi, N., Mielke, D., Mgodi, N., Karuna, S., Edupuganti, S., Seaman, M.S., Corey, L., Cohen, M.S., Hural, J., McElrath, M.J., Mullins, J.I., Montefiori, D., Moore, P.L., Williamson, C., Morris, L., (2023)<span class="title">Neutralization profiles of HIV-1 viruses from the VRC01 Antibody Mediated Prevention (AMP) trials</span><cite class="journalName">PLoS Pathog.</cite> 2023 Jun 29;19(6):e1011469(<a href="http://ncbi.nlm.nih.gov/pubmed/37384759">pubmed</a>) (<a href="https://doi.org/10.1371/journal.ppat.1011469">doi</a>)</p>
+
+<h1>Abstract</h1>
+<p>The VRC01 Antibody Mediated Prevention (AMP) efficacy trials conducted between 2016 and 2020 showed for the first time that passively administered broadly neutralizing antibodies (bnAbs) could prevent HIV-1 acquisition against bnAb-sensitive viruses. HIV-1 viruses isolated from AMP participants who acquired infection during the study in the sub-Saharan African (HVTN 703/HPTN 081) and the Americas/European (HVTN 704/HPTN 085) trials represent a panel of currently circulating strains of HIV-1 and offer a unique opportunity to investigate the sensitivity of the virus to broadly neutralizing antibodies (bnAbs) being considered for clinical development. Pseudoviruses were constructed using envelope sequences from 218 individuals. The majority of viruses identified were clade B and C; with clades A, D, F and G and recombinants AC and BF detected at lower frequencies. We tested eight bnAbs in clinical development (VRC01, VRC07-523LS, 3BNC117, CAP256.25, PGDM1400, PGT121, 10-1074 and 10E8v4) for neutralization against all AMP placebo viruses (n = 76). Compared to older clade C viruses (1998-2010), the HVTN703/HPTN081 clade C viruses showed increased resistance to VRC07-523LS and CAP256.25. At a concentration of 1ug/ml (IC80), predictive modeling identified the triple combination of V3/V2-glycan/CD4bs-targeting bnAbs (10-1074/PGDM1400/VRC07-523LS) as the best against clade C viruses and a combination of MPER/V3/CD4bs-targeting bnAbs (10E8v4/10-1074/VRC07-523LS) as the best against clade B viruses, due to low coverage of V2-glycan directed bnAbs against clade B viruses. Overall, the AMP placebo viruses represent a valuable resource for defining the sensitivity of contemporaneous circulating viral strains to bnAbs and highlight the need to update reference panels regularly. Our data also suggests that combining bnAbs in passive immunization trials would improve coverage of global viruses.</p>
+
+]]>
+        </content>
+    </entry>
+    
+    <entry>
+        <title>Pharmacokinetic serum concentrations of VRC01 correlate with prevention of HIV-1 acquisition.</title>
+        <link href="https://mullinslab.microbiol.washington.edu/publications/1291-Pharmacokinetic-serum-concentrations-of-VRC01-correlate-with-prevention-of-HIV-1-acquisition" rel="alternate" type="text/html" />
+        <published>2023-06-08T00:00:00-07:00</published>
+        <updated>2023-06-08T00:00:00-07:00</updated>
+        <id>urn:uuid:16e8be49-04ff-57d0-b2e2-508b0ce69f3d</id>
+        <author><name>Mullins Lab</name></author>
+        <content type="html">
+<![CDATA[
+<p>Seaton KE, Huang Y, Karuna S, Heptinstall JR, Brackett C, Chiong K, Zhang L, Yates NL, Sampson M, Rudnicki E, Juraska M, deCamp AC, Edlefsen PT, Mullins JI, Williamson C, Rossenkhan R, Giorgi EE, Kenny A, Angier H, Randhawa A, Weiner JA, Rojas M, Sarzotti-Kelsoe M, Zhang L, Sawant S, Ackerman ME, McDermott AB, Mascola JR, Hural J, McElrath MJ, Andrew P, Hidalgo JA, Clark J, Laher F, Orrell C, Frank I, Gonzales P, Edupuganti S, Mgodi N, Corey L, Morris L, Montefiori D, Cohen MS, Gilbert PB, Tomaras GD (2023)<span class="title">Pharmacokinetic serum concentrations of VRC01 correlate with prevention of HIV-1 acquisition</span><cite class="journalName">EBioMedicine</cite> 2023 Jul:93:104590(<a href="http://ncbi.nlm.nih.gov/pubmed/37300931">pubmed</a>) (<a href="https://doi.org/10.1016/j.ebiom.2023.104590">doi</a>)</p>
+
+<h1>Abstract</h1>
+<p><strong>Background</strong>: The phase 2b proof-of-concept Antibody Mediated Prevention (AMP) trials showed that VRC01, an anti-HIV-1 broadly neutralising antibody (bnAb), prevented acquisition of HIV-1 sensitive to VRC01. To inform future study design and dosing regimen selection of candidate bnAbs, we investigated the association of VRC01 serum concentration with HIV-1 acquisition using AMP trial data.</p><p><strong>Methods</strong>: The case-control sample included 107 VRC01 recipients who acquired HIV-1 and 82 VRC01 recipients who remained without HIV-1 during the study. We measured VRC01 serum concentrations with a qualified pharmacokinetic (PK) Binding Antibody Multiplex Assay. We employed nonlinear mixed effects PK modelling to estimate daily-grid VRC01 concentrations. Cox regression models were used to assess the association of VRC01 concentration at exposure and baseline body weight, with the hazard of HIV-1 acquisition and prevention efficacy as a function of VRC01 concentration. We also compared fixed dosing vs. body weight-based dosing via simulations.</p><p><strong>Findings</strong>: Estimated VRC01 concentrations in VRC01 recipients without HIV-1 were higher than those in VRC01 recipients who acquired HIV-1. Body weight was inversely associated with HIV-1 acquisition among both placebo and VRC01 recipients but did not modify the prevention efficacy of VRC01. VRC01 concentration was inversely correlated with HIV-1 acquisition, and positively correlated with prevention efficacy of VRC01. Simulation studies suggest that fixed dosing may be comparable to weight-based dosing in overall predicted prevention efficacy.</p><p><strong>Interpretation</strong>: These findings suggest that bnAb serum concentration may be a useful marker for dosing regimen selection, and operationally efficient fixed dosing regimens could be considered for future trials of HIV-1 bnAbs.</p><p><strong>Funding</strong>: Was provided by the National Institutes of Health, National Institute of Allergy and Infectious Diseases (NIAID) (UM1 AI068614, to the HIV Vaccine Trials Network [HVTN]; UM1 AI068635, to the HVTN Statistical Data and Management Center [SDMC], Fred Hutchinson Cancer Center [FHCC]; 2R37 054165 to the FHCC; UM1 AI068618, to HVTN Laboratory Center, FHCC; UM1 AI068619, to the HPTN Leadership and Operations Center; UM1 AI068613, to the HIV Prevention Trials Network [HPTN] Laboratory Center; UM1 AI068617, to the HPTN SDMC; and P30 AI027757, to the Center for AIDS Research, Duke University (AI P30 AI064518) and University of Washington (P30 AI027757) Centers for AIDS Research; R37AI054165 from NIAID to the FHCC; and OPP1032144 CA-VIMC Bill &amp; Melinda Gates Foundation.</p>
+
+]]>
+        </content>
+    </entry>
+    
+    <entry>
+        <title>Variation Within Major Internal Repeats of KSHV In Vivo. Virus Evolution</title>
+        <link href="https://mullinslab.microbiol.washington.edu/publications/2595-Variation-Within-Major-Internal-Repeats-of-KSHV-In-Vivo-Virus-Evolution" rel="alternate" type="text/html" />
+        <published>2023-05-22T00:00:00-07:00</published>
+        <updated>2023-05-22T00:00:00-07:00</updated>
+        <id>urn:uuid:26aeba06-269d-5e31-911e-70c35d6a629d</id>
+        <author><name>Mullins Lab</name></author>
+        <content type="html">
+<![CDATA[
+<p>Santiago, JC, Westfall, DH, Adams, SV, Okuku, F, Phipps, W, Mullins, JI (2023)<span class="title">Variation within major internal repeats of KSHV in vivo</span><cite class="journalName">Virus Evil.</cite> 2023 May 22;9(1):vead034(<a href="http://ncbi.nlm.nih.gov/pubmed/37325087">pubmed</a>) (<a href="https://doi.org/10.1093/ve/vead034">doi</a>)</p>
+
+<h1>Abstract</h1>
+<p>Kaposi&rsquo;s sarcoma-associated herpesvirus (KSHV) is the etiologic agent of Kaposi&rsquo;s sarcoma (KS), yet the viral genetic factors that lead to the development of KS in KSHV-infected individuals have not been fully elucidated. Nearly, all previous analyses of KSHV genomic evolution and diversity have excluded the three major internal repeat regions: the two origins of lytic replication, internal repeats 1 and 2 (IR1 and IR2), and the latency-associated nuclear antigen (LANA) repeat domain (LANAr). These regions encode protein domains that are essential to the KSHV infection cycle but have been rarely sequenced due to their extended repetitive nature and high guanine and cytosine (GC) content. The limited data available suggest that their sequences and repeat lengths are more heterogeneous across individuals than in the remainder of the KSHV genome. To assess their diversity, the full-length IR1, IR2, and LANAr sequences, tagged with unique molecular identifiers (UMIs), were obtained by Pacific Biosciences&#39; single-molecule real-time sequencing (SMRT-UMI) from twenty-four tumors and six matching oral swabs from sixteen adults in Uganda with advanced KS. Intra-host single-nucleotide variation involved an average of 0.16 per cent of base positions in the repeat regions compared to a nearly identical average of 0.17 per cent of base positions in the remainder of the genome. Tandem repeat unit (TRU) counts varied by only one from the intra-host consensus in a majority of individuals. Including the TRU indels, the average intra-host pairwise identity was 98.3 per cent for IR1, 99.6 per cent for IR2 and 98.9 per cent for LANAr. More individuals had mismatches and variable TRU counts in IR1 (twelve/sixteen) than in IR2 (two/sixteen). There were no open reading frames in the Kaposin coding sequence inside IR2 in at least fifty-five of ninety-six sequences. In summary, the KSHV major internal repeats, like the rest of the genome in individuals with KS, have low diversity. IR1 was the most variable among the repeats, and no intact Kaposin reading frames were present in IR2 of the majority of genomes sampled.</p>
+
+]]>
+        </content>
+    </entry>
+    
+    <entry>
+        <title>Efficient ex vivo expansion of conserved element vaccine-specific CD8+ T-cells from SHIV-infected, ART-suppressed nonhuman primates.</title>
+        <link href="https://mullinslab.microbiol.washington.edu/publications/1102-Efficient-ex-vivo-expansion-of-conserved-element-vaccine-specific-CD8-T-cells-from-SHIV-infected-ART-suppressed-nonhuman-primates" rel="alternate" type="text/html" />
+        <published>2023-05-03T00:00:00-07:00</published>
+        <updated>2023-05-03T00:00:00-07:00</updated>
+        <id>urn:uuid:55ad1ec7-d055-5b76-856d-115f7e88d38e</id>
+        <author><name>Mullins Lab</name></author>
+        <content type="html">
+<![CDATA[
+<p>Dross S, Venkataraman R, Patel S, Huang ML, Bollard CM, Rosati M, Pavlakis GN, Felber BK, Bar KJ, Shaw GM, Jerome KR, Mullins JI, Kiem HP, Fuller DH, Peterson CW (2023)<span class="title">Efficient <em>ex vivo</em> expansion of conserved element vaccine-specific CD8+ T-cells from SHIV-infected, ART-suppressed nonhuman primates.</span><cite class="journalName">Front. Immunol.</cite> 2023 May 3:14:1188028(<a href="http://ncbi.nlm.nih.gov/pubmed/37207227">pubmed</a>) (<a href="https://doi.org/10.3389/fimmu.2023.1188018">doi</a>)</p>
+
+<h1>Abstract</h1>
+<p>HIV-specific T cells are necessary for control of HIV-1 replication but are largely insufficient for viral clearance. This is due in part to these cells&#39; recognition of immunodominant but variable regions of the virus, which facilitates viral escape via mutations that do not incur viral fitness costs. HIV-specific T cells targeting conserved viral elements are associated with viral control but are relatively infrequent in people living with HIV (PLWH). The goal of this study was to increase the number of these cells via an ex vivo cell manufacturing approach derived from our clinically-validated HIV-specific expanded T-cell (HXTC) process. Using a nonhuman primate (NHP) model of HIV infection, we sought to determine i) the feasibility of manufacturing ex vivo-expanded virus-specific T cells targeting viral conserved elements (CE, CE-XTCs), ii) the in vivo safety of these products, and iii) the impact of simian/human immunodeficiency virus (SHIV) challenge on their expansion, activity, and function. NHP CE-XTCs expanded up to 10-fold following co-culture with the combination of primary dendritic cells (DCs), PHA blasts pulsed with CE peptides, irradiated GM-K562 feeder cells, and autologous T cells from CE-vaccinated NHP. The resulting CE-XTC products contained high frequencies of CE-specific, polyfunctional T cells. However, consistent with prior studies with human HXTC and these cells&#39; predominant CD8+ effector phenotype, we did not observe significant differences in CE-XTC persistence or SHIV acquisition in two CE-XTC-infused NHP compared to two control NHP. These data support the safety and feasibility of our approach and underscore the need for continued development of CE-XTC and similar cell-based strategies to redirect and increase the potency of cellular virus-specific adaptive immune responses.</p>
+
+]]>
+        </content>
+    </entry>
+    
+    <entry>
+        <title>Genomic changes in Kaposi Sarcoma-associated Herpesvirus and their clinical correlates</title>
+        <link href="https://mullinslab.microbiol.washington.edu/publications/2542-Genomic-changes-in-Kaposi-Sarcoma-associated-Herpesvirus-and-their-clinical-correlates" rel="alternate" type="text/html" />
+        <published>2022-11-28T00:00:00-08:00</published>
+        <updated>2022-11-28T00:00:00-08:00</updated>
+        <id>urn:uuid:9d90780f-7252-5515-bb29-de8aca897528</id>
+        <author><name>Mullins Lab</name></author>
+        <content type="html">
+<![CDATA[
+<p>Jan Clement Santiago, Scott V Adams, Andrea Towlerton, Fred Okuku, Warren Phipps, James I Mullins (2022).<span class="title">Genomic changes in Kaposi Sarcoma-associated Herpesvirus and their clinical correlates.</span> <cite class="journalName">PLoS Pathog.</cite> 2022 Nov 28.(<a href="http://ncbi.nlm.nih.gov/pubmed/36441790">pubmed</a>) (<a href="https://doi.org/10.1371/journal.ppat.1010524">doi</a>)</p>
+
+<h1>Abstract</h1>
+<p>Kaposi sarcoma (KS), a common HIV-associated malignancy, presents a range of clinicopathological features. Kaposi sarcoma-associated herpesvirus (KSHV) is its etiologic agent, but the contribution of viral genomic variation to KS development is poorly understood. To identify potentially influential viral polymorphisms, we characterized KSHV genetic variation in 67 tumors from 1-4 distinct sites from 29 adults with advanced KS in Kampala, Uganda. Whole KSHV genomes were sequenced from 20 tumors with the highest viral load, whereas only polymorphic genes were screened by PCR and sequenced from 47 other tumors. Nine individuals harbored &gt;1 tumors with a median 6-fold over-coverage of a region centering on K5 and K6 genes. K8.1 gene was inactivated in 8 individuals, while 5 had mutations in the miR-K10 microRNA coding sequence. Recurring inter-host polymorphisms were detected in K4.2 and K11.2. The K5-K6 region rearrangement breakpoints and K8.1 mutations were all unique, indicating that they arise frequently de novo. Rearrangement breakpoints were associated with potential G-quadruplex and Z-DNA forming sequences. Exploratory evaluations of viral mutations with clinical and tumor traits were conducted by logistic regression without multiple test corrections. K5-K6 over-coverage and K8.1 inactivation were tentatively correlated (p &lt;0.001 and p = 0.005, respectively) with nodular rather than macular tumors, and with individuals that had lesions in &lt;4 anatomic areas (both p &lt;= 0.01). Additionally, a trend was noted for miR-K10 point mutations and lower survival rates (HR = 4.11, p = 0.053). Two instances were found of distinct tumors within an individual sharing the same viral mutation, suggesting metastases or transmission of the aberrant viruses within the host. To summarize, KSHV genomes in tumors frequently have over-representation of the K5-K6 region, as well as K8.1 and miR-K10 mutations, and each might be associated with clinical phenotypes. Studying their possible effects may be useful for understanding KS tumorigenesis and disease progression.</p>
+
+]]>
+        </content>
+    </entry>
+    
+    <entry>
+        <title>Neutralization titer biomarker for antibody-mediated prevention of HIV-1 acquisition</title>
+        <link href="https://mullinslab.microbiol.washington.edu/publications/1334-Neutralization-titer-biomarker-for-antibody-mediated-prevention-of-HIV-1-acquisition" rel="alternate" type="text/html" />
+        <published>2022-08-22T00:00:00-07:00</published>
+        <updated>2022-08-22T00:00:00-07:00</updated>
+        <id>urn:uuid:b8602409-2535-53ed-9a6c-f27217c6a481</id>
+        <author><name>Mullins Lab</name></author>
+        <content type="html">
+<![CDATA[
+<p>Peter B Gilbert, Yunda Huang, Allan C deCamp, Shelly Karuna, Yuanyuan Zhang, Craig A Magaret, Elena E Giorgi, Bette Korber, Paul T Edlefsen, Raabya Rossenkhan, Michal Juraska, Erika Rudnicki, Nidhi Kochar, Ying Huang, Lindsay N Carpp, Dan H Barouch, Nonhlanhla N Mkhize, Tandile Hermanus, Prudence Kgagudi, Valerie Bekker, Haajira Kaldine, Rutendo E Mapengo, Amanda Eaton, Elize Domin, Carley West, Wenhong Feng, Haili Tang, Kelly E Seaton, Jack Heptinstall, Caroline Brackett, Kelvin Chiong, Georgia D Tomaras, Philip Andrew, Bryan T Mayer, Daniel B Reeves, Magdalena E Sobieszczyk, Nigel Garrett, Jorge Sanchez, Cynthia Gay, Joseph Makhema, Carolyn Williamson, James I Mullins, John Hural, Myron S Cohen, Lawrence Corey, David C Montefiori, Lynn Morris (2022). <span class="title">Neutralization titer biomarker for antibody-mediated prevention of HIV-1 acquisition.</span> <cite class="journalName">Nature Medicine</cite> 2022 Sep.;28(9):1924-1932. (<a href="http://ncbi.nlm.nih.gov/pubmed/35995954">pubmed</a>) (<a href="https://doi.org/10.1038/s41591-022-01953-6">doi</a>)</p>
+
+<h1>Abstract</h1>
+<p>The Antibody Mediated Prevention trials showed that the broadly neutralizing antibody (bnAb) VRC01 prevented acquisition of human immunodeficiency virus-1 (HIV-1) sensitive to VRC01. Using AMP trial data, here we show that the predicted serum neutralization 80% inhibitory dilution titer (PT80) biomarker-which quantifies the neutralization potency of antibodies in an individual&rsquo;s serum against an HIV-1 isolate-can be used to predict HIV-1 prevention efficacy. Similar to the results of nonhuman primate studies, an average PT80 of 200 (meaning a bnAb concentration 200-fold higher than that required to reduce infection by 80% in vitro) against a population of probable exposing viruses was estimated to be required for 90% prevention efficacy against acquisition of these viruses. Based on this result, we suggest that the goal of sustained PT80 &lt;200 against 90% of circulating viruses can be achieved by promising bnAb regimens engineered for long half-lives. We propose the PT80 biomarker as a surrogate endpoint for evaluation of bnAb regimens, and as a tool for benchmarking candidate bnAb-inducing vaccines.</p>
+
+]]>
+        </content>
+    </entry>
+    
+    <entry>
+        <title>Comparative immunogenicity of an mRNA/LNP and a DNA vaccine targeting HIV gag conserved elements in macaques</title>
+        <link href="https://mullinslab.microbiol.washington.edu/publications/2197-Comparative-immunogenicity-of-an-mRNA-LNP-and-a-DNA-vaccine-targeting-HIV-gag-conserved-elements-in-macaques" rel="alternate" type="text/html" />
+        <published>2022-07-22T00:00:00-07:00</published>
+        <updated>2022-07-22T00:00:00-07:00</updated>
+        <id>urn:uuid:337ed017-c9b8-521f-9785-3593a59da981</id>
+        <author><name>Mullins Lab</name></author>
+        <content type="html">
+<![CDATA[
+<p>Antonio Valentin, Cristina Bergamaschi, Margherita Rosati, Matthew Angel, Robert Burns, Mahesh Agarwal, Janina Gergen, Benjamin Petsch, Lidia Oostvogels, Edde Loeliger, Kara W Chew, Steven G Deeks, James I Mullins, George N Pavlakis, Barbara K Felber (2022). <span class="title">Comparative immunogenicity of an mRNA/LNP and a DNA vaccine targeting HIV gag conserved elements in macaques.</span> <cite class="journalName">Front Immunol.</cite> 2022 July  22. (<a href="http://ncbi.nlm.nih.gov/pubmed/35935984">pubmed</a>) (<a href="https://doi.org/10.3389/fimmu.2022.945706">doi</a>)</p>
+
+<h1>Abstract</h1>
+<p>Immunogenicity of HIV-1 mRNA vaccine regimens was analyzed in a non-human primate animal model. Rhesus macaques immunized with mRNA in lipid nanoparticle (mRNA/LNP) formulation expressing HIV-1 Gag and Gag conserved regions (CE) as immunogens developed robust, durable antibody responses but low adaptive T-cell responses. Augmentation of the dose resulted in modest increases in vaccine-induced cellular immunity, with no difference in humoral responses. The gag mRNA/lipid nanoparticle (LNP) vaccine provided suboptimal priming of T cell responses for a heterologous DNA booster vaccination regimen. In contrast, a single immunization with gag mRNA/LNP efficiently boosted both humoral and cellular responses in macaques previously primed by a gag DNA-based vaccine. These anamnestic cellular responses were mediated by activated CD8+ T cells with a phenotype of differentiated T-bet+ cytotoxic memory T lymphocytes. The heterologous prime/boost regimens combining DNA and mRNA/LNP vaccine modalities maximized vaccine-induced cellular and humoral immune responses. Analysis of cytokine responses revealed a transient systemic signature characterized by the release of type I interferon, IL-15 and IFN-related chemokines. The pro-inflammatory status induced by the mRNA/LNP vaccine was also characterized by IL-23 and IL-6, concomitant with the release of IL-17 family of cytokines. Overall, the strong boost of cellular and humoral immunity induced by the mRNA/LNP vaccine suggests that it could be useful as a prophylactic vaccine in heterologous prime/boost modality and in immune therapeutic interventions against HIV infection or other chronic human diseases.</p>
+
+]]>
+        </content>
+    </entry>
+    
+    <entry>
+        <title>Droplet-microfluidics-assisted sequencing of HIV proviruses and their integration sites in cells from people on antiretroviral therapy.</title>
+        <link href="https://mullinslab.microbiol.washington.edu/publications/2541-Droplet-microfluidics-assisted-sequencing-of-HIV-proviruses-and-their-integration-sites-in-cells-from-people-on-antiretroviral-therapy" rel="alternate" type="text/html" />
+        <published>2022-03-28T00:00:00-07:00</published>
+        <updated>2022-03-29T00:00:00+00:00</updated>
+        <id>urn:uuid:d62c9579-e87a-5ba7-a6a1-37eb8de4fd55</id>
+        <author><name>Mullins Lab</name></author>
+        <content type="html">
+<![CDATA[
+<p>Sun C, Liu L, Pérez L, Li X, Liu Y, Xu P, Boritz EA, Mullins JI, Abate AR (2022). <span class="title">Droplet-microfluidics-assisted sequencing of HIV proviruses and their integration sites in cells from people on antiretroviral therapy.</span> <cite class="journalName">Nature biomedical engineering</cite> (ePub ahead of print). (<a href="http://ncbi.nlm.nih.gov/pubmed/35347274">pubmed</a>) (<a href="https://doi.org/10.1038/s41551-022-00864-8">doi</a>)</p>
+
+<h1>Abstract</h1>
+<p>The human immunodeficiency virus (HIV) integrates its genome into that of infected cells and may enter an inactive state of reversible latency that cannot be targeted using antiretroviral therapy. Sequencing such a provirus and the adjacent host junctions in individual cells may elucidate the mechanisms of the persistence of infected cells, but this is difficult owing to the 150-million-fold higher amount of background human DNA. Here we show that full-length proviruses connected to their contiguous HIV-host DNA junctions can be assembled via a high-throughput microfluidic assay where droplet-based whole-genome amplification of HIV DNA in its native context is followed by a polymerase chain reaction (PCR) to tag droplets containing proviruses for sequencing. We assayed infected cells from people with HIV receiving suppressive antiretroviral therapy, resulting in the detection and sequencing of paired proviral genomes and integration sites, 90% of which were not recovered by commonly used nested-PCR methods. The sequencing of individual proviral genomes with their integration sites could improve the genetic analysis of persistent HIV-infected cell reservoirs.</p>
+
+]]>
+        </content>
+    </entry>
+    
+    <entry>
+        <title>CRISPR/Cas9-Mediated Insertion of HIV Long Terminal Repeat within BACH2 Promotes Expansion of T Regulatory-like Cells.</title>
+        <link href="https://mullinslab.microbiol.washington.edu/publications/820-CRISPR-Cas9-Mediated-Insertion-of-HIV-Long-Terminal-Repeat-within-i-BACH2-i-Promotes-Expansion-of-T-Regulatory-like-Cells" rel="alternate" type="text/html" />
+        <published>2022-03-09T00:00:00-08:00</published>
+        <updated>2022-04-05T00:00:00+00:00</updated>
+        <id>urn:uuid:7f3b85b8-d075-5ba9-bae9-0ddffb15b5d4</id>
+        <author><name>Mullins Lab</name></author>
+        <content type="html">
+<![CDATA[
+<p>Christian ML, Dapp MJ, Scharffenberger SC, Jones H, Song C, Frenkel LM, Krumm A, Mullins JI, Rawlings DJ (2022). <span class="title">CRISPR/Cas9-Mediated Insertion of HIV Long Terminal Repeat within <i>BACH2</i> Promotes Expansion of T Regulatory-like Cells.</span> <cite class="journalName">Journal of immunology (Baltimore, Md. : 1950)</cite>, <span class="journalIssue">208(7)</span>, 1700-1710. (<a href="http://ncbi.nlm.nih.gov/pubmed/35264460">pubmed</a>) (<a href="https://doi.org/10.4049/jimmunol.2100491">doi</a>)</p>
+
+<h1>Abstract</h1>
+<p>One key barrier to curative therapies for HIV is the limited understanding of HIV persistence. HIV provirus integration sites (ISs) within <i>BACH2</i> are common, and almost all sites mapped to date are located upstream of the start codon in the same transcriptional orientation as the gene. These unique features suggest the possibility of insertional mutagenesis at this location. Using CRISPR/Cas9-based homology-directed repair in primary human CD4<sup>+</sup> T cells, we directly modeled the effects of HIV integration within <i>BACH2</i> Integration of the HIV long terminal repeat (LTR) and major splice donor increased BACH2 mRNA and protein levels, altered gene expression, and promoted selective outgrowth of an activated, proliferative, and T regulatory-like cell population. In contrast, introduction of the HIV-LTR alone or an HIV-LTR-major splice donor construct into <i>STAT5B,</i> a second common HIV IS, had no functional impact. Thus, HIV LTR-driven <i>BACH2</i> expression modulates T cell programming and leads to cellular outgrowth and unique phenotypic changes, findings that support a direct role for IS-dependent HIV-1 persistence.</p>
+
+]]>
+        </content>
+    </entry>
+    
+    <entry>
+        <title>HIV transmission patterns among transgender women, their cisgender male partners, and cisgender MSM in Lima, Peru: A molecular epidemiologic and phylodynamic analysis.</title>
+        <link href="https://mullinslab.microbiol.washington.edu/publications/536-HIV-transmission-patterns-among-transgender-women-their-cisgender-male-partners-and-cisgender-MSM-in-Lima-Peru-A-molecular-epidemiologic-and-phylodynamic-analysis" rel="alternate" type="text/html" />
+        <published>2021-11-17T00:00:00-08:00</published>
+        <updated>2022-03-11T00:00:00+00:00</updated>
+        <id>urn:uuid:978f9d6b-0641-5883-b01d-0d299945a60b</id>
+        <author><name>Mullins Lab</name></author>
+        <content type="html">
+<![CDATA[
+<p>Long JE, Tordoff DM, Reisner SL, Dasgupta S, Mayer KH, Mullins JI, Lama JR, Herbeck JT, Duerr A (2022). <span class="title">HIV transmission patterns among transgender women, their cisgender male partners, and cisgender MSM in Lima, Peru: A molecular epidemiologic and phylodynamic analysis.</span> <cite class="journalName">Lancet Regional Health. Americas</cite> (ePub ahead of print). (<a href="http://ncbi.nlm.nih.gov/pubmed/35178526">pubmed</a>) (<a href="https://doi.org/10.1016/j.lana.2021.100121">doi</a>)</p>
+
+<h1>Abstract</h1>
+<p>Transgender women (TW) in Peru are disproportionately affected by HIV. The role that cisgender men who have sex with TW (MSTW) and their sexual networks play in TW&rsquo;s risk of acquiring HIV is not well understood. We used HIV sequences from TW, MSTW, and cisgender men who have sex with men (MSM) to examine transmission dynamics between these groups.</p>
+
+]]>
+        </content>
+    </entry>
+    
+    <entry>
+        <title>Control of SARS-CoV-2 infection after Spike DNA or Spike DNA+Protein co-immunization in rhesus macaques.</title>
+        <link href="https://mullinslab.microbiol.washington.edu/publications/2073-Control-of-SARS-CoV-2-infection-after-Spike-DNA-or-Spike-DNA-Protein-co-immunization-in-rhesus-macaques" rel="alternate" type="text/html" />
+        <published>2021-09-01T00:00:00-07:00</published>
+        <updated>2022-03-11T00:00:00+00:00</updated>
+        <id>urn:uuid:a6253a8f-1bcf-5ec5-a2cf-f4014bca0dfb</id>
+        <author><name>Mullins Lab</name></author>
+        <content type="html">
+<![CDATA[
+<p>Rosati M, Agarwal M, Hu X, Devasundaram S, Stellas D, Chowdhury B, Bear J, Burns R, Donohue D, Pessaint L, Andersen H, Lewis MG, Terpos E, Dimopoulos MA, Wlodawer A, Mullins JI, Venzon DJ, Pavlakis GN, Felber BK (2021). <span class="title">Control of SARS-CoV-2 infection after Spike DNA or Spike DNA+Protein co-immunization in rhesus macaques.</span> <cite class="journalName">PLoS pathogens</cite>, <span class="journalIssue">17(9)</span>, e1009701. (<a href="http://ncbi.nlm.nih.gov/pubmed/34551020">pubmed</a>) (<a href="https://doi.org/10.1371/journal.ppat.1009701">doi</a>)</p>
+
+<h1>Abstract</h1>
+<p>The speed of development, versatility and efficacy of mRNA-based vaccines have been amply demonstrated in the case of SARS-CoV-2. DNA vaccines represent an important alternative since they induce both humoral and cellular immune responses in animal models and in human trials. We tested the immunogenicity and protective efficacy of DNA-based vaccine regimens expressing different prefusion-stabilized Wuhan-Hu-1 SARS-CoV-2 Spike antigens upon intramuscular injection followed by electroporation in rhesus macaques. Different Spike DNA vaccine regimens induced antibodies that potently neutralized SARS-CoV-2 in vitro and elicited robust T cell responses. The antibodies recognized and potently neutralized a panel of different Spike variants including Alpha, Delta, Epsilon, Eta and A.23.1, but to a lesser extent Beta and Gamma. The DNA-only vaccine regimens were compared to a regimen that included co-immunization of Spike DNA and protein in the same anatomical site, the latter of which showed significant higher antibody responses. All vaccine regimens led to control of SARS-CoV-2 intranasal/intratracheal challenge and absence of virus dissemination to the lower respiratory tract. Vaccine-induced binding and neutralizing antibody titers and antibody-dependent cellular phagocytosis inversely correlated with transient virus levels in the nasal mucosa. Importantly, the Spike DNA+Protein co-immunization regimen induced the highest binding and neutralizing antibodies and showed the strongest control against SARS-CoV-2 challenge in rhesus macaques.</p>
+
+]]>
+        </content>
+    </entry>
+    
+    <entry>
+        <title>A Gut Reaction to SIV and SHIV Infection: Lower Dysregulation of Mucosal T Cells during Acute Infection Is Associated with Greater Viral Suppression during cART.</title>
+        <link href="https://mullinslab.microbiol.washington.edu/publications/2522-A-Gut-Reaction-to-SIV-and-SHIV-Infection-Lower-Dysregulation-of-Mucosal-T-Cells-during-Acute-Infection-Is-Associated-with-Greater-Viral-Suppression-during-cART" rel="alternate" type="text/html" />
+        <published>2021-08-14T00:00:00-07:00</published>
+        <updated>2022-03-11T00:00:00+00:00</updated>
+        <id>urn:uuid:ec598f0f-9750-52ab-b15e-ac1972589e28</id>
+        <author><name>Mullins Lab</name></author>
+        <content type="html">
+<![CDATA[
+<p>O&#39;Connor MA, Munson PV, Dross SE, Tunggal HC, Lewis TB, Osborn J, Peterson CW, Huang MW, Moats C, Smedley J, Jerome KR, Kiem HP, Bagley KC, Mullins JI, Fuller DH (2021). <span class="title">A Gut Reaction to SIV and SHIV Infection: Lower Dysregulation of Mucosal T Cells during Acute Infection Is Associated with Greater Viral Suppression during cART.</span> <cite class="journalName">Viruses</cite> (ePub ahead of print). (<a href="http://ncbi.nlm.nih.gov/pubmed/34452474">pubmed</a>) (<a href="https://doi.org/10.3390/v13081609">doi</a>)</p>
+
+<h1>Abstract</h1>
+<p>Selection of a pre-clinical non-human primate (NHP) model is essential when evaluating therapeutic vaccine and treatment strategies for HIV. SIV and SHIV-infected NHPs exhibit a range of viral burdens, pathologies, and responses to combinatorial antiretroviral therapy (cART) regimens and the choice of the NHP model for AIDS could influence outcomes in studies investigating interventions. Previously, in rhesus macaques (RMs) we showed that maintenance of mucosal Th17/Treg homeostasis during SIV infection correlated with a better virological response to cART. Here, in RMs we compared viral kinetics and dysregulation of gut homeostasis, defined by T cell subset disruption, during highly pathogenic SIVΔB670 compared to SHIV-1157ipd3N4 infection. SHIV infection resulted in lower acute viremia and less disruption to gut CD4 T-cell homeostasis. Additionally, 24/24 SHIV-infected versus 10/19 SIV-infected animals had sustained viral suppression &lt;100 copies/mL of plasma after 5 months of cART. Significantly, the more profound viral suppression during cART in a subset of SIV and all SHIV-infected RMs corresponded with less gut immune dysregulation during acute SIV/SHIV infection, defined by maintenance of the Th17/Treg ratio. These results highlight significant differences in viral control during cART and gut dysregulation in NHP AIDS models and suggest that selection of a model may impact the evaluation of candidate therapeutic interventions for HIV treatment and cure strategies.</p>
+
+]]>
+        </content>
+    </entry>
+    
+    <entry>
+        <title>Global and Regional Estimates for Subtype-Specific Therapeutic and Prophylactic HIV-1 Vaccines: A Modeling Study.</title>
+        <link href="https://mullinslab.microbiol.washington.edu/publications/2264-Global-and-Regional-Estimates-for-Subtype-Specific-Therapeutic-and-Prophylactic-HIV-1-Vaccines-A-Modeling-Study" rel="alternate" type="text/html" />
+        <published>2021-07-15T00:00:00-07:00</published>
+        <updated>2022-03-30T00:00:00+00:00</updated>
+        <id>urn:uuid:547b6715-2464-571d-8173-774407bee697</id>
+        <author><name>Mullins Lab</name></author>
+        <content type="html">
+<![CDATA[
+<p>Elangovan R, Jenks M, Yun J, Dickson-Tetteh L, Kirtley S, Hemelaar J, WHO-UNAIDS Network for HIV Isolation and Characterisation (2021). <span class="title">Global and Regional Estimates for Subtype-Specific Therapeutic and Prophylactic HIV-1 Vaccines: A Modeling Study.</span> <cite class="journalName">Frontiers in microbiology</cite>, <span class="journalIssue">12</span>, 690647. (<a href="http://ncbi.nlm.nih.gov/pubmed/34335516">pubmed</a>) (<a href="https://doi.org/10.3389/fmicb.2021.690647">doi</a>)</p>
+
+<h1>Abstract</h1>
+<p>Global HIV-1 genetic diversity forms a major obstacle to the development of an HIV vaccine. It may be necessary to employ subtype-specific HIV-1 vaccines in individual countries according to their HIV-1 subtype distribution. We estimated the global and regional need for subtype-specific HIV-1 vaccines. We took into account the proportions of different HIV-1 variants circulating in each country, the genetic composition of HIV-1 recombinants, and the different genome segments (<i>gag</i>, <i>pol</i>, <i>env</i>) that may be incorporated into vaccines. We modeled different scenarios according to whether countries would employ subtype-specific HIV-1 vaccines against (1) the most common subtype; (2) subtypes contributing more than 5% of HIV infections; or (3) all circulating subtypes. For therapeutic vaccines targeting the most common HIV-1 subtype in each country, 16.5 million doses of subtype C vaccine were estimated globally, followed by subtypes A (14.3 million) and B (4.2 million). A vaccine based on <i>env</i> required 2.6 million subtype E doses, and a vaccine based on <i>pol</i> required 4.8 million subtype G doses. For prophylactic vaccines targeting the most common HIV-1 subtype in each country, 1.9 billion doses of subtype A vaccine were estimated globally, followed by subtype C (1.1 billion) and subtype B (1.0 billion). A vaccine based on <i>env</i> required 1.2 billion subtype E doses, and a vaccine based on <i>pol</i> required 0.3 billion subtype G doses. If subtype-specific HIV-1 vaccines are also directed against less common subtypes in each country, vaccines targeting subtypes D, F, H, and K are also needed and would require up to five times more vaccine doses in total. We conclude that to provide global coverage, subtype-specific HIV-1 vaccines need to be directed against subtypes A, B, and C. Vaccines targeting <i>env</i> also need to include subtype E and those targeting <i>pol</i> need to include subtype G.</p>
+
+]]>
+        </content>
+    </entry>
+    
+    <entry>
+        <title>RV144 vaccine imprinting constrained HIV-1 evolution following breakthrough infection.</title>
+        <link href="https://mullinslab.microbiol.washington.edu/publications/2148-RV144-vaccine-imprinting-constrained-HIV-1-evolution-following-breakthrough-infection" rel="alternate" type="text/html" />
+        <published>2021-07-09T00:00:00-07:00</published>
+        <updated>2022-03-11T00:00:00+00:00</updated>
+        <id>urn:uuid:775d29ef-1aa2-5e78-be63-5a00340286a7</id>
+        <author><name>Mullins Lab</name></author>
+        <content type="html">
+<![CDATA[
+<p>Lewitus E, Sanders-Buell E, Bose M, O&#39;Sullivan AM, Poltavee K, Li Y, Bai H, Mdluli T, Donofrio G, Slike B, Zhao H, Wong K, Chen L, Miller S, Lee J, Ahani B, Lepore S, Muhammad S, Grande R, Tran U, Dussupt V, Mendez-Rivera L, Nitayaphan S, Kaewkungwal J, Pitisuttithum P, Rerks-Ngarm S, O&#39;Connell RJ, Janes H, Gilbert PB, Gramzinski R, Vasan S, Robb ML, Michael NL, Krebs SJ, Herbeck JT, Edlefsen PT, Mullins JI, Kim JH, Tovanabutra S, Rolland M (2021). <span class="title">RV144 vaccine imprinting constrained HIV-1 evolution following breakthrough infection.</span> <cite class="journalName">Virus evolution</cite>, <span class="journalIssue">7(2)</span>, veab057. (<a href="http://ncbi.nlm.nih.gov/pubmed/34532060">pubmed</a>) (<a href="https://doi.org/10.1093/ve/veab057">doi</a>)</p>
+
+<h1>Abstract</h1>
+<p>The scale of the HIV-1 epidemic underscores the need for a vaccine. The multitude of circulating HIV-1 strains together with HIV-1&rsquo;s high evolvability hints that HIV-1 could adapt to a future vaccine. Here, we wanted to investigate the effect of vaccination on the evolution of the virus post-breakthrough infection. We analyzed 2,635 HIV-1 <i>env</i> sequences sampled up to a year post-diagnosis from 110 vaccine and placebo participants who became infected in the RV144 vaccine efficacy trial. We showed that the Env signature sites that were previously identified to distinguish vaccine and placebo participants were maintained over time. In addition, fewer sites were under diversifying selection in the vaccine group than in the placebo group. These results indicate that HIV-1 would possibly adapt to a vaccine upon its roll-out.</p>
+
+]]>
+        </content>
+    </entry>
+    
+    <entry>
+        <title>In-depth single-cell analysis of translation-competent HIV-1 reservoirs identifies cellular sources of plasma viremia.</title>
+        <link href="https://mullinslab.microbiol.washington.edu/publications/2735-In-depth-single-cell-analysis-of-translation-competent-HIV-1-reservoirs-identifies-cellular-sources-of-plasma-viremia" rel="alternate" type="text/html" />
+        <published>2021-06-17T00:00:00-07:00</published>
+        <updated>2022-03-11T00:00:00+00:00</updated>
+        <id>urn:uuid:0bdfb8e8-2b46-585e-890d-487b8b5f1bcf</id>
+        <author><name>Mullins Lab</name></author>
+        <content type="html">
+<![CDATA[
+<p>Cole B, Lambrechts L, Gantner P, Noppe Y, Bonine N, Witkowski W, Chen L, Palmer S, Mullins JI, Chomont N, Pardons M, Vandekerckhove L (2021). <span class="title">In-depth single-cell analysis of translation-competent HIV-1 reservoirs identifies cellular sources of plasma viremia.</span> <cite class="journalName">Nature communications</cite>, <span class="journalIssue">12(1)</span>, 3727. (<a href="http://ncbi.nlm.nih.gov/pubmed/34140517">pubmed</a>) (<a href="https://doi.org/10.1038/s41467-021-24080-1">doi</a>)</p>
+
+<h1>Abstract</h1>
+<p>Clonal expansion of HIV-infected cells contributes to the long-term persistence of the HIV reservoir in ART-suppressed individuals. However, the contribution from cell clones that harbor inducible proviruses to plasma viremia is poorly understood. Here, we describe a single-cell approach to simultaneously sequence the TCR, integration sites and proviral genomes from translation-competent reservoir cells, called STIP-Seq. By applying this approach to blood samples from eight participants, we show that the translation-competent reservoir mainly consists of proviruses with short deletions at the 5&#39;-end of the genome, often involving the major splice donor site. TCR and integration site sequencing reveal that cell clones with predicted pathogen-specificity can harbor inducible proviruses integrated into cancer-related genes. Furthermore, we find several matches between proviruses retrieved with STIP-Seq and plasma viruses obtained during ART and upon treatment interruption, suggesting that STIP-Seq can capture clones that are responsible for low-level viremia or viral rebound.</p>
+
+]]>
+        </content>
+    </entry>
+    
+    <entry>
+        <title>CD101 genetic variants modify regulatory and conventional T cell phenotypes and functions.</title>
+        <link href="https://mullinslab.microbiol.washington.edu/publications/666-i-CD101-i-genetic-variants-modify-regulatory-and-conventional-T-cell-phenotypes-and-functions" rel="alternate" type="text/html" />
+        <published>2021-06-15T00:00:00-07:00</published>
+        <updated>2022-03-04T00:00:00+00:00</updated>
+        <id>urn:uuid:2b14c018-d6fe-5da3-98a7-825b45c4160b</id>
+        <author><name>Mullins Lab</name></author>
+        <content type="html">
+<![CDATA[
+<p>Richert-Spuhler LE, Mar CM, Shinde P, Wu F, Hong T, Greene E, Hou S, Thomas K, Gottardo R, Mugo N, de Bruyn G, Celum C, Baeten JM, Lingappa JR, Lund JM, Partners in Prevention HSV/HIV Transmission Study, and the Partners PrEP Study Teams (2021). <span class="title"><i>CD101</i> genetic variants modify regulatory and conventional T cell phenotypes and functions.</span> <cite class="journalName">Cell reports. Medicine</cite>, <span class="journalIssue">2(6)</span>, 100322. (<a href="http://ncbi.nlm.nih.gov/pubmed/34195685">pubmed</a>) (<a href="https://doi.org/10.1016/j.xcrm.2021.100322">doi</a>)</p>
+
+<h1>Abstract</h1>
+<p>We recently reported that the risk of sexually acquired HIV-1 infection is increased significantly by variants in the gene encoding CD101, a protein thought to modify inflammatory responses. Using blood samples from individuals with and without these variants, we demonstrate that <i>CD101</i> variants modify the prevalence of circulating inflammatory cell types and show that <i>CD101</i> variants are associated with increased proinflammatory cytokine production by circulating T cells. One category of <i>CD101</i> variants is associated with a reduced capacity of regulatory T cells to suppress T cell cytokine production, resulting in a reduction in the baseline level of immune quiescence. These data are supported by transcriptomics data revealing alterations in the intrinsic regulation of antiviral pathways and HIV resistance genes in individuals with <i>CD101</i> variants. Our data support the hypothesis that CD101 contributes to homeostatic regulation of bystander inflammation, with <i>CD101</i> variants altering heterosexual HIV-1 acquisition by facilitating increased prevalence and altered function of T cell subsets.</p>
+
+]]>
+        </content>
+    </entry>
+    
+    <entry>
+        <title>Two Randomized Trials of Neutralizing Antibodies to Prevent HIV-1 Acquisition.</title>
+        <link href="https://mullinslab.microbiol.washington.edu/publications/2732-Two-Randomized-Trials-of-Neutralizing-Antibodies-to-Prevent-HIV-1-Acquisition" rel="alternate" type="text/html" />
+        <published>2021-03-18T00:00:00-07:00</published>
+        <updated>2022-04-09T00:00:00+00:00</updated>
+        <id>urn:uuid:1505690d-babf-5687-af72-81ae801ac142</id>
+        <author><name>Mullins Lab</name></author>
+        <content type="html">
+<![CDATA[
+<p>Corey L, Gilbert PB, Juraska M, Montefiori DC, Morris L, Karuna ST, Edupuganti S, Mgodi NM, deCamp AC, Rudnicki E, Huang Y, Gonzales P, Cabello R, Orrell C, Lama JR, Laher F, Lazarus EM, Sanchez J, Frank I, Hinojosa J, Sobieszczyk ME, Marshall KE, Mukwekwerere PG, Makhema J, Baden LR, Mullins JI, Williamson C, Hural J, McElrath MJ, Bentley C, Takuva S, Gomez Lorenzo MM, Burns DN, Espy N, Randhawa AK, Kochar N, Piwowar-Manning E, Donnell DJ, Sista N, Andrew P, Kublin JG, Gray G, Ledgerwood JE, Mascola JR, Cohen MS, HVTN 704/HPTN 085 and HVTN 703/HPTN 081 Study Teams (2021). <span class="title">Two Randomized Trials of Neutralizing Antibodies to Prevent HIV-1 Acquisition.</span> <cite class="journalName">The New England journal of medicine</cite>, <span class="journalIssue">384(11)</span>, 1003-1014. (<a href="http://ncbi.nlm.nih.gov/pubmed/33730454">pubmed</a>) (<a href="https://doi.org/10.1056/NEJMoa2031738">doi</a>)</p>
+
+<h1>Abstract</h1>
+<p>Whether a broadly neutralizing antibody (bnAb) can be used to prevent human immunodeficiency virus type 1 (HIV-1) acquisition is unclear.</p>
+
+]]>
+        </content>
+    </entry>
+    
+    <entry>
+        <title>Long-term Experience and Outcomes of Programmatic Antiretroviral Therapy for Human Immunodeficiency Virus Type 2 Infection in Senegal, West Africa.</title>
+        <link href="https://mullinslab.microbiol.washington.edu/publications/2783-Long-term-Experience-and-Outcomes-of-Programmatic-Antiretroviral-Therapy-for-Human-Immunodeficiency-Virus-Type-2-Infection-in-Senegal-West-Africa" rel="alternate" type="text/html" />
+        <published>2021-02-01T00:00:00-08:00</published>
+        <updated>2021-04-28T00:00:00+00:00</updated>
+        <id>urn:uuid:1d2dca64-7fae-570a-b054-31bd77482c6f</id>
+        <author><name>Mullins Lab</name></author>
+        <content type="html">
+<![CDATA[
+<p>Raugi DN, Ba S, Cisse O, Diallo K, Tamba IT, Ndour C, Badiane NMD, Fortes L, Diallo MB, Faye D, Smith RA, Sall F, Toure M, Sall EI, Diallo Agne H, Faye K, Diatta JP, Sy MP, Chang M, Diaw B, Sambou J, Bakhoum R, Sy MD, Niang A, Malomar JJ, Coombs RW, Hawes SE, Ndoye I, Kiviat NB, Sow PS, Seydi M, Gottlieb GS, University of Washington–Senegal HIV-2 Study Group (2021). <span class="title">Long-term Experience and Outcomes of Programmatic Antiretroviral Therapy for Human Immunodeficiency Virus Type 2 Infection in Senegal, West Africa.</span> <cite class="journalName">Clinical infectious diseases : an official publication of the Infectious Diseases Society of America</cite>, <span class="journalIssue">72(3)</span>, 369-378. (<a href="http://ncbi.nlm.nih.gov/pubmed/33527119">pubmed</a>) (<a href="https://doi.org/10.1093/cid/ciaa277">doi</a>)</p>
+
+<h1>Abstract</h1>
+<p>Programmatic treatment outcome data for people living with human immunodeficiency virus type 2 (HIV-2) in West Africa, where the virus is most prevalent, are scarce.</p>
+
+]]>
+        </content>
+    </entry>
+    
+    <entry>
+        <title>Intra-host changes in Kaposi sarcoma-associated herpesvirus genomes in Ugandan adults with Kaposi sarcoma.</title>
+        <link href="https://mullinslab.microbiol.washington.edu/publications/1211-Intra-host-changes-in-Kaposi-sarcoma-associated-herpesvirus-genomes-in-Ugandan-adults-with-Kaposi-sarcoma" rel="alternate" type="text/html" />
+        <published>2021-01-01T00:00:00-08:00</published>
+        <updated>2021-07-10T00:00:00+00:00</updated>
+        <id>urn:uuid:6ffd23f2-8422-5b37-8bed-b5a6aa26fec5</id>
+        <author><name>Mullins Lab</name></author>
+        <content type="html">
+<![CDATA[
+<p>Santiago JC, Goldman JD, Zhao H, Pankow AP, Okuku F, Schmitt MW, Chen LH, Hill CA, Casper C, Phipps WT, Mullins JI (2021). <span class="title">Intra-host changes in Kaposi sarcoma-associated herpesvirus genomes in Ugandan adults with Kaposi sarcoma.</span> <cite class="journalName">PLoS pathogens</cite>, <span class="journalIssue">17(1)</span>, e1008594. (<a href="http://ncbi.nlm.nih.gov/pubmed/33465147">pubmed</a>) (<a href="https://doi.org/10.1371/journal.ppat.1008594">doi</a>)</p>
+
+<h1>Abstract</h1>
+<p>Intra-host tumor virus variants may influence the pathogenesis and treatment responses of some virally-associated cancers. However, the intra-host variability of Kaposi sarcoma-associated herpesvirus (KSHV), the etiologic agent of Kaposi sarcoma (KS), has to date been explored with sequencing technologies that possibly introduce more errors than that which occurs in the viral population, and these studies have only studied variable regions. Here, full-length KSHV genomes in tumors and/or oral swabs from 9 Ugandan adults with HIV-associated KS were characterized. Furthermore, we used deep, short-read sequencing using duplex unique molecular identifiers (dUMI)-random double-stranded oligonucleotides that barcode individual DNA molecules before library amplification. This allowed suppression of PCR and sequencing errors to ~10-9/base as well as afforded accurate determination of KSHV genome numbers sequenced in each sample. KSHV genomes were assembled de novo, and rearrangements observed were confirmed by PCR and Sanger sequencing. 131-kb KSHV genome sequences, excluding major repeat regions, were successfully obtained from 23 clinical specimens, averaging 2.3x104 reads/base. Strikingly, KSHV genomes were virtually identical within individuals at the point mutational level. The intra-host heterogeneity that was observed was confined to tumor-associated KSHV mutations and genome rearrangements, all impacting protein-coding sequences. Although it is unclear whether these changes were important to tumorigenesis or occurred as a result of genomic instability in tumors, similar changes were observed across individuals. These included inactivation of the K8.1 gene in tumors of 3 individuals and retention of a region around the first major internal repeat (IR1) in all instances of genomic deletions and rearrangements. Notably, the same breakpoint junctions were found in distinct tumors within single individuals, suggesting metastatic spread of rearranged KSHV genomes. These findings define KSHV intra-host heterogeneity in vivo with greater precision than has been possible in the past and suggest the possibility that aberrant KSHV genomes may contribute to aspects of KS tumorigenesis. Furthermore, study of KSHV with use of dUMI provides a proof of concept for utilizing this technique for detailed study of other virus populations in vivo.</p>
+
+]]>
+        </content>
+    </entry>
+    
+    <entry>
+        <title>Global and regional epidemiology of HIV-1 recombinants in 1990-2015: a systematic review and global survey.</title>
+        <link href="https://mullinslab.microbiol.washington.edu/publications/771-Global-and-regional-epidemiology-of-HIV-1-recombinants-in-1990-2015-a-systematic-review-and-global-survey" rel="alternate" type="text/html" />
+        <published>2020-11-01T00:00:00-07:00</published>
+        <updated>2022-03-30T00:00:00+00:00</updated>
+        <id>urn:uuid:118811bc-7fdc-5836-a111-343cba63e79d</id>
+        <author><name>Mullins Lab</name></author>
+        <content type="html">
+<![CDATA[
+<p>Hemelaar J, Elangovan R, Yun J, Dickson-Tetteh L, Kirtley S, Gouws-Williams E, Ghys PD, WHO-UNAIDS Network for HIV Isolation and Characterisation (2020). <span class="title">Global and regional epidemiology of HIV-1 recombinants in 1990-2015: a systematic review and global survey.</span> <cite class="journalName">The lancet. HIV</cite>, <span class="journalIssue">7(11)</span>, e772-e781. (<a href="http://ncbi.nlm.nih.gov/pubmed/33128904">pubmed</a>) (<a href="https://doi.org/10.1016/S2352-3018(20)30252-6">doi</a>)</p>
+
+<h1>Abstract</h1>
+<p>Global HIV-1 genetic diversity and evolution form a major challenge to treatment and prevention efforts. An increasing number of distinct HIV-1 recombinants have been identified worldwide, but their contribution to the global epidemic is unknown. We aimed to estimate the global and regional distribution of HIV-1 recombinant forms during 1990-2015.</p>
+
+]]>
+        </content>
+    </entry>
+    
+    <entry>
+        <title>Cells producing residual viremia during antiretroviral treatment appear to contribute to rebound viremia following interruption of treatment.</title>
+        <link href="https://mullinslab.microbiol.washington.edu/publications/1779-Cells-producing-residual-viremia-during-antiretroviral-treatment-appear-to-contribute-to-rebound-viremia-following-interruption-of-treatment" rel="alternate" type="text/html" />
+        <published>2020-08-01T00:00:00-07:00</published>
+        <updated>2021-06-20T00:00:00+00:00</updated>
+        <id>urn:uuid:7528d404-af7f-5e90-9dfa-f4e6b6b95086</id>
+        <author><name>Mullins Lab</name></author>
+        <content type="html">
+<![CDATA[
+<p>Aamer HA, McClure J, Ko D, Maenza J, Collier AC, Coombs RW, Mullins JI, Frenkel LM (2020). <span class="title">Cells producing residual viremia during antiretroviral treatment appear to contribute to rebound viremia following interruption of treatment.</span> <cite class="journalName">PLoS pathogens</cite>, <span class="journalIssue">16(8)</span>, e1008791. (<a href="http://ncbi.nlm.nih.gov/pubmed/32841299">pubmed</a>) (<a href="https://doi.org/10.1371/journal.ppat.1008791">doi</a>)</p>
+
+<h1>Abstract</h1>
+<p>During antiretroviral therapy (ART) that suppresses HIV replication to below the limit-of-quantification, virions produced during ART can be detected at low frequencies in the plasma, termed residual viremia (RV). We hypothesized that a reservoir of HIV-infected cells actively produce and release virions during ART that are potentially infectious, and that following ART-interruption, these virions can complete full-cycles of replication and contribute to rebound viremia. Therefore, we studied the dynamics of RV sequence variants in 3 participants who initiated ART after ~3 years of infection and were ART-suppressed for &gt;6 years prior to self-initiated ART-interruptions. Longitudinal RV C2V5env sequences were compared to sequences from pre-ART plasma, supernatants of quantitative viral outgrowth assays (QVOA) of cells collected during ART, post-ART-interruption plasma, and ART-re-suppression plasma. Identical, &ldquo;putatively clonal,&rdquo; RV sequences comprised 8-84% of sequences from each timepoint. The majority of RV sequences were genetically similar to those from plasma collected just prior to ART-initiation, but as the duration of ART-suppression increased, an increasing proportion of RV variants were similar to sequences from earlier in infection. Identical sequences were detected in RV over a median of 3 years (range: 0.3-8.2) of ART-suppression. RV sequences were identical to pre-ART plasma viruses (5%), infectious viruses induced in QVOA (4%) and rebound viruses (5%) (total n = 21/154 (14%) across the 3 participants). RV sequences identical to ART-interruption &ldquo;rebound&rdquo; sequences were detected 0.1-7.4 years prior to ART-interruption. RV variant prevalence and persistence were not associated with detection of the variant among rebound sequences. Shortly after ART-re-suppression, variants that had been replicating during ART-interruptions were detected as RV (n = 5). These studies show a dynamic, virion-producing HIV reservoir that contributes to rekindling infection upon ART-interruption. The persistence of identical RV variants over years suggests that a subpopulation of HIV-infected clones frequently or continuously produce virions that may resist immune clearance; this suggests that cure strategies should target this active as well as latent reservoirs.</p>
+
+]]>
+        </content>
+    </entry>
+    
+
+    
+</feed>

@@ -1,0 +1,56 @@
+@import url('../style.css');
+
+article a.inset {
+    float: right;
+    padding: 0.5ex 1ex;
+    margin-top: 0.25ex;
+    margin-right: -12px;
+    margin-left: 1em;
+    background: #ffd;
+    border: solid black 1px;
+    border-right: none;
+    border-radius: 1em 0 0 1em;
+    color: #700;
+}
+
+a.supplemental {
+    display: block;
+    float: right;
+    margin-left: 1em;
+}
+
+a.abstract {
+    font-size: small;
+    font-style: italic;
+}
+
+article .no-p {
+    margin: 1ex 0;
+    text-align: justify;
+    hyphens: auto;
+}
+article .no-p p { display: inline; }
+
+#content div.item {
+    clear: right;
+    margin-bottom: 1ex;
+    padding-bottom: 1ex;
+    border-bottom: solid black 1px;
+}
+
+table {
+    border-collapse: collapse;
+    margin: 1em 0;
+    border: solid black 2px;
+}
+
+table th {
+    border: solid black 2px;
+    background: #ffe;
+    padding: .1ex 1ex;
+}
+
+table td {
+    border: solid black 1px;
+    padding: .1ex 1ex;
+}
